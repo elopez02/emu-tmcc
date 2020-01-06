@@ -1,0 +1,38 @@
+[
+ {
+   "value": "1",
+   "label": "NO APLICA"
+ },
+ {
+   "value": "2",
+   "label": "PRESTAMOS"
+ },
+ {
+   "value": "3",
+   "label": "EXPORTACION"
+ },
+ {
+   "value": "4",
+   "label": "PAGO SERVICIOS"
+ },
+ {
+   "value": "5",
+   "label": "INVERSION"
+ },
+ {
+   "value": "6",
+   "label": "IMPORTACION"
+ },
+ {
+   "value": "7",
+   "label": "HERENCIA"
+ },
+ {
+   "value": "8",
+   "label": "Indemnizacion de Seguros"
+ },
+ {
+   "value": "9",
+   "label": "Pensión"
+ }
+]

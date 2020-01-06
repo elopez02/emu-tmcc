@@ -1,0 +1,192 @@
+
+/**
+* Modules - forms - form group
+*/
+
+.formGroup
+{
+	width: 100%;
+	margin-bottom: em(18);
+	&__label
+	{
+		font-weight: 600;
+		font-size: em(11);
+		padding: 0;
+		margin: 0;
+		margin-bottom: em(11);
+		@include prefix((
+			box-sizing: border-box,
+	 		appearance: none,
+	 		display: flex,
+	 		justify-content: space-between,
+	 		align-items: center,
+	    ), webkit moz o ms);
+	}
+	&__input
+	{
+		width: 100%;
+		background-color: $color__background--main;
+		border: solid 1px $color__background--main;
+		box-shadow: none;
+		outline: none;
+		height: em(60) !important;
+		padding: 0 em(21) !important;
+		font-size: em(12) !important;
+		border-radius: 5px;
+		color: $color__text--light;
+		&:hover
+		{
+			border-color: rgba($color__text--dark, 0.3);
+		}
+		&:focus
+		{
+			border-color: rgba($color__text--dark, 0.3);
+		}
+		&:disabled
+		{
+			background-color: rgba($color__lightgray, 0.2);
+			border-color: rgba($color__text--dark, 0.2);
+			cursor: no-drop;
+			color: rgba($color__text--dark, 0.5);
+			::placeholder 
+			{ /* Chrome, Firefox, Opera, Safari 10.1+ */
+				color: red;
+				opacity: 1; /* Firefox */
+			}
+			:-ms-input-placeholder 
+			{ /* Internet Explorer 10-11 */
+				color: red;
+			}
+			::-ms-input-placeholder 
+			{ /* Microsoft Edge */
+				color: red;
+			}
+		}
+		@include prefix((
+			box-sizing: border-box,
+	 		appearance: none,
+	 		display: flex,
+	 		justify-content: flex-start,
+	 		align-items: center,
+	 		transition: ease all 0.3s
+	    ), webkit moz o ms);
+	    &--select
+	    {
+	    	background-image: url(../img/layout/arrow_select.svg);
+	    	background-size: em(35) em(20);
+	    	background-position: center right;
+	    	background-repeat: no-repeat;
+	    	cursor: pointer;
+	    }
+	}
+	&__flexRow
+	{
+		width: 100%;
+		@include prefix((
+			box-sizing: border-box,
+	 		appearance: none,
+	 		display: flex,
+	 		justify-content: space-arround,
+			align-items: center,
+		), webkit moz o ms);
+		&--fs
+		{
+			@include prefix((
+				justify-content: flex-start !important,
+				flex-wrap: wrap,
+			), webkit moz o ms);
+		}
+	    &__separator
+	    {
+	    	height: 100%;
+	    	font-weight: 500;
+	    	font-size: 0.9em;
+	    	@include prefix((
+				box-sizing: border-box,
+		 		display: flex,
+		 		justify-content: center,
+		 		align-items: center,
+		    ), webkit moz o ms);
+		    @include media(sm)
+	    	{
+	    		font-size: 1em;
+	    		margin-right: em(15);
+	    	}
+		    @include media(md)
+	    	{
+	    		font-size: 1em;
+	    		margin-right: em(15);
+	    	}
+		    @include media(lg)
+	    	{
+	    		font-size: 1em;
+	    		margin-right: em(10);
+	    	}
+	    }
+	    &__child
+	    {
+	    	width: em(70);
+	    	&:first-child
+	    	{
+	    		margin-right: em(3);
+				width: 100%;
+	    	}
+	    	@include media(sm)
+	    	{
+	    		margin: 0 em(15) 0 0;
+		    	width: em(110);
+		    	&:first-child
+		    	{
+		    		width: 100%;
+		    		margin-right: em(15);
+		    	}
+		    	&:last-child
+		    	{
+		    		margin-right: 0;
+		    	}
+	    	}
+	    	@include media(md)
+	    	{
+	    		margin: 0 em(15) 0 0;
+		    	width: em(110);
+		    	&:first-child
+		    	{
+		    		width: 100%;
+		    		margin-right: em(15);
+		    	}
+		    	&:last-child
+		    	{
+		    		margin-right: 0;
+		    	}
+	    	}
+	    	@include media(lg)
+	    	{
+	    		margin: 0 em(10) 0 0;
+		    	width: em(85);
+		    	&:first-child
+		    	{
+		    		width: 100%;
+		    		margin-right: em(10);
+		    	}
+		    	&:last-child
+		    	{
+		    		margin-right: 0;
+		    	}
+	    	}
+	    }
+	}
+}
+
+::placeholder 
+{ /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: $color__text--light;
+	opacity: 1; /* Firefox */
+}
+:-ms-input-placeholder 
+{ /* Internet Explorer 10-11 */
+	color: $color__text--light;
+}
+::-ms-input-placeholder 
+{ /* Microsoft Edge */
+	color: $color__text--light;
+}

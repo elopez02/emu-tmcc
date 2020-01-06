@@ -1,0 +1,170 @@
+[
+ {
+   "value": "001",
+   "label": "COMERCIANTE"
+ },
+ {
+   "value": "002",
+   "label": "PERITO MERCANTIL Y C.P."
+ },
+ {
+   "value": "003",
+   "label": "BACHILLER"
+ },
+ {
+   "value": "004",
+   "label": "MAESTRO"
+ },
+ {
+   "value": "005",
+   "label": "SECRETARIA"
+ },
+ {
+   "value": "006",
+   "label": "LICENCIADO"
+ },
+ {
+   "value": "007",
+   "label": "MEDICO"
+ },
+ {
+   "value": "008",
+   "label": "INGENIERO"
+ },
+ {
+   "value": "009",
+   "label": "ARQUITECTO"
+ },
+ {
+   "value": "010",
+   "label": "ABOGADO"
+ },
+ {
+   "value": "011",
+   "label": "EMPRESARIO"
+ },
+ {
+   "value": "012",
+   "label": "AMA DE CASA"
+ },
+ {
+   "value": "013",
+   "label": "TECNICO"
+ },
+ {
+   "value": "014",
+   "label": "ESTUDIANTE"
+ },
+ {
+   "value": "015",
+   "label": "PERIODISTA"
+ },
+ {
+   "value": "016",
+   "label": "ATLETA (DEPORTISTA)"
+ },
+ {
+   "value": "017",
+   "label": "ENFERMERA"
+ },
+ {
+   "value": "018",
+   "label": "MILITAR"
+ },
+ {
+   "value": "019",
+   "label": "GUARDIA DE SEGURIDAD"
+ },
+ {
+   "value": "020",
+   "label": "ARTISTA"
+ },
+ {
+   "value": "021",
+   "label": "DOCTOR"
+ },
+ {
+   "value": "022",
+   "label": "OFICIOS VARIOS"
+ },
+ {
+   "value": "023",
+   "label": "PILOTO"
+ },
+ {
+   "value": "024",
+   "label": "VISITADOR (A) MEDICO"
+ },
+ {
+   "value": "025",
+   "label": "AGRICULTOR"
+ },
+ {
+   "value": "026",
+   "label": "ARTESANO"
+ },
+ {
+   "value": "027",
+   "label": "EMPLEADO PUBLICO"
+ },
+ {
+   "value": "028",
+   "label": "GANADERO"
+ },
+ {
+   "value": "029",
+   "label": "JORNALERO"
+ },
+ {
+   "value": "030",
+   "label": "JUBILADO"
+ },
+ {
+   "value": "031",
+   "label": "MARINO"
+ },
+ {
+   "value": "032",
+   "label": "POLICIA"
+ },
+ {
+   "value": "033",
+   "label": "POLITICO"
+ },
+ {
+   "value": "034",
+   "label": "PROFESIONAL ESPECIALISTA"
+ },
+ {
+   "value": "035",
+   "label": "RELIGIOSO"
+ },
+ {
+   "value": "036",
+   "label": "AGRUPACION GREMIAL"
+ },
+ {
+   "value": "037",
+   "label": "AGRUPACION SINDICAL"
+ },
+ {
+   "value": "038",
+   "label": "S. DE R.L."
+ },
+ {
+   "value": "039",
+   "label": "SOCIEDAD ANONIMA"
+ },
+ {
+   "value": "040",
+   "label": "AGRUP.RELIG.EDUC.CULT.COMUNAL"
+ },
+ {
+   "value": "041",
+   "label": "ADMINISTRADOR DE NEGOCIOS"
+ },
+ {
+   "value": "042",
+   "label": "OTROS"
+ }
+]

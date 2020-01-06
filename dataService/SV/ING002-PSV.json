@@ -1,0 +1,11 @@
+[
+    {
+        "label": "Documento Único de Identidad",
+        "value": "DUI",
+        "code": "DUI"
+    }, {
+        "label": "Pasaporte",
+        "value": "PASA",
+        "code": "PASA"
+    }
+]

@@ -1,0 +1,98 @@
+
+/**
+ * Layout - Footer
+ */
+ 
+.footer
+{
+    width: 100%;
+    background-color: $color__background--footer;
+    padding: em(18);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    @include prefix((
+    	box-sizing: border-box,
+        display: flex,
+        justify-content: space-between,
+        align-items: center, 
+    ), webkit moz o ms);
+    &__brand
+    {
+    	width: em(170);
+    	height: em(28);
+    	@include prefix((
+	        display: flex,
+	        justify-content: center,
+	        align-items: center, 
+	    ), webkit moz o ms);
+	    img
+	    {
+	    	width: 100%;
+	    }
+	    &--allied
+	    {
+	    	width: em(60);
+	    	img
+		    {
+		    	width: auto !important;
+		    	height: em(28);
+		    }
+	    }
+    }
+    @include media(md)
+    {
+    	padding: em(15) em(63);
+    	&__brand
+	    {
+	    	width: em(250);
+	    	height: em(40);
+	    	@include prefix((
+		        display: flex,
+		        justify-content: center,
+		        align-items: center, 
+		    ), webkit moz o ms);
+		    img
+		    {
+		    	width: 100%;
+		    }
+		    &--allied
+		    {
+		    	width: em(85);
+		    	img
+			    {
+			    	width: auto !important;
+			    	height: em(31);
+			    }
+		    }
+	    }
+    }
+     @include media(lg)
+    {
+    	padding: 0 em(64);
+		height: 7vh;
+    	&__brand
+	    {
+	    	width: em(250);
+	    	height: em(40);
+	    	@include prefix((
+		        display: flex,
+		        justify-content: center,
+		        align-items: center, 
+		    ), webkit moz o ms);
+		    img
+		    {
+		    	width: 100%;
+		    }
+		    &--allied
+		    {
+		    	width: em(85);
+		    	img
+			    {
+			    	width: auto !important;
+			    	height: em(31);
+			    }
+		    }
+	    }
+    }
+}

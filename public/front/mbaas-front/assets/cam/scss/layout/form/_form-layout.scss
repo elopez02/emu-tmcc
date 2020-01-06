@@ -1,0 +1,72 @@
+
+/**
+* Modules - forms - Layout
+*/
+
+.formContainer
+{
+	width: 100%;
+	display: block;
+	@include prefix((
+		box-sizing: border-box,		 
+    ), webkit moz o ms);
+	// En estos dos mediaquerys incluyes la sombra de la esquina, le inluyes sombras, destellos y lo que lleve el diseño
+	@include media(lg){
+		padding: em(32) 0;
+		border: solid 1px $color__lightgray;
+		padding: em(35) em(40);
+		background-image: url(/assets/cam/img/layout/curve_bg.png);
+		background-position: right bottom;
+		background-repeat: no-repeat;
+		background-color: rgba($color__lightgray, 0.04);
+		border-radius: em(42);
+		@include prefix((
+			box-shadow: 0 0 em(8) rgba($color__text--light, 0.17)	 
+		), webkit moz o ms);
+	}
+	&__columnContainer
+	{
+		margin: em(40) 0;
+		@include prefix((
+			box-sizing: border-box,
+			display: flex,
+			justify-content: space-around,
+			align-items: flex-start,
+			flex-direction: column
+		), webkit moz o ms);
+		@include media(md){
+			@include prefix((
+				flex-direction: row,
+				flex-wrap: wrap
+			), webkit moz o ms);
+		}
+		@include media(lg){
+			@include prefix((
+				flex-direction: row,
+				flex-wrap: wrap
+			), webkit moz o ms);
+		}
+		.formColumn
+		{
+			width: 100%;
+			margin: 0;
+			padding: 0;
+			@include media(md){
+				width: 45%;
+			}
+			@include media(lg){
+				width: 35%;
+			}
+			&--full
+			{
+				width: 100% !important;
+			}
+		}
+	}
+	&__buttonContainer
+	{
+		width: 100%;
+		margin: em(40) 0;
+		display: block;
+	}
+}

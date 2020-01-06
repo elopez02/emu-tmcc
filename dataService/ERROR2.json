@@ -1,0 +1,8 @@
+{
+    "buttons": [{
+        "callback": "https://www.google.com.mx",
+        "buttonText": "Continuar sdfsdf"
+    }],
+    "title": "ERRORRRR",
+    "message": "ALGO SUCEDIO!!!!"
+}

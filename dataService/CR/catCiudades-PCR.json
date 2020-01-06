@@ -1,0 +1,2209 @@
+[{
+	"ICD": "2:205",
+	"codigo": "1",
+	"nombre": "Atenas"
+}, {
+	"codigo": "5",
+	"nombre": "Concepcion",
+	"ICD": "2:205"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "2:205",
+	"codigo": "99"
+}, {
+	"codigo": "2",
+	"nombre": "Jesus",
+	"ICD": "2:205"
+}, {
+	"codigo": "3",
+	"nombre": "Mercedes",
+	"ICD": "2:205"
+}, {
+	"codigo": "4",
+	"nombre": "San Isidro",
+	"ICD": "2:205"
+}, {
+	"ICD": "2:205",
+	"codigo": "6",
+	"nombre": "San Jose"
+}, {
+	"codigo": "7",
+	"nombre": "Santa Eulalia",
+	"ICD": "2:205"
+}, {
+	"codigo": "1",
+	"nombre": "Alajuela",
+	"ICD": "2:201"
+}, {
+	"nombre": "Carrizal",
+	"ICD": "2:201",
+	"codigo": "3"
+}, {
+	"ICD": "2:201",
+	"codigo": "10",
+	"nombre": "Desamparados"
+}, {
+	"ICD": "2:201",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "5",
+	"nombre": "LA GUACIMA",
+	"ICD": "2:201"
+}, {
+	"codigo": "13",
+	"nombre": "La Garita",
+	"ICD": "2:201"
+}, {
+	"codigo": "9",
+	"nombre": "Rio Segundo",
+	"ICD": "2:201"
+}, {
+	"codigo": "7",
+	"nombre": "Sabanilla",
+	"ICD": "2:201"
+}, {
+	"nombre": "San Antonio",
+	"ICD": "2:201",
+	"codigo": "4"
+}, {
+	"ICD": "2:201",
+	"codigo": "6",
+	"nombre": "San Isidro"
+}, {
+	"codigo": "2",
+	"nombre": "San Jose",
+	"ICD": "2:201"
+}, {
+	"codigo": "8",
+	"nombre": "San Rafael",
+	"ICD": "2:201"
+}, {
+	"ICD": "2:201",
+	"codigo": "14",
+	"nombre": "Sarapiqui"
+}, {
+	"ICD": "2:201",
+	"codigo": "15",
+	"nombre": "TURRUCARES"
+}, {
+	"ICD": "2:201",
+	"codigo": "12",
+	"nombre": "Tambor"
+}, {
+	"nombre": "Turrubares",
+	"ICD": "2:201",
+	"codigo": "11"
+}, {
+	"nombre": "Bolivar",
+	"ICD": "2:203",
+	"codigo": "8"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "2:203"
+}, {
+	"codigo": "1",
+	"nombre": "Grecia",
+	"ICD": "2:203"
+}, {
+	"codigo": "7",
+	"nombre": "Puente de Piedra",
+	"ICD": "2:203"
+}, {
+	"ICD": "2:203",
+	"codigo": "6",
+	"nombre": "Rio Cuarto"
+}, {
+	"codigo": "2",
+	"nombre": "San Isidro",
+	"ICD": "2:203"
+}, {
+	"codigo": "3",
+	"nombre": "San Jose",
+	"ICD": "2:203"
+}, {
+	"codigo": "4",
+	"nombre": "San Roque",
+	"ICD": "2:203"
+}, {
+	"codigo": "5",
+	"nombre": "Tacares",
+	"ICD": "2:203"
+}, {
+	"codigo": "2",
+	"nombre": "Buena Vista",
+	"ICD": "2:215"
+}, {
+	"codigo": "3",
+	"nombre": "Cote",
+	"ICD": "2:215"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "2:215"
+}, {
+	"ICD": "2:215",
+	"codigo": "1",
+	"nombre": "San Rafael"
+}, {
+	"codigo": "2",
+	"nombre": "Ca?o Negro",
+	"ICD": "2:214"
+}, {
+	"ICD": "2:214",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "3",
+	"nombre": "El Amparo",
+	"ICD": "2:214"
+}, {
+	"codigo": "1",
+	"nombre": "Los Chiles",
+	"ICD": "2:214"
+}, {
+	"codigo": "4",
+	"nombre": "San Jorge",
+	"ICD": "2:214"
+}, {
+	"codigo": "4",
+	"nombre": "Cirri Sur",
+	"ICD": "2:206"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "2:206"
+}, {
+	"codigo": "1",
+	"nombre": "Naranjo",
+	"ICD": "2:206"
+}, {
+	"codigo": "7",
+	"nombre": "Rosario",
+	"ICD": "2:206"
+}, {
+	"nombre": "San Jeronimo",
+	"ICD": "2:206",
+	"codigo": "5"
+}, {
+	"codigo": "3",
+	"nombre": "San Jose",
+	"ICD": "2:206"
+}, {
+	"ICD": "2:206",
+	"codigo": "6",
+	"nombre": "San Juan"
+}, {
+	"codigo": "2",
+	"nombre": "San Miguel",
+	"ICD": "2:206"
+}, {
+	"ICD": "2:209",
+	"codigo": "5",
+	"nombre": "Ceiba"
+}, {
+	"codigo": "4",
+	"nombre": "Coyolar",
+	"ICD": "2:209"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "2:209"
+}, {
+	"codigo": "3",
+	"nombre": "Hacienda",
+	"ICD": "2:209"
+}, {
+	"nombre": "Mastate",
+	"ICD": "2:209",
+	"codigo": "2"
+}, {
+	"nombre": "Orotina",
+	"ICD": "2:209",
+	"codigo": "1"
+}, {
+	"nombre": "Buenos Aires",
+	"ICD": "2:207",
+	"codigo": "3"
+}, {
+	"nombre": "Candelaria",
+	"ICD": "2:207",
+	"codigo": "5"
+}, {
+	"ICD": "2:207",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "6",
+	"nombre": "Esquipulas",
+	"ICD": "2:207"
+}, {
+	"nombre": "Granja",
+	"ICD": "2:207",
+	"codigo": "7"
+}, {
+	"nombre": "Palmares",
+	"ICD": "2:207",
+	"codigo": "1"
+}, {
+	"codigo": "4",
+	"nombre": "Santiago",
+	"ICD": "2:207"
+}, {
+	"nombre": "Zaragoza",
+	"ICD": "2:207",
+	"codigo": "2"
+}, {
+	"codigo": "4",
+	"nombre": "Carrillos",
+	"ICD": "2:208"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "2:208"
+}, {
+	"nombre": "POAS",
+	"ICD": "2:208",
+	"codigo": "6"
+}, {
+	"ICD": "2:208",
+	"codigo": "5",
+	"nombre": "Sabana Redonda"
+}, {
+	"nombre": "San Juan",
+	"ICD": "2:208",
+	"codigo": "2"
+}, {
+	"codigo": "1",
+	"nombre": "San Pedro",
+	"ICD": "2:208"
+}, {
+	"codigo": "3",
+	"nombre": "San Rafael",
+	"ICD": "2:208"
+}, {
+	"nombre": "Aguas Zarcas",
+	"ICD": "2:210",
+	"codigo": "4"
+}, {
+	"nombre": "Buena Vista",
+	"ICD": "2:210",
+	"codigo": "3"
+}, {
+	"ICD": "2:210",
+	"codigo": "1",
+	"nombre": "Ciudad Quesada"
+}, {
+	"codigo": "11",
+	"nombre": "Cutris",
+	"ICD": "2:210"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "2:210",
+	"codigo": "99"
+}, {
+	"ICD": "2:210",
+	"codigo": "2",
+	"nombre": "Florencia"
+}, {
+	"codigo": "7",
+	"nombre": "Fortuna",
+	"ICD": "2:210"
+}, {
+	"codigo": "12",
+	"nombre": "Monterrey",
+	"ICD": "2:210"
+}, {
+	"nombre": "Palmera",
+	"ICD": "2:210",
+	"codigo": "9"
+}, {
+	"codigo": "6",
+	"nombre": "Pital",
+	"ICD": "2:210"
+}, {
+	"ICD": "2:210",
+	"codigo": "13",
+	"nombre": "Pocosol"
+}, {
+	"codigo": "8",
+	"nombre": "Tigra",
+	"ICD": "2:210"
+}, {
+	"codigo": "10",
+	"nombre": "Venado",
+	"ICD": "2:210"
+}, {
+	"nombre": "Venecia",
+	"ICD": "2:210",
+	"codigo": "5"
+}, {
+	"codigo": "2",
+	"nombre": "Desmonte",
+	"ICD": "2:204"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "2:204"
+}, {
+	"nombre": "Jesus Maria",
+	"ICD": "2:204",
+	"codigo": "3"
+}, {
+	"codigo": "1",
+	"nombre": "San Mateo",
+	"ICD": "2:204"
+}, {
+	"nombre": "Alfaro",
+	"ICD": "2:202",
+	"codigo": "9"
+}, {
+	"ICD": "2:202",
+	"codigo": "8",
+	"nombre": "Angeles"
+}, {
+	"ICD": "2:202",
+	"codigo": "11",
+	"nombre": "Concepcion"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "2:202",
+	"codigo": "99"
+}, {
+	"nombre": "Pe?as Blancas",
+	"ICD": "2:202",
+	"codigo": "13"
+}, {
+	"codigo": "4",
+	"nombre": "Piedades Norte",
+	"ICD": "2:202"
+}, {
+	"codigo": "5",
+	"nombre": "Piedades Sur",
+	"ICD": "2:202"
+}, {
+	"ICD": "2:202",
+	"codigo": "7",
+	"nombre": "San Isidro"
+}, {
+	"nombre": "San Juan",
+	"ICD": "2:202",
+	"codigo": "3"
+}, {
+	"codigo": "6",
+	"nombre": "San Rafael",
+	"ICD": "2:202"
+}, {
+	"codigo": "1",
+	"nombre": "San Ramon",
+	"ICD": "2:202"
+}, {
+	"codigo": "2",
+	"nombre": "Santiago",
+	"ICD": "2:202"
+}, {
+	"codigo": "10",
+	"nombre": "Volio",
+	"ICD": "2:202"
+}, {
+	"ICD": "2:202",
+	"codigo": "12",
+	"nombre": "Zapotal"
+}, {
+	"codigo": "2",
+	"nombre": "Aguas Claras",
+	"ICD": "2:213"
+}, {
+	"ICD": "2:213",
+	"codigo": "4",
+	"nombre": "Bijagua"
+}, {
+	"codigo": "5",
+	"nombre": "Delicias",
+	"ICD": "2:213"
+}, {
+	"ICD": "2:213",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "6",
+	"nombre": "Dos Rios",
+	"ICD": "2:213"
+}, {
+	"codigo": "3",
+	"nombre": "San Jose o Pizote",
+	"ICD": "2:213"
+}, {
+	"codigo": "1",
+	"nombre": "Upala",
+	"ICD": "2:213"
+}, {
+	"ICD": "2:213",
+	"codigo": "7",
+	"nombre": "Yolillal"
+}, {
+	"ICD": "2:212",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"ICD": "2:212",
+	"codigo": "5",
+	"nombre": "Rodriguez"
+}, {
+	"codigo": "4",
+	"nombre": "San Pedro",
+	"ICD": "2:212"
+}, {
+	"codigo": "1",
+	"nombre": "Sarchi Norte",
+	"ICD": "2:212"
+}, {
+	"codigo": "2",
+	"nombre": "Sarchi Sur",
+	"ICD": "2:212"
+}, {
+	"codigo": "3",
+	"nombre": "Toro Amarillo",
+	"ICD": "2:212"
+}, {
+	"ICD": "2:211",
+	"codigo": "7",
+	"nombre": "BRISAS"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "2:211"
+}, {
+	"ICD": "2:211",
+	"codigo": "4",
+	"nombre": "Guadalupe"
+}, {
+	"ICD": "2:211",
+	"codigo": "2",
+	"nombre": "Laguna"
+}, {
+	"codigo": "5",
+	"nombre": "Palmira",
+	"ICD": "2:211"
+}, {
+	"codigo": "3",
+	"nombre": "Tapezco",
+	"ICD": "2:211"
+}, {
+	"nombre": "Zapote",
+	"ICD": "2:211",
+	"codigo": "6"
+}, {
+	"ICD": "2:211",
+	"codigo": "1",
+	"nombre": "Zarcero"
+}, {
+	"codigo": "3",
+	"nombre": "Capellades",
+	"ICD": "3:306"
+}, {
+	"codigo": "2",
+	"nombre": "Cervantes",
+	"ICD": "3:306"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "3:306",
+	"codigo": "99"
+}, {
+	"codigo": "1",
+	"nombre": "Pacayas",
+	"ICD": "3:306"
+}, {
+	"nombre": "Aguacaliente",
+	"ICD": "3:301",
+	"codigo": "5"
+}, {
+	"codigo": "3",
+	"nombre": "Carmen",
+	"ICD": "3:301"
+}, {
+	"codigo": "7",
+	"nombre": "Corralillo",
+	"ICD": "3:301"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "3:301"
+}, {
+	"codigo": "9",
+	"nombre": "Dulce Nombre",
+	"ICD": "3:301"
+}, {
+	"nombre": "Guadalupe o Arenilla",
+	"ICD": "3:301",
+	"codigo": "6"
+}, {
+	"codigo": "10",
+	"nombre": "Llano Grande",
+	"ICD": "3:301"
+}, {
+	"ICD": "3:301",
+	"codigo": "2",
+	"nombre": "Occidental"
+}, {
+	"ICD": "3:301",
+	"codigo": "1",
+	"nombre": "Oriental"
+}, {
+	"codigo": "11",
+	"nombre": "Quebradilla",
+	"ICD": "3:301"
+}, {
+	"codigo": "4",
+	"nombre": "San Nicolas",
+	"ICD": "3:301"
+}, {
+	"nombre": "Tierra Blanca",
+	"ICD": "3:301",
+	"codigo": "8"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "3:308",
+	"codigo": "99"
+}, {
+	"ICD": "3:308",
+	"codigo": "4",
+	"nombre": "Patio de agua"
+}, {
+	"nombre": "San Isidro",
+	"ICD": "3:308",
+	"codigo": "2"
+}, {
+	"codigo": "1",
+	"nombre": "Tejar",
+	"ICD": "3:308"
+}, {
+	"codigo": "3",
+	"nombre": "Tobosi",
+	"ICD": "3:308"
+}, {
+	"ICD": "3:304",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "1",
+	"nombre": "JUAN VIÑAS",
+	"ICD": "3:304"
+}, {
+	"codigo": "3",
+	"nombre": "Pejibaye",
+	"ICD": "3:304"
+}, {
+	"codigo": "2",
+	"nombre": "Tucurrique",
+	"ICD": "3:304"
+}, {
+	"nombre": "Concepcion",
+	"ICD": "3:303",
+	"codigo": "5"
+}, {
+	"ICD": "3:303",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"ICD": "3:303",
+	"codigo": "6",
+	"nombre": "Dulce Nombre"
+}, {
+	"codigo": "9",
+	"nombre": "LINDA VISTA",
+	"ICD": "3:303"
+}, {
+	"codigo": "8",
+	"nombre": "Rio Azul",
+	"ICD": "3:303"
+}, {
+	"ICD": "3:303",
+	"codigo": "2",
+	"nombre": "San Diego"
+}, {
+	"nombre": "San Juan",
+	"ICD": "3:303",
+	"codigo": "3"
+}, {
+	"nombre": "San Rafael",
+	"ICD": "3:303",
+	"codigo": "4"
+}, {
+	"nombre": "San Ramon",
+	"ICD": "3:303",
+	"codigo": "7"
+}, {
+	"codigo": "1",
+	"nombre": "Tres Rios",
+	"ICD": "3:303"
+}, {
+	"codigo": "4",
+	"nombre": "Cipreses",
+	"ICD": "3:307"
+}, {
+	"nombre": "Cot",
+	"ICD": "3:307",
+	"codigo": "2"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "3:307"
+}, {
+	"codigo": "6",
+	"nombre": "EL CARMEN",
+	"ICD": "3:307"
+}, {
+	"ICD": "3:307",
+	"codigo": "3",
+	"nombre": "Potrero Cerrado"
+}, {
+	"nombre": "San Rafael",
+	"ICD": "3:307",
+	"codigo": "1"
+}, {
+	"codigo": "5",
+	"nombre": "Santa Rosa",
+	"ICD": "3:307"
+}, {
+	"ICD": "3:302",
+	"codigo": "4",
+	"nombre": "Cachi"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "3:302"
+}, {
+	"codigo": "5",
+	"nombre": "LLANOS DE SANTA LUCIA",
+	"ICD": "3:302"
+}, {
+	"codigo": "3",
+	"nombre": "Orosi",
+	"ICD": "3:302"
+}, {
+	"ICD": "3:302",
+	"codigo": "1",
+	"nombre": "Paraiso"
+}, {
+	"ICD": "3:302",
+	"codigo": "2",
+	"nombre": "Santiago"
+}, {
+	"ICD": "3:305",
+	"codigo": "12",
+	"nombre": "CHIRRIPO"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "3:305",
+	"codigo": "99"
+}, {
+	"codigo": "11",
+	"nombre": "LA ISABEL",
+	"ICD": "3:305"
+}, {
+	"nombre": "La Suiza",
+	"ICD": "3:305",
+	"codigo": "2"
+}, {
+	"codigo": "6",
+	"nombre": "Pavones",
+	"ICD": "3:305"
+}, {
+	"ICD": "3:305",
+	"codigo": "3",
+	"nombre": "Peralta"
+}, {
+	"nombre": "Santa Cruz",
+	"ICD": "3:305",
+	"codigo": "4"
+}, {
+	"ICD": "3:305",
+	"codigo": "9",
+	"nombre": "Santa Rosa"
+}, {
+	"codigo": "5",
+	"nombre": "Santa Teresita",
+	"ICD": "3:305"
+}, {
+	"codigo": "8",
+	"nombre": "Tayutic",
+	"ICD": "3:305"
+}, {
+	"codigo": "10",
+	"nombre": "Tres Equiz",
+	"ICD": "3:305"
+}, {
+	"nombre": "Tuis",
+	"ICD": "3:305",
+	"codigo": "7"
+}, {
+	"codigo": "1",
+	"nombre": "Turrialba",
+	"ICD": "3:305"
+}, {
+	"codigo": "4",
+	"nombre": "Colorado",
+	"ICD": "5:507"
+}, {
+	"ICD": "5:507",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "1",
+	"nombre": "Las Juntas",
+	"ICD": "5:507"
+}, {
+	"ICD": "5:507",
+	"codigo": "3",
+	"nombre": "San Juan"
+}, {
+	"codigo": "2",
+	"nombre": "Sierra",
+	"ICD": "5:507"
+}, {
+	"nombre": "Bagaces",
+	"ICD": "5:504",
+	"codigo": "1"
+}, {
+	"ICD": "5:504",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"nombre": "Fortuna",
+	"ICD": "5:504",
+	"codigo": "2"
+}, {
+	"nombre": "Mogote",
+	"ICD": "5:504",
+	"codigo": "3"
+}, {
+	"ICD": "5:504",
+	"codigo": "4",
+	"nombre": "Rio Naranjo"
+}, {
+	"codigo": "4",
+	"nombre": "Bebedero",
+	"ICD": "5:506"
+}, {
+	"codigo": "1",
+	"nombre": "Canas",
+	"ICD": "5:506"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "5:506"
+}, {
+	"codigo": "2",
+	"nombre": "Palmira",
+	"ICD": "5:506"
+}, {
+	"codigo": "5",
+	"nombre": "Porozal",
+	"ICD": "5:506"
+}, {
+	"ICD": "5:506",
+	"codigo": "3",
+	"nombre": "San Miguel"
+}, {
+	"ICD": "5:505",
+	"codigo": "4",
+	"nombre": "Belen"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "5:505",
+	"codigo": "99"
+}, {
+	"nombre": "Filadelfia",
+	"ICD": "5:505",
+	"codigo": "1"
+}, {
+	"codigo": "2",
+	"nombre": "Palmira",
+	"ICD": "5:505"
+}, {
+	"codigo": "3",
+	"nombre": "Sardinal",
+	"ICD": "5:505"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "5:511",
+	"codigo": "99"
+}, {
+	"nombre": "HUACAS",
+	"ICD": "5:511",
+	"codigo": "4"
+}, {
+	"codigo": "1",
+	"nombre": "Hojancha",
+	"ICD": "5:511"
+}, {
+	"codigo": "2",
+	"nombre": "MONTE ROMO",
+	"ICD": "5:511"
+}, {
+	"codigo": "3",
+	"nombre": "PUERTO CARRILLO",
+	"ICD": "5:511"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "5:510"
+}, {
+	"codigo": "3",
+	"nombre": "Garita",
+	"ICD": "5:510"
+}, {
+	"codigo": "1",
+	"nombre": "La Cruz",
+	"ICD": "5:510"
+}, {
+	"nombre": "Santa Cecilia",
+	"ICD": "5:510",
+	"codigo": "2"
+}, {
+	"ICD": "5:510",
+	"codigo": "4",
+	"nombre": "Santa Elena"
+}, {
+	"nombre": "Ca?as Dulces",
+	"ICD": "5:501",
+	"codigo": "2"
+}, {
+	"nombre": "Curubande",
+	"ICD": "5:501",
+	"codigo": "5"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "5:501"
+}, {
+	"nombre": "Liberia",
+	"ICD": "5:501",
+	"codigo": "1"
+}, {
+	"codigo": "3",
+	"nombre": "Mayorga",
+	"ICD": "5:501"
+}, {
+	"nombre": "Nacascolo - Guardia",
+	"ICD": "5:501",
+	"codigo": "4"
+}, {
+	"nombre": "Bejuco",
+	"ICD": "5:509",
+	"codigo": "6"
+}, {
+	"nombre": "Carmona",
+	"ICD": "5:509",
+	"codigo": "1"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "5:509"
+}, {
+	"codigo": "5",
+	"nombre": "Porvenir",
+	"ICD": "5:509"
+}, {
+	"nombre": "San Pablo",
+	"ICD": "5:509",
+	"codigo": "4"
+}, {
+	"codigo": "2",
+	"nombre": "Santa Rita",
+	"ICD": "5:509"
+}, {
+	"codigo": "3",
+	"nombre": "Zapotal",
+	"ICD": "5:509"
+}, {
+	"codigo": "7",
+	"nombre": "Belen de Nosarita",
+	"ICD": "5:502"
+}, {
+	"ICD": "5:502",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "2",
+	"nombre": "Mansion",
+	"ICD": "5:502"
+}, {
+	"codigo": "1",
+	"nombre": "Nicoya",
+	"ICD": "5:502"
+}, {
+	"codigo": "6",
+	"nombre": "Nosara",
+	"ICD": "5:502"
+}, {
+	"ICD": "5:502",
+	"codigo": "4",
+	"nombre": "Quebrada Honda"
+}, {
+	"codigo": "5",
+	"nombre": "Samara",
+	"ICD": "5:502"
+}, {
+	"ICD": "5:502",
+	"codigo": "3",
+	"nombre": "San Antonio"
+}, {
+	"codigo": "2",
+	"nombre": "Bolson",
+	"ICD": "5:503"
+}, {
+	"codigo": "8",
+	"nombre": "Cabo Velas",
+	"ICD": "5:503"
+}, {
+	"nombre": "Cartagena",
+	"ICD": "5:503",
+	"codigo": "5"
+}, {
+	"codigo": "6",
+	"nombre": "Cuajiniquil",
+	"ICD": "5:503"
+}, {
+	"ICD": "5:503",
+	"codigo": "7",
+	"nombre": "Diria"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "5:503",
+	"codigo": "99"
+}, {
+	"ICD": "5:503",
+	"codigo": "1",
+	"nombre": "Santa Cruz"
+}, {
+	"nombre": "Tamarindo",
+	"ICD": "5:503",
+	"codigo": "9"
+}, {
+	"ICD": "5:503",
+	"codigo": "4",
+	"nombre": "Tempate"
+}, {
+	"nombre": "Veintisiete de Abril",
+	"ICD": "5:503",
+	"codigo": "3"
+}, {
+	"ICD": "5:508",
+	"codigo": "7",
+	"nombre": "Arenal"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "5:508"
+}, {
+	"codigo": "5",
+	"nombre": "Libano",
+	"ICD": "5:508"
+}, {
+	"codigo": "2",
+	"nombre": "Quebrada Grande",
+	"ICD": "5:508"
+}, {
+	"nombre": "Santa Rosa",
+	"ICD": "5:508",
+	"codigo": "4"
+}, {
+	"codigo": "6",
+	"nombre": "Tierras Morenas",
+	"ICD": "5:508"
+}, {
+	"nombre": "Tilaran",
+	"ICD": "5:508",
+	"codigo": "1"
+}, {
+	"codigo": "3",
+	"nombre": "Tronadora",
+	"ICD": "5:508"
+}, {
+	"ICD": "4:402",
+	"codigo": "1",
+	"nombre": "BARVA"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "4:402"
+}, {
+	"codigo": "6",
+	"nombre": "San Jose de la Monta?a",
+	"ICD": "4:402"
+}, {
+	"nombre": "San Pablo",
+	"ICD": "4:402",
+	"codigo": "3"
+}, {
+	"ICD": "4:402",
+	"codigo": "2",
+	"nombre": "San Pedro"
+}, {
+	"nombre": "San Roque",
+	"ICD": "4:402",
+	"codigo": "4"
+}, {
+	"ICD": "4:402",
+	"codigo": "5",
+	"nombre": "Santa Lucia"
+}, {
+	"nombre": "Asuncion",
+	"ICD": "4:407",
+	"codigo": "3"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "4:407"
+}, {
+	"nombre": "La Rivera",
+	"ICD": "4:407",
+	"codigo": "2"
+}, {
+	"codigo": "1",
+	"nombre": "San Antonio",
+	"ICD": "4:407"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "4:401"
+}, {
+	"nombre": "Heredia",
+	"ICD": "4:401",
+	"codigo": "1"
+}, {
+	"ICD": "4:401",
+	"codigo": "2",
+	"nombre": "Mercedes"
+}, {
+	"codigo": "3",
+	"nombre": "San Francisco",
+	"ICD": "4:401"
+}, {
+	"nombre": "Ulloa",
+	"ICD": "4:401",
+	"codigo": "4"
+}, {
+	"nombre": "Varrablanca",
+	"ICD": "4:401",
+	"codigo": "5"
+}, {
+	"codigo": "2",
+	"nombre": "Barrantes",
+	"ICD": "4:408"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "4:408"
+}, {
+	"nombre": "Llorente",
+	"ICD": "4:408",
+	"codigo": "3"
+}, {
+	"codigo": "1",
+	"nombre": "San Joaquin",
+	"ICD": "4:408"
+}, {
+	"codigo": "3",
+	"nombre": "Concepcion",
+	"ICD": "4:406"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "4:406",
+	"codigo": "99"
+}, {
+	"ICD": "4:406",
+	"codigo": "4",
+	"nombre": "SAN FRANCISCO"
+}, {
+	"ICD": "4:406",
+	"codigo": "1",
+	"nombre": "San Isidro"
+}, {
+	"nombre": "San Jose",
+	"ICD": "4:406",
+	"codigo": "2"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "4:409",
+	"codigo": "99"
+}, {
+	"codigo": "1",
+	"nombre": "San Pablo",
+	"ICD": "4:409"
+}, {
+	"nombre": "Angeles",
+	"ICD": "4:405",
+	"codigo": "4"
+}, {
+	"codigo": "5",
+	"nombre": "Concepcion",
+	"ICD": "4:405"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "4:405",
+	"codigo": "99"
+}, {
+	"nombre": "San Josecito",
+	"ICD": "4:405",
+	"codigo": "2"
+}, {
+	"codigo": "1",
+	"nombre": "San Rafael",
+	"ICD": "4:405"
+}, {
+	"ICD": "4:405",
+	"codigo": "3",
+	"nombre": "Santiago"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "4:404"
+}, {
+	"nombre": "Jesus",
+	"ICD": "4:404",
+	"codigo": "4"
+}, {
+	"codigo": "6",
+	"nombre": "Puraba",
+	"ICD": "4:404"
+}, {
+	"codigo": "3",
+	"nombre": "San Juan",
+	"ICD": "4:404"
+}, {
+	"codigo": "2",
+	"nombre": "San Pedro",
+	"ICD": "4:404"
+}, {
+	"nombre": "Santa Barbara",
+	"ICD": "4:404",
+	"codigo": "1"
+}, {
+	"ICD": "4:404",
+	"codigo": "5",
+	"nombre": "Santo Domingo"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "4:403",
+	"codigo": "99"
+}, {
+	"ICD": "4:403",
+	"codigo": "8",
+	"nombre": "Para"
+}, {
+	"ICD": "4:403",
+	"codigo": "4",
+	"nombre": "Paracito"
+}, {
+	"codigo": "3",
+	"nombre": "San Miguel",
+	"ICD": "4:403"
+}, {
+	"nombre": "San Vicente",
+	"ICD": "4:403",
+	"codigo": "2"
+}, {
+	"ICD": "4:403",
+	"codigo": "6",
+	"nombre": "Santa Rosa"
+}, {
+	"codigo": "1",
+	"nombre": "Santo Domingo",
+	"ICD": "4:403"
+}, {
+	"codigo": "5",
+	"nombre": "Santo Tomas",
+	"ICD": "4:403"
+}, {
+	"codigo": "7",
+	"nombre": "Tures",
+	"ICD": "4:403"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "4:410"
+}, {
+	"nombre": "Horquetas",
+	"ICD": "4:410",
+	"codigo": "3"
+}, {
+	"nombre": "La Virgen",
+	"ICD": "4:410",
+	"codigo": "2"
+}, {
+	"nombre": "Puerto viejo",
+	"ICD": "4:410",
+	"codigo": "1"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "7:706",
+	"codigo": "99"
+}, {
+	"ICD": "7:706",
+	"codigo": "5",
+	"nombre": "Duacari"
+}, {
+	"nombre": "Guacimo",
+	"ICD": "7:706",
+	"codigo": "1"
+}, {
+	"ICD": "7:706",
+	"codigo": "2",
+	"nombre": "Mercedes"
+}, {
+	"ICD": "7:706",
+	"codigo": "3",
+	"nombre": "Pocora"
+}, {
+	"nombre": "Rio Jimenez",
+	"ICD": "7:706",
+	"codigo": "4"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "7:701",
+	"codigo": "99"
+}, {
+	"codigo": "1",
+	"nombre": "Limon",
+	"ICD": "7:701"
+}, {
+	"codigo": "4",
+	"nombre": "Matama",
+	"ICD": "7:701"
+}, {
+	"codigo": "3",
+	"nombre": "Rio Blanco",
+	"ICD": "7:701"
+}, {
+	"nombre": "Valle La Estrella",
+	"ICD": "7:701",
+	"codigo": "2"
+}, {
+	"ICD": "7:705",
+	"codigo": "2",
+	"nombre": "Batan"
+}, {
+	"codigo": "3",
+	"nombre": "CARRANDI",
+	"ICD": "7:705"
+}, {
+	"ICD": "7:705",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"nombre": "Matina",
+	"ICD": "7:705",
+	"codigo": "1"
+}, {
+	"codigo": "5",
+	"nombre": "Cariari",
+	"ICD": "7:702"
+}, {
+	"codigo": "6",
+	"nombre": "Colorado",
+	"ICD": "7:702"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "7:702",
+	"codigo": "99"
+}, {
+	"codigo": "1",
+	"nombre": "Guapiles",
+	"ICD": "7:702"
+}, {
+	"codigo": "2",
+	"nombre": "Jimenez",
+	"ICD": "7:702"
+}, {
+	"nombre": "LA COLONIA",
+	"ICD": "7:702",
+	"codigo": "7"
+}, {
+	"codigo": "3",
+	"nombre": "Rita",
+	"ICD": "7:702"
+}, {
+	"codigo": "4",
+	"nombre": "Roxana",
+	"ICD": "7:702"
+}, {
+	"ICD": "7:703",
+	"codigo": "6",
+	"nombre": "Alegria"
+}, {
+	"codigo": "5",
+	"nombre": "Cairo",
+	"ICD": "7:703"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "7:703"
+}, {
+	"codigo": "3",
+	"nombre": "Florida",
+	"ICD": "7:703"
+}, {
+	"ICD": "7:703",
+	"codigo": "4",
+	"nombre": "Germania"
+}, {
+	"nombre": "Pacuarito",
+	"ICD": "7:703",
+	"codigo": "2"
+}, {
+	"ICD": "7:703",
+	"codigo": "1",
+	"nombre": "Siquirres"
+}, {
+	"nombre": "Bratsi",
+	"ICD": "7:704",
+	"codigo": "1"
+}, {
+	"codigo": "3",
+	"nombre": "Cahuita",
+	"ICD": "7:704"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "7:704"
+}, {
+	"codigo": "2",
+	"nombre": "Sixaola",
+	"ICD": "7:704"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:606"
+}, {
+	"codigo": "3",
+	"nombre": "Naranjito",
+	"ICD": "6:606"
+}, {
+	"codigo": "1",
+	"nombre": "Quepos",
+	"ICD": "6:606"
+}, {
+	"ICD": "6:606",
+	"codigo": "2",
+	"nombre": "Savegre"
+}, {
+	"nombre": "Biolley",
+	"ICD": "6:603",
+	"codigo": "8"
+}, {
+	"ICD": "6:603",
+	"codigo": "4",
+	"nombre": "Boruca"
+}, {
+	"codigo": "1",
+	"nombre": "Buenos Aires",
+	"ICD": "6:603"
+}, {
+	"codigo": "7",
+	"nombre": "Changuena",
+	"ICD": "6:603"
+}, {
+	"codigo": "6",
+	"nombre": "Colinas",
+	"ICD": "6:603"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:603"
+}, {
+	"codigo": "5",
+	"nombre": "Pilas",
+	"ICD": "6:603"
+}, {
+	"codigo": "3",
+	"nombre": "Potrero Grande",
+	"ICD": "6:603"
+}, {
+	"nombre": "Volcan",
+	"ICD": "6:603",
+	"codigo": "2"
+}, {
+	"nombre": "Canoas",
+	"ICD": "6:610",
+	"codigo": "3"
+}, {
+	"codigo": "1",
+	"nombre": "Corredor",
+	"ICD": "6:610"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:610"
+}, {
+	"codigo": "2",
+	"nombre": "La Cuesta",
+	"ICD": "6:610"
+}, {
+	"nombre": "Laurel",
+	"ICD": "6:610",
+	"codigo": "4"
+}, {
+	"nombre": "AguaBuena",
+	"ICD": "6:608",
+	"codigo": "3"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:608"
+}, {
+	"codigo": "4",
+	"nombre": "Limoncito",
+	"ICD": "6:608"
+}, {
+	"ICD": "6:608",
+	"codigo": "5",
+	"nombre": "Pitier"
+}, {
+	"ICD": "6:608",
+	"codigo": "2",
+	"nombre": "Sabalito"
+}, {
+	"codigo": "1",
+	"nombre": "San Vito",
+	"ICD": "6:608"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:602"
+}, {
+	"nombre": "Espiritu Santo",
+	"ICD": "6:602",
+	"codigo": "1"
+}, {
+	"codigo": "3",
+	"nombre": "Macacona",
+	"ICD": "6:602"
+}, {
+	"nombre": "San Jeronimo",
+	"ICD": "6:602",
+	"codigo": "5"
+}, {
+	"nombre": "San Juan Grande",
+	"ICD": "6:602",
+	"codigo": "2"
+}, {
+	"codigo": "4",
+	"nombre": "San Rafael",
+	"ICD": "6:602"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:611"
+}, {
+	"nombre": "Jaco",
+	"ICD": "6:611",
+	"codigo": "1"
+}, {
+	"codigo": "2",
+	"nombre": "Tarcoles",
+	"ICD": "6:611"
+}, {
+	"ICD": "6:607",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "1",
+	"nombre": "Golfito",
+	"ICD": "6:607"
+}, {
+	"codigo": "3",
+	"nombre": "Guaycara",
+	"ICD": "6:607"
+}, {
+	"ICD": "6:607",
+	"codigo": "4",
+	"nombre": "Pavon"
+}, {
+	"nombre": "Puerto Jimenez",
+	"ICD": "6:607",
+	"codigo": "2"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:604"
+}, {
+	"codigo": "2",
+	"nombre": "La Union",
+	"ICD": "6:604"
+}, {
+	"codigo": "1",
+	"nombre": "Miramar",
+	"ICD": "6:604"
+}, {
+	"nombre": "San Isidro",
+	"ICD": "6:604",
+	"codigo": "3"
+}, {
+	"codigo": "4",
+	"nombre": "Bahia Ballena",
+	"ICD": "6:605"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:605"
+}, {
+	"nombre": "Palmar",
+	"ICD": "6:605",
+	"codigo": "2"
+}, {
+	"ICD": "6:605",
+	"codigo": "5",
+	"nombre": "Piedras Blancas"
+}, {
+	"codigo": "1",
+	"nombre": "Puerto Cortes",
+	"ICD": "6:605"
+}, {
+	"codigo": "3",
+	"nombre": "Sierpe",
+	"ICD": "6:605"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "6:609"
+}, {
+	"nombre": "Parrita",
+	"ICD": "6:609",
+	"codigo": "1"
+}, {
+	"codigo": "14",
+	"nombre": "ACAPULCO",
+	"ICD": "6:601"
+}, {
+	"codigo": "8",
+	"nombre": "Barranca",
+	"ICD": "6:601"
+}, {
+	"codigo": "12",
+	"nombre": "Chacarita",
+	"ICD": "6:601"
+}, {
+	"nombre": "Chomes",
+	"ICD": "6:601",
+	"codigo": "3"
+}, {
+	"codigo": "11",
+	"nombre": "Cobano",
+	"ICD": "6:601"
+}, {
+	"ICD": "6:601",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"ICD": "6:601",
+	"codigo": "13",
+	"nombre": "EL ROBLE"
+}, {
+	"ICD": "6:601",
+	"codigo": "7",
+	"nombre": "Guacimal"
+}, {
+	"codigo": "10",
+	"nombre": "Isla del Coco",
+	"ICD": "6:601"
+}, {
+	"codigo": "4",
+	"nombre": "Lepanto",
+	"ICD": "6:601"
+}, {
+	"codigo": "6",
+	"nombre": "Manzanillo",
+	"ICD": "6:601"
+}, {
+	"codigo": "9",
+	"nombre": "Monte Verde",
+	"ICD": "6:601"
+}, {
+	"codigo": "5",
+	"nombre": "Paquera",
+	"ICD": "6:601"
+}, {
+	"codigo": "2",
+	"nombre": "Pitahaya",
+	"ICD": "6:601"
+}, {
+	"codigo": "1",
+	"nombre": "Puntarenas",
+	"ICD": "6:601"
+}, {
+	"codigo": "4",
+	"nombre": "Cangrejal",
+	"ICD": "1:112"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:112"
+}, {
+	"codigo": "2",
+	"nombre": "Guaitil",
+	"ICD": "1:112"
+}, {
+	"nombre": "Palmichal",
+	"ICD": "1:112",
+	"codigo": "3"
+}, {
+	"codigo": "5",
+	"nombre": "Sabanillas",
+	"ICD": "1:112"
+}, {
+	"ICD": "1:112",
+	"codigo": "1",
+	"nombre": "San Ignacio"
+}, {
+	"nombre": "Alajuelita",
+	"ICD": "1:110",
+	"codigo": "1"
+}, {
+	"nombre": "Concepcion",
+	"ICD": "1:110",
+	"codigo": "4"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:110"
+}, {
+	"nombre": "San Antonio",
+	"ICD": "1:110",
+	"codigo": "3"
+}, {
+	"codigo": "5",
+	"nombre": "San Felipe",
+	"ICD": "1:110"
+}, {
+	"codigo": "2",
+	"nombre": "San Josecito",
+	"ICD": "1:110"
+}, {
+	"ICD": "1:106",
+	"codigo": "1",
+	"nombre": "Aserri"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "1:106",
+	"codigo": "99"
+}, {
+	"nombre": "Legua",
+	"ICD": "1:106",
+	"codigo": "5"
+}, {
+	"codigo": "6",
+	"nombre": "Monterrey",
+	"ICD": "1:106"
+}, {
+	"nombre": "SALITRILLO",
+	"ICD": "1:106",
+	"codigo": "7"
+}, {
+	"codigo": "4",
+	"nombre": "San Gabriel",
+	"ICD": "1:106"
+}, {
+	"nombre": "Tarbaca",
+	"ICD": "1:106",
+	"codigo": "2"
+}, {
+	"nombre": "Vuelta de Jorco",
+	"ICD": "1:106",
+	"codigo": "3"
+}, {
+	"ICD": "1:101",
+	"codigo": "1",
+	"nombre": "Carmen"
+}, {
+	"nombre": "Catedral",
+	"ICD": "1:101",
+	"codigo": "4"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:101"
+}, {
+	"codigo": "10",
+	"nombre": "Hatillo",
+	"ICD": "1:101"
+}, {
+	"nombre": "Hospital",
+	"ICD": "1:101",
+	"codigo": "3"
+}, {
+	"codigo": "2",
+	"nombre": "La Merced",
+	"ICD": "1:101"
+}, {
+	"codigo": "7",
+	"nombre": "La Uruca",
+	"ICD": "1:101"
+}, {
+	"codigo": "8",
+	"nombre": "Mata Redonda",
+	"ICD": "1:101"
+}, {
+	"ICD": "1:101",
+	"codigo": "12",
+	"nombre": "OMAR DENGO"
+}, {
+	"nombre": "Pavas",
+	"ICD": "1:101",
+	"codigo": "9"
+}, {
+	"codigo": "6",
+	"nombre": "San Francisco de Dos Rios",
+	"ICD": "1:101"
+}, {
+	"ICD": "1:101",
+	"codigo": "11",
+	"nombre": "San Sebastian"
+}, {
+	"codigo": "5",
+	"nombre": "Zapote",
+	"ICD": "1:101"
+}, {
+	"codigo": "5",
+	"nombre": "Cascajal",
+	"ICD": "1:111"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:111"
+}, {
+	"nombre": "Dulce Nombre",
+	"ICD": "1:111",
+	"codigo": "3"
+}, {
+	"codigo": "4",
+	"nombre": "Patalilllo  - San Antonio -",
+	"ICD": "1:111"
+}, {
+	"codigo": "1",
+	"nombre": "San Isidro",
+	"ICD": "1:111"
+}, {
+	"nombre": "San Rafael",
+	"ICD": "1:111",
+	"codigo": "2"
+}, {
+	"codigo": "1",
+	"nombre": "Curridabat",
+	"ICD": "1:118"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "1:118",
+	"codigo": "99"
+}, {
+	"codigo": "2",
+	"nombre": "Granadilla",
+	"ICD": "1:118"
+}, {
+	"codigo": "3",
+	"nombre": "Sanchez",
+	"ICD": "1:118"
+}, {
+	"codigo": "4",
+	"nombre": "Tirrases",
+	"ICD": "1:118"
+}, {
+	"codigo": "10",
+	"nombre": "Damas",
+	"ICD": "1:103"
+}, {
+	"nombre": "Desamparados",
+	"ICD": "1:103",
+	"codigo": "1"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:103"
+}, {
+	"nombre": "Frailes",
+	"ICD": "1:103",
+	"codigo": "6"
+}, {
+	"codigo": "12",
+	"nombre": "Gravilias",
+	"ICD": "1:103"
+}, {
+	"codigo": "13",
+	"nombre": "LOS GUIDO",
+	"ICD": "1:103"
+}, {
+	"codigo": "7",
+	"nombre": "Patarra",
+	"ICD": "1:103"
+}, {
+	"nombre": "Rosario",
+	"ICD": "1:103",
+	"codigo": "9"
+}, {
+	"nombre": "San Antonio",
+	"ICD": "1:103",
+	"codigo": "5"
+}, {
+	"nombre": "San Cristobal",
+	"ICD": "1:103",
+	"codigo": "8"
+}, {
+	"nombre": "San Juan de Dios",
+	"ICD": "1:103",
+	"codigo": "3"
+}, {
+	"nombre": "San Miguel",
+	"ICD": "1:103",
+	"codigo": "2"
+}, {
+	"nombre": "San Rafael Abajo",
+	"ICD": "1:103",
+	"codigo": "11"
+}, {
+	"nombre": "San Rafael Arriba",
+	"ICD": "1:103",
+	"codigo": "4"
+}, {
+	"codigo": "3",
+	"nombre": "Copey",
+	"ICD": "1:117"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:117"
+}, {
+	"codigo": "2",
+	"nombre": "Jardin",
+	"ICD": "1:117"
+}, {
+	"codigo": "1",
+	"nombre": "Santa Maria",
+	"ICD": "1:117"
+}, {
+	"ICD": "1:102",
+	"codigo": "1",
+	"nombre": "Escazu"
+}, {
+	"codigo": "2",
+	"nombre": "San Antonio",
+	"ICD": "1:102"
+}, {
+	"nombre": "San Rafael",
+	"ICD": "1:102",
+	"codigo": "3"
+}, {
+	"nombre": "Calle Blancos",
+	"ICD": "1:108",
+	"codigo": "3"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "1:108",
+	"codigo": "99"
+}, {
+	"ICD": "1:108",
+	"codigo": "1",
+	"nombre": "Guadalupe"
+}, {
+	"codigo": "5",
+	"nombre": "Ipis",
+	"ICD": "1:108"
+}, {
+	"nombre": "Mata de Platano",
+	"ICD": "1:108",
+	"codigo": "4"
+}, {
+	"codigo": "7",
+	"nombre": "Purral",
+	"ICD": "1:108"
+}, {
+	"nombre": "Rancho Redondo",
+	"ICD": "1:108",
+	"codigo": "6"
+}, {
+	"codigo": "2",
+	"nombre": "San Francisco",
+	"ICD": "1:108"
+}, {
+	"ICD": "1:120",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "3",
+	"nombre": "Llano Bonito",
+	"ICD": "1:120"
+}, {
+	"ICD": "1:120",
+	"codigo": "2",
+	"nombre": "San Andres"
+}, {
+	"codigo": "6",
+	"nombre": "San Antonio",
+	"ICD": "1:120"
+}, {
+	"nombre": "San Isidro",
+	"ICD": "1:120",
+	"codigo": "4"
+}, {
+	"nombre": "San Pablo",
+	"ICD": "1:120",
+	"codigo": "1"
+}, {
+	"codigo": "5",
+	"nombre": "Santa Cruz",
+	"ICD": "1:120"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:115"
+}, {
+	"ICD": "1:115",
+	"codigo": "3",
+	"nombre": "Mercedes o Betania"
+}, {
+	"codigo": "2",
+	"nombre": "Sabanilla",
+	"ICD": "1:115"
+}, {
+	"codigo": "1",
+	"nombre": "San Pedro",
+	"ICD": "1:115"
+}, {
+	"nombre": "San Rafael",
+	"ICD": "1:115",
+	"codigo": "4"
+}, {
+	"codigo": "1",
+	"nombre": "Colon",
+	"ICD": "1:107"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:107"
+}, {
+	"codigo": "2",
+	"nombre": "Guayabo",
+	"ICD": "1:107"
+}, {
+	"codigo": "5",
+	"nombre": "Picagres",
+	"ICD": "1:107"
+}, {
+	"ICD": "1:107",
+	"codigo": "4",
+	"nombre": "Piedras Negras"
+}, {
+	"codigo": "3",
+	"nombre": "Tabarcia",
+	"ICD": "1:107"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "1:114",
+	"codigo": "99"
+}, {
+	"ICD": "1:114",
+	"codigo": "2",
+	"nombre": "San Jeronimo"
+}, {
+	"codigo": "1",
+	"nombre": "San Vicente",
+	"ICD": "1:114"
+}, {
+	"codigo": "3",
+	"nombre": "Trinidad",
+	"ICD": "1:114"
+}, {
+	"nombre": "Baru",
+	"ICD": "1:119",
+	"codigo": "9"
+}, {
+	"codigo": "8",
+	"nombre": "Cajon",
+	"ICD": "1:119"
+}, {
+	"ICD": "1:119",
+	"codigo": "3",
+	"nombre": "Daniel Flores"
+}, {
+	"nombre": "Distrito no definido",
+	"ICD": "1:119",
+	"codigo": "99"
+}, {
+	"ICD": "1:119",
+	"codigo": "2",
+	"nombre": "General"
+}, {
+	"ICD": "1:119",
+	"codigo": "11",
+	"nombre": "Paramo"
+}, {
+	"ICD": "1:119",
+	"codigo": "7",
+	"nombre": "Pejibaye"
+}, {
+	"codigo": "6",
+	"nombre": "Platanares",
+	"ICD": "1:119"
+}, {
+	"nombre": "Rio Nuevo",
+	"ICD": "1:119",
+	"codigo": "10"
+}, {
+	"codigo": "4",
+	"nombre": "Rivas",
+	"ICD": "1:119"
+}, {
+	"codigo": "1",
+	"nombre": "San Isidro del General",
+	"ICD": "1:119"
+}, {
+	"ICD": "1:119",
+	"codigo": "5",
+	"nombre": "San Pedro"
+}, {
+	"nombre": "Barbacoas",
+	"ICD": "1:104",
+	"codigo": "3"
+}, {
+	"codigo": "6",
+	"nombre": "Candelaria",
+	"ICD": "1:104"
+}, {
+	"codigo": "9",
+	"nombre": "Chires",
+	"ICD": "1:104"
+}, {
+	"ICD": "1:104",
+	"codigo": "7",
+	"nombre": "Desamparaditos"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:104"
+}, {
+	"nombre": "Grifo Alto",
+	"ICD": "1:104",
+	"codigo": "4"
+}, {
+	"nombre": "Mercedes",
+	"ICD": "1:104",
+	"codigo": "2"
+}, {
+	"codigo": "10",
+	"nombre": "SAN JUAN",
+	"ICD": "1:104"
+}, {
+	"nombre": "SANTIAGO",
+	"ICD": "1:104",
+	"codigo": "1"
+}, {
+	"ICD": "1:104",
+	"codigo": "8",
+	"nombre": "San Antonio"
+}, {
+	"nombre": "San Rafael",
+	"ICD": "1:104",
+	"codigo": "5"
+}, {
+	"ICD": "1:109",
+	"codigo": "6",
+	"nombre": "Brasil"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:109"
+}, {
+	"codigo": "5",
+	"nombre": "Piedades",
+	"ICD": "1:109"
+}, {
+	"ICD": "1:109",
+	"codigo": "3",
+	"nombre": "Pozos"
+}, {
+	"codigo": "2",
+	"nombre": "Salitral",
+	"ICD": "1:109"
+}, {
+	"nombre": "Santa Ana",
+	"ICD": "1:109",
+	"codigo": "1"
+}, {
+	"codigo": "4",
+	"nombre": "Uruca",
+	"ICD": "1:109"
+}, {
+	"ICD": "1:105",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "3",
+	"nombre": "San Carlos",
+	"ICD": "1:105"
+}, {
+	"ICD": "1:105",
+	"codigo": "2",
+	"nombre": "San Lorenzo"
+}, {
+	"ICD": "1:105",
+	"codigo": "1",
+	"nombre": "San Marcos"
+}, {
+	"codigo": "3",
+	"nombre": "Anselmo Llorente",
+	"ICD": "1:113"
+}, {
+	"nombre": "COLIMA",
+	"ICD": "1:113",
+	"codigo": "5"
+}, {
+	"ICD": "1:113",
+	"codigo": "2",
+	"nombre": "Cinco Esquinas"
+}, {
+	"ICD": "1:113",
+	"codigo": "99",
+	"nombre": "Distrito no definido"
+}, {
+	"codigo": "6",
+	"nombre": "FLORIDA",
+	"ICD": "1:113"
+}, {
+	"codigo": "10",
+	"nombre": "LA FLORIDA",
+	"ICD": "1:113"
+}, {
+	"codigo": "4",
+	"nombre": "Leon XIII",
+	"ICD": "1:113"
+}, {
+	"nombre": "San Juan",
+	"ICD": "1:113",
+	"codigo": "1"
+}, {
+	"codigo": "5",
+	"nombre": "CARARA",
+	"ICD": "1:116"
+}, {
+	"codigo": "99",
+	"nombre": "Distrito no definido",
+	"ICD": "1:116"
+}, {
+	"codigo": "3",
+	"nombre": "San Juan de Mata",
+	"ICD": "1:116"
+}, {
+	"codigo": "4",
+	"nombre": "San Luis",
+	"ICD": "1:116"
+}, {
+	"codigo": "1",
+	"nombre": "San Pablo",
+	"ICD": "1:116"
+}, {
+	"codigo": "2",
+	"nombre": "San Pedro",
+	"ICD": "1:116"
+}]

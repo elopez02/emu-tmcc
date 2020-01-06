@@ -1,0 +1,106 @@
+
+/**
+* Modules - forms - Primary button
+*/
+
+.button
+{
+	height: em(47);
+	margin: em(28) auto;
+	border-radius: em(5);
+	font-size: 1em;
+    border: none;
+    text-align: center;
+    width: 80%;
+    cursor: pointer;
+	@include prefix((
+        box-sizing: border-box,
+        display: flex,
+        justify-content: center,
+        align-items: center,
+        box-shadow: none,
+        outline: none,
+        transition: ease all 0.3s,
+    ), webkit moz o ms);
+    &:disabled
+    {
+    	cursor: no-drop;
+    	@include prefix((
+	        opacity: 0.3,
+	    ), webkit moz o ms);	
+    }
+    &__label
+    {
+    	line-height: 0;
+    	padding: 0;
+        margin: 0;
+        font-size: em(20);
+        @include media(md){
+            font-size: em(16);
+        }
+    	&--light
+    	{
+    		color: white;
+    	}
+        &--gray
+        {
+            color: $color__lightgray;
+            font-weight: 500;
+        }
+        &--red
+        {
+            color: $color__primary;
+            font-weight: 800;
+        }
+        &--icon{
+            margin-top: em(5);
+            margin-right: em(12);
+        }
+    }
+    &--left
+    {
+        width: 50%;
+        float: right;
+        background-color: $color__lightgray;
+        margin-right: 0;
+        margin-top: 0;
+        margin-bottom: 0; 
+        @include media(md)
+        {
+            width: 40% !important;
+        }
+        @include media(lg)
+        {
+            width: 50% !important;
+        }
+    }
+    &--icon{
+        background-color: #ffffff;
+        margin: 0 em(9) 0 0;
+        width: 45px !important;
+    }
+    &--primary
+    {
+    	background-color: $color__primary;
+    }
+    @include media(sm)
+    {
+        font-size: 1em;
+        width: em(250);
+    }
+    @include media(md)
+    {
+        font-size: 1em;
+        width: em(300);
+    }
+    @include media(lg)
+    {
+        font-size: 1em;
+        width: em(300);
+    }
+    @include media(xlg)
+    {
+        font-size: 1em;
+        width: em(350);
+    }
+}

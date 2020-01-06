@@ -1,0 +1,26 @@
+[
+ {
+   "value": 1,
+   "label": "Empresa Privada"
+ },
+ {
+   "value": 2,
+   "label": "Gobierno"
+ },
+ {
+   "value": 3,
+   "label": "Fundación no lucrativa"
+ },
+ {
+   "value": 4,
+   "label": "Organismo no Gubernamental"
+ },
+ {
+   "value": 5,
+   "label": "Organismo Internacional"
+ },
+ {
+   "value": 6,
+   "label": "Asociación Cooperativa"
+ }
+]

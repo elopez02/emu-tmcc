@@ -1,0 +1,30 @@
+
+/**
+* Modules - forms - Collapsible
+*/
+
+.collapsible
+{
+	overflow: hidden;
+	height: 0;
+	@include prefix((
+		box-sizing: border-box,
+ 		transition: ease all 0.3s,
+ 		opacity: 0
+    ), webkit moz o ms);
+    &--isShow
+    {
+    	height: auto;
+    	@include prefix((
+	 		opacity: 1
+	    ), webkit moz o ms);
+    }
+	&__title
+	{
+		color: $color__text--dark;
+		padding: 0 0 em(13) 0;
+		margin: 0 0 em(13) 0;
+		border-bottom: 2px solid $color__background--main;
+		font-weight: 600;
+	}
+}

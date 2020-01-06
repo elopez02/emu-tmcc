@@ -1,0 +1,122 @@
+{
+  "MSG_TMA_XXX": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Error no se encontro el mensaje",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_001": {
+    "type": "",
+      "display": true,
+      "title": "No podemos atender tu solicitud por este canal",
+      "message": "Si lo deseas puedes dirigirte a las oficinas de servicio de Davivienda",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_002": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Acceso denegado",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_003": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Verifica los datos ingresados",
+      "okButtonText": "Volver a intentar",
+      "noButtonText": ""
+  },
+  "MSG_TMA_004": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Teniendo en cuenta que ya habías realizado esta solicitud, podrás hacerla nuevamente desde el día <strong>params<\/strong>",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_005": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Para realizar la solicitud de tu producto, se requiere que  tengas clave virtual. Te invitamos a comunicarte con Davivienda a través de la opción: Atención en Línea del App  o en el call center para solicitar tu clave virtual",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_006": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "El código digitado no es correcto, por favor intenta nuevamente",
+      "okButtonText": "Volver a intentar",
+      "noButtonText": ""
+  },
+  "MSG_TMA_007": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "El código digitado no es correcto, te invitamos a actualizar tus datos y realizar una nueva solicitud",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_008": {
+    "type": "",
+      "display": true,
+      "title": "¡Lo sentimos!",
+      "message": "Tu solicitud de tarjeta de crédito no ha sido aprobada debido a que no cumples con las políticas de evaluación de crédito, definidas para el producto",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_009": {
+    "type": "",
+      "display": true,
+      "title": "¡Felicitaciones!",
+      "message": "Hemos terminado el proceso de solicitud de tarjeta de crédito, te enviaremos un correo con las condiciones de tu producto",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_010": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "No es posible continuar con el proceso de solicitud de tarjeta de crédito",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_011": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Has iniciado una solicitud de tarjeta de crédito recientemente ¿deseas retomarla?",
+      "okButtonText": "Si",
+      "noButtonText": "No"
+  },
+  "MSG_TMA_012": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Esta opción está disponible para clientes con cédula de ciudadanía Colombiana. Te invitamos a realizar la solicitud de la tarjeta de crédito en una oficina de servicio de DAVIVIENDA",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_013": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "Por inactividad se ha cerrado tu sesión de forma segura",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  },
+  "MSG_TMA_014": {
+    "type": "",
+      "display": true,
+      "title": "",
+      "message": "PARA REALIZAR TU SOLICITUD DE TARJETA DE CRÉDITO, ES NECESARIO QUE ACTUALICES TU INFORMACIÓN PERSONAL EN UNA DE LAS OFICINAS DE DAVIVIENDA",
+      "okButtonText": "Entendido",
+      "noButtonText": ""
+  }
+}

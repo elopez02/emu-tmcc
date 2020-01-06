@@ -1,0 +1,30 @@
+
+// =============================================================================
+// Import Base variables
+// =============================================================================
+
+@import "../variables/_base-variables";
+
+/**
+ * body -styles
+ */
+
+ body
+ {
+   font-size: em($font__size);
+   line-height: em($font__base);
+   font-family: $font__family;
+   margin: auto;
+   padding: 0;
+   position: relative;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+ }
+
+ .grecaptcha-badge {
+
+    bottom: 100px !important;
+
+}

@@ -1,0 +1,74 @@
+
+/**
+ * Modules - Alerts modal
+ */
+
+.alertModal
+{
+	background-color: white;
+	width: em(300);
+	min-height: em(30);
+	border-radius: em(15);
+	overflow: hidden;
+	@include prefix((
+ 		box-sizing: border-box,
+ 		transition: ease all 0.7s,
+ 		transform: translateY(-50em)
+    ), webkit moz o ms);
+	&__body
+	{
+		width: 100%;
+		padding: em(21) em(16) em(3) em(16);
+		@include prefix((
+	 		box-sizing: border-box,
+	    ), webkit moz o ms);
+	}
+	&__footer
+	{
+		width: 100%;
+		height: em(55);
+		font-size: 1.2em;
+		@include prefix((
+	 		box-sizing: border-box,
+	 		display: flex,
+	 		justify-content: center,
+	 		align-items: center,
+	    ), webkit moz o ms);
+	    &--button
+	    {
+	    	width: 100%;
+	    	border: none;
+	    	outline: none;
+	    	box-shadow: none;
+	    	height: em(55);
+	    	cursor: pointer;
+	    	font-weight: bold;
+	    	color: white;
+	    	@include prefix((
+		 		flex: 1,
+		    ), webkit moz o ms);
+		    &--primary
+		    {
+		    	background-color: $color__primary;
+		    }
+		    &--auxiliar
+		    {
+		    	background-color: $color__lightgraybtn;
+		    }
+	    }
+	}
+	@include media(sm)
+	{
+		width: em(330);
+	}
+	@include media(lg)
+	{
+		font-size: 1.2em;
+		width: em(330);
+	}
+	@include media(xlg)
+	{
+		font-size: 1.1em;
+		width: em(330);
+	}
+}

@@ -1,0 +1,75 @@
+
+/**
+ * Layout - Main container
+ */
+
+.container
+{
+    width: 100%;
+    background-color: $color__background--main;
+    position: relative;
+    // legal vigilado container
+    &__legalContainer
+    {
+        position: fixed;
+        width: em(20);
+        bottom: em(120);
+        left: em(5);
+        z-index: 20;
+        @include prefix((
+            display: flex,
+            justify-content: center,
+            align-items: center,
+        ), webkit moz o ms);
+        img
+        {
+            width: 100%;
+        }
+    }
+    // link banco container
+    &__bankLink
+    {
+        position: fixed;
+        padding: 0;
+        height: em(20);
+        margin: 0;
+        line-height: 0;
+        color: black;
+        font-weight: bold;
+        top: em(260);
+        right: em(-65);
+        z-index: 20;
+        text-decoration: none;
+        font-size: em(12);
+        @include prefix((
+            display: flex,
+            justify-content: center,
+            align-items: center,
+            transform: rotate(-90deg),
+        ), webkit moz o ms);
+        img
+        {
+            width: 100%;
+        }
+    }
+    &--dark
+    {
+        background-color: $color__lightgray;
+    }
+    @include prefix((
+        box-sizing: border-box,
+        display: flex,
+        justify-content: flex-start,
+        align-items: center,
+        flex-direction: column, 
+    ), webkit moz o ms);
+    @include media(lg)
+    {
+    	height: 93vh;
+        @include prefix((
+        	justify-content: center,
+        	align-items: flex-start,
+	        flex-direction: row, 
+	    ), webkit moz o ms);
+    }
+}

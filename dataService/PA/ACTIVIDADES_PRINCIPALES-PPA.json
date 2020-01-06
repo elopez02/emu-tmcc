@@ -1,0 +1,322 @@
+[
+  {
+    "value": "01",
+    "label": "No hay catalogo para la actividad Comercial seleccionada",
+    "actividad_comercial": "01"
+  },
+ {
+   "value": "01",
+   "label": "Ama de Casa",
+   "actividad_comercial": "02"
+ },
+ {
+   "value": "02",
+   "label": "Estudiante",
+   "actividad_comercial": "02"
+ },
+ {
+   "value": "03",
+   "label": "Otras dependencias",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "04",
+   "label": "Actividades Hoteleras",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "05",
+   "label": "Agencias de Viajes Reconocidas",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "06",
+   "label": "Agricultura y relacionados",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "07",
+   "label": "Alquiler de maquinaria pesada",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "08",
+   "label": "Asesorias/consultorias",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "09",
+   "label": "Bienes Raices (Venta y Alquileres)",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "10",
+   "label": "Construccion, remodelacion y manten",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "11",
+   "label": "Despacho de contadores publicos pri",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "12",
+   "label": "Despachos de Abogados/Notarios",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "13",
+   "label": "Elaboracion de productos macrobioti",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "14",
+   "label": "Empresas de factoraje y descuento d",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "15",
+   "label": "Empresas farmaceuticas",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "16",
+   "label": "Extraccion de minerales/canteras",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "17",
+   "label": "Farmacias y macrobioticas",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "18",
+   "label": "Ganaderia/Equinos/Avicultura/Otros",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "19",
+   "label": "Gasolinera y centros de servicio",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "20",
+   "label": "Gestion de Residuos y Descontaminac",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "21",
+   "label": "Opera a traves de Internet (e-busin",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "22",
+   "label": "Otras actividades",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "23",
+   "label": "Otras actividades relacionadas con",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "24",
+   "label": "Otros relacionados con sistemas de",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "25",
+   "label": "Pesca y relacionados",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "26",
+   "label": "Produccion u organizacion eventos (",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "27",
+   "label": "Produccion y/o venta de cuero y pie",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "28",
+   "label": "Relacionados con Petroleo, cemento",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "29",
+   "label": "Representantes de organizaciones re",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "30",
+   "label": "Restaurantes",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "31",
+   "label": "Seguridad/monitoreo",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "32",
+   "label": "Supermercado/minisuper/licorera",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "33",
+   "label": "Transporte de personas",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "34",
+   "label": "Transporte de valores",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "35",
+   "label": "Transporte y almacenamiento de carg",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "36",
+   "label": "Venta de repuestos y partes",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "37",
+   "label": "Venta de vehiculos (barcos, aviones",
+   "actividad_comercial": "04"
+ },
+ {
+   "value": "38",
+   "label": "Abogado",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "39",
+   "label": "Comisionista",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "40",
+   "label": "Contador",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "41",
+   "label": "Corredor de bienes raices",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "42",
+   "label": "Informatico",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "43",
+   "label": "Otros",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "44",
+   "label": "Fotografia y Video",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "45",
+   "label": "Medico",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "46",
+   "label": "Publicista",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "47",
+   "label": "Traductor Profesional",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "48",
+   "label": "Disenador Grafico/web/multimedia",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "49",
+   "label": "Guionistas-Escritor",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "50",
+   "label": "Ingeniero",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "51",
+   "label": "Odontologo",
+   "actividad_comercial": "05"
+ },
+ {
+   "value": "52",
+   "label": "Herencias",
+   "actividad_comercial": "06"
+ },
+ {
+   "value": "53",
+   "label": "Patrimonio familiar",
+   "actividad_comercial": "06"
+ },
+ {
+   "value": "54",
+   "label": "Por venta de bienes",
+   "actividad_comercial": "06"
+ },
+ {
+   "value": "55",
+   "label": "Rentista capital",
+   "actividad_comercial": "06"
+ },
+ {
+   "value": "56",
+   "label": "Seguros",
+   "actividad_comercial": "06"
+ },
+ {
+   "value": "57",
+   "label": "c",
+   "actividad_comercial": "07"
+ },
+ {
+   "value": "58",
+   "label": "Habituales",
+   "actividad_comercial": "07"
+ },
+ {
+   "value": "59",
+   "label": "Productos militares",
+   "actividad_comercial": "07"
+ },
+ {
+   "value": "60",
+   "label": "ONG",
+   "actividad_comercial": "07"
+ },
+ {
+   "value": "61",
+   "label": "Fundaciones",
+   "actividad_comercial": "07"
+ },
+ {
+   "value": "62",
+   "label": "Otros",
+   "actividad_comercial": "07"
+ },
+ {
+   "value": "63",
+   "label": "Campañas o/y partidos políticos",
+   "actividad_comercial": "07"
+ }
+]

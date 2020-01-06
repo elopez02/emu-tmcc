@@ -1,0 +1,14 @@
+[
+	{
+		"cliente": {
+            "minPlazo": 1,
+            "maxPlazo": 48,
+            "intervalo": 1
+		},
+		"noCliente": {
+			"minPlazo": 1,
+            "maxPlazo": 48,
+            "intervalo": 1
+		}
+	}
+]

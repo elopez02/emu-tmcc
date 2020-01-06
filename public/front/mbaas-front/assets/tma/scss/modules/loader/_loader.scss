@@ -1,0 +1,156 @@
+
+/**
+ * Modules - Clock type loader
+ */
+
+.clockLoader
+{
+    border-radius: 50%;
+    border: 3px solid $color__primary;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin: 0 auto em(32) auto;
+    &--light
+    {
+        border-color: white;
+        margin: em(48) auto;
+        &__center
+        {
+            background-color: $color__text--dark !important;
+            border: 3px solid white !important;
+        }
+        &__numeral
+        {
+            background-color: white !important;
+            &:before
+            {
+                background-color: white !important;
+            }
+        }
+        &:after
+        {
+            background-color: white !important;
+        }
+        &:before
+        {
+            background-color: white !important;
+        }
+    }
+    &__center
+    {
+        background-color: white;
+        border: 2px solid $color__primary;
+        position: absolute;
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        margin: auto auto;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 10;
+    }
+    &__numeral
+    {
+        height: 5px;
+        width: 3px;
+        border-radius: 3px;  
+        background-color: $color__primary;
+        position: absolute;
+        top: 7px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        &:before
+        {
+            content: '';
+            height: 5px;
+            width: 3px;
+            border-radius: 3px;  
+            background-color: $color__primary;
+            position: absolute;
+            top: 82px;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+        }
+        &--horizontal
+        {
+            @include prefix((
+            transform: rotate(90deg),
+            transform-origin: 2px 43px
+        ), webkit moz o ms);
+        }
+        &--lateralRight
+        {
+            @include prefix((
+            transform: rotate(45deg),
+            transform-origin: 2px 43px
+        ), webkit moz o ms);
+        }
+        &--lateralLeft
+        {
+            @include prefix((
+            transform: rotate(-45deg),
+            transform-origin: 2px 43px
+        ), webkit moz o ms);
+        }
+    }
+}
+.clockLoader:after
+{
+    content: "";
+    position: absolute;
+    background-color: $color__primary;
+    top: 49px;
+    left: 49px;
+    height: 29px;
+    width: 3px;
+    border-radius: 6px;
+    @include prefix((
+        transform-origin: 50% 0,
+        animation: grdAiguille 2s linear infinite
+    ), webkit moz o ms);
+}
+
+@-webkit-keyframes grdAiguille
+{
+    0%{-webkit-transform:rotate(0deg);}
+    100%{-webkit-transform:rotate(360deg);}
+}
+
+@keyframes grdAiguille
+{
+    0%{transform:rotate(0deg);}
+    100%{transform:rotate(360deg);}
+}
+
+.clockLoader:before
+{
+    content: "";
+    position: absolute;
+    background-color: $color__primary;
+    top: 49px;
+    left: 49px;
+    height: 22px;
+    width: 3px;
+    border-radius: 6px;
+    @include prefix((
+        transform-origin: 50% 0,
+        animation: ptAiguille 96s linear infinite
+    ), webkit moz o ms);
+}
+
+@-webkit-keyframes ptAiguille
+{
+    0%{-webkit-transform:rotate(0deg);}
+    100%{-webkit-transform:rotate(360deg);}
+}
+
+@keyframes ptAiguille
+{
+    0%{transform:rotate(0deg);}
+    100%{transform:rotate(360deg);}
+}

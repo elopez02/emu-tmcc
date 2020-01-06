@@ -1,0 +1,82 @@
+
+/**
+* Modules - Back button
+*/
+ 
+.benefitList
+{
+    width: 100%;
+    list-style: none;
+    padding: 0 em(16);
+    margin: 0;
+    @include prefix((
+        box-sizing: border-box, 
+    ), webkit moz o ms);
+    &__item
+    {
+        padding: em(3) 0;
+        div
+        {
+            @include prefix((
+                box-sizing: border-box,
+                display: flex,
+                justify-content: flex-start,
+                align-items: center,
+                flex-direction: row, 
+            ), webkit moz o ms);
+            .icon
+            {
+                width: 30px;
+                height: 30px;
+                margin-right: em(10);
+                @include prefix((
+                    box-sizing: border-box,
+                    display: flex,
+                    justify-content: center,
+                    align-items: center,
+                ), webkit moz o ms);
+                img
+                {
+                    width: 19px;
+                }
+            }
+            .label
+            {
+                line-height: 1.4rem;
+                @include prefix((
+                    flex: 1
+                ), webkit moz o ms);
+            }
+        }
+        @include media(lg){
+            .icon
+            {
+                width: 35px;
+                height: 35px;
+                img
+                {
+                    width: 21px;
+                }
+            }
+            .label
+            {
+                font-size: 1.05rem;
+            }
+        }
+        @include media(xlg){
+            .icon
+            {
+                width: 40px;
+                height: 40px;
+                img
+                {
+                    width: 25px;
+                }
+            }
+            .label
+            {
+                font-size: 1.1rem;
+            }
+        }
+    }
+}

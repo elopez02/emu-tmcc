@@ -1,0 +1,1587 @@
+ { "departments": [
+  {
+    "department": "Alaska",
+    "id": "AK"
+  },
+  {
+    "department": "Alabama",
+    "id": "AL"
+  },
+  {
+    "department": "Arizona",
+    "id": "AZ"
+  },
+  {
+    "department": "BC",
+    "id": "BC"
+  },
+  {
+    "department": "California",
+    "id": "CA"
+  },
+  {
+    "department": "Colorado",
+    "id": "CO"
+  },
+  {
+    "department": "Connecticut",
+    "id": "CT"
+  },
+  {
+    "department": "District Of Columbia",
+    "id": "DC"
+  },
+  {
+    "department": "Delaware",
+    "id": "DE"
+  },
+  {
+    "department": "Florida",
+    "id": "FL"
+  },
+  {
+    "department": "Georgia",
+    "id": "GA"
+  },
+  {
+    "department": "Hawaii",
+    "id": "HI"
+  },
+  {
+    "department": "Iowa",
+    "id": "IA"
+  },
+  {
+    "department": "Idaho",
+    "id": "ID"
+  },
+  {
+    "department": "Illinois",
+    "id": "IL"
+  },
+  {
+    "department": "Indiana",
+    "id": "IN"
+  },
+  {
+    "department": "Kansas",
+    "id": "KS"
+  },
+  {
+    "department": "Kentucky",
+    "id": "KY"
+  },
+  {
+    "department": "Louisiana",
+    "id": "LA"
+  },
+  {
+    "department": "Massachusetts",
+    "id": "MA"
+  },
+  {
+    "department": "MB",
+    "id": "MB"
+  },
+  {
+    "department": "Maryland",
+    "id": "MD"
+  },
+  {
+    "department": "Maine",
+    "id": "ME"
+  },
+  {
+    "department": "Michigan",
+    "id": "MI"
+  },
+  {
+    "department": "Minnesota",
+    "id": "MN"
+  },
+  {
+    "department": "Missouri",
+    "id": "MO"
+  },
+  {
+    "department": "Mississippi",
+    "id": "MS"
+  },
+  {
+    "department": "Montana",
+    "id": "MT"
+  },
+  {
+    "department": "National Region",
+    "id": "National"
+  },
+  {
+    "department": "NB",
+    "id": "NB"
+  },
+  {
+    "department": "North Carolina",
+    "id": "NC"
+  },
+  {
+    "department": "North Dakota",
+    "id": "ND"
+  },
+  {
+    "department": "Nebraska",
+    "id": "NE"
+  },
+  {
+    "department": "NF",
+    "id": "NF"
+  },
+  {
+    "department": "New Hampshire",
+    "id": "NH"
+  },
+  {
+    "department": "New Jersey",
+    "id": "NJ"
+  },
+  {
+    "department": "New Mexico",
+    "id": "NM"
+  },
+  {
+    "department": "NS",
+    "id": "NS"
+  },
+  {
+    "department": "NT",
+    "id": "NT"
+  },
+  {
+    "department": "Nevada",
+    "id": "NV"
+  },
+  {
+    "department": "New York",
+    "id": "NY"
+  },
+  {
+    "department": "Ohio",
+    "id": "OH"
+  },
+  {
+    "department": "Oklahoma",
+    "id": "OK"
+  },
+  {
+    "department": "ON",
+    "id": "ON"
+  },
+  {
+    "department": "Oregon",
+    "id": "OR"
+  },
+  {
+    "department": "Pennsylvania",
+    "id": "PA"
+  },
+  {
+    "department": "PE",
+    "id": "PE"
+  },
+  {
+    "department": "PQ",
+    "id": "PQ"
+  },
+  {
+    "department": "Puerto Rico",
+    "id": "PR"
+  },
+  {
+    "department": "Rhode Island",
+    "id": "RI"
+  },
+  {
+    "department": "South Carolina",
+    "id": "SC"
+  },
+  {
+    "department": "South Dakota",
+    "id": "SD"
+  },
+  {
+    "department": "SK",
+    "id": "SK"
+  },
+  {
+    "department": "Tennessee",
+    "id": "TN"
+  },
+  {
+    "department": "Texas",
+    "id": "TX"
+  },
+  {
+    "department": "US-Central Region",
+    "id": "US-Central"
+  },
+  {
+    "department": "US-East Region",
+    "id": "US-East"
+  },
+  {
+    "department": "US-West Region",
+    "id": "US-West"
+  },
+  {
+    "department": "Utah",
+    "id": "UT"
+  },
+  {
+    "department": "Virginia",
+    "id": "VA"
+  },
+  {
+    "department": "Vermont",
+    "id": "VT"
+  },
+  {
+    "department": "Washington",
+    "id": "WA"
+  },
+  {
+    "department": "Wisconsin",
+    "id": "WI"
+  },
+  {
+    "department": "West Virginia",
+    "id": "WV"
+  },
+  {
+    "department": "Wyoming",
+    "id": "WY"
+  },
+  {
+    "department": "YK",
+    "id": "YK"
+  },
+  {
+    "department": "NO INFORMADO",
+    "id": "0"
+  },
+  {
+    "department": "AFGANISTAN",
+    "id": "1301"
+  },
+  {
+    "department": "ALBANIA",
+    "id": "1710"
+  },
+  {
+    "department": "ALEMANIA",
+    "id": "2301"
+  },
+  {
+    "department": "ARMENIA",
+    "id": "2601"
+  },
+  {
+    "department": "ARUBA",
+    "id": "2701"
+  },
+  {
+    "department": "BOSNIA - HERZEGOVINA",
+    "id": "2901"
+  },
+  {
+    "department": "BURKINA FASO",
+    "id": "3101"
+  },
+  {
+    "department": "ANDORRA",
+    "id": "3701"
+  },
+  {
+    "department": "ANGOLA",
+    "id": "4001"
+  },
+  {
+    "department": "ANGUILLA",
+    "id": "4101"
+  },
+  {
+    "department": "ANTIGUA Y BARBUDA",
+    "id": "4301"
+  },
+  {
+    "department": "ANTILLAS HOLANDESAS",
+    "id": "4701"
+  },
+  {
+    "department": "ARABIA SAUDITA",
+    "id": "5301"
+  },
+  {
+    "department": "ARGELIA",
+    "id": "5901"
+  },
+  {
+    "department": "ARGENTINA",
+    "id": "6301"
+  },
+  {
+    "department": "AUSTRALIA",
+    "id": "6901"
+  },
+  {
+    "department": "AUSTRIA",
+    "id": "7201"
+  },
+  {
+    "department": "AZERBAIJAN",
+    "id": "7401"
+  },
+  {
+    "department": "BAHAMAS",
+    "id": "7701"
+  },
+  {
+    "department": "BAHREIN",
+    "id": "8001"
+  },
+  {
+    "department": "BANGLADESH",
+    "id": "8101"
+  },
+  {
+    "department": "BARBADOS",
+    "id": "8301"
+  },
+  {
+    "department": "BELGICA",
+    "id": "8701"
+  },
+  {
+    "department": "BELICE",
+    "id": "8801"
+  },
+  {
+    "department": "BERMUDAS",
+    "id": "9001"
+  },
+  {
+    "department": "BELARUS",
+    "id": "9101"
+  },
+  {
+    "department": "MYANMAR",
+    "id": "9301"
+  },
+  {
+    "department": "BOLIVIA",
+    "id": "9701"
+  },
+  {
+    "department": "BOTSWANA",
+    "id": "10101"
+  },
+  {
+    "department": "BRASIL",
+    "id": "10501"
+  },
+  {
+    "department": "BRUNEI DARUSSALAM",
+    "id": "10801"
+  },
+  {
+    "department": "BULGARIA",
+    "id": "11101"
+  },
+  {
+    "department": "BURUNDI",
+    "id": "11501"
+  },
+  {
+    "department": "BUTAN",
+    "id": "11901"
+  },
+  {
+    "department": "CABOVERDE",
+    "id": "12701"
+  },
+  {
+    "department": "CAIMAN, ISLAS",
+    "id": "13701"
+  },
+  {
+    "department": "CAMBOYA",
+    "id": "14101"
+  },
+  {
+    "department": "CAMERUN, REP. UNIDA DEL",
+    "id": "14501"
+  },
+  {
+    "department": "CANADA",
+    "id": "14901"
+  },
+  {
+    "department": "SANTA SEDE",
+    "id": "15901"
+  },
+  {
+    "department": "COCOS (KEELING), ISLAS",
+    "id": "16501"
+  },
+  {
+    "department": "ANTIOQUIA",
+    "id": "16905"
+  },
+  {
+    "department": "ATLANTICO",
+    "id": "16908"
+  },
+  {
+    "department": "BOGOTA, D.C.",
+    "id": "16911"
+  },
+  {
+    "department": "BOLIVAR",
+    "id": "16913"
+  },
+  {
+    "department": "BOYACA",
+    "id": "16915"
+  },
+  {
+    "department": "CALDAS",
+    "id": "16917"
+  },
+  {
+    "department": "CAQUETA",
+    "id": "16918"
+  },
+  {
+    "department": "CAUCA",
+    "id": "16919"
+  },
+  {
+    "department": "CESAR",
+    "id": "16920"
+  },
+  {
+    "department": "CORDOBA",
+    "id": "16923"
+  },
+  {
+    "department": "CUNDINAMARCA",
+    "id": "16925"
+  },
+  {
+    "department": "CHOCO",
+    "id": "16927"
+  },
+  {
+    "department": "HUILA",
+    "id": "16941"
+  },
+  {
+    "department": "LA GUAJIRA",
+    "id": "16944"
+  },
+  {
+    "department": "MAGDALENA",
+    "id": "16947"
+  },
+  {
+    "department": "META",
+    "id": "16950"
+  },
+  {
+    "department": "NARINO",
+    "id": "16952"
+  },
+  {
+    "department": "NORTE DE SANTANDER",
+    "id": "16954"
+  },
+  {
+    "department": "QUINDIO",
+    "id": "16963"
+  },
+  {
+    "department": "RISARALDA",
+    "id": "16966"
+  },
+  {
+    "department": "SANTANDER",
+    "id": "16968"
+  },
+  {
+    "department": "SUCRE",
+    "id": "16970"
+  },
+  {
+    "department": "TOLIMA",
+    "id": "16973"
+  },
+  {
+    "department": "VALLE DEL CAUCA",
+    "id": "16976"
+  },
+  {
+    "department": "ARAUCA",
+    "id": "16981"
+  },
+  {
+    "department": "CASANARE",
+    "id": "16985"
+  },
+  {
+    "department": "PUTUMAYO",
+    "id": "16986"
+  },
+  {
+    "department": "ARCHIP DE SAN ANDRES,PROVIDENC",
+    "id": "16988"
+  },
+  {
+    "department": "AMAZONAS",
+    "id": "16991"
+  },
+  {
+    "department": "GUAINIA",
+    "id": "16994"
+  },
+  {
+    "department": "GUAVIARE",
+    "id": "16995"
+  },
+  {
+    "department": "VAUPES",
+    "id": "16997"
+  },
+  {
+    "department": "VICHADA",
+    "id": "16999"
+  },
+  {
+    "department": "COMORAS",
+    "id": "17301"
+  },
+  {
+    "department": "CONGO",
+    "id": "17701"
+  },
+  {
+    "department": "COOK, ISLAS",
+    "id": "18301"
+  },
+  {
+    "department": "COREA (NORTE), REP. POP. DEM.",
+    "id": "18701"
+  },
+  {
+    "department": "COREA (SUR), REP. DE",
+    "id": "19001"
+  },
+  {
+    "department": "COSTA DE MARFIL",
+    "id": "19301"
+  },
+  {
+    "department": "COSTA RICA",
+    "id": "19601"
+  },
+  {
+    "department": "CROACIA",
+    "id": "19801"
+  },
+  {
+    "department": "CUBA",
+    "id": "19901"
+  },
+  {
+    "department": "CHAD",
+    "id": "20301"
+  },
+  {
+    "department": "CHILE",
+    "id": "21101"
+  },
+  {
+    "department": "CHINA",
+    "id": "21501"
+  },
+  {
+    "department": "TAIWAN (FORMOSA)",
+    "id": "21801"
+  },
+  {
+    "department": "CHIPRE",
+    "id": "22101"
+  },
+  {
+    "department": "OVO - BENIN",
+    "id": "22901"
+  },
+  {
+    "department": "DINAMARCA",
+    "id": "23201"
+  },
+  {
+    "department": "DOMINICA",
+    "id": "23501"
+  },
+  {
+    "department": "ECUADOR",
+    "id": "23901"
+  },
+  {
+    "department": "EGIPTO",
+    "id": "24001"
+  },
+  {
+    "department": "EL SALVADOR",
+    "id": "24201"
+  },
+  {
+    "department": "ERITREA",
+    "id": "24301"
+  },
+  {
+    "department": "EMIRATOS ARABES UNIDOS",
+    "id": "24401"
+  },
+  {
+    "department": "ESPAÑA",
+    "id": "24501"
+  },
+  {
+    "department": "ESLOVAQUIA",
+    "id": "24601"
+  },
+  {
+    "department": "ESLOVENIA",
+    "id": "24701"
+  },
+  {
+    "department": "WASHINGTON",
+    "id": "24901"
+  },
+  {
+    "department": "ALABAMA",
+    "id": "24902"
+  },
+  {
+    "department": "ALASKA",
+    "id": "24903"
+  },
+  {
+    "department": "ARIZONA",
+    "id": "24904"
+  },
+  {
+    "department": "ARKANSAS",
+    "id": "24905"
+  },
+  {
+    "department": "CALIFORNIA",
+    "id": "24906"
+  },
+  {
+    "department": "NORTH CAROLINA",
+    "id": "24907"
+  },
+  {
+    "department": "SOUTH CAROLINA",
+    "id": "24908"
+  },
+  {
+    "department": "COLORADO",
+    "id": "24909"
+  },
+  {
+    "department": "CONNECTICUT",
+    "id": "24910"
+  },
+  {
+    "department": "NORTH DAKOTA",
+    "id": "24911"
+  },
+  {
+    "department": "SOUTH DAKOTA",
+    "id": "24912"
+  },
+  {
+    "department": "DELAWARE",
+    "id": "24913"
+  },
+  {
+    "department": "FLORIDA",
+    "id": "24914"
+  },
+  {
+    "department": "GEORGIA",
+    "id": "24915"
+  },
+  {
+    "department": "HAWAII",
+    "id": "24916"
+  },
+  {
+    "department": "IDAHO",
+    "id": "24917"
+  },
+  {
+    "department": "ILLINOIS",
+    "id": "24918"
+  },
+  {
+    "department": "INDIANA",
+    "id": "24919"
+  },
+  {
+    "department": "IOWA",
+    "id": "24920"
+  },
+  {
+    "department": "KANSAS",
+    "id": "24921"
+  },
+  {
+    "department": "KENTUCKY",
+    "id": "24922"
+  },
+  {
+    "department": "LOUISIANA",
+    "id": "24923"
+  },
+  {
+    "department": "MAINE",
+    "id": "24924"
+  },
+  {
+    "department": "MARYLAND",
+    "id": "24925"
+  },
+  {
+    "department": "MASSACHUSETTS",
+    "id": "24926"
+  },
+  {
+    "department": "MICHIGAN",
+    "id": "24927"
+  },
+  {
+    "department": "MINNESOTA",
+    "id": "24928"
+  },
+  {
+    "department": "MISSISSIPPI",
+    "id": "24929"
+  },
+  {
+    "department": "MISSOURI",
+    "id": "24930"
+  },
+  {
+    "department": "MONTANA",
+    "id": "24931"
+  },
+  {
+    "department": "NEBRASKA",
+    "id": "24932"
+  },
+  {
+    "department": "NEVADA",
+    "id": "24933"
+  },
+  {
+    "department": "NEW JERSEY",
+    "id": "24934"
+  },
+  {
+    "department": "NEW YORK",
+    "id": "24935"
+  },
+  {
+    "department": "NEW HAMPSHIRE",
+    "id": "24936"
+  },
+  {
+    "department": "NEW MEXICO",
+    "id": "24937"
+  },
+  {
+    "department": "OHIO",
+    "id": "24938"
+  },
+  {
+    "department": "OKLAHOMA",
+    "id": "24939"
+  },
+  {
+    "department": "OREGON",
+    "id": "24940"
+  },
+  {
+    "department": "PENNSYLVANIA",
+    "id": "24941"
+  },
+  {
+    "department": "RHODE ISLAND AND PROVIDENCE PL",
+    "id": "24942"
+  },
+  {
+    "department": "TENNESSEE",
+    "id": "24943"
+  },
+  {
+    "department": "TEXAS",
+    "id": "24944"
+  },
+  {
+    "department": "UTAH",
+    "id": "24945"
+  },
+  {
+    "department": "VERMONT",
+    "id": "24946"
+  },
+  {
+    "department": "VIRGINIA",
+    "id": "24947"
+  },
+  {
+    "department": "WEST VIRGINIA",
+    "id": "24948"
+  },
+  {
+    "department": "WISCONSIN",
+    "id": "24949"
+  },
+  {
+    "department": "WYOMING",
+    "id": "24950"
+  },
+  {
+    "department": "ESTONIA",
+    "id": "25101"
+  },
+  {
+    "department": "ETIOPIA",
+    "id": "25301"
+  },
+  {
+    "department": "FEROE, ISLAS",
+    "id": "25901"
+  },
+  {
+    "department": "FILIPINAS",
+    "id": "26701"
+  },
+  {
+    "department": "FINLANDIA",
+    "id": "27101"
+  },
+  {
+    "department": "FRANCIA",
+    "id": "27501"
+  },
+  {
+    "department": "GABON",
+    "id": "28101"
+  },
+  {
+    "department": "GAMBIA",
+    "id": "28501"
+  },
+  {
+    "department": "GAZA Y JERICO",
+    "id": "28601"
+  },
+  {
+    "department": "GEORGIA",
+    "id": "28701"
+  },
+  {
+    "department": "GHANA",
+    "id": "28901"
+  },
+  {
+    "department": "GIBRALTAR",
+    "id": "29301"
+  },
+  {
+    "department": "GRANADA",
+    "id": "29701"
+  },
+  {
+    "department": "GRECIA",
+    "id": "30101"
+  },
+  {
+    "department": "GROENLANDIA",
+    "id": "30501"
+  },
+  {
+    "department": "GUADALUPE",
+    "id": "30901"
+  },
+  {
+    "department": "GUAM",
+    "id": "31301"
+  },
+  {
+    "department": "GUATEMALA",
+    "id": "31701"
+  },
+  {
+    "department": "GUAYANA FRANCESA",
+    "id": "32501"
+  },
+  {
+    "department": "GUINEA",
+    "id": "32901"
+  },
+  {
+    "department": "GUINEA ECUATORIAL",
+    "id": "33101"
+  },
+  {
+    "department": "GUINEA BISSAU",
+    "id": "33401"
+  },
+  {
+    "department": "GUYANA",
+    "id": "33701"
+  },
+  {
+    "department": "HAITI",
+    "id": "34101"
+  },
+  {
+    "department": "HONDURAS",
+    "id": "34501"
+  },
+  {
+    "department": "HONG KONG",
+    "id": "35101"
+  },
+  {
+    "department": "HUNGRIA",
+    "id": "35501"
+  },
+  {
+    "department": "INDIA",
+    "id": "36101"
+  },
+  {
+    "department": "INDONESIA",
+    "id": "36501"
+  },
+  {
+    "department": "IRAK",
+    "id": "36901"
+  },
+  {
+    "department": "IRAN, REP ISLAMICA DEL",
+    "id": "37201"
+  },
+  {
+    "department": "IRLANDA (EIRE)",
+    "id": "37501"
+  },
+  {
+    "department": "ISLANDIA",
+    "id": "37901"
+  },
+  {
+    "department": "ISRAEL",
+    "id": "38301"
+  },
+  {
+    "department": "ITALIA",
+    "id": "38601"
+  },
+  {
+    "department": "JAMAICA",
+    "id": "39101"
+  },
+  {
+    "department": "JOHNSTON, ISLA",
+    "id": "39501"
+  },
+  {
+    "department": "JAPON",
+    "id": "39901"
+  },
+  {
+    "department": "JORDANIA",
+    "id": "40301"
+  },
+  {
+    "department": "KAZAJISTAN",
+    "id": "40601"
+  },
+  {
+    "department": "KENIA",
+    "id": "41001"
+  },
+  {
+    "department": "KIRIBATI",
+    "id": "41101"
+  },
+  {
+    "department": "KIRGUIZISTAN",
+    "id": "41201"
+  },
+  {
+    "department": "KUWAIT",
+    "id": "41301"
+  },
+  {
+    "department": "LAOS, REP. POP. DEMOCRATICA DE",
+    "id": "42001"
+  },
+  {
+    "department": "LESOTHO",
+    "id": "42601"
+  },
+  {
+    "department": "LETONIA",
+    "id": "42901"
+  },
+  {
+    "department": "LIBANO",
+    "id": "43101"
+  },
+  {
+    "department": "LIBERIA",
+    "id": "43401"
+  },
+  {
+    "department": "LIBIA",
+    "id": "43801"
+  },
+  {
+    "department": "LIECHTENSTEIN",
+    "id": "44001"
+  },
+  {
+    "department": "LITUANIA",
+    "id": "44301"
+  },
+  {
+    "department": "LUXEMBURGO",
+    "id": "44501"
+  },
+  {
+    "department": "MACAO",
+    "id": "44701"
+  },
+  {
+    "department": "MACEDONIA",
+    "id": "44801"
+  },
+  {
+    "department": "MADAGASCAR",
+    "id": "45001"
+  },
+  {
+    "department": "MALAYSIA",
+    "id": "45501"
+  },
+  {
+    "department": "MALAWI",
+    "id": "45801"
+  },
+  {
+    "department": "MALDIVAS",
+    "id": "46101"
+  },
+  {
+    "department": "MALI",
+    "id": "46401"
+  },
+  {
+    "department": "MALTA",
+    "id": "46701"
+  },
+  {
+    "department": "MARIANAS DEL NORTE ISLAS",
+    "id": "46901"
+  },
+  {
+    "department": "MARSHALL ISLAS",
+    "id": "47201"
+  },
+  {
+    "department": "MARRUECOS",
+    "id": "47401"
+  },
+  {
+    "department": "MARTINICA",
+    "id": "47701"
+  },
+  {
+    "department": "MAURICIO",
+    "id": "48501"
+  },
+  {
+    "department": "MAURITANIA",
+    "id": "48801"
+  },
+  {
+    "department": "MEXICO",
+    "id": "49301"
+  },
+  {
+    "department": "MICRONESIA, ESTADOS FEDERA. DE",
+    "id": "49401"
+  },
+  {
+    "department": "MIDWAY, ISLAS",
+    "id": "49501"
+  },
+  {
+    "department": "MOLDAVIA",
+    "id": "49601"
+  },
+  {
+    "department": "MONGOLIA",
+    "id": "49701"
+  },
+  {
+    "department": "MONACO",
+    "id": "49801"
+  },
+  {
+    "department": "MONTSERRAT, ISLA",
+    "id": "50101"
+  },
+  {
+    "department": "MOZAMBIQUE",
+    "id": "50501"
+  },
+  {
+    "department": "NAMIBIA",
+    "id": "50701"
+  },
+  {
+    "department": "NAURU",
+    "id": "50801"
+  },
+  {
+    "department": "NAVIDAD (CHRISTMAS), ISLA",
+    "id": "51101"
+  },
+  {
+    "department": "NEPAL",
+    "id": "51701"
+  },
+  {
+    "department": "NICARAGUA",
+    "id": "52101"
+  },
+  {
+    "department": "NIGER",
+    "id": "52501"
+  },
+  {
+    "department": "NIGERIA",
+    "id": "52801"
+  },
+  {
+    "department": "NIUE, ISLA",
+    "id": "53101"
+  },
+  {
+    "department": "NORFOLK, ISLA",
+    "id": "53501"
+  },
+  {
+    "department": "NORUEGA",
+    "id": "53801"
+  },
+  {
+    "department": "NUEVA CALEDONIA",
+    "id": "54201"
+  },
+  {
+    "department": "PAPUASIA NUEVA GUINEA",
+    "id": "54501"
+  },
+  {
+    "department": "NUEVA ZELANDA",
+    "id": "54801"
+  },
+  {
+    "department": "VANUATU",
+    "id": "55101"
+  },
+  {
+    "department": "OMAN",
+    "id": "55601"
+  },
+  {
+    "department": "PAISES BAJOS",
+    "id": "57301"
+  },
+  {
+    "department": "PAKISTAN",
+    "id": "57601"
+  },
+  {
+    "department": "PALAU, ISLAS",
+    "id": "57801"
+  },
+  {
+    "department": "PANAMA",
+    "id": "58001"
+  },
+  {
+    "department": "PARAGUAY",
+    "id": "58601"
+  },
+  {
+    "department": "PERU",
+    "id": "58901"
+  },
+  {
+    "department": "PITCAIRN, ISLA",
+    "id": "59301"
+  },
+  {
+    "department": "POLINESIA FRANCESA",
+    "id": "59901"
+  },
+  {
+    "department": "POLONIA",
+    "id": "60301"
+  },
+  {
+    "department": "PORTUGAL",
+    "id": "60701"
+  },
+  {
+    "department": "PUERTO RICO",
+    "id": "61101"
+  },
+  {
+    "department": "QATAR",
+    "id": "61801"
+  },
+  {
+    "department": "REINO UNIDO",
+    "id": "62801"
+  },
+  {
+    "department": "REPUBLICA CENTRO AFRICANA",
+    "id": "64001"
+  },
+  {
+    "department": "REPUBLICA CHECA",
+    "id": "64401"
+  },
+  {
+    "department": "REPUBLICA DOMINICANA",
+    "id": "64701"
+  },
+  {
+    "department": "REUNION",
+    "id": "66001"
+  },
+  {
+    "department": "ZIMBABWE",
+    "id": "66501"
+  },
+  {
+    "department": "RUMANIA",
+    "id": "67001"
+  },
+  {
+    "department": "RUANDA",
+    "id": "67501"
+  },
+  {
+    "department": "RUSIA",
+    "id": "67601"
+  },
+  {
+    "department": "SALOMON, ISLAS",
+    "id": "67701"
+  },
+  {
+    "department": "SAHARA OCCIDENTAL",
+    "id": "68501"
+  },
+  {
+    "department": "SAMOA",
+    "id": "68701"
+  },
+  {
+    "department": "SAMOA NORTEAMERICANA",
+    "id": "69001"
+  },
+  {
+    "department": "SAN CRISTOBAL Y NIEVES",
+    "id": "69501"
+  },
+  {
+    "department": "SAN MARINO",
+    "id": "69701"
+  },
+  {
+    "department": "SAN PEDRO Y MIQUELON",
+    "id": "70001"
+  },
+  {
+    "department": "SAN VICENTE Y LAS GRANADINAS",
+    "id": "70501"
+  },
+  {
+    "department": "SANTA ELENA",
+    "id": "71001"
+  },
+  {
+    "department": "SANTA LUCIA",
+    "id": "71501"
+  },
+  {
+    "department": "SANTO TOME Y PRINCIPE",
+    "id": "72001"
+  },
+  {
+    "department": "SENEGAL",
+    "id": "72801"
+  },
+  {
+    "department": "SEYCHELLES",
+    "id": "73101"
+  },
+  {
+    "department": "SIERRA LEONA",
+    "id": "73501"
+  },
+  {
+    "department": "SINGAPUR",
+    "id": "74101"
+  },
+  {
+    "department": "SIRIA, REP. ARABE DE",
+    "id": "74401"
+  },
+  {
+    "department": "SOMALIA",
+    "id": "74801"
+  },
+  {
+    "department": "SRILANKA",
+    "id": "75001"
+  },
+  {
+    "department": "SUDAFRICA, REPUBLICA DE",
+    "id": "75601"
+  },
+  {
+    "department": "SUDAN",
+    "id": "75901"
+  },
+  {
+    "department": "SUECIA",
+    "id": "76401"
+  },
+  {
+    "department": "SUIZA",
+    "id": "76701"
+  },
+  {
+    "department": "SURINAM",
+    "id": "77001"
+  },
+  {
+    "department": "SWASILANDIA",
+    "id": "77301"
+  },
+  {
+    "department": "TADJIKISTAN",
+    "id": "77401"
+  },
+  {
+    "department": "TAILANDIA",
+    "id": "77601"
+  },
+  {
+    "department": "TANZANIA, REP. UNIDA DE",
+    "id": "78001"
+  },
+  {
+    "department": "DJIBOUTI",
+    "id": "78301"
+  },
+  {
+    "department": "TERRITORIO. ANTARTICO BRIT",
+    "id": "78601"
+  },
+  {
+    "department": "T. BRIT. OCEANOINDICO",
+    "id": "78701"
+  },
+  {
+    "department": "TIMOR DEL ESTE",
+    "id": "78801"
+  },
+  {
+    "department": "TOGO",
+    "id": "80001"
+  },
+  {
+    "department": "TOKELAU",
+    "id": "80501"
+  },
+  {
+    "department": "TONGA",
+    "id": "81001"
+  },
+  {
+    "department": "TRINIDAD Y TOBAGO",
+    "id": "81501"
+  },
+  {
+    "department": "TUNISIA",
+    "id": "82001"
+  },
+  {
+    "department": "TURCAS Y CAICOS, ISLAS",
+    "id": "82301"
+  },
+  {
+    "department": "TURKMENISTAN",
+    "id": "82501"
+  },
+  {
+    "department": "TURQUIA",
+    "id": "82701"
+  },
+  {
+    "department": "TUVALU",
+    "id": "82801"
+  },
+  {
+    "department": "UCRANIA",
+    "id": "83001"
+  },
+  {
+    "department": "UGANDA",
+    "id": "83301"
+  },
+  {
+    "department": "URUGUAY",
+    "id": "84501"
+  },
+  {
+    "department": "UZBEKISTAN",
+    "id": "84701"
+  },
+  {
+    "department": "VENEZUELA",
+    "id": "85001"
+  },
+  {
+    "department": "VIETNAM",
+    "id": "85501"
+  },
+  {
+    "department": "VIRGENES, ISLAS (BRITANICAS)",
+    "id": "86301"
+  },
+  {
+    "department": "VIRGENES, ISLAS (NORTEAMER.)",
+    "id": "86601"
+  },
+  {
+    "department": "FIDJI",
+    "id": "87001"
+  },
+  {
+    "department": "WAKE, ISLA",
+    "id": "87301"
+  },
+  {
+    "department": "TU - WALLIS Y FUTUNA, ISLAS",
+    "id": "87501"
+  },
+  {
+    "department": "YEMEN",
+    "id": "88001"
+  },
+  {
+    "department": "YUGOSLAVIA",
+    "id": "88501"
+  },
+  {
+    "department": "ZAIRE",
+    "id": "88801"
+  },
+  {
+    "department": "ZAMBIA",
+    "id": "89001"
+  },
+  {
+    "department": "ZONA FRANCA BARRANQUILLA",
+    "id": "91101"
+  },
+  {
+    "department": "ZONA FRANCA BUENAVENTURA",
+    "id": "91201"
+  },
+  {
+    "department": "ZONA FRANCA CALI",
+    "id": "91301"
+  },
+  {
+    "department": "ZONA FRANCA CUCUTA",
+    "id": "91401"
+  },
+  {
+    "department": "ZONA FRANCA SANTA MARTA",
+    "id": "91501"
+  },
+  {
+    "department": "ZONA FRANCA CARTAGENA",
+    "id": "91601"
+  },
+  {
+    "department": "ZONA FRANCA RIONEGRO",
+    "id": "91701"
+  },
+  {
+    "department": "ZONA FRANCA LA CANDELARIA",
+    "id": "91801"
+  },
+  {
+    "department": "ZONA FRANCA BOGOTA",
+    "id": "91901"
+  },
+  {
+    "department": "ZONA FRANCA PACIFICO",
+    "id": "92001"
+  },
+  {
+    "department": "ZONA FRANCA BARU BEACH RESORT",
+    "id": "92101"
+  },
+  {
+    "department": "ZONA FRANCA POZOS COLORADOS",
+    "id": "92201"
+  },
+  {
+    "department": "ZONA FRANCA EUROCARIBE",
+    "id": "92301"
+  },
+  {
+    "department": "NO DECLARADOS - NO DECLARADOS",
+    "id": "99900"
+  }
+ ]
+ }

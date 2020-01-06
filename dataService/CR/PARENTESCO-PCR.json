@@ -1,0 +1,12 @@
+[
+    { "label": "CONYUGE", "value": "CONYUGE"},
+    { "label": "PADRE", "value": "PADRE"},
+    { "label": "MADRE", "value": "MADRE"},
+    { "label": "HIJO ( A )", "value": "HIJO ( A )"},
+    { "label": "HERMANO ( A )", "value": "HERMANO ( A )" },
+    { "label": "TIO ( A )", "value": "PRIMO ( A )"},
+    { "label": "SOBRINO ( A )", "value": "SOBRINO ( A )"},
+    { "label": "NIETO ( A )", "value": "NIETO ( A )"},
+    { "label": "ABUELO ( A )", "value": "ABUELO ( A )"},
+    { "label": "OTROS", "value": "OTROS"}
+]

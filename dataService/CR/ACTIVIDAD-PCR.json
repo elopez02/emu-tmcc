@@ -1,0 +1,74 @@
+[
+ {
+   "value": "1",
+   "label": "INDUSTRIA LOCAL"
+ },
+ {
+   "value": "10",
+   "label": "CONSTRUCCION"
+ },
+ {
+   "value": "11",
+   "label": "TURISMO"
+ },
+ {
+   "value": "12",
+   "label": "OTROS"
+ },
+ {
+   "value": "13",
+   "label": "BANCARIOS"
+ },
+ {
+   "value": "14",
+   "label": "TRANSPORTE Y COMUNICACIONES"
+ },
+ {
+   "value": "15",
+   "label": "DEPOSITOS Y ALMACENAMIENTOS"
+ },
+ {
+   "value": "16",
+   "label": "GOBIERNO"
+ },
+ {
+   "value": "17",
+   "label": "INDUSTRIA DE EXPORTACION"
+ },
+ {
+   "value": "2",
+   "label": "COMERCIO"
+ },
+ {
+   "value": "3",
+   "label": "AGRICULTURA Y SILVICULTURA"
+ },
+ {
+   "value": "4",
+   "label": "GANADERIA, CAZA Y PESCA"
+ },
+ {
+   "value": "5",
+   "label": "SERVICIOS"
+ },
+ {
+   "value": "6",
+   "label": "CONSUMO Y CREDITO PERSONAL"
+ },
+ {
+   "value": "7",
+   "label": "VIVIENDA"
+ },
+ {
+   "value": "8",
+   "label": "ELECTRICIDAD, GAS, AGUA SERV.SANIT. Y OTRAS FUENTES DE ENERGIA"
+ },
+ {
+   "value": "9",
+   "label": "CREDITO NO CLASIFICADO"
+ },
+ {
+   "value": "99",
+   "label": "ACTIVIDA NO DEFINIDA"
+ }
+]

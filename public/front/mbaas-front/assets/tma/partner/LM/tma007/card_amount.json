@@ -1,0 +1,25 @@
+{
+  "salto": 500000,
+  "tarjetas": [
+    {
+      "minimo": "-Infinity",
+      "maximo": 500000,
+      "tarjeta": "visa_signature_lm.jpg"
+    },
+    {
+      "minimo": 500000,
+      "maximo": 3000000,
+      "tarjeta": "visa_clasic_lm.jpg"
+    },
+    {
+      "minimo": 3000000,
+      "maximo": 6000000,
+      "tarjeta": "visa_gold_lm.jpg"
+    },
+    {
+      "minimo": 6000000,
+      "maximo": "Infinity",
+      "tarjeta": "visa_platinum_lm.jpg"
+    }
+  ]
+}

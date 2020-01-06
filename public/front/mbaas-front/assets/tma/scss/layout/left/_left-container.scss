@@ -1,0 +1,95 @@
+
+/**
+ * Layout - Left Container
+ */
+
+.leftContainer
+{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    background-image: url(../img/layout/cover_image.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    // brand container
+    &__brandsContainer
+    {
+        display: none;
+        width: em(400);
+        height: em(42);
+        position: absolute;
+        top: em(18);
+        left: em(18);
+        z-index: 10;
+        &__brand
+        {
+            width: em(200);
+            height: 100%;
+            @include prefix((
+                display: flex,
+                justify-content: flex-start,
+                align-items: center,
+            ), webkit moz o ms);
+            img
+            {
+                height: 100%;
+            }
+            &--allied
+            {
+                img
+                {
+                    height: 67%;
+                }
+            }
+        }
+        &__separator
+        {
+            width: em(1.5);
+            height: em(26);
+            background-color: white;
+            margin: 0 em(10);
+        }
+    }
+    @include media(lg)
+    {
+        position: relative;
+        height: 100%;
+        width: 45%;
+        &--naked
+        {
+            background-image: none;
+        }
+        &__brandsContainer
+        {
+            top: em(28);
+            left: em(28);
+            @include prefix((
+                display: flex,
+                justify-content: flex-start,
+                align-items: center,
+            ), webkit moz o ms);
+        }
+    }
+
+    @include media(xlg)
+    {
+        position: relative;
+        height: 100%;
+        width: 45%;
+        &--naked
+        {
+            background-image: none;
+        }
+        &__brandsContainer
+        {
+            top: em(28);
+            left: em(28);
+            @include prefix((
+                display: flex,
+                justify-content: flex-start,
+                align-items: center,
+            ), webkit moz o ms);
+        }
+    }
+}

@@ -1,0 +1,96 @@
+
+/**
+ * Modules - main title
+ */
+
+ .initialTitle
+ {
+    padding: 0 10%;
+    text-align: center;
+    &--isHidden
+    {
+        display: none;
+        @include media(lg){
+            display: block;
+        }
+    }
+    h2
+    {
+        font-weight: bold;
+        margin-bottom: em(2);
+    }
+    h3
+    {
+        font-weight: bold;
+    }
+    p{
+        padding: 0;
+    }
+    img{
+        @include media(md)
+        {
+            width: em(45);
+        }
+    }
+    &__stepsCounter
+    {
+        width: 100%;
+        margin: 0 0 em(15) 0;
+        @include prefix((
+            box-sizing: border-box,
+            display: flex,
+            justify-content: center,
+            align-items: center,
+        ), webkit moz o ms);
+        .step {
+            background-color: $color__lightgray;
+            width: em(28);
+            height: em(28);
+            color: white;
+            margin-right: em(40);
+            position: relative;
+            &:before
+            {
+                content: '';
+                top: 0;
+                bottom: 0;
+                right: em(28);
+                width: em(40);
+                height: 2px;
+                background-color: $color__lightgray;
+                margin: auto 0;
+                position: absolute;
+                z-index: 0;
+            }
+            &:first-child
+            {
+                &:before
+                {
+                    display: none;
+                }
+            }
+            &:last-child
+            {
+                margin-right: 0;
+            }
+            &--active
+            {
+                background-color: $color__primary;
+                &:before
+                {
+                    background-color: $color__primary;
+                }
+            }
+            @include prefix((
+                border-radius: 50%,
+                box-sizing: border-box,
+                display: flex,
+                justify-content: center,
+                align-items: center,
+            ), webkit moz o ms);
+            @include media(md){
+                font-size: 30px;
+            }
+        }
+    }
+ }

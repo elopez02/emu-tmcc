@@ -1,0 +1,34 @@
+[
+    {
+      "value": "IMPORTACION",
+      "label": "IMPORTACION"
+    },
+    {
+    "value": "EXPORTACION",
+    "label": "EXPORTACION"
+    },
+    {
+    "value": "PRESTAMOS",
+    "label": "PRESTAMOS"
+    },
+    {
+    "value": "INVERSIONES",
+    "label": "INVERSIONES"
+    },
+    {
+    "value": "COMPRA Y VENTA DE DIVISAS",
+    "label": "COMPRA Y VENTA DE DIVISAS"
+    },
+    {
+    "value": "REMESAS",
+    "label": "REMESAS"
+    },
+    {
+    "value": "PAGOS Y SERVICIOS",
+    "label": "PAGOS Y SERVICIOS"
+    },
+    {
+      "value": "NO APLICA",
+      "label": "NO APLICA"
+    }
+]

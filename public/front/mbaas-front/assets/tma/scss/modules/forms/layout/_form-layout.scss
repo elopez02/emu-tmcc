@@ -1,0 +1,13 @@
+
+/**
+* Modules - forms - Layout
+*/
+
+.formContainer
+{
+	width: 100%;
+	padding: em(21) 0;
+	@include prefix((
+ 		box-sizing: border-box,
+    ), webkit moz o ms);
+}

@@ -1,0 +1,18 @@
+[
+ {
+   "value": "CEDULA",
+   "label": "CEDULA NACIONAL"
+ },
+ {
+   "value": "C",
+   "label": "CEDULA"
+ },
+ {
+   "value": "P",
+   "label": "PASAPORTE"
+ },
+ {
+   "value": "J",
+   "label": "CEDULA JURIDICA"
+ }
+]

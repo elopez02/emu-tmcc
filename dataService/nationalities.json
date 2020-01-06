@@ -1,0 +1,16 @@
+{
+    "nationalities": [
+        {
+            "name": "Argentina",
+            "dane": "001"
+        },
+        {
+            "name": "Colombiana",
+            "dane": "002"
+        },
+        {
+            "name": "Mexicana",
+            "dane": "003"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+[
+ {
+   "value": "01",
+   "label": "Ingresos por sueldo",
+   "actividad_comercial": "1"
+ },
+ {
+   "value": "03",
+   "label": "Ingresos por Terceros",
+   "actividad_comercial": "2"
+ },
+ {
+   "value": "04",
+   "label": "De la Pension",
+   "actividad_comercial": "3"
+ },
+ {
+   "value": "06",
+   "label": "Ingresos de indole financiero",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "07",
+   "label": "Ingresos por servicios y transporte",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "08",
+   "label": "Ingresos por comercio",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "09",
+   "label": "Ingresos por industria",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "10",
+   "label": "Ingresos por manufactura",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "11",
+   "label": "Ingresos por otros servicios",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "12",
+   "label": "Ingresos por servicios",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "13",
+   "label": "Otros Ingresos",
+   "actividad_comercial": "4"
+ },
+ {
+   "value": "05",
+   "label": "Honorarios por servicios profesiona",
+   "actividad_comercial": "5"
+ },
+ {
+   "value": "02",
+   "label": "Administración Patrimonio / Inversi",
+   "actividad_comercial": "6"
+ }
+]

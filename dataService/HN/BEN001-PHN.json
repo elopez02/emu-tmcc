@@ -1,0 +1,23 @@
+[
+    {
+        "id": "0",
+        "icono": "ico_cardhand",
+        "descripcion": "Reciba una tarjeta de débito para realizar todas sus compras.",
+        "titulo": ""
+      }, {
+        "id": "1",
+        "icono": "ico_atm",
+        "descripcion": "Haga retiros gratis con su tarjeta de débito en ATM Davivienda Gratis.",
+        "titulo": ""
+      },{
+        "id": "2",
+        "icono": "ico_bolsaplata",
+        "descripcion": "Participe en sorteos mensuales.",
+        "titulo": ""
+      }, {
+        "id": "3",
+        "icono": "ico_compu",
+        "descripcion": "Creación de la cuenta 100% digital.",
+        "titulo": ""
+      }
+]

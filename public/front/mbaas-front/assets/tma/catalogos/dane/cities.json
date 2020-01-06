@@ -1,0 +1,8367 @@
+{
+	"cities": [
+    {
+			"name": "NO Existe",
+			"dane": "91301"
+		},{
+			"name": "NO INFORMADO",
+			"dane": "00000000"
+		},
+		{
+			"name": "KABUL",
+			"dane": "01301001"
+		},
+		{
+			"name": "TIRANA",
+			"dane": "01710001"
+		},
+		{
+			"name": "BERLÍN",
+			"dane": "02301001"
+		},
+		{
+			"name": "EREVÁN",
+			"dane": "02601001"
+		},
+		{
+			"name": "ORANJESTAD",
+			"dane": "02701001"
+		},
+		{
+			"name": "SARAJEVO",
+			"dane": "02901001"
+		},
+		{
+			"name": "UAGADUGÚ",
+			"dane": "03101001"
+		},
+		{
+			"name": "ANDORRA LA VIEJA",
+			"dane": "03701001"
+		},
+		{
+			"name": "LUANDA",
+			"dane": "04001001"
+		},
+		{
+			"name": "EL VALLE",
+			"dane": "04101001"
+		},
+		{
+			"name": "SAINT JOHN'S",
+			"dane": "04301001"
+		},
+		{
+			"name": "WILLEMSTAD",
+			"dane": "04701001"
+		},
+		{
+			"name": "RIAD",
+			"dane": "05301001"
+		},
+		{
+			"name": "ARGEL",
+			"dane": "05901001"
+		},
+		{
+			"name": "BUENOS AIRES-ARGENTINA",
+			"dane": "06301001"
+		},
+		{
+			"name": "CANBERRA",
+			"dane": "06901001"
+		},
+		{
+			"name": "VIENA",
+			"dane": "07201001"
+		},
+		{
+			"name": "BAKÚ",
+			"dane": "07401001"
+		},
+		{
+			"name": "NASÁU",
+			"dane": "07701001"
+		},
+		{
+			"name": "MANAMA",
+			"dane": "08001001"
+		},
+		{
+			"name": "DACA",
+			"dane": "08101001"
+		},
+		{
+			"name": "BRIDGESTOWN",
+			"dane": "08301001"
+		},
+		{
+			"name": "BRUSELAS",
+			"dane": "08701001"
+		},
+		{
+			"name": "BELMOPÁN",
+			"dane": "08801001"
+		},
+		{
+			"name": "HAMILTON",
+			"dane": "09001001"
+		},
+		{
+			"name": "MINSK",
+			"dane": "09101001"
+		},
+		{
+			"name": "NAIPYIDÓ",
+			"dane": "09301001"
+		},
+		{
+			"name": "LA PAZ-BOLIVIA",
+			"dane": "09701001"
+		},
+		{
+			"name": "GABORONE",
+			"dane": "10101001"
+		},
+		{
+			"name": "BRASILIA",
+			"dane": "10501001"
+		},
+		{
+			"name": "BANDAR SERI BEGAWAN",
+			"dane": "10801001"
+		},
+		{
+			"name": "SOFÍA",
+			"dane": "11101001"
+		},
+		{
+			"name": "BUYUMBURA",
+			"dane": "11501001"
+		},
+		{
+			"name": "TIMBU",
+			"dane": "11901001"
+		},
+		{
+			"name": "PRAIA",
+			"dane": "12701001"
+		},
+		{
+			"name": "GEORGE TOWN",
+			"dane": "13701001"
+		},
+		{
+			"name": "PHNOM PENH",
+			"dane": "14101001"
+		},
+		{
+			"name": "YAUNDÉ",
+			"dane": "14501001"
+		},
+		{
+			"name": "OTTAWA",
+			"dane": "14901001"
+		},
+		{
+			"name": "CIUDAD DEL VATICANO",
+			"dane": "15901001"
+		},
+		{
+			"name": "WEST ISLAND",
+			"dane": "16501001"
+		},
+		{
+			"name": "MEDELLIN",
+			"dane": "16905001"
+		},
+		{
+			"name": "ABEJORRAL",
+			"dane": "16905002"
+		},
+		{
+			"name": "ABRIAQUI",
+			"dane": "16905004"
+		},
+		{
+			"name": "ALEJANDRIA",
+			"dane": "16905021"
+		},
+		{
+			"name": "AMAGA",
+			"dane": "16905030"
+		},
+		{
+			"name": "AMALFI",
+			"dane": "16905031"
+		},
+		{
+			"name": "ANDES",
+			"dane": "16905034"
+		},
+		{
+			"name": "ANGELOPOLIS",
+			"dane": "16905036"
+		},
+		{
+			"name": "ANGOSTURA",
+			"dane": "16905038"
+		},
+		{
+			"name": "ANORI",
+			"dane": "16905040"
+		},
+		{
+			"name": "SANTA FE DE ANTIOQUIA",
+			"dane": "16905042"
+		},
+		{
+			"name": "ANZA",
+			"dane": "16905044"
+		},
+		{
+			"name": "APARTADO",
+			"dane": "16905045"
+		},
+		{
+			"name": "ARBOLETES",
+			"dane": "16905051"
+		},
+		{
+			"name": "ARGELIA-ANTIOQUIA",
+			"dane": "16905055"
+		},
+		{
+			"name": "ARMENIA-ANTIOQUIA",
+			"dane": "16905059"
+		},
+		{
+			"name": "BARBOSA",
+			"dane": "16905079"
+		},
+		{
+			"name": "BELMIRA",
+			"dane": "16905086"
+		},
+		{
+			"name": "BELLO",
+			"dane": "16905088"
+		},
+		{
+			"name": "BETANIA",
+			"dane": "16905091"
+		},
+		{
+			"name": "BETULIA-ANTIOQUIA",
+			"dane": "16905093"
+		},
+		{
+			"name": "CIUDAD BOLIVAR",
+			"dane": "16905101"
+		},
+		{
+			"name": "BRICENO",
+			"dane": "16905107"
+		},
+		{
+			"name": "BURITICA",
+			"dane": "16905113"
+		},
+		{
+			"name": "CACERES",
+			"dane": "16905120"
+		},
+		{
+			"name": "CAICEDO",
+			"dane": "16905125"
+		},
+		{
+			"name": "CALDAS",
+			"dane": "16905129"
+		},
+		{
+			"name": "CAMPAMENTO",
+			"dane": "16905134"
+		},
+		{
+			"name": "CANASGORDAS",
+			"dane": "16905138"
+		},
+		{
+			"name": "CARACOLI",
+			"dane": "16905142"
+		},
+		{
+			"name": "CARAMANTA",
+			"dane": "16905145"
+		},
+		{
+			"name": "CAREPA",
+			"dane": "16905147"
+		},
+		{
+			"name": "EL CARMEN DE VIBORAL",
+			"dane": "16905148"
+		},
+		{
+			"name": "CAROLINA",
+			"dane": "16905150"
+		},
+		{
+			"name": "CAUCASIA",
+			"dane": "16905154"
+		},
+		{
+			"name": "CHIGORODO",
+			"dane": "16905172"
+		},
+		{
+			"name": "CISNEROS",
+			"dane": "16905190"
+		},
+		{
+			"name": "COCORNA",
+			"dane": "16905197"
+		},
+		{
+			"name": "CONCEPCION-ANTIOQUIA",
+			"dane": "16905206"
+		},
+		{
+			"name": "CONCORDIA",
+			"dane": "16905209"
+		},
+		{
+			"name": "COPACABANA",
+			"dane": "16905212"
+		},
+		{
+			"name": "DABEIBA",
+			"dane": "16905234"
+		},
+		{
+			"name": "DON MATIAS",
+			"dane": "16905237"
+		},
+		{
+			"name": "EBEJICO",
+			"dane": "16905240"
+		},
+		{
+			"name": "EL BAGRE",
+			"dane": "16905250"
+		},
+		{
+			"name": "ENTRERRIOS",
+			"dane": "16905264"
+		},
+		{
+			"name": "ENVIGADO",
+			"dane": "16905266"
+		},
+		{
+			"name": "FREDONIA",
+			"dane": "16905282"
+		},
+		{
+			"name": "FRONTINO",
+			"dane": "16905284"
+		},
+		{
+			"name": "GIRALDO",
+			"dane": "16905306"
+		},
+		{
+			"name": "GIRARDOTA",
+			"dane": "16905308"
+		},
+		{
+			"name": "GOMEZ PLATA",
+			"dane": "16905310"
+		},
+		{
+			"name": "GRANADA-ANTIOQUIA",
+			"dane": "16905313"
+		},
+		{
+			"name": "GUADALUPE-ANTIOQUIA",
+			"dane": "16905315"
+		},
+		{
+			"name": "GUARNE",
+			"dane": "16905318"
+		},
+		{
+			"name": "GUATAPE",
+			"dane": "16905321"
+		},
+		{
+			"name": "HELICONIA",
+			"dane": "16905347"
+		},
+		{
+			"name": "HISPANIA",
+			"dane": "16905353"
+		},
+		{
+			"name": "ITAGUI",
+			"dane": "16905360"
+		},
+		{
+			"name": "ITUANGO",
+			"dane": "16905361"
+		},
+		{
+			"name": "JARDIN",
+			"dane": "16905364"
+		},
+		{
+			"name": "JERICO",
+			"dane": "16905368"
+		},
+		{
+			"name": "LA CEJA",
+			"dane": "16905376"
+		},
+		{
+			"name": "LA ESTRELLA",
+			"dane": "16905380"
+		},
+		{
+			"name": "LA PINTADA",
+			"dane": "16905390"
+		},
+		{
+			"name": "LA UNION-ANTIOQUIA",
+			"dane": "16905400"
+		},
+		{
+			"name": "LIBORINA",
+			"dane": "16905411"
+		},
+		{
+			"name": "MACEO",
+			"dane": "16905425"
+		},
+		{
+			"name": "MARINILLA",
+			"dane": "16905440"
+		},
+		{
+			"name": "MONTEBELLO",
+			"dane": "16905467"
+		},
+		{
+			"name": "MURINDO",
+			"dane": "16905475"
+		},
+		{
+			"name": "MUTATA",
+			"dane": "16905480"
+		},
+		{
+			"name": "NARINO-ANTIOQUIA",
+			"dane": "16905483"
+		},
+		{
+			"name": "NECOCLI",
+			"dane": "16905490"
+		},
+		{
+			"name": "NECHI",
+			"dane": "16905495"
+		},
+		{
+			"name": "OLAYA",
+			"dane": "16905501"
+		},
+		{
+			"name": "PENOL",
+			"dane": "16905541"
+		},
+		{
+			"name": "PEQUE",
+			"dane": "16905543"
+		},
+		{
+			"name": "PUEBLORRICO",
+			"dane": "16905576"
+		},
+		{
+			"name": "PUERTO BERRIO",
+			"dane": "16905579"
+		},
+		{
+			"name": "PUERTO NARE",
+			"dane": "16905585"
+		},
+		{
+			"name": "PUERTO TRIUNFO",
+			"dane": "16905591"
+		},
+		{
+			"name": "REMEDIOS",
+			"dane": "16905604"
+		},
+		{
+			"name": "RETIRO",
+			"dane": "16905607"
+		},
+		{
+			"name": "RIONEGRO-ANTIOQUIA",
+			"dane": "16905615"
+		},
+		{
+			"name": "SABANALARGA-ANTIOQUIA",
+			"dane": "16905628"
+		},
+		{
+			"name": "SABANETA",
+			"dane": "16905631"
+		},
+		{
+			"name": "SALGAR",
+			"dane": "16905642"
+		},
+		{
+			"name": "SAN ANDRES-ANTIOQUIA",
+			"dane": "16905647"
+		},
+		{
+			"name": "SAN CARLOS-ANTIOQUIA",
+			"dane": "16905649"
+		},
+		{
+			"name": "SAN FRANCISCO",
+			"dane": "16905652"
+		},
+		{
+			"name": "SAN JERONIMO",
+			"dane": "16905656"
+		},
+		{
+			"name": "SAN JOSE DE LA MONTANA",
+			"dane": "16905658"
+		},
+		{
+			"name": "SAN JUAN DE URABA",
+			"dane": "16905659"
+		},
+		{
+			"name": "SAN LUIS",
+			"dane": "16905660"
+		},
+		{
+			"name": "SAN PEDRO DE LOS MILAGROS",
+			"dane": "16905664"
+		},
+		{
+			"name": "SAN PEDRO DE URABA",
+			"dane": "16905665"
+		},
+		{
+			"name": "SAN RAFAEL",
+			"dane": "16905667"
+		},
+		{
+			"name": "SAN ROQUE",
+			"dane": "16905670"
+		},
+		{
+			"name": "SAN VICENTE",
+			"dane": "16905674"
+		},
+		{
+			"name": "SANTA BARBARA",
+			"dane": "16905679"
+		},
+		{
+			"name": "SANTA ROSA DE OSOS",
+			"dane": "16905686"
+		},
+		{
+			"name": "SANTO DOMINGO",
+			"dane": "16905690"
+		},
+		{
+			"name": "SANTUARIO-ANTIOQUIA",
+			"dane": "16905697"
+		},
+		{
+			"name": "SEGOVIA",
+			"dane": "16905736"
+		},
+		{
+			"name": "SONSON",
+			"dane": "16905756"
+		},
+		{
+			"name": "SOPETRAN",
+			"dane": "16905761"
+		},
+		{
+			"name": "TAMESIS",
+			"dane": "16905789"
+		},
+		{
+			"name": "TARAZA",
+			"dane": "16905790"
+		},
+		{
+			"name": "TARSO",
+			"dane": "16905792"
+		},
+		{
+			"name": "TITIRIBI",
+			"dane": "16905809"
+		},
+		{
+			"name": "TOLEDO-ANTIOQUIA",
+			"dane": "16905819"
+		},
+		{
+			"name": "TURBO",
+			"dane": "16905837"
+		},
+		{
+			"name": "URAMITA",
+			"dane": "16905842"
+		},
+		{
+			"name": "URRAO",
+			"dane": "16905847"
+		},
+		{
+			"name": "VALDIVIA",
+			"dane": "16905854"
+		},
+		{
+			"name": "VALPARAISO",
+			"dane": "16905856"
+		},
+		{
+			"name": "VEGACHI",
+			"dane": "16905858"
+		},
+		{
+			"name": "VENECIA-ANTIOQUIA",
+			"dane": "16905861"
+		},
+		{
+			"name": "VIGIA DEL FUERTE",
+			"dane": "16905873"
+		},
+		{
+			"name": "YALI",
+			"dane": "16905885"
+		},
+		{
+			"name": "YARUMAL",
+			"dane": "16905887"
+		},
+		{
+			"name": "YOLOMBO",
+			"dane": "16905890"
+		},
+		{
+			"name": "YONDO",
+			"dane": "16905893"
+		},
+		{
+			"name": "ZARAGOZA",
+			"dane": "16905895"
+		},
+		{
+			"name": "BARRANQUILLA",
+			"dane": "16908001"
+		},
+		{
+			"name": "BARANOA",
+			"dane": "16908078"
+		},
+		{
+			"name": "CAMPO DE LA CRUZ",
+			"dane": "16908137"
+		},
+		{
+			"name": "CANDELARIA-ATLANTICO",
+			"dane": "16908141"
+		},
+		{
+			"name": "GALAPA",
+			"dane": "16908296"
+		},
+		{
+			"name": "JUAN DE ACOSTA",
+			"dane": "16908372"
+		},
+		{
+			"name": "LURUACO",
+			"dane": "16908421"
+		},
+		{
+			"name": "MALAMBO",
+			"dane": "16908433"
+		},
+		{
+			"name": "MANATI",
+			"dane": "16908436"
+		},
+		{
+			"name": "PALMAR DE VARELA",
+			"dane": "16908520"
+		},
+		{
+			"name": "PIOJO",
+			"dane": "16908549"
+		},
+		{
+			"name": "POLONUEVO",
+			"dane": "16908558"
+		},
+		{
+			"name": "PONEDERA",
+			"dane": "16908560"
+		},
+		{
+			"name": "PUERTO COLOMBIA",
+			"dane": "16908573"
+		},
+		{
+			"name": "REPELON",
+			"dane": "16908606"
+		},
+		{
+			"name": "SABANAGRANDE",
+			"dane": "16908634"
+		},
+		{
+			"name": "SABANALARGA",
+			"dane": "16908638"
+		},
+		{
+			"name": "SANTA LUCIA",
+			"dane": "16908675"
+		},
+		{
+			"name": "SANTO TOMAS",
+			"dane": "16908685"
+		},
+		{
+			"name": "SOLEDAD",
+			"dane": "16908758"
+		},
+		{
+			"name": "SUAN",
+			"dane": "16908770"
+		},
+		{
+			"name": "TUBARA",
+			"dane": "16908832"
+		},
+		{
+			"name": "USIACURI",
+			"dane": "16908849"
+		},
+		{
+			"name": "BOGOTA, D.C.",
+			"dane": "16911001"
+		},
+		{
+			"name": "CARTAGENA DE INDIAS",
+			"dane": "16913001"
+		},
+		{
+			"name": "ACHI",
+			"dane": "16913006"
+		},
+		{
+			"name": "ALTOS DEL ROSARIO",
+			"dane": "16913030"
+		},
+		{
+			"name": "ARENAL",
+			"dane": "16913042"
+		},
+		{
+			"name": "ARJONA",
+			"dane": "16913052"
+		},
+		{
+			"name": "ARROYOHONDO",
+			"dane": "16913062"
+		},
+		{
+			"name": "BARRANCO DE LOBA",
+			"dane": "16913074"
+		},
+		{
+			"name": "CALAMAR",
+			"dane": "16913140"
+		},
+		{
+			"name": "CANTAGALLO",
+			"dane": "16913160"
+		},
+		{
+			"name": "CICUCO",
+			"dane": "16913188"
+		},
+		{
+			"name": "CORDOBA",
+			"dane": "16913212"
+		},
+		{
+			"name": "CLEMENCIA",
+			"dane": "16913222"
+		},
+		{
+			"name": "EL CARMEN DE BOLIVAR",
+			"dane": "16913244"
+		},
+		{
+			"name": "EL GUAMO",
+			"dane": "16913248"
+		},
+		{
+			"name": "EL PENON-BOLIVAR",
+			"dane": "16913268"
+		},
+		{
+			"name": "HATILLO DE LOBA",
+			"dane": "16913300"
+		},
+		{
+			"name": "MAGANGUE",
+			"dane": "16913430"
+		},
+		{
+			"name": "MAHATES",
+			"dane": "16913433"
+		},
+		{
+			"name": "MARGARITA",
+			"dane": "16913440"
+		},
+		{
+			"name": "MARIA LA BAJA",
+			"dane": "16913442"
+		},
+		{
+			"name": "MONTECRISTO",
+			"dane": "16913458"
+		},
+		{
+			"name": "MOMPOS",
+			"dane": "16913468"
+		},
+		{
+			"name": "MORALES",
+			"dane": "16913473"
+		},
+		{
+			"name": "NOROSI",
+			"dane": "16913490"
+		},
+		{
+			"name": "PINILLOS",
+			"dane": "16913549"
+		},
+		{
+			"name": "REGIDOR",
+			"dane": "16913580"
+		},
+		{
+			"name": "RIO VIEJO",
+			"dane": "16913600"
+		},
+		{
+			"name": "SAN CRISTOBAL",
+			"dane": "16913620"
+		},
+		{
+			"name": "SAN ESTANISLAO",
+			"dane": "16913647"
+		},
+		{
+			"name": "SAN FERNANDO-BOLIVAR",
+			"dane": "16913650"
+		},
+		{
+			"name": "SAN JACINTO",
+			"dane": "16913654"
+		},
+		{
+			"name": "SAN JACINTO DEL CAUCA",
+			"dane": "16913655"
+		},
+		{
+			"name": "SAN JUAN NEPOMUCENO",
+			"dane": "16913657"
+		},
+		{
+			"name": "SAN MARTIN DE LOBA",
+			"dane": "16913667"
+		},
+		{
+			"name": "SAN PABLO",
+			"dane": "16913670"
+		},
+		{
+			"name": "SANTA CATALINA",
+			"dane": "16913673"
+		},
+		{
+			"name": "SANTA ROSA-BOLIVAR",
+			"dane": "16913683"
+		},
+		{
+			"name": "SANTA ROSA DEL SUR",
+			"dane": "16913688"
+		},
+		{
+			"name": "SIMITI",
+			"dane": "16913744"
+		},
+		{
+			"name": "SOPLAVIENTO",
+			"dane": "16913760"
+		},
+		{
+			"name": "TALAIGUA NUEVO",
+			"dane": "16913780"
+		},
+		{
+			"name": "TIQUISIO",
+			"dane": "16913810"
+		},
+		{
+			"name": "TURBACO",
+			"dane": "16913836"
+		},
+		{
+			"name": "TURBANA",
+			"dane": "16913838"
+		},
+		{
+			"name": "VILLANUEVA-BOLIVAR",
+			"dane": "16913873"
+		},
+		{
+			"name": "ZAMBRANO",
+			"dane": "16913894"
+		},
+		{
+			"name": "TUNJA",
+			"dane": "16915001"
+		},
+		{
+			"name": "ALMEIDA",
+			"dane": "16915022"
+		},
+		{
+			"name": "AQUITANIA",
+			"dane": "16915047"
+		},
+		{
+			"name": "ARCABUCO",
+			"dane": "16915051"
+		},
+		{
+			"name": "BELEN-BOYACA",
+			"dane": "16915087"
+		},
+		{
+			"name": "BERBEO",
+			"dane": "16915090"
+		},
+		{
+			"name": "BETEITIVA",
+			"dane": "16915092"
+		},
+		{
+			"name": "BOAVITA",
+			"dane": "16915097"
+		},
+		{
+			"name": "BOYACA",
+			"dane": "16915104"
+		},
+		{
+			"name": "BRICENO-BOYACA",
+			"dane": "16915106"
+		},
+		{
+			"name": "BUENAVISTA-BOYACA",
+			"dane": "16915109"
+		},
+		{
+			"name": "BUSBANZA",
+			"dane": "16915114"
+		},
+		{
+			"name": "CALDAS-BOYACA",
+			"dane": "16915131"
+		},
+		{
+			"name": "CAMPOHERMOSO",
+			"dane": "16915135"
+		},
+		{
+			"name": "CERINZA",
+			"dane": "16915162"
+		},
+		{
+			"name": "CHINAVITA",
+			"dane": "16915172"
+		},
+		{
+			"name": "CHIQUINQUIRA",
+			"dane": "16915176"
+		},
+		{
+			"name": "CHISCAS",
+			"dane": "16915180"
+		},
+		{
+			"name": "CHITA",
+			"dane": "16915183"
+		},
+		{
+			"name": "CHITARAQUE",
+			"dane": "16915185"
+		},
+		{
+			"name": "CHIVATA",
+			"dane": "16915187"
+		},
+		{
+			"name": "CIENEGA",
+			"dane": "16915189"
+		},
+		{
+			"name": "COMBITA",
+			"dane": "16915204"
+		},
+		{
+			"name": "COPER",
+			"dane": "16915212"
+		},
+		{
+			"name": "CORRALES",
+			"dane": "16915215"
+		},
+		{
+			"name": "COVARACHIA",
+			"dane": "16915218"
+		},
+		{
+			"name": "CUBARA",
+			"dane": "16915223"
+		},
+		{
+			"name": "CUCAITA",
+			"dane": "16915224"
+		},
+		{
+			"name": "CUITIVA",
+			"dane": "16915226"
+		},
+		{
+			"name": "CHIQUIZA",
+			"dane": "16915232"
+		},
+		{
+			"name": "CHIVOR",
+			"dane": "16915236"
+		},
+		{
+			"name": "DUITAMA",
+			"dane": "16915238"
+		},
+		{
+			"name": "EL COCUY",
+			"dane": "16915244"
+		},
+		{
+			"name": "EL ESPINO",
+			"dane": "16915248"
+		},
+		{
+			"name": "FIRAVITOBA",
+			"dane": "16915272"
+		},
+		{
+			"name": "FLORESTA",
+			"dane": "16915276"
+		},
+		{
+			"name": "GACHANTIVA",
+			"dane": "16915293"
+		},
+		{
+			"name": "GAMEZA",
+			"dane": "16915296"
+		},
+		{
+			"name": "GARAGOA",
+			"dane": "16915299"
+		},
+		{
+			"name": "GUACAMAYAS",
+			"dane": "16915317"
+		},
+		{
+			"name": "GUATEQUE",
+			"dane": "16915322"
+		},
+		{
+			"name": "GUAYATA",
+			"dane": "16915325"
+		},
+		{
+			"name": "GUICAN",
+			"dane": "16915332"
+		},
+		{
+			"name": "IZA",
+			"dane": "16915362"
+		},
+		{
+			"name": "JENESANO",
+			"dane": "16915367"
+		},
+		{
+			"name": "JERICO-BOYACA",
+			"dane": "16915368"
+		},
+		{
+			"name": "LABRANZAGRANDE",
+			"dane": "16915377"
+		},
+		{
+			"name": "LA CAPILLA",
+			"dane": "16915380"
+		},
+		{
+			"name": "LA VICTORIA-BOYACA",
+			"dane": "16915401"
+		},
+		{
+			"name": "LA UVITA",
+			"dane": "16915403"
+		},
+		{
+			"name": "VILLA DE LEYVA",
+			"dane": "16915407"
+		},
+		{
+			"name": "MACANAL",
+			"dane": "16915425"
+		},
+		{
+			"name": "MARIPI",
+			"dane": "16915442"
+		},
+		{
+			"name": "MIRAFLORES-BOYACA",
+			"dane": "16915455"
+		},
+		{
+			"name": "MONGUA",
+			"dane": "16915464"
+		},
+		{
+			"name": "MONGUI",
+			"dane": "16915466"
+		},
+		{
+			"name": "MONIQUIRA",
+			"dane": "16915469"
+		},
+		{
+			"name": "MOTAVITA",
+			"dane": "16915476"
+		},
+		{
+			"name": "MUZO",
+			"dane": "16915480"
+		},
+		{
+			"name": "NOBSA",
+			"dane": "16915491"
+		},
+		{
+			"name": "NUEVO COLON",
+			"dane": "16915494"
+		},
+		{
+			"name": "OICATA",
+			"dane": "16915500"
+		},
+		{
+			"name": "OTANCHE",
+			"dane": "16915507"
+		},
+		{
+			"name": "PACHAVITA",
+			"dane": "16915511"
+		},
+		{
+			"name": "PAEZ-BOYACA",
+			"dane": "16915514"
+		},
+		{
+			"name": "PAIPA",
+			"dane": "16915516"
+		},
+		{
+			"name": "PAJARITO",
+			"dane": "16915518"
+		},
+		{
+			"name": "PANQUEBA",
+			"dane": "16915522"
+		},
+		{
+			"name": "PAUNA",
+			"dane": "16915531"
+		},
+		{
+			"name": "PAYA",
+			"dane": "16915533"
+		},
+		{
+			"name": "PAZ DE RIO",
+			"dane": "16915537"
+		},
+		{
+			"name": "PESCA",
+			"dane": "16915542"
+		},
+		{
+			"name": "PISBA",
+			"dane": "16915550"
+		},
+		{
+			"name": "PUERTO BOYACA",
+			"dane": "16915572"
+		},
+		{
+			"name": "QUIPAMA",
+			"dane": "16915580"
+		},
+		{
+			"name": "RAMIRIQUI",
+			"dane": "16915599"
+		},
+		{
+			"name": "RAQUIRA",
+			"dane": "16915600"
+		},
+		{
+			"name": "RONDON",
+			"dane": "16915621"
+		},
+		{
+			"name": "SABOYA",
+			"dane": "16915632"
+		},
+		{
+			"name": "SACHICA",
+			"dane": "16915638"
+		},
+		{
+			"name": "SAMACA",
+			"dane": "16915646"
+		},
+		{
+			"name": "SAN EDUARDO",
+			"dane": "16915660"
+		},
+		{
+			"name": "SAN JOSE DE PARE",
+			"dane": "16915664"
+		},
+		{
+			"name": "SAN LUIS DE GACENO",
+			"dane": "16915667"
+		},
+		{
+			"name": "SAN MATEO",
+			"dane": "16915673"
+		},
+		{
+			"name": "SAN MIGUEL DE SEMA",
+			"dane": "16915676"
+		},
+		{
+			"name": "SAN PABLO DE BORBUR",
+			"dane": "16915681"
+		},
+		{
+			"name": "SANTANA",
+			"dane": "16915686"
+		},
+		{
+			"name": "SANTA MARIA-BOYACA",
+			"dane": "16915690"
+		},
+		{
+			"name": "SANTA ROSA DE VITERBO",
+			"dane": "16915693"
+		},
+		{
+			"name": "SANTA SOFIA",
+			"dane": "16915696"
+		},
+		{
+			"name": "SATIVANORTE",
+			"dane": "16915720"
+		},
+		{
+			"name": "SATIVASUR",
+			"dane": "16915723"
+		},
+		{
+			"name": "SIACHOQUE",
+			"dane": "16915740"
+		},
+		{
+			"name": "SOATA",
+			"dane": "16915753"
+		},
+		{
+			"name": "SOCOTA",
+			"dane": "16915755"
+		},
+		{
+			"name": "SOCHA",
+			"dane": "16915757"
+		},
+		{
+			"name": "SOGAMOSO",
+			"dane": "16915759"
+		},
+		{
+			"name": "SOMONDOCO",
+			"dane": "16915761"
+		},
+		{
+			"name": "SORA",
+			"dane": "16915762"
+		},
+		{
+			"name": "SOTAQUIRA",
+			"dane": "16915763"
+		},
+		{
+			"name": "SORACA",
+			"dane": "16915764"
+		},
+		{
+			"name": "SUSACON",
+			"dane": "16915774"
+		},
+		{
+			"name": "SUTAMARCHAN",
+			"dane": "16915776"
+		},
+		{
+			"name": "SUTATENZA",
+			"dane": "16915778"
+		},
+		{
+			"name": "TASCO",
+			"dane": "16915790"
+		},
+		{
+			"name": "TENZA",
+			"dane": "16915798"
+		},
+		{
+			"name": "TIBANA",
+			"dane": "16915804"
+		},
+		{
+			"name": "TIBASOSA",
+			"dane": "16915806"
+		},
+		{
+			"name": "TINJACA",
+			"dane": "16915808"
+		},
+		{
+			"name": "TIPACOQUE",
+			"dane": "16915810"
+		},
+		{
+			"name": "TOCA",
+			"dane": "16915814"
+		},
+		{
+			"name": "TOGUI",
+			"dane": "16915816"
+		},
+		{
+			"name": "TOPAGA",
+			"dane": "16915820"
+		},
+		{
+			"name": "TOTA",
+			"dane": "16915822"
+		},
+		{
+			"name": "TUNUNGUA",
+			"dane": "16915832"
+		},
+		{
+			"name": "TURMEQUE",
+			"dane": "16915835"
+		},
+		{
+			"name": "TUTA",
+			"dane": "16915837"
+		},
+		{
+			"name": "TUTAZA",
+			"dane": "16915839"
+		},
+		{
+			"name": "UMBITA",
+			"dane": "16915842"
+		},
+		{
+			"name": "VENTAQUEMADA",
+			"dane": "16915861"
+		},
+		{
+			"name": "VIRACACHA",
+			"dane": "16915879"
+		},
+		{
+			"name": "ZETAQUIRA",
+			"dane": "16915897"
+		},
+		{
+			"name": "MANIZALES",
+			"dane": "16917001"
+		},
+		{
+			"name": "AGUADAS",
+			"dane": "16917013"
+		},
+		{
+			"name": "ANSERMA",
+			"dane": "16917042"
+		},
+		{
+			"name": "ARANZAZU",
+			"dane": "16917050"
+		},
+		{
+			"name": "BELALCAZAR",
+			"dane": "16917088"
+		},
+		{
+			"name": "CHINCHINA",
+			"dane": "16917174"
+		},
+		{
+			"name": "FILADELFIA",
+			"dane": "16917272"
+		},
+		{
+			"name": "LA DORADA",
+			"dane": "16917380"
+		},
+		{
+			"name": "LA MERCED",
+			"dane": "16917388"
+		},
+		{
+			"name": "MANZANARES",
+			"dane": "16917433"
+		},
+		{
+			"name": "MARMATO",
+			"dane": "16917442"
+		},
+		{
+			"name": "MARQUETALIA",
+			"dane": "16917444"
+		},
+		{
+			"name": "MARULANDA",
+			"dane": "16917446"
+		},
+		{
+			"name": "NEIRA",
+			"dane": "16917486"
+		},
+		{
+			"name": "NORCASIA",
+			"dane": "16917495"
+		},
+		{
+			"name": "PACORA",
+			"dane": "16917513"
+		},
+		{
+			"name": "PALESTINA",
+			"dane": "16917524"
+		},
+		{
+			"name": "PENSILVANIA",
+			"dane": "16917541"
+		},
+		{
+			"name": "RIOSUCIO-CALDAS",
+			"dane": "16917614"
+		},
+		{
+			"name": "RISARALDA",
+			"dane": "16917616"
+		},
+		{
+			"name": "SALAMINA-CALDAS",
+			"dane": "16917653"
+		},
+		{
+			"name": "SAMANA",
+			"dane": "16917662"
+		},
+		{
+			"name": "SAN JOSE",
+			"dane": "16917665"
+		},
+		{
+			"name": "SUPIA",
+			"dane": "16917777"
+		},
+		{
+			"name": "VICTORIA-CALDAS",
+			"dane": "16917867"
+		},
+		{
+			"name": "VILLAMARIA",
+			"dane": "16917873"
+		},
+		{
+			"name": "VITERBO",
+			"dane": "16917877"
+		},
+		{
+			"name": "FLORENCIA",
+			"dane": "16918001"
+		},
+		{
+			"name": "ALBANIA-CAQUETA",
+			"dane": "16918029"
+		},
+		{
+			"name": "BELEN DE LOS ANDAQUIES",
+			"dane": "16918094"
+		},
+		{
+			"name": "CARTAGENA DEL CHAIRA",
+			"dane": "16918150"
+		},
+		{
+			"name": "CURRILLO",
+			"dane": "16918205"
+		},
+		{
+			"name": "EL DONCELLO",
+			"dane": "16918247"
+		},
+		{
+			"name": "EL PAUJIL",
+			"dane": "16918256"
+		},
+		{
+			"name": "LA MONTANITA",
+			"dane": "16918410"
+		},
+		{
+			"name": "MILAN",
+			"dane": "16918460"
+		},
+		{
+			"name": "MORELIA",
+			"dane": "16918479"
+		},
+		{
+			"name": "PUERTO RICO",
+			"dane": "16918592"
+		},
+		{
+			"name": "SAN JOSE DE LA FRAGUA",
+			"dane": "16918610"
+		},
+		{
+			"name": "SAN VICENTE DEL CAGUAN",
+			"dane": "16918753"
+		},
+		{
+			"name": "SOLANO",
+			"dane": "16918756"
+		},
+		{
+			"name": "SOLITA",
+			"dane": "16918785"
+		},
+		{
+			"name": "VALPARAISO-CAQUETA",
+			"dane": "16918860"
+		},
+		{
+			"name": "POPAYAN",
+			"dane": "16919001"
+		},
+		{
+			"name": "ALMAGUER",
+			"dane": "16919022"
+		},
+		{
+			"name": "ARGELIA",
+			"dane": "16919050"
+		},
+		{
+			"name": "BALBOA",
+			"dane": "16919075"
+		},
+		{
+			"name": "BOLIVAR",
+			"dane": "16919100"
+		},
+		{
+			"name": "BUENOS AIRES",
+			"dane": "16919110"
+		},
+		{
+			"name": "CAJIBIO",
+			"dane": "16919130"
+		},
+		{
+			"name": "CALDONO",
+			"dane": "16919137"
+		},
+		{
+			"name": "CALOTO",
+			"dane": "16919142"
+		},
+		{
+			"name": "CORINTO",
+			"dane": "16919212"
+		},
+		{
+			"name": "EL TAMBO",
+			"dane": "16919256"
+		},
+		{
+			"name": "FLORENCIA-CAUCA",
+			"dane": "16919290"
+		},
+		{
+			"name": "GUACHENE",
+			"dane": "16919300"
+		},
+		{
+			"name": "GUAPI",
+			"dane": "16919318"
+		},
+		{
+			"name": "INZA",
+			"dane": "16919355"
+		},
+		{
+			"name": "JAMBALO",
+			"dane": "16919364"
+		},
+		{
+			"name": "LA SIERRA",
+			"dane": "16919392"
+		},
+		{
+			"name": "LA VEGA",
+			"dane": "16919397"
+		},
+		{
+			"name": "LOPEZ DE MICAY",
+			"dane": "16919418"
+		},
+		{
+			"name": "MERCADERES",
+			"dane": "16919450"
+		},
+		{
+			"name": "MIRANDA",
+			"dane": "16919455"
+		},
+		{
+			"name": "MORALES-CAUCA",
+			"dane": "16919473"
+		},
+		{
+			"name": "PADILLA",
+			"dane": "16919513"
+		},
+		{
+			"name": "PAEZ",
+			"dane": "16919517"
+		},
+		{
+			"name": "PATIA",
+			"dane": "16919532"
+		},
+		{
+			"name": "PIAMONTE",
+			"dane": "16919533"
+		},
+		{
+			"name": "PIENDAMO",
+			"dane": "16919548"
+		},
+		{
+			"name": "PUERTO TEJADA",
+			"dane": "16919573"
+		},
+		{
+			"name": "PURACE",
+			"dane": "16919585"
+		},
+		{
+			"name": "ROSAS",
+			"dane": "16919622"
+		},
+		{
+			"name": "SAN SEBASTIAN",
+			"dane": "16919693"
+		},
+		{
+			"name": "SANTANDER DE QUILICHAO",
+			"dane": "16919698"
+		},
+		{
+			"name": "SANTA ROSA",
+			"dane": "16919701"
+		},
+		{
+			"name": "SILVIA",
+			"dane": "16919743"
+		},
+		{
+			"name": "SOTARA",
+			"dane": "16919760"
+		},
+		{
+			"name": "SUAREZ",
+			"dane": "16919780"
+		},
+		{
+			"name": "SUCRE-CAUCA",
+			"dane": "16919785"
+		},
+		{
+			"name": "TIMBIO",
+			"dane": "16919807"
+		},
+		{
+			"name": "TIMBIQUI",
+			"dane": "16919809"
+		},
+		{
+			"name": "TORIBIO",
+			"dane": "16919821"
+		},
+		{
+			"name": "TOTORO",
+			"dane": "16919824"
+		},
+		{
+			"name": "VILLA RICA",
+			"dane": "16919845"
+		},
+		{
+			"name": "VALLEDUPAR",
+			"dane": "16920001"
+		},
+		{
+			"name": "AGUACHICA",
+			"dane": "16920011"
+		},
+		{
+			"name": "AGUSTIN CODAZZI",
+			"dane": "16920013"
+		},
+		{
+			"name": "ASTREA",
+			"dane": "16920032"
+		},
+		{
+			"name": "BECERRIL",
+			"dane": "16920045"
+		},
+		{
+			"name": "BOSCONIA",
+			"dane": "16920060"
+		},
+		{
+			"name": "CHIMICHAGUA",
+			"dane": "16920175"
+		},
+		{
+			"name": "CHIRIGUANA",
+			"dane": "16920178"
+		},
+		{
+			"name": "CURUMANI",
+			"dane": "16920228"
+		},
+		{
+			"name": "EL COPEY",
+			"dane": "16920238"
+		},
+		{
+			"name": "EL PASO",
+			"dane": "16920250"
+		},
+		{
+			"name": "GAMARRA",
+			"dane": "16920295"
+		},
+		{
+			"name": "GONZALEZ",
+			"dane": "16920310"
+		},
+		{
+			"name": "LA GLORIA",
+			"dane": "16920383"
+		},
+		{
+			"name": "LA JAGUA DE IBIRICO",
+			"dane": "16920400"
+		},
+		{
+			"name": "MANAURE-CESAR",
+			"dane": "16920443"
+		},
+		{
+			"name": "PAILITAS",
+			"dane": "16920517"
+		},
+		{
+			"name": "PELAYA",
+			"dane": "16920550"
+		},
+		{
+			"name": "PUEBLO BELLO",
+			"dane": "16920570"
+		},
+		{
+			"name": "RIO DE ORO",
+			"dane": "16920614"
+		},
+		{
+			"name": "LA PAZ",
+			"dane": "16920621"
+		},
+		{
+			"name": "SAN ALBERTO",
+			"dane": "16920710"
+		},
+		{
+			"name": "SAN DIEGO",
+			"dane": "16920750"
+		},
+		{
+			"name": "SAN MARTIN",
+			"dane": "16920770"
+		},
+		{
+			"name": "TAMALAMEQUE",
+			"dane": "16920787"
+		},
+		{
+			"name": "MONTERIA",
+			"dane": "16923001"
+		},
+		{
+			"name": "AYAPEL",
+			"dane": "16923068"
+		},
+		{
+			"name": "BUENAVISTA",
+			"dane": "16923079"
+		},
+		{
+			"name": "CANALETE",
+			"dane": "16923090"
+		},
+		{
+			"name": "CERETE",
+			"dane": "16923162"
+		},
+		{
+			"name": "CHIMA",
+			"dane": "16923168"
+		},
+		{
+			"name": "CHINU",
+			"dane": "16923182"
+		},
+		{
+			"name": "CIENAGA DE ORO",
+			"dane": "16923189"
+		},
+		{
+			"name": "COTORRA",
+			"dane": "16923300"
+		},
+		{
+			"name": "LA APARTADA",
+			"dane": "16923350"
+		},
+		{
+			"name": "LORICA",
+			"dane": "16923417"
+		},
+		{
+			"name": "LOS CORDOBAS",
+			"dane": "16923419"
+		},
+		{
+			"name": "MOMIL",
+			"dane": "16923464"
+		},
+		{
+			"name": "MONTELIBANO",
+			"dane": "16923466"
+		},
+		{
+			"name": "MONITOS",
+			"dane": "16923500"
+		},
+		{
+			"name": "PLANETA RICA",
+			"dane": "16923555"
+		},
+		{
+			"name": "PUEBLO NUEVO",
+			"dane": "16923570"
+		},
+		{
+			"name": "PUERTO ESCONDIDO",
+			"dane": "16923574"
+		},
+		{
+			"name": "PUERTO LIBERTADOR",
+			"dane": "16923580"
+		},
+		{
+			"name": "PURISIMA DE LA CONCEPCION",
+			"dane": "16923586"
+		},
+		{
+			"name": "SAHAGUN",
+			"dane": "16923660"
+		},
+		{
+			"name": "SAN ANDRES DE SOTAVENTO",
+			"dane": "16923670"
+		},
+		{
+			"name": "SAN ANTERO",
+			"dane": "16923672"
+		},
+		{
+			"name": "SAN BERNARDO DEL VIENTO",
+			"dane": "16923675"
+		},
+		{
+			"name": "SAN CARLOS",
+			"dane": "16923678"
+		},
+		{
+			"name": "SAN JOSE DE URE",
+			"dane": "16923682"
+		},
+		{
+			"name": "SAN PELAYO",
+			"dane": "16923686"
+		},
+		{
+			"name": "TIERRALTA",
+			"dane": "16923807"
+		},
+		{
+			"name": "TUCHIN",
+			"dane": "16923815"
+		},
+		{
+			"name": "VALENCIA",
+			"dane": "16923855"
+		},
+		{
+			"name": "AGUA DE DIOS",
+			"dane": "16925001"
+		},
+		{
+			"name": "ALBAN-CUNDINAMARCA",
+			"dane": "16925019"
+		},
+		{
+			"name": "ANAPOIMA",
+			"dane": "16925035"
+		},
+		{
+			"name": "ANOLAIMA",
+			"dane": "16925040"
+		},
+		{
+			"name": "ARBELAEZ",
+			"dane": "16925053"
+		},
+		{
+			"name": "BELTRAN",
+			"dane": "16925086"
+		},
+		{
+			"name": "BITUIMA",
+			"dane": "16925095"
+		},
+		{
+			"name": "BOJACA",
+			"dane": "16925099"
+		},
+		{
+			"name": "CABRERA",
+			"dane": "16925120"
+		},
+		{
+			"name": "CACHIPAY",
+			"dane": "16925123"
+		},
+		{
+			"name": "CAJICA",
+			"dane": "16925126"
+		},
+		{
+			"name": "CAPARRAPI",
+			"dane": "16925148"
+		},
+		{
+			"name": "CAQUEZA",
+			"dane": "16925151"
+		},
+		{
+			"name": "CARMEN DE CARUPA",
+			"dane": "16925154"
+		},
+		{
+			"name": "CHAGUANI",
+			"dane": "16925168"
+		},
+		{
+			"name": "CHIA",
+			"dane": "16925175"
+		},
+		{
+			"name": "CHIPAQUE",
+			"dane": "16925178"
+		},
+		{
+			"name": "CHOACHI",
+			"dane": "16925181"
+		},
+		{
+			"name": "CHOCONTA",
+			"dane": "16925183"
+		},
+		{
+			"name": "COGUA",
+			"dane": "16925200"
+		},
+		{
+			"name": "COTA",
+			"dane": "16925214"
+		},
+		{
+			"name": "CUCUNUBA",
+			"dane": "16925224"
+		},
+		{
+			"name": "EL COLEGIO",
+			"dane": "16925245"
+		},
+		{
+			"name": "EL PENON-CUNDINAMARCA",
+			"dane": "16925258"
+		},
+		{
+			"name": "EL ROSAL",
+			"dane": "16925260"
+		},
+		{
+			"name": "FACATATIVA",
+			"dane": "16925269"
+		},
+		{
+			"name": "FOMEQUE",
+			"dane": "16925279"
+		},
+		{
+			"name": "FOSCA",
+			"dane": "16925281"
+		},
+		{
+			"name": "FUNZA",
+			"dane": "16925286"
+		},
+		{
+			"name": "FUQUENE",
+			"dane": "16925288"
+		},
+		{
+			"name": "FUSAGASUGA",
+			"dane": "16925290"
+		},
+		{
+			"name": "GACHALA",
+			"dane": "16925293"
+		},
+		{
+			"name": "GACHANCIPA",
+			"dane": "16925295"
+		},
+		{
+			"name": "GACHETA",
+			"dane": "16925297"
+		},
+		{
+			"name": "GAMA",
+			"dane": "16925299"
+		},
+		{
+			"name": "GIRARDOT",
+			"dane": "16925307"
+		},
+		{
+			"name": "GRANADA-CUNDINAMARCA",
+			"dane": "16925312"
+		},
+		{
+			"name": "GUACHETA",
+			"dane": "16925317"
+		},
+		{
+			"name": "GUADUAS",
+			"dane": "16925320"
+		},
+		{
+			"name": "GUASCA",
+			"dane": "16925322"
+		},
+		{
+			"name": "GUATAQUI",
+			"dane": "16925324"
+		},
+		{
+			"name": "GUATAVITA",
+			"dane": "16925326"
+		},
+		{
+			"name": "GUAYABAL DE SIQUIMA",
+			"dane": "16925328"
+		},
+		{
+			"name": "GUAYABETAL",
+			"dane": "16925335"
+		},
+		{
+			"name": "GUTIERREZ",
+			"dane": "16925339"
+		},
+		{
+			"name": "JERUSALEN",
+			"dane": "16925368"
+		},
+		{
+			"name": "JUNIN",
+			"dane": "16925372"
+		},
+		{
+			"name": "LA CALERA",
+			"dane": "16925377"
+		},
+		{
+			"name": "LA MESA",
+			"dane": "16925386"
+		},
+		{
+			"name": "LA PALMA",
+			"dane": "16925394"
+		},
+		{
+			"name": "LA PENA",
+			"dane": "16925398"
+		},
+		{
+			"name": "LA VEGA-CUNDINAMARCA",
+			"dane": "16925402"
+		},
+		{
+			"name": "LENGUAZAQUE",
+			"dane": "16925407"
+		},
+		{
+			"name": "MACHETA",
+			"dane": "16925426"
+		},
+		{
+			"name": "MADRID",
+			"dane": "16925430"
+		},
+		{
+			"name": "MANTA",
+			"dane": "16925436"
+		},
+		{
+			"name": "MEDINA",
+			"dane": "16925438"
+		},
+		{
+			"name": "MOSQUERA-CUNDINAMARCA",
+			"dane": "16925473"
+		},
+		{
+			"name": "NARINO-CUNDINAMARCA",
+			"dane": "16925483"
+		},
+		{
+			"name": "NEMOCON",
+			"dane": "16925486"
+		},
+		{
+			"name": "NILO",
+			"dane": "16925488"
+		},
+		{
+			"name": "NIMAIMA",
+			"dane": "16925489"
+		},
+		{
+			"name": "NOCAIMA",
+			"dane": "16925491"
+		},
+		{
+			"name": "OSPINA PEREZ",
+			"dane": "16925506"
+		},
+		{
+			"name": "PACHO",
+			"dane": "16925513"
+		},
+		{
+			"name": "PAIME",
+			"dane": "16925518"
+		},
+		{
+			"name": "PANDI",
+			"dane": "16925524"
+		},
+		{
+			"name": "PARATEBUENO",
+			"dane": "16925530"
+		},
+		{
+			"name": "PASCA",
+			"dane": "16925535"
+		},
+		{
+			"name": "PUERTO SALGAR",
+			"dane": "16925572"
+		},
+		{
+			"name": "PULI",
+			"dane": "16925580"
+		},
+		{
+			"name": "QUEBRADANEGRA",
+			"dane": "16925592"
+		},
+		{
+			"name": "QUETAME",
+			"dane": "16925594"
+		},
+		{
+			"name": "QUIPILE",
+			"dane": "16925596"
+		},
+		{
+			"name": "APULO",
+			"dane": "16925599"
+		},
+		{
+			"name": "RICAURTE-CUNDINAMARCA",
+			"dane": "16925612"
+		},
+		{
+			"name": "SAN ANTONIO DEL TEQUENDAMA",
+			"dane": "16925645"
+		},
+		{
+			"name": "SAN BERNARDO",
+			"dane": "16925649"
+		},
+		{
+			"name": "SAN CAYETANO",
+			"dane": "16925653"
+		},
+		{
+			"name": "SAN FRANCISCO",
+			"dane": "16925658"
+		},
+		{
+			"name": "SAN JUAN DE RIOSECO",
+			"dane": "16925662"
+		},
+		{
+			"name": "SASAIMA",
+			"dane": "16925718"
+		},
+		{
+			"name": "SESQUILE",
+			"dane": "16925736"
+		},
+		{
+			"name": "SIBATE",
+			"dane": "16925740"
+		},
+		{
+			"name": "SILVANIA",
+			"dane": "16925743"
+		},
+		{
+			"name": "SIMIJACA",
+			"dane": "16925745"
+		},
+		{
+			"name": "SOACHA",
+			"dane": "16925754"
+		},
+		{
+			"name": "SOPO",
+			"dane": "16925758"
+		},
+		{
+			"name": "SUBACHOQUE",
+			"dane": "16925769"
+		},
+		{
+			"name": "SUESCA",
+			"dane": "16925772"
+		},
+		{
+			"name": "SUPATA",
+			"dane": "16925777"
+		},
+		{
+			"name": "SUSA",
+			"dane": "16925779"
+		},
+		{
+			"name": "SUTATAUSA",
+			"dane": "16925781"
+		},
+		{
+			"name": "TABIO",
+			"dane": "16925785"
+		},
+		{
+			"name": "TAUSA",
+			"dane": "16925793"
+		},
+		{
+			"name": "TENA",
+			"dane": "16925797"
+		},
+		{
+			"name": "TENJO",
+			"dane": "16925799"
+		},
+		{
+			"name": "TIBACUY",
+			"dane": "16925805"
+		},
+		{
+			"name": "TIBIRITA",
+			"dane": "16925807"
+		},
+		{
+			"name": "TOCAIMA",
+			"dane": "16925815"
+		},
+		{
+			"name": "TOCANCIPA",
+			"dane": "16925817"
+		},
+		{
+			"name": "TOPAIPI",
+			"dane": "16925823"
+		},
+		{
+			"name": "UBALA",
+			"dane": "16925839"
+		},
+		{
+			"name": "UBAQUE",
+			"dane": "16925841"
+		},
+		{
+			"name": "UBATE",
+			"dane": "16925843"
+		},
+		{
+			"name": "UNE",
+			"dane": "16925845"
+		},
+		{
+			"name": "UTICA",
+			"dane": "16925851"
+		},
+		{
+			"name": "VERGARA",
+			"dane": "16925862"
+		},
+		{
+			"name": "VIANI",
+			"dane": "16925867"
+		},
+		{
+			"name": "VILLAGOMEZ",
+			"dane": "16925871"
+		},
+		{
+			"name": "VILLAPINZON",
+			"dane": "16925873"
+		},
+		{
+			"name": "VILLETA",
+			"dane": "16925875"
+		},
+		{
+			"name": "VIOTA",
+			"dane": "16925878"
+		},
+		{
+			"name": "YACOPI",
+			"dane": "16925885"
+		},
+		{
+			"name": "ZIPACON",
+			"dane": "16925898"
+		},
+		{
+			"name": "ZIPAQUIRA",
+			"dane": "16925899"
+		},
+		{
+			"name": "QUIBDO",
+			"dane": "16927001"
+		},
+		{
+			"name": "ACANDI",
+			"dane": "16927006"
+		},
+		{
+			"name": "ALTO BAUDO",
+			"dane": "16927025"
+		},
+		{
+			"name": "ATRATO",
+			"dane": "16927050"
+		},
+		{
+			"name": "BAGADO",
+			"dane": "16927073"
+		},
+		{
+			"name": "BAHIA SOLANO",
+			"dane": "16927075"
+		},
+		{
+			"name": "BAJO BAUDO",
+			"dane": "16927077"
+		},
+		{
+			"name": "BOJAYA",
+			"dane": "16927099"
+		},
+		{
+			"name": "EL CANTON DEL SAN PABLO",
+			"dane": "16927135"
+		},
+		{
+			"name": "CARMEN DEL DARIEN",
+			"dane": "16927150"
+		},
+		{
+			"name": "CERTEGUI",
+			"dane": "16927160"
+		},
+		{
+			"name": "CONDOTO",
+			"dane": "16927205"
+		},
+		{
+			"name": "EL CARMEN DE ATRATO",
+			"dane": "16927245"
+		},
+		{
+			"name": "EL LITORAL DEL BAJO SAN JUAN",
+			"dane": "16927250"
+		},
+		{
+			"name": "ISTMINA",
+			"dane": "16927361"
+		},
+		{
+			"name": "JURADO",
+			"dane": "16927372"
+		},
+		{
+			"name": "LLORO",
+			"dane": "16927413"
+		},
+		{
+			"name": "MEDIO ATRATO",
+			"dane": "16927425"
+		},
+		{
+			"name": "MEDIO BAUDO",
+			"dane": "16927430"
+		},
+		{
+			"name": "MEDIO SAN JUAN",
+			"dane": "16927450"
+		},
+		{
+			"name": "NOVITA",
+			"dane": "16927491"
+		},
+		{
+			"name": "NUQUI",
+			"dane": "16927495"
+		},
+		{
+			"name": "RIO IRO",
+			"dane": "16927580"
+		},
+		{
+			"name": "RIO QUITO",
+			"dane": "16927600"
+		},
+		{
+			"name": "RIOSUCIO",
+			"dane": "16927615"
+		},
+		{
+			"name": "SAN JOSE DEL PALMAR",
+			"dane": "16927660"
+		},
+		{
+			"name": "SIPI",
+			"dane": "16927745"
+		},
+		{
+			"name": "TADO",
+			"dane": "16927787"
+		},
+		{
+			"name": "UNGUIA",
+			"dane": "16927800"
+		},
+		{
+			"name": "UNION PANAMERICANA",
+			"dane": "16927810"
+		},
+		{
+			"name": "NEIVA",
+			"dane": "16941001"
+		},
+		{
+			"name": "ACEVEDO",
+			"dane": "16941006"
+		},
+		{
+			"name": "AGRADO",
+			"dane": "16941013"
+		},
+		{
+			"name": "AIPE",
+			"dane": "16941016"
+		},
+		{
+			"name": "ALGECIRAS",
+			"dane": "16941020"
+		},
+		{
+			"name": "ALTAMIRA",
+			"dane": "16941026"
+		},
+		{
+			"name": "BARAYA",
+			"dane": "16941078"
+		},
+		{
+			"name": "CAMPOALEGRE",
+			"dane": "16941132"
+		},
+		{
+			"name": "COLOMBIA",
+			"dane": "16941206"
+		},
+		{
+			"name": "ELIAS",
+			"dane": "16941244"
+		},
+		{
+			"name": "GARZON",
+			"dane": "16941298"
+		},
+		{
+			"name": "GIGANTE",
+			"dane": "16941306"
+		},
+		{
+			"name": "GUADALUPE-HUILA",
+			"dane": "16941319"
+		},
+		{
+			"name": "HOBO",
+			"dane": "16941349"
+		},
+		{
+			"name": "IQUIRA",
+			"dane": "16941357"
+		},
+		{
+			"name": "ISNOS",
+			"dane": "16941359"
+		},
+		{
+			"name": "LA ARGENTINA",
+			"dane": "16941378"
+		},
+		{
+			"name": "LA PLATA",
+			"dane": "16941396"
+		},
+		{
+			"name": "NATAGA",
+			"dane": "16941483"
+		},
+		{
+			"name": "OPORAPA",
+			"dane": "16941503"
+		},
+		{
+			"name": "PAICOL",
+			"dane": "16941518"
+		},
+		{
+			"name": "PALERMO",
+			"dane": "16941524"
+		},
+		{
+			"name": "PALESTINA-HUILA",
+			"dane": "16941530"
+		},
+		{
+			"name": "PITAL",
+			"dane": "16941548"
+		},
+		{
+			"name": "PITALITO",
+			"dane": "16941551"
+		},
+		{
+			"name": "RIVERA",
+			"dane": "16941615"
+		},
+		{
+			"name": "SALADOBLANCO",
+			"dane": "16941660"
+		},
+		{
+			"name": "SAN AGUSTIN",
+			"dane": "16941668"
+		},
+		{
+			"name": "SANTA MARIA",
+			"dane": "16941676"
+		},
+		{
+			"name": "SUAZA",
+			"dane": "16941770"
+		},
+		{
+			"name": "TARQUI",
+			"dane": "16941791"
+		},
+		{
+			"name": "TESALIA",
+			"dane": "16941797"
+		},
+		{
+			"name": "TELLO",
+			"dane": "16941799"
+		},
+		{
+			"name": "TERUEL",
+			"dane": "16941801"
+		},
+		{
+			"name": "TIMANA",
+			"dane": "16941807"
+		},
+		{
+			"name": "VILLAVIEJA",
+			"dane": "16941872"
+		},
+		{
+			"name": "YAGUARA",
+			"dane": "16941885"
+		},
+		{
+			"name": "RIOHACHA",
+			"dane": "16944001"
+		},
+		{
+			"name": "ALBANIA-LA GUAJIRA",
+			"dane": "16944035"
+		},
+		{
+			"name": "BARRANCAS",
+			"dane": "16944078"
+		},
+		{
+			"name": "DIBULLA",
+			"dane": "16944090"
+		},
+		{
+			"name": "DISTRACCION",
+			"dane": "16944098"
+		},
+		{
+			"name": "EL MOLINO",
+			"dane": "16944110"
+		},
+		{
+			"name": "FONSECA",
+			"dane": "16944279"
+		},
+		{
+			"name": "HATONUEVO",
+			"dane": "16944378"
+		},
+		{
+			"name": "LA JAGUA DEL PILAR",
+			"dane": "16944420"
+		},
+		{
+			"name": "MAICAO",
+			"dane": "16944430"
+		},
+		{
+			"name": "MANAURE",
+			"dane": "16944560"
+		},
+		{
+			"name": "SAN JUAN DEL CESAR",
+			"dane": "16944650"
+		},
+		{
+			"name": "URIBIA",
+			"dane": "16944847"
+		},
+		{
+			"name": "URUMITA",
+			"dane": "16944855"
+		},
+		{
+			"name": "VILLANUEVA-LA GUAJIRA",
+			"dane": "16944874"
+		},
+		{
+			"name": "SANTA MARTA",
+			"dane": "16947001"
+		},
+		{
+			"name": "ALGARROBO",
+			"dane": "16947030"
+		},
+		{
+			"name": "ARACATACA",
+			"dane": "16947053"
+		},
+		{
+			"name": "ARIGUANI",
+			"dane": "16947058"
+		},
+		{
+			"name": "CERRO SAN ANTONIO",
+			"dane": "16947161"
+		},
+		{
+			"name": "CHIVOLO",
+			"dane": "16947170"
+		},
+		{
+			"name": "CIENAGA",
+			"dane": "16947189"
+		},
+		{
+			"name": "CONCORDIA-MAGDALENA",
+			"dane": "16947205"
+		},
+		{
+			"name": "EL BANCO",
+			"dane": "16947245"
+		},
+		{
+			"name": "EL PINON",
+			"dane": "16947258"
+		},
+		{
+			"name": "EL RETEN",
+			"dane": "16947268"
+		},
+		{
+			"name": "FUNDACION",
+			"dane": "16947288"
+		},
+		{
+			"name": "GUAMAL",
+			"dane": "16947318"
+		},
+		{
+			"name": "NUEVA GRANADA",
+			"dane": "16947460"
+		},
+		{
+			"name": "PEDRAZA",
+			"dane": "16947541"
+		},
+		{
+			"name": "PIJINO DEL CARMEN",
+			"dane": "16947545"
+		},
+		{
+			"name": "PIVIJAY",
+			"dane": "16947551"
+		},
+		{
+			"name": "PLATO",
+			"dane": "16947555"
+		},
+		{
+			"name": "PUEBLOVIEJO",
+			"dane": "16947570"
+		},
+		{
+			"name": "REMOLINO",
+			"dane": "16947605"
+		},
+		{
+			"name": "SABANAS DE SAN ANGEL",
+			"dane": "16947660"
+		},
+		{
+			"name": "SALAMINA",
+			"dane": "16947675"
+		},
+		{
+			"name": "SAN SEBASTIAN DE BUENAVISTA",
+			"dane": "16947692"
+		},
+		{
+			"name": "SAN ZENON",
+			"dane": "16947703"
+		},
+		{
+			"name": "SANTA ANA",
+			"dane": "16947707"
+		},
+		{
+			"name": "SANTA BARBARA DE PINTO",
+			"dane": "16947720"
+		},
+		{
+			"name": "SITIONUEVO",
+			"dane": "16947745"
+		},
+		{
+			"name": "TENERIFE",
+			"dane": "16947798"
+		},
+		{
+			"name": "ZAPAYAN",
+			"dane": "16947960"
+		},
+		{
+			"name": "ZONA BANANERA",
+			"dane": "16947980"
+		},
+		{
+			"name": "VILLAVICENCIO",
+			"dane": "16950001"
+		},
+		{
+			"name": "ACACIAS",
+			"dane": "16950006"
+		},
+		{
+			"name": "BARRANCA DE UPIA",
+			"dane": "16950110"
+		},
+		{
+			"name": "CABUYARO",
+			"dane": "16950124"
+		},
+		{
+			"name": "CASTILLA LA NUEVA",
+			"dane": "16950150"
+		},
+		{
+			"name": "SAN LUIS DE CUBARRAL",
+			"dane": "16950223"
+		},
+		{
+			"name": "CUMARAL",
+			"dane": "16950226"
+		},
+		{
+			"name": "EL CALVARIO",
+			"dane": "16950245"
+		},
+		{
+			"name": "EL CASTILLO",
+			"dane": "16950251"
+		},
+		{
+			"name": "EL DORADO",
+			"dane": "16950270"
+		},
+		{
+			"name": "FUENTE DE ORO",
+			"dane": "16950287"
+		},
+		{
+			"name": "GRANADA",
+			"dane": "16950313"
+		},
+		{
+			"name": "GUAMAL-META",
+			"dane": "16950318"
+		},
+		{
+			"name": "MAPIRIPAN",
+			"dane": "16950325"
+		},
+		{
+			"name": "MESETAS",
+			"dane": "16950330"
+		},
+		{
+			"name": "LA MACARENA",
+			"dane": "16950350"
+		},
+		{
+			"name": "LA URIBE",
+			"dane": "16950370"
+		},
+		{
+			"name": "LEJANIAS",
+			"dane": "16950400"
+		},
+		{
+			"name": "PUERTO CONCORDIA",
+			"dane": "16950450"
+		},
+		{
+			"name": "PUERTO GAITAN",
+			"dane": "16950568"
+		},
+		{
+			"name": "PUERTO LOPEZ",
+			"dane": "16950573"
+		},
+		{
+			"name": "PUERTO LLERAS",
+			"dane": "16950577"
+		},
+		{
+			"name": "PUERTO RICO-META",
+			"dane": "16950590"
+		},
+		{
+			"name": "RESTREPO-META",
+			"dane": "16950606"
+		},
+		{
+			"name": "SAN CARLOS DE GUAROA",
+			"dane": "16950680"
+		},
+		{
+			"name": "SAN JUAN DE ARAMA",
+			"dane": "16950683"
+		},
+		{
+			"name": "SAN JUANITO",
+			"dane": "16950686"
+		},
+		{
+			"name": "SAN MARTIN-META",
+			"dane": "16950689"
+		},
+		{
+			"name": "VISTA HERMOSA",
+			"dane": "16950711"
+		},
+		{
+			"name": "PASTO",
+			"dane": "16952001"
+		},
+		{
+			"name": "ALBAN",
+			"dane": "16952019"
+		},
+		{
+			"name": "ALDANA",
+			"dane": "16952022"
+		},
+		{
+			"name": "ANCUYA",
+			"dane": "16952036"
+		},
+		{
+			"name": "ARBOLEDA",
+			"dane": "16952051"
+		},
+		{
+			"name": "BARBACOAS",
+			"dane": "16952079"
+		},
+		{
+			"name": "BELEN",
+			"dane": "16952083"
+		},
+		{
+			"name": "BUESACO",
+			"dane": "16952110"
+		},
+		{
+			"name": "COLON",
+			"dane": "16952203"
+		},
+		{
+			"name": "CONSACA",
+			"dane": "16952207"
+		},
+		{
+			"name": "CONTADERO",
+			"dane": "16952210"
+		},
+		{
+			"name": "CORDOBA-NARINO",
+			"dane": "16952215"
+		},
+		{
+			"name": "CUASPUD",
+			"dane": "16952224"
+		},
+		{
+			"name": "CUMBAL",
+			"dane": "16952227"
+		},
+		{
+			"name": "CUMBITARA",
+			"dane": "16952233"
+		},
+		{
+			"name": "CHACHAGUI",
+			"dane": "16952240"
+		},
+		{
+			"name": "EL CHARCO",
+			"dane": "16952250"
+		},
+		{
+			"name": "EL PENOL",
+			"dane": "16952254"
+		},
+		{
+			"name": "EL ROSARIO",
+			"dane": "16952256"
+		},
+		{
+			"name": "EL TABLON DE GOMEZ",
+			"dane": "16952258"
+		},
+		{
+			"name": "EL TAMBO-NARINO",
+			"dane": "16952260"
+		},
+		{
+			"name": "FUNES",
+			"dane": "16952287"
+		},
+		{
+			"name": "GUACHUCAL",
+			"dane": "16952317"
+		},
+		{
+			"name": "GUAITARILLA",
+			"dane": "16952320"
+		},
+		{
+			"name": "GUALMATAN",
+			"dane": "16952323"
+		},
+		{
+			"name": "ILES",
+			"dane": "16952352"
+		},
+		{
+			"name": "IMUES",
+			"dane": "16952354"
+		},
+		{
+			"name": "IPIALES",
+			"dane": "16952356"
+		},
+		{
+			"name": "LA CRUZ",
+			"dane": "16952378"
+		},
+		{
+			"name": "LA FLORIDA",
+			"dane": "16952381"
+		},
+		{
+			"name": "LA LLANADA",
+			"dane": "16952385"
+		},
+		{
+			"name": "LA TOLA",
+			"dane": "16952390"
+		},
+		{
+			"name": "LA UNION-NARINO",
+			"dane": "16952399"
+		},
+		{
+			"name": "LEIVA",
+			"dane": "16952405"
+		},
+		{
+			"name": "LINARES",
+			"dane": "16952411"
+		},
+		{
+			"name": "LOS ANDES",
+			"dane": "16952418"
+		},
+		{
+			"name": "MAGUI",
+			"dane": "16952427"
+		},
+		{
+			"name": "MALLAMA",
+			"dane": "16952435"
+		},
+		{
+			"name": "MOSQUERA",
+			"dane": "16952473"
+		},
+		{
+			"name": "NARINO",
+			"dane": "16952480"
+		},
+		{
+			"name": "OLAYA HERRERA",
+			"dane": "16952490"
+		},
+		{
+			"name": "OSPINA",
+			"dane": "16952506"
+		},
+		{
+			"name": "FRANCISCO PIZARRO",
+			"dane": "16952520"
+		},
+		{
+			"name": "POLICARPA",
+			"dane": "16952540"
+		},
+		{
+			"name": "POTOSI",
+			"dane": "16952560"
+		},
+		{
+			"name": "PROVIDENCIA-NARINO",
+			"dane": "16952565"
+		},
+		{
+			"name": "PUERRES",
+			"dane": "16952573"
+		},
+		{
+			"name": "PUPIALES",
+			"dane": "16952585"
+		},
+		{
+			"name": "RICAURTE",
+			"dane": "16952612"
+		},
+		{
+			"name": "ROBERTO PAYAN",
+			"dane": "16952621"
+		},
+		{
+			"name": "SAMANIEGO",
+			"dane": "16952678"
+		},
+		{
+			"name": "SANDONA",
+			"dane": "16952683"
+		},
+		{
+			"name": "SAN BERNARDO-NARINO",
+			"dane": "16952685"
+		},
+		{
+			"name": "SAN LORENZO",
+			"dane": "16952687"
+		},
+		{
+			"name": "SAN PABLO-NARINO",
+			"dane": "16952693"
+		},
+		{
+			"name": "SAN PEDRO DE CARTAGO",
+			"dane": "16952694"
+		},
+		{
+			"name": "SANTA BARBARA",
+			"dane": "16952696"
+		},
+		{
+			"name": "SANTACRUZ",
+			"dane": "16952699"
+		},
+		{
+			"name": "SAPUYES",
+			"dane": "16952720"
+		},
+		{
+			"name": "TAMINANGO",
+			"dane": "16952786"
+		},
+		{
+			"name": "TANGUA",
+			"dane": "16952788"
+		},
+		{
+			"name": "TUMACO",
+			"dane": "16952835"
+		},
+		{
+			"name": "TUQUERRES",
+			"dane": "16952838"
+		},
+		{
+			"name": "YACUANQUER",
+			"dane": "16952885"
+		},
+		{
+			"name": "CUCUTA",
+			"dane": "16954001"
+		},
+		{
+			"name": "ABREGO",
+			"dane": "16954003"
+		},
+		{
+			"name": "ARBOLEDAS",
+			"dane": "16954051"
+		},
+		{
+			"name": "BOCHALEMA",
+			"dane": "16954099"
+		},
+		{
+			"name": "BUCARASICA",
+			"dane": "16954109"
+		},
+		{
+			"name": "CACOTA",
+			"dane": "16954125"
+		},
+		{
+			"name": "CACHIRA",
+			"dane": "16954128"
+		},
+		{
+			"name": "CHINACOTA",
+			"dane": "16954172"
+		},
+		{
+			"name": "CHITAGA",
+			"dane": "16954174"
+		},
+		{
+			"name": "CONVENCION",
+			"dane": "16954206"
+		},
+		{
+			"name": "CUCUTILLA",
+			"dane": "16954223"
+		},
+		{
+			"name": "DURANIA",
+			"dane": "16954239"
+		},
+		{
+			"name": "EL CARMEN",
+			"dane": "16954245"
+		},
+		{
+			"name": "EL TARRA",
+			"dane": "16954250"
+		},
+		{
+			"name": "EL ZULIA",
+			"dane": "16954261"
+		},
+		{
+			"name": "GRAMALOTE",
+			"dane": "16954313"
+		},
+		{
+			"name": "HACARI",
+			"dane": "16954344"
+		},
+		{
+			"name": "HERRAN",
+			"dane": "16954347"
+		},
+		{
+			"name": "LABATECA",
+			"dane": "16954377"
+		},
+		{
+			"name": "LA ESPERANZA",
+			"dane": "16954385"
+		},
+		{
+			"name": "LA PLAYA",
+			"dane": "16954398"
+		},
+		{
+			"name": "LOS PATIOS",
+			"dane": "16954405"
+		},
+		{
+			"name": "LOURDES",
+			"dane": "16954418"
+		},
+		{
+			"name": "MUTISCUA",
+			"dane": "16954480"
+		},
+		{
+			"name": "OCANA",
+			"dane": "16954498"
+		},
+		{
+			"name": "PAMPLONA",
+			"dane": "16954518"
+		},
+		{
+			"name": "PAMPLONITA",
+			"dane": "16954520"
+		},
+		{
+			"name": "PUERTO SANTANDER",
+			"dane": "16954553"
+		},
+		{
+			"name": "RAGONVALIA",
+			"dane": "16954599"
+		},
+		{
+			"name": "SALAZAR",
+			"dane": "16954660"
+		},
+		{
+			"name": "SAN CALIXTO",
+			"dane": "16954670"
+		},
+		{
+			"name": "SANCAYETANO",
+			"dane": "16954673"
+		},
+		{
+			"name": "SANTIAGO-NORTE DE SANTANDER",
+			"dane": "16954680"
+		},
+		{
+			"name": "SARDINATA",
+			"dane": "16954720"
+		},
+		{
+			"name": "SILOS",
+			"dane": "16954743"
+		},
+		{
+			"name": "TEORAMA",
+			"dane": "16954800"
+		},
+		{
+			"name": "TIBU",
+			"dane": "16954810"
+		},
+		{
+			"name": "TOLEDO",
+			"dane": "16954820"
+		},
+		{
+			"name": "VILLA CARO",
+			"dane": "16954871"
+		},
+		{
+			"name": "VILLA DEL ROSARIO",
+			"dane": "16954874"
+		},
+		{
+			"name": "ARMENIA",
+			"dane": "16963001"
+		},
+		{
+			"name": "BUENAVISTA-QUINDIO",
+			"dane": "16963111"
+		},
+		{
+			"name": "CALARCA",
+			"dane": "16963130"
+		},
+		{
+			"name": "CIRCASIA",
+			"dane": "16963190"
+		},
+		{
+			"name": "CORDOBA-QUINDIO",
+			"dane": "16963212"
+		},
+		{
+			"name": "FILANDIA",
+			"dane": "16963272"
+		},
+		{
+			"name": "GENOVA",
+			"dane": "16963302"
+		},
+		{
+			"name": "LA TEBAIDA",
+			"dane": "16963401"
+		},
+		{
+			"name": "MONTENEGRO",
+			"dane": "16963470"
+		},
+		{
+			"name": "PIJAO",
+			"dane": "16963548"
+		},
+		{
+			"name": "QUIMBAYA",
+			"dane": "16963594"
+		},
+		{
+			"name": "SALENTO",
+			"dane": "16963690"
+		},
+		{
+			"name": "PEREIRA",
+			"dane": "16966001"
+		},
+		{
+			"name": "APIA",
+			"dane": "16966045"
+		},
+		{
+			"name": "BALBOA-RISARALDA",
+			"dane": "16966075"
+		},
+		{
+			"name": "BELEN DE UMBRIA",
+			"dane": "16966088"
+		},
+		{
+			"name": "DOS QUEBRADAS",
+			"dane": "16966170"
+		},
+		{
+			"name": "GUATICA",
+			"dane": "16966318"
+		},
+		{
+			"name": "LA CELIA",
+			"dane": "16966383"
+		},
+		{
+			"name": "LA VIRGINIA",
+			"dane": "16966400"
+		},
+		{
+			"name": "MARSELLA",
+			"dane": "16966440"
+		},
+		{
+			"name": "MISTRATO",
+			"dane": "16966456"
+		},
+		{
+			"name": "PUEBLO RICO",
+			"dane": "16966572"
+		},
+		{
+			"name": "QUINCHIA",
+			"dane": "16966594"
+		},
+		{
+			"name": "SANTA ROSA DE CABAL",
+			"dane": "16966682"
+		},
+		{
+			"name": "SANTUARIO",
+			"dane": "16966687"
+		},
+		{
+			"name": "BUCARAMANGA",
+			"dane": "16968001"
+		},
+		{
+			"name": "AGUADA",
+			"dane": "16968013"
+		},
+		{
+			"name": "ALBANIA",
+			"dane": "16968020"
+		},
+		{
+			"name": "ARATOCA",
+			"dane": "16968051"
+		},
+		{
+			"name": "BARBOSA-SANTANDER",
+			"dane": "16968077"
+		},
+		{
+			"name": "BARICHARA",
+			"dane": "16968079"
+		},
+		{
+			"name": "BARRANCABERMEJA",
+			"dane": "16968081"
+		},
+		{
+			"name": "BETULIA",
+			"dane": "16968092"
+		},
+		{
+			"name": "BOLIVAR-SANTANDER",
+			"dane": "16968101"
+		},
+		{
+			"name": "CABRERA-SANTANDER",
+			"dane": "16968121"
+		},
+		{
+			"name": "CALIFORNIA",
+			"dane": "16968132"
+		},
+		{
+			"name": "CAPITANEJO",
+			"dane": "16968147"
+		},
+		{
+			"name": "CARCASI",
+			"dane": "16968152"
+		},
+		{
+			"name": "CEPITA",
+			"dane": "16968160"
+		},
+		{
+			"name": "CERRITO",
+			"dane": "16968162"
+		},
+		{
+			"name": "CHARALA",
+			"dane": "16968167"
+		},
+		{
+			"name": "CHARTA",
+			"dane": "16968169"
+		},
+		{
+			"name": "CHIMA-SANTANDER",
+			"dane": "16968176"
+		},
+		{
+			"name": "CHIPATA",
+			"dane": "16968179"
+		},
+		{
+			"name": "CIMITARRA",
+			"dane": "16968190"
+		},
+		{
+			"name": "CONCEPCION",
+			"dane": "16968207"
+		},
+		{
+			"name": "CONFINES",
+			"dane": "16968209"
+		},
+		{
+			"name": "CONTRATACION",
+			"dane": "16968211"
+		},
+		{
+			"name": "COROMORO",
+			"dane": "16968217"
+		},
+		{
+			"name": "CURITI",
+			"dane": "16968229"
+		},
+		{
+			"name": "EL CARMEN DE CHUCURI",
+			"dane": "16968235"
+		},
+		{
+			"name": "EL GUACAMAYO",
+			"dane": "16968245"
+		},
+		{
+			"name": "EL PENON",
+			"dane": "16968250"
+		},
+		{
+			"name": "EL PLAYON",
+			"dane": "16968255"
+		},
+		{
+			"name": "ENCINO",
+			"dane": "16968264"
+		},
+		{
+			"name": "ENCISO",
+			"dane": "16968266"
+		},
+		{
+			"name": "EL FLORIAN",
+			"dane": "16968271"
+		},
+		{
+			"name": "FLORIDABLANCA",
+			"dane": "16968276"
+		},
+		{
+			"name": "GALAN",
+			"dane": "16968296"
+		},
+		{
+			"name": "GAMBITA",
+			"dane": "16968298"
+		},
+		{
+			"name": "GIRON",
+			"dane": "16968307"
+		},
+		{
+			"name": "GUACA",
+			"dane": "16968318"
+		},
+		{
+			"name": "GUADALUPE",
+			"dane": "16968320"
+		},
+		{
+			"name": "GUAPOTA",
+			"dane": "16968322"
+		},
+		{
+			"name": "GUAVATA",
+			"dane": "16968324"
+		},
+		{
+			"name": "GUEPSA",
+			"dane": "16968327"
+		},
+		{
+			"name": "HATO",
+			"dane": "16968344"
+		},
+		{
+			"name": "JESUS MARIA",
+			"dane": "16968368"
+		},
+		{
+			"name": "JORDAN",
+			"dane": "16968370"
+		},
+		{
+			"name": "LA BELLEZA",
+			"dane": "16968377"
+		},
+		{
+			"name": "LANDAZURI",
+			"dane": "16968385"
+		},
+		{
+			"name": "LA PAZ-SANTANDER",
+			"dane": "16968397"
+		},
+		{
+			"name": "LEBRIJA",
+			"dane": "16968406"
+		},
+		{
+			"name": "LOS SANTOS",
+			"dane": "16968418"
+		},
+		{
+			"name": "MACARAVITA",
+			"dane": "16968425"
+		},
+		{
+			"name": "MALAGA",
+			"dane": "16968432"
+		},
+		{
+			"name": "MATANZA",
+			"dane": "16968444"
+		},
+		{
+			"name": "MOGOTES",
+			"dane": "16968464"
+		},
+		{
+			"name": "MOLAGAVITA",
+			"dane": "16968468"
+		},
+		{
+			"name": "OCAMONTE",
+			"dane": "16968498"
+		},
+		{
+			"name": "OIBA",
+			"dane": "16968500"
+		},
+		{
+			"name": "ONZAGA",
+			"dane": "16968502"
+		},
+		{
+			"name": "PALMAR",
+			"dane": "16968522"
+		},
+		{
+			"name": "PALMAS DEL SOCORRO",
+			"dane": "16968524"
+		},
+		{
+			"name": "PARAMO",
+			"dane": "16968533"
+		},
+		{
+			"name": "PIEDECUESTA",
+			"dane": "16968547"
+		},
+		{
+			"name": "PINCHOTE",
+			"dane": "16968549"
+		},
+		{
+			"name": "PUENTE NACIONAL",
+			"dane": "16968572"
+		},
+		{
+			"name": "PUERTO PARRA",
+			"dane": "16968573"
+		},
+		{
+			"name": "PUERTO WILCHES",
+			"dane": "16968575"
+		},
+		{
+			"name": "RIONEGRO",
+			"dane": "16968615"
+		},
+		{
+			"name": "SABANA DE TORRES",
+			"dane": "16968655"
+		},
+		{
+			"name": "SAN ANDRES-SANTANDER",
+			"dane": "16968669"
+		},
+		{
+			"name": "SAN BENITO",
+			"dane": "16968673"
+		},
+		{
+			"name": "SAN GIL",
+			"dane": "16968679"
+		},
+		{
+			"name": "SAN JOAQUIN",
+			"dane": "16968682"
+		},
+		{
+			"name": "SAN JOSE DE MIRANDA",
+			"dane": "16968684"
+		},
+		{
+			"name": "SAN MIGUEL-SANTANDER",
+			"dane": "16968686"
+		},
+		{
+			"name": "SAN VICENTE DE CHUCURI",
+			"dane": "16968689"
+		},
+		{
+			"name": "SANTA BARBARA-SANTANDER",
+			"dane": "16968705"
+		},
+		{
+			"name": "SANTA HELENA DEL OPON",
+			"dane": "16968720"
+		},
+		{
+			"name": "SIMACOTA",
+			"dane": "16968745"
+		},
+		{
+			"name": "SOCORRO",
+			"dane": "16968755"
+		},
+		{
+			"name": "SUAITA",
+			"dane": "16968770"
+		},
+		{
+			"name": "SUCRE-SANTANDER",
+			"dane": "16968773"
+		},
+		{
+			"name": "SURATA",
+			"dane": "16968780"
+		},
+		{
+			"name": "TONA",
+			"dane": "16968820"
+		},
+		{
+			"name": "VALLE DE SAN JOSE",
+			"dane": "16968855"
+		},
+		{
+			"name": "VELEZ",
+			"dane": "16968861"
+		},
+		{
+			"name": "VETAS",
+			"dane": "16968867"
+		},
+		{
+			"name": "VILLANUEVA-SANTANDER",
+			"dane": "16968872"
+		},
+		{
+			"name": "ZAPATOCA",
+			"dane": "16968895"
+		},
+		{
+			"name": "SINCELEJO",
+			"dane": "16970001"
+		},
+		{
+			"name": "BUENAVISTA-SUCRE",
+			"dane": "16970110"
+		},
+		{
+			"name": "CAIMITO",
+			"dane": "16970124"
+		},
+		{
+			"name": "COLOSO",
+			"dane": "16970204"
+		},
+		{
+			"name": "COROZAL",
+			"dane": "16970215"
+		},
+		{
+			"name": "COVENAS",
+			"dane": "16970221"
+		},
+		{
+			"name": "CHALAN",
+			"dane": "16970230"
+		},
+		{
+			"name": "EL ROBLE",
+			"dane": "16970233"
+		},
+		{
+			"name": "GALERAS",
+			"dane": "16970235"
+		},
+		{
+			"name": "GUARANDA",
+			"dane": "16970265"
+		},
+		{
+			"name": "LA UNION-SUCRE",
+			"dane": "16970400"
+		},
+		{
+			"name": "LOS PALMITOS",
+			"dane": "16970418"
+		},
+		{
+			"name": "MAJAGUAL",
+			"dane": "16970429"
+		},
+		{
+			"name": "MORROA",
+			"dane": "16970473"
+		},
+		{
+			"name": "OVEJAS",
+			"dane": "16970508"
+		},
+		{
+			"name": "PALMITO",
+			"dane": "16970523"
+		},
+		{
+			"name": "SAMPUES",
+			"dane": "16970670"
+		},
+		{
+			"name": "SAN BENITO ABAD",
+			"dane": "16970678"
+		},
+		{
+			"name": "SAN JUAN DE BETULIA",
+			"dane": "16970702"
+		},
+		{
+			"name": "SAN MARCOS",
+			"dane": "16970708"
+		},
+		{
+			"name": "SAN ONOFRE",
+			"dane": "16970713"
+		},
+		{
+			"name": "SAN PEDRO-SUCRE",
+			"dane": "16970717"
+		},
+		{
+			"name": "SAN LUIS DE SINCE",
+			"dane": "16970742"
+		},
+		{
+			"name": "SUCRE",
+			"dane": "16970771"
+		},
+		{
+			"name": "SANTIAGO DE TOLU",
+			"dane": "16970820"
+		},
+		{
+			"name": "TOLU VIEJO",
+			"dane": "16970823"
+		},
+		{
+			"name": "IBAGUE",
+			"dane": "16973001"
+		},
+		{
+			"name": "ALPUJARRA",
+			"dane": "16973024"
+		},
+		{
+			"name": "ALVARADO",
+			"dane": "16973026"
+		},
+		{
+			"name": "AMBALEMA",
+			"dane": "16973030"
+		},
+		{
+			"name": "ANZOATEGUI",
+			"dane": "16973043"
+		},
+		{
+			"name": "ARMERO",
+			"dane": "16973055"
+		},
+		{
+			"name": "ATACO",
+			"dane": "16973067"
+		},
+		{
+			"name": "CAJAMARCA",
+			"dane": "16973124"
+		},
+		{
+			"name": "CARMEN APICALA",
+			"dane": "16973148"
+		},
+		{
+			"name": "CASABIANCA",
+			"dane": "16973152"
+		},
+		{
+			"name": "CHAPARRAL",
+			"dane": "16973168"
+		},
+		{
+			"name": "COELLO",
+			"dane": "16973200"
+		},
+		{
+			"name": "COYAIMA",
+			"dane": "16973217"
+		},
+		{
+			"name": "CUNDAY",
+			"dane": "16973226"
+		},
+		{
+			"name": "DOLORES",
+			"dane": "16973236"
+		},
+		{
+			"name": "ESPINAL",
+			"dane": "16973268"
+		},
+		{
+			"name": "FALAN",
+			"dane": "16973270"
+		},
+		{
+			"name": "FLANDES",
+			"dane": "16973275"
+		},
+		{
+			"name": "FRESNO",
+			"dane": "16973283"
+		},
+		{
+			"name": "GUAMO",
+			"dane": "16973319"
+		},
+		{
+			"name": "HERVEO",
+			"dane": "16973347"
+		},
+		{
+			"name": "HONDA",
+			"dane": "16973349"
+		},
+		{
+			"name": "ICONONZO",
+			"dane": "16973352"
+		},
+		{
+			"name": "LERIDA",
+			"dane": "16973408"
+		},
+		{
+			"name": "LIBANO",
+			"dane": "16973411"
+		},
+		{
+			"name": "SAN SEBASTIAN DE MARIQUITA",
+			"dane": "16973443"
+		},
+		{
+			"name": "MELGAR",
+			"dane": "16973449"
+		},
+		{
+			"name": "MURILLO",
+			"dane": "16973461"
+		},
+		{
+			"name": "NATAGAIMA",
+			"dane": "16973483"
+		},
+		{
+			"name": "ORTEGA",
+			"dane": "16973504"
+		},
+		{
+			"name": "PALO CABILDO",
+			"dane": "16973520"
+		},
+		{
+			"name": "PIEDRAS",
+			"dane": "16973547"
+		},
+		{
+			"name": "PLANADAS",
+			"dane": "16973555"
+		},
+		{
+			"name": "PRADO",
+			"dane": "16973563"
+		},
+		{
+			"name": "PURIFICACION",
+			"dane": "16973585"
+		},
+		{
+			"name": "RIOBLANCO",
+			"dane": "16973616"
+		},
+		{
+			"name": "RONCESVALLES",
+			"dane": "16973622"
+		},
+		{
+			"name": "ROVIRA",
+			"dane": "16973624"
+		},
+		{
+			"name": "SALDANA",
+			"dane": "16973671"
+		},
+		{
+			"name": "SAN ANTONIO",
+			"dane": "16973675"
+		},
+		{
+			"name": "SAN LUIS-TOLIMA",
+			"dane": "16973678"
+		},
+		{
+			"name": "SANTA ISABEL",
+			"dane": "16973686"
+		},
+		{
+			"name": "SUAREZ-TOLIMA",
+			"dane": "16973770"
+		},
+		{
+			"name": "VALLE DE SAN JUAN",
+			"dane": "16973854"
+		},
+		{
+			"name": "VENADILLO",
+			"dane": "16973861"
+		},
+		{
+			"name": "VILLAHERMOSA",
+			"dane": "16973870"
+		},
+		{
+			"name": "VILLARRICA",
+			"dane": "16973873"
+		},
+		{
+			"name": "CALI",
+			"dane": "16976001"
+		},
+		{
+			"name": "ALCALA",
+			"dane": "16976020"
+		},
+		{
+			"name": "ANDALUCIA",
+			"dane": "16976036"
+		},
+		{
+			"name": "ANSERMANUEVO",
+			"dane": "16976041"
+		},
+		{
+			"name": "ARGELIA-VALLE DEL CAUCA",
+			"dane": "16976054"
+		},
+		{
+			"name": "BOLIVAR-VALLE DEL CAUCA",
+			"dane": "16976100"
+		},
+		{
+			"name": "BUENAVENTURA",
+			"dane": "16976109"
+		},
+		{
+			"name": "BUGA",
+			"dane": "16976111"
+		},
+		{
+			"name": "BUGALAGRANDE",
+			"dane": "16976113"
+		},
+		{
+			"name": "CAICEDONIA",
+			"dane": "16976122"
+		},
+		{
+			"name": "CALIMA",
+			"dane": "16976126"
+		},
+		{
+			"name": "CANDELARIA",
+			"dane": "16976130"
+		},
+		{
+			"name": "CARTAGO",
+			"dane": "16976147"
+		},
+		{
+			"name": "DAGUA",
+			"dane": "16976233"
+		},
+		{
+			"name": "EL AGUILA",
+			"dane": "16976243"
+		},
+		{
+			"name": "EL CAIRO",
+			"dane": "16976246"
+		},
+		{
+			"name": "EL CERRITO",
+			"dane": "16976248"
+		},
+		{
+			"name": "EL DOVIO",
+			"dane": "16976250"
+		},
+		{
+			"name": "FLORIDA",
+			"dane": "16976275"
+		},
+		{
+			"name": "GINEBRA",
+			"dane": "16976306"
+		},
+		{
+			"name": "GUACARI",
+			"dane": "16976318"
+		},
+		{
+			"name": "JAMUNDI",
+			"dane": "16976364"
+		},
+		{
+			"name": "LA CUMBRE",
+			"dane": "16976377"
+		},
+		{
+			"name": "LA UNION",
+			"dane": "16976400"
+		},
+		{
+			"name": "LA VICTORIA",
+			"dane": "16976403"
+		},
+		{
+			"name": "OBANDO",
+			"dane": "16976497"
+		},
+		{
+			"name": "PALMIRA",
+			"dane": "16976520"
+		},
+		{
+			"name": "PRADERA",
+			"dane": "16976563"
+		},
+		{
+			"name": "RESTREPO",
+			"dane": "16976606"
+		},
+		{
+			"name": "RIOFRIO",
+			"dane": "16976616"
+		},
+		{
+			"name": "ROLDANILLO",
+			"dane": "16976622"
+		},
+		{
+			"name": "SAN PEDRO-VALLE DEL CAUCA",
+			"dane": "16976670"
+		},
+		{
+			"name": "SEVILLA",
+			"dane": "16976736"
+		},
+		{
+			"name": "TORO",
+			"dane": "16976823"
+		},
+		{
+			"name": "TRUJILLO",
+			"dane": "16976828"
+		},
+		{
+			"name": "TULUA",
+			"dane": "16976834"
+		},
+		{
+			"name": "ULLOA",
+			"dane": "16976845"
+		},
+		{
+			"name": "VERSALLES",
+			"dane": "16976863"
+		},
+		{
+			"name": "VIJES",
+			"dane": "16976869"
+		},
+		{
+			"name": "YOTOCO",
+			"dane": "16976890"
+		},
+		{
+			"name": "YUMBO",
+			"dane": "16976892"
+		},
+		{
+			"name": "ZARZAL",
+			"dane": "16976895"
+		},
+		{
+			"name": "ARAUCA",
+			"dane": "16981001"
+		},
+		{
+			"name": "ARAUQUITA",
+			"dane": "16981065"
+		},
+		{
+			"name": "CRAVO NORTE",
+			"dane": "16981220"
+		},
+		{
+			"name": "FORTUL",
+			"dane": "16981300"
+		},
+		{
+			"name": "PUERTO RONDON",
+			"dane": "16981591"
+		},
+		{
+			"name": "SARAVENA",
+			"dane": "16981736"
+		},
+		{
+			"name": "TAME",
+			"dane": "16981794"
+		},
+		{
+			"name": "YOPAL",
+			"dane": "16985001"
+		},
+		{
+			"name": "AGUAZUL",
+			"dane": "16985010"
+		},
+		{
+			"name": "CHAMEZA",
+			"dane": "16985015"
+		},
+		{
+			"name": "HATO COROZAL",
+			"dane": "16985125"
+		},
+		{
+			"name": "LA SALINA",
+			"dane": "16985136"
+		},
+		{
+			"name": "MANI",
+			"dane": "16985139"
+		},
+		{
+			"name": "MONTERREY",
+			"dane": "16985162"
+		},
+		{
+			"name": "NUNCHIA",
+			"dane": "16985225"
+		},
+		{
+			"name": "OROCUE",
+			"dane": "16985230"
+		},
+		{
+			"name": "PAZ DE ARIPORO",
+			"dane": "16985250"
+		},
+		{
+			"name": "PORE",
+			"dane": "16985263"
+		},
+		{
+			"name": "RECETOR",
+			"dane": "16985279"
+		},
+		{
+			"name": "SABANALARGA-CASANARE",
+			"dane": "16985300"
+		},
+		{
+			"name": "SACAMA",
+			"dane": "16985315"
+		},
+		{
+			"name": "SAN LUIS DE PALENQUE",
+			"dane": "16985325"
+		},
+		{
+			"name": "TAMARA",
+			"dane": "16985400"
+		},
+		{
+			"name": "TAURAMENA",
+			"dane": "16985410"
+		},
+		{
+			"name": "TRINIDAD",
+			"dane": "16985430"
+		},
+		{
+			"name": "VILLANUEVA",
+			"dane": "16985440"
+		},
+		{
+			"name": "MOCOA",
+			"dane": "16986001"
+		},
+		{
+			"name": "COLON-PUTUMAYO",
+			"dane": "16986219"
+		},
+		{
+			"name": "ORITO",
+			"dane": "16986320"
+		},
+		{
+			"name": "PUERTO ASIS",
+			"dane": "16986568"
+		},
+		{
+			"name": "PUERTO CAICEDO",
+			"dane": "16986569"
+		},
+		{
+			"name": "PUERTO GUZMAN",
+			"dane": "16986571"
+		},
+		{
+			"name": "PUERTO LEGUIZAMO",
+			"dane": "16986573"
+		},
+		{
+			"name": "SIBUNDOY",
+			"dane": "16986749"
+		},
+		{
+			"name": "SAN FRANCISCO-PUTUMAYO",
+			"dane": "16986755"
+		},
+		{
+			"name": "SAN MIGUEL",
+			"dane": "16986757"
+		},
+		{
+			"name": "SANTIAGO",
+			"dane": "16986760"
+		},
+		{
+			"name": "VALLE DEL GUAMUEZ",
+			"dane": "16986865"
+		},
+		{
+			"name": "VILLAGARZON",
+			"dane": "16986885"
+		},
+		{
+			"name": "SAN ANDRES",
+			"dane": "16988001"
+		},
+		{
+			"name": "PROVIDENCIA",
+			"dane": "16988564"
+		},
+		{
+			"name": "LETICIA",
+			"dane": "16991001"
+		},
+		{
+			"name": "EL ENCANTO",
+			"dane": "16991263"
+		},
+		{
+			"name": "LA CHORRERA",
+			"dane": "16991405"
+		},
+		{
+			"name": "LA PEDRERA",
+			"dane": "16991407"
+		},
+		{
+			"name": "LA VICTORIA-AMAZONAS",
+			"dane": "16991430"
+		},
+		{
+			"name": "MIRITI - PARANA",
+			"dane": "16991460"
+		},
+		{
+			"name": "PUERTO ALEGRIA",
+			"dane": "16991530"
+		},
+		{
+			"name": "PUERTO ARICA",
+			"dane": "16991536"
+		},
+		{
+			"name": "PUERTO NARINO",
+			"dane": "16991540"
+		},
+		{
+			"name": "PUERTO SANTANDER-AMAZONAS",
+			"dane": "16991669"
+		},
+		{
+			"name": "TARAPACA",
+			"dane": "16991798"
+		},
+		{
+			"name": "INIRIDA",
+			"dane": "16994001"
+		},
+		{
+			"name": "BARRANCO MINAS",
+			"dane": "16994343"
+		},
+		{
+			"name": "MAPIRIPANA",
+			"dane": "16994663"
+		},
+		{
+			"name": "SAN FELIPE",
+			"dane": "16994883"
+		},
+		{
+			"name": "PUERTO COLOMBIA-GUAINIA",
+			"dane": "16994884"
+		},
+		{
+			"name": "LA GUADALUPE",
+			"dane": "16994885"
+		},
+		{
+			"name": "CACAHUAL",
+			"dane": "16994886"
+		},
+		{
+			"name": "PANA PANA",
+			"dane": "16994887"
+		},
+		{
+			"name": "MORICHAL",
+			"dane": "16994888"
+		},
+		{
+			"name": "SAN JOSE DEL GUAVIARE",
+			"dane": "16995001"
+		},
+		{
+			"name": "CALAMAR-GUAVIARE",
+			"dane": "16995015"
+		},
+		{
+			"name": "EL RETORNO",
+			"dane": "16995025"
+		},
+		{
+			"name": "MIRAFLORES",
+			"dane": "16995200"
+		},
+		{
+			"name": "MITU",
+			"dane": "16997001"
+		},
+		{
+			"name": "CARURU",
+			"dane": "16997161"
+		},
+		{
+			"name": "PACOA",
+			"dane": "16997511"
+		},
+		{
+			"name": "TARAIRA",
+			"dane": "16997666"
+		},
+		{
+			"name": "PAPUNAUA",
+			"dane": "16997777"
+		},
+		{
+			"name": "YAVARATE",
+			"dane": "16997889"
+		},
+		{
+			"name": "PUERTO CARRENO",
+			"dane": "16999001"
+		},
+		{
+			"name": "LA PRIMAVERA",
+			"dane": "16999524"
+		},
+		{
+			"name": "SANTA ROSALIA",
+			"dane": "16999624"
+		},
+		{
+			"name": "CUMARIBO",
+			"dane": "16999773"
+		},
+		{
+			"name": "MORONI",
+			"dane": "17301001"
+		},
+		{
+			"name": "BRAZZAVILLE",
+			"dane": "17701001"
+		},
+		{
+			"name": "AVARUA",
+			"dane": "18301001"
+		},
+		{
+			"name": "PIONYANG",
+			"dane": "18701001"
+		},
+		{
+			"name": "SEÚL",
+			"dane": "19001001"
+		},
+		{
+			"name": "ABIYÁN",
+			"dane": "19301001"
+		},
+		{
+			"name": "SAN JOSÉ",
+			"dane": "19601001"
+		},
+		{
+			"name": "ZAGREB",
+			"dane": "19801001"
+		},
+		{
+			"name": "LA HABANA",
+			"dane": "19901001"
+		},
+		{
+			"name": "YAMENA",
+			"dane": "20301001"
+		},
+		{
+			"name": "SANTIAGO DE CHILE",
+			"dane": "21101001"
+		},
+		{
+			"name": "PEKÍN",
+			"dane": "21501001"
+		},
+		{
+			"name": "TAIPÉI",
+			"dane": "21801001"
+		},
+		{
+			"name": "NICOSIA",
+			"dane": "22101001"
+		},
+		{
+			"name": "PORT",
+			"dane": "22901001"
+		},
+		{
+			"name": "COPENHAGUE",
+			"dane": "23201001"
+		},
+		{
+			"name": "ROSEAU",
+			"dane": "23501001"
+		},
+		{
+			"name": "QUITO",
+			"dane": "23901001"
+		},
+		{
+			"name": "EL CAIRO-EGIPTO",
+			"dane": "24001001"
+		},
+		{
+			"name": "SAN SALVADOR",
+			"dane": "24201001"
+		},
+		{
+			"name": "ASMARA",
+			"dane": "24301001"
+		},
+		{
+			"name": "ABU DABI",
+			"dane": "24401001"
+		},
+		{
+			"name": "MADRID-ESPAÑA",
+			"dane": "24501001"
+		},
+		{
+			"name": "BRATISLAVA",
+			"dane": "24601001"
+		},
+		{
+			"name": "LIUBLIANA",
+			"dane": "24701001"
+		},
+		{
+			"name": "OLYMPIA",
+			"dane": "24901000"
+		},
+		{
+			"name": "WASHINGTON D.C.",
+			"dane": "24901001"
+		},
+		{
+			"name": "SEATTLE",
+			"dane": "24901002"
+		},
+		{
+			"name": "SHORELINE",
+			"dane": "24901003"
+		},
+		{
+			"name": "FEDERAL WAY",
+			"dane": "24901004"
+		},
+		{
+			"name": "LAKEWOOD",
+			"dane": "24901005"
+		},
+		{
+			"name": "TACOMA",
+			"dane": "24901006"
+		},
+		{
+			"name": "BELINGHAM",
+			"dane": "24901007"
+		},
+		{
+			"name": "VANCOUVER",
+			"dane": "24901008"
+		},
+		{
+			"name": "BELLEVUE",
+			"dane": "24901009"
+		},
+		{
+			"name": "EVERETT",
+			"dane": "24901010"
+		},
+		{
+			"name": "RENTON",
+			"dane": "24901011"
+		},
+		{
+			"name": "KENNEWICK",
+			"dane": "24901012"
+		},
+		{
+			"name": "SPOKANE",
+			"dane": "24901013"
+		},
+		{
+			"name": "YAKIMA",
+			"dane": "24901014"
+		},
+		{
+			"name": "KENT",
+			"dane": "24901015"
+		},
+		{
+			"name": "MONTGOMERY",
+			"dane": "24902000"
+		},
+		{
+			"name": "BIRMINGHAM",
+			"dane": "24902001"
+		},
+		{
+			"name": "HOOVER",
+			"dane": "24902002"
+		},
+		{
+			"name": "TUSCALOOSA",
+			"dane": "24902003"
+		},
+		{
+			"name": "MOBILE",
+			"dane": "24902004"
+		},
+		{
+			"name": "DECATUR",
+			"dane": "24902005"
+		},
+		{
+			"name": "HUNTSVILLE",
+			"dane": "24902006"
+		},
+		{
+			"name": "DOTHAN",
+			"dane": "24902007"
+		},
+		{
+			"name": "JUNEAU",
+			"dane": "24903000"
+		},
+		{
+			"name": "ANCHORAGE",
+			"dane": "24903001"
+		},
+		{
+			"name": "KETCHIKAN",
+			"dane": "24903002"
+		},
+		{
+			"name": "CHANDLER",
+			"dane": "24903003"
+		},
+		{
+			"name": "MESA",
+			"dane": "24903004"
+		},
+		{
+			"name": "PHOENIX",
+			"dane": "24904000"
+		},
+		{
+			"name": "SCOTTSDALE",
+			"dane": "24904001"
+		},
+		{
+			"name": "TEMPE",
+			"dane": "24904002"
+		},
+		{
+			"name": "CASA ADOBES",
+			"dane": "24904003"
+		},
+		{
+			"name": "CATALINA FOOTHILLS",
+			"dane": "24904004"
+		},
+		{
+			"name": "TUCSON",
+			"dane": "24904005"
+		},
+		{
+			"name": "GLENDALE",
+			"dane": "24904006"
+		},
+		{
+			"name": "PEORIA",
+			"dane": "24904007"
+		},
+		{
+			"name": "FLAGSTAFF",
+			"dane": "24904008"
+		},
+		{
+			"name": "YUMA",
+			"dane": "24904009"
+		},
+		{
+			"name": "NORTH LITTLE ROCK",
+			"dane": "24905000"
+		},
+		{
+			"name": "FORT SMITH",
+			"dane": "24905001"
+		},
+		{
+			"name": "FAYETTEVILLE-ARKANSAS",
+			"dane": "24905002"
+		},
+		{
+			"name": "JONESBORO",
+			"dane": "24905003"
+		},
+		{
+			"name": "PINE BLUFF",
+			"dane": "24905004"
+		},
+		{
+			"name": "SACRAMENTO",
+			"dane": "24906000"
+		},
+		{
+			"name": "LODI",
+			"dane": "24906001"
+		},
+		{
+			"name": "MERCED",
+			"dane": "24906002"
+		},
+		{
+			"name": "MODESTO",
+			"dane": "24906003"
+		},
+		{
+			"name": "STOCKTON",
+			"dane": "24906004"
+		},
+		{
+			"name": "TRACY",
+			"dane": "24906005"
+		},
+		{
+			"name": "TURLOCK",
+			"dane": "24906006"
+		},
+		{
+			"name": "LOS ANGELES",
+			"dane": "24906007"
+		},
+		{
+			"name": "CARSON",
+			"dane": "24906008"
+		},
+		{
+			"name": "COMPTON",
+			"dane": "24906009"
+		},
+		{
+			"name": "GARDENA",
+			"dane": "24906010"
+		},
+		{
+			"name": "HAWTHORNE",
+			"dane": "24906011"
+		},
+		{
+			"name": "INGLEWOOD",
+			"dane": "24906012"
+		},
+		{
+			"name": "LYNWOOD",
+			"dane": "24906013"
+		},
+		{
+			"name": "REDONDO BEACH",
+			"dane": "24906014"
+		},
+		{
+			"name": "SANTA MONICA",
+			"dane": "24906015"
+		},
+		{
+			"name": "TORRANCE",
+			"dane": "24906016"
+		},
+		{
+			"name": "EAST LOS ANGELES",
+			"dane": "24906017"
+		},
+		{
+			"name": "FLORENCE",
+			"dane": "24906018"
+		},
+		{
+			"name": "GRAHAM",
+			"dane": "24906019"
+		},
+		{
+			"name": "HUNTINGTON PARK",
+			"dane": "24906020"
+		},
+		{
+			"name": "MONTEBELLO-CALIFORNIA",
+			"dane": "24906021"
+		},
+		{
+			"name": "SOUTH GATE",
+			"dane": "24906022"
+		},
+		{
+			"name": "CUPERTINO",
+			"dane": "24906023"
+		},
+		{
+			"name": "MILPITAS",
+			"dane": "24906024"
+		},
+		{
+			"name": "SAN JOSE-CALIFORNIA",
+			"dane": "24906025"
+		},
+		{
+			"name": "SANTA CLARA",
+			"dane": "24906026"
+		},
+		{
+			"name": "SUNNYVALE",
+			"dane": "24906027"
+		},
+		{
+			"name": "SAN FRANCISCO-CALIFORNIA",
+			"dane": "24906028"
+		},
+		{
+			"name": "SAN RAFAEL-CALIFORNIA",
+			"dane": "24906029"
+		},
+		{
+			"name": "ALAMEDA",
+			"dane": "24906030"
+		},
+		{
+			"name": "BERKELEY",
+			"dane": "24906031"
+		},
+		{
+			"name": "CASTRO VALLEY",
+			"dane": "24906032"
+		},
+		{
+			"name": "FREMONT",
+			"dane": "24906033"
+		},
+		{
+			"name": "HAYWARD",
+			"dane": "24906034"
+		},
+		{
+			"name": "OAKLAND",
+			"dane": "24906035"
+		},
+		{
+			"name": "RICHMOND",
+			"dane": "24906036"
+		},
+		{
+			"name": "SAN LEANDRO",
+			"dane": "24906037"
+		},
+		{
+			"name": "UNION CITY",
+			"dane": "24906038"
+		},
+		{
+			"name": "CHICO",
+			"dane": "24906039"
+		},
+		{
+			"name": "DAVIS",
+			"dane": "24906040"
+		},
+		{
+			"name": "REDDING",
+			"dane": "24906041"
+		},
+		{
+			"name": "CLOVIS",
+			"dane": "24906042"
+		},
+		{
+			"name": "FRESNO-CALIFORNIA",
+			"dane": "24906043"
+		},
+		{
+			"name": "VISALIA",
+			"dane": "24906044"
+		},
+		{
+			"name": "BELLFLOWER",
+			"dane": "24906045"
+		},
+		{
+			"name": "CERRITOS",
+			"dane": "24906046"
+		},
+		{
+			"name": "DOWNEY",
+			"dane": "24906047"
+		},
+		{
+			"name": "LA HABRA",
+			"dane": "24906048"
+		},
+		{
+			"name": "LAKEWOOD-CALIFORNIA",
+			"dane": "24906049"
+		},
+		{
+			"name": "LONG BEACH",
+			"dane": "24906050"
+		},
+		{
+			"name": "NORWALK",
+			"dane": "24906051"
+		},
+		{
+			"name": "PARAMOUNT",
+			"dane": "24906052"
+		},
+		{
+			"name": "PICO RIVERA",
+			"dane": "24906053"
+		},
+		{
+			"name": "WHITTIER",
+			"dane": "24906054"
+		},
+		{
+			"name": "CHULA VISTA",
+			"dane": "24906055"
+		},
+		{
+			"name": "EL CAJON",
+			"dane": "24906056"
+		},
+		{
+			"name": "LA MESA-CALIFORNIA",
+			"dane": "24906057"
+		},
+		{
+			"name": "NATIONAL CITY",
+			"dane": "24906058"
+		},
+		{
+			"name": "SAN DIEGO-CALIFORNIA",
+			"dane": "24906059"
+		},
+		{
+			"name": "SANTEE",
+			"dane": "24906060"
+		},
+		{
+			"name": "ALHAMBRA",
+			"dane": "24906061"
+		},
+		{
+			"name": "ARCADIA",
+			"dane": "24906062"
+		},
+		{
+			"name": "BALDWIN PARK",
+			"dane": "24906063"
+		},
+		{
+			"name": "EL MONTE",
+			"dane": "24906064"
+		},
+		{
+			"name": "HACIENDA HEIGHTS",
+			"dane": "24906065"
+		},
+		{
+			"name": "MONTEREY PARK",
+			"dane": "24906066"
+		},
+		{
+			"name": "PASADENA",
+			"dane": "24906067"
+		},
+		{
+			"name": "ROSEMEAD",
+			"dane": "24906068"
+		},
+		{
+			"name": "WEST COVINA",
+			"dane": "24906069"
+		},
+		{
+			"name": "DALY CITY",
+			"dane": "24906070"
+		},
+		{
+			"name": "MOUNTAIN VIEW",
+			"dane": "24906071"
+		},
+		{
+			"name": "PALO ALTO",
+			"dane": "24906072"
+		},
+		{
+			"name": "REDWOOD CITY",
+			"dane": "24906073"
+		},
+		{
+			"name": "SAN MATEO-CALIFORNIA",
+			"dane": "24906074"
+		},
+		{
+			"name": "SOUTH SAN FRANCISCO",
+			"dane": "24906075"
+		},
+		{
+			"name": "BAKERSFIELD",
+			"dane": "24906076"
+		},
+		{
+			"name": "LANCASTER-CALIFORNIA",
+			"dane": "24906077"
+		},
+		{
+			"name": "PALMDALE",
+			"dane": "24906078"
+		},
+		{
+			"name": "SANTA CLARITA",
+			"dane": "24906079"
+		},
+		{
+			"name": "FAIRFIELD-CALIFORNIA",
+			"dane": "24906080"
+		},
+		{
+			"name": "NAPA",
+			"dane": "24906081"
+		},
+		{
+			"name": "PETALUMA",
+			"dane": "24906082"
+		},
+		{
+			"name": "SANTA ROSA-CALIFORNIA",
+			"dane": "24906083"
+		},
+		{
+			"name": "VACAVILLE",
+			"dane": "24906084"
+		},
+		{
+			"name": "VALLEJO",
+			"dane": "24906085"
+		},
+		{
+			"name": "ANAHEIM",
+			"dane": "24906086"
+		},
+		{
+			"name": "BUENA PARK",
+			"dane": "24906087"
+		},
+		{
+			"name": "FOUNTAIN VALLEY",
+			"dane": "24906088"
+		},
+		{
+			"name": "FULLERTON",
+			"dane": "24906089"
+		},
+		{
+			"name": "GARDEN GROVE",
+			"dane": "24906090"
+		},
+		{
+			"name": "HUNTINGTON BEACH",
+			"dane": "24906091"
+		},
+		{
+			"name": "ORANGE",
+			"dane": "24906092"
+		},
+		{
+			"name": "SANTA ANA-CALIFORNIA",
+			"dane": "24906093"
+		},
+		{
+			"name": "TUSTIN",
+			"dane": "24906094"
+		},
+		{
+			"name": "WESTMINSTER",
+			"dane": "24906095"
+		},
+		{
+			"name": "YORBA LINDA",
+			"dane": "24906096"
+		},
+		{
+			"name": "APPLE VALLEY",
+			"dane": "24906097"
+		},
+		{
+			"name": "CARLSBAD",
+			"dane": "24906098"
+		},
+		{
+			"name": "ENCINITAS",
+			"dane": "24906099"
+		},
+		{
+			"name": "ESCONDIDO",
+			"dane": "24906100"
+		},
+		{
+			"name": "HESPERIA",
+			"dane": "24906101"
+		},
+		{
+			"name": "OCEANSIDE",
+			"dane": "24906102"
+		},
+		{
+			"name": "SAN MARCOS-CALIFORNIA",
+			"dane": "24906103"
+		},
+		{
+			"name": "VICTORVILLE",
+			"dane": "24906104"
+		},
+		{
+			"name": "VISTA",
+			"dane": "24906105"
+		},
+		{
+			"name": "CAMARILLO",
+			"dane": "24906106"
+		},
+		{
+			"name": "GOLETA",
+			"dane": "24906107"
+		},
+		{
+			"name": "OXNARD",
+			"dane": "24906108"
+		},
+		{
+			"name": "SAN BUENAVENTURA",
+			"dane": "24906109"
+		},
+		{
+			"name": "SANTA BARBARA-CALIFORNIA",
+			"dane": "24906110"
+		},
+		{
+			"name": "SANTA MARIA-CALIFORNIA",
+			"dane": "24906111"
+		},
+		{
+			"name": "SIMI VALLEY",
+			"dane": "24906112"
+		},
+		{
+			"name": "THOUSAND OAKS",
+			"dane": "24906113"
+		},
+		{
+			"name": "BURBANK",
+			"dane": "24906114"
+		},
+		{
+			"name": "GLENDALE-CALIFORNIA",
+			"dane": "24906115"
+		},
+		{
+			"name": "SALINAS",
+			"dane": "24906116"
+		},
+		{
+			"name": "SANTA CRUZ",
+			"dane": "24906117"
+		},
+		{
+			"name": "CHINO",
+			"dane": "24906118"
+		},
+		{
+			"name": "CHINO HILLS",
+			"dane": "24906119"
+		},
+		{
+			"name": "DIAMOND BAR",
+			"dane": "24906120"
+		},
+		{
+			"name": "FONTANA",
+			"dane": "24906121"
+		},
+		{
+			"name": "ONTARIO",
+			"dane": "24906122"
+		},
+		{
+			"name": "POMONA",
+			"dane": "24906123"
+		},
+		{
+			"name": "RANCHO CUCAMONGA",
+			"dane": "24906124"
+		},
+		{
+			"name": "REDLANDS",
+			"dane": "24906125"
+		},
+		{
+			"name": "RIALTO",
+			"dane": "24906126"
+		},
+		{
+			"name": "SAN BERNARDINO",
+			"dane": "24906127"
+		},
+		{
+			"name": "UPLAND",
+			"dane": "24906128"
+		},
+		{
+			"name": "ARDEN",
+			"dane": "24906129"
+		},
+		{
+			"name": "ARCADE",
+			"dane": "24906130"
+		},
+		{
+			"name": "CITRUS HEIGHTS",
+			"dane": "24906131"
+		},
+		{
+			"name": "ELK GROVE",
+			"dane": "24906132"
+		},
+		{
+			"name": "FOLSOM",
+			"dane": "24906133"
+		},
+		{
+			"name": "RANCHO CORDOVA",
+			"dane": "24906134"
+		},
+		{
+			"name": "ROSEVILLE",
+			"dane": "24906135"
+		},
+		{
+			"name": "ANTIOCH",
+			"dane": "24906136"
+		},
+		{
+			"name": "CONCORD-CALIFORNIA",
+			"dane": "24906137"
+		},
+		{
+			"name": "LIVERMORE",
+			"dane": "24906138"
+		},
+		{
+			"name": "PITTSBURG",
+			"dane": "24906139"
+		},
+		{
+			"name": "PLEASANTON",
+			"dane": "24906140"
+		},
+		{
+			"name": "WALNUT CREEK",
+			"dane": "24906141"
+		},
+		{
+			"name": "COSTA MESA",
+			"dane": "24906142"
+		},
+		{
+			"name": "IRVINE",
+			"dane": "24906143"
+		},
+		{
+			"name": "LAGUNA NIGUEL",
+			"dane": "24906144"
+		},
+		{
+			"name": "LAKE FOREST",
+			"dane": "24906145"
+		},
+		{
+			"name": "MISSION VIEJO",
+			"dane": "24906146"
+		},
+		{
+			"name": "NEWPORT BEACH",
+			"dane": "24906147"
+		},
+		{
+			"name": "CORONA",
+			"dane": "24906148"
+		},
+		{
+			"name": "HEMET",
+			"dane": "24906149"
+		},
+		{
+			"name": "MORENO VALLEY",
+			"dane": "24906150"
+		},
+		{
+			"name": "RIVERSIDE",
+			"dane": "24906151"
+		},
+		{
+			"name": "TEMECULA",
+			"dane": "24906152"
+		},
+		{
+			"name": "RALEIGH",
+			"dane": "24907000"
+		},
+		{
+			"name": "GREENVILLE-NORTH CAROLINA",
+			"dane": "24907001"
+		},
+		{
+			"name": "ROCKY MOUNT",
+			"dane": "24907002"
+		},
+		{
+			"name": "GREENSBORO",
+			"dane": "24907003"
+		},
+		{
+			"name": "HIGH POINT",
+			"dane": "24907004"
+		},
+		{
+			"name": "WINSTON",
+			"dane": "24907005"
+		},
+		{
+			"name": "SALEM",
+			"dane": "24907006"
+		},
+		{
+			"name": "CHARLOTTE",
+			"dane": "24907007"
+		},
+		{
+			"name": "CONCORD",
+			"dane": "24907008"
+		},
+		{
+			"name": "GASTONIA",
+			"dane": "24907009"
+		},
+		{
+			"name": "ASHEVILLE",
+			"dane": "24907010"
+		},
+		{
+			"name": "FAYETTEVILLE",
+			"dane": "24907011"
+		},
+		{
+			"name": "JACKSONVILLE",
+			"dane": "24907012"
+		},
+		{
+			"name": "WILMINGTON",
+			"dane": "24907013"
+		},
+		{
+			"name": "CARY",
+			"dane": "24907014"
+		},
+		{
+			"name": "DURHAM",
+			"dane": "24907015"
+		},
+		{
+			"name": "COLUMBIA",
+			"dane": "24908000"
+		},
+		{
+			"name": "CHARLESTON-SOUTH CAROLINA",
+			"dane": "24908001"
+		},
+		{
+			"name": "GREENVILLE-SOUTH CAROLINA",
+			"dane": "24908002"
+		},
+		{
+			"name": "RAPID CITY",
+			"dane": "24908003"
+		},
+		{
+			"name": "SIOUX FALLS",
+			"dane": "24908004"
+		},
+		{
+			"name": "DENVER",
+			"dane": "24909000"
+		},
+		{
+			"name": "ARVADA",
+			"dane": "24909001"
+		},
+		{
+			"name": "AURORA-COLORADO",
+			"dane": "24909002"
+		},
+		{
+			"name": "BOULDER",
+			"dane": "24909003"
+		},
+		{
+			"name": "HIGHLANDS RANCH",
+			"dane": "24909004"
+		},
+		{
+			"name": "LAKEWOOD-COLORADO",
+			"dane": "24909005"
+		},
+		{
+			"name": "LONGMONT",
+			"dane": "24909006"
+		},
+		{
+			"name": "THORNTON",
+			"dane": "24909007"
+		},
+		{
+			"name": "WESTMINSTER-COLORADO",
+			"dane": "24909008"
+		},
+		{
+			"name": "COLORADO SPRINGS",
+			"dane": "24909009"
+		},
+		{
+			"name": "PUEBLO",
+			"dane": "24909010"
+		},
+		{
+			"name": "FORT COLLINS",
+			"dane": "24909011"
+		},
+		{
+			"name": "GREELEY",
+			"dane": "24909012"
+		},
+		{
+			"name": "LOVELAND",
+			"dane": "24909013"
+		},
+		{
+			"name": "HARTFORD",
+			"dane": "24910000"
+		},
+		{
+			"name": "BRIDGEPORT",
+			"dane": "24910001"
+		},
+		{
+			"name": "DANBURY",
+			"dane": "24910002"
+		},
+		{
+			"name": "FAIRFIELD-CONNECTICUT",
+			"dane": "24910003"
+		},
+		{
+			"name": "GREENWICH",
+			"dane": "24910004"
+		},
+		{
+			"name": "HAMDEN",
+			"dane": "24910005"
+		},
+		{
+			"name": "MERIDEN",
+			"dane": "24910006"
+		},
+		{
+			"name": "MILFORD",
+			"dane": "24910007"
+		},
+		{
+			"name": "NEW HAVEN",
+			"dane": "24910008"
+		},
+		{
+			"name": "NORWALK-CONNECTICUT",
+			"dane": "24910009"
+		},
+		{
+			"name": "STAMFORD",
+			"dane": "24910010"
+		},
+		{
+			"name": "WATERBURY",
+			"dane": "24910011"
+		},
+		{
+			"name": "WEST HAVEN",
+			"dane": "24910012"
+		},
+		{
+			"name": "BRISTOL",
+			"dane": "24910013"
+		},
+		{
+			"name": "MANCHESTER-CONNECTICUT",
+			"dane": "24910014"
+		},
+		{
+			"name": "NEW BRITAIN",
+			"dane": "24910015"
+		},
+		{
+			"name": "WEST HARTFORD",
+			"dane": "24910016"
+		},
+		{
+			"name": "BISMARCK",
+			"dane": "24911000"
+		},
+		{
+			"name": "FARGO",
+			"dane": "24911001"
+		},
+		{
+			"name": "PIERRE",
+			"dane": "24912000"
+		},
+		{
+			"name": "RAPID CITY-SOUTH DAKOTA",
+			"dane": "24912001"
+		},
+		{
+			"name": "SIOUX FALLS-SOUTH DAKOTA",
+			"dane": "24912002"
+		},
+		{
+			"name": "DOVER",
+			"dane": "24913000"
+		},
+		{
+			"name": "WILMINGTON-DELAWARE",
+			"dane": "24913001"
+		},
+		{
+			"name": "TALLAHASSEE",
+			"dane": "24914000"
+		},
+		{
+			"name": "CAPE CORAL",
+			"dane": "24914001"
+		},
+		{
+			"name": "CAROL CITY",
+			"dane": "24914002"
+		},
+		{
+			"name": "HIALEAH",
+			"dane": "24914003"
+		},
+		{
+			"name": "KENDALE LAKES",
+			"dane": "24914004"
+		},
+		{
+			"name": "KENDALL",
+			"dane": "24914005"
+		},
+		{
+			"name": "MIAMI",
+			"dane": "24914006"
+		},
+		{
+			"name": "MIAMI BEACH",
+			"dane": "24914007"
+		},
+		{
+			"name": "MIRAMAR",
+			"dane": "24914008"
+		},
+		{
+			"name": "TAMIAMI",
+			"dane": "24914009"
+		},
+		{
+			"name": "GAINESVILLE",
+			"dane": "24914010"
+		},
+		{
+			"name": "SPRING HILL",
+			"dane": "24914011"
+		},
+		{
+			"name": "DAYTONA BEACH",
+			"dane": "24914012"
+		},
+		{
+			"name": "DELTONA",
+			"dane": "24914013"
+		},
+		{
+			"name": "MELBOURNE",
+			"dane": "24914014"
+		},
+		{
+			"name": "ORLANDO",
+			"dane": "24914015"
+		},
+		{
+			"name": "PALM BAY",
+			"dane": "24914016"
+		},
+		{
+			"name": "BOCA RATON",
+			"dane": "24914017"
+		},
+		{
+			"name": "BOYNTON BEACH",
+			"dane": "24914018"
+		},
+		{
+			"name": "DELRAY BEACH",
+			"dane": "24914019"
+		},
+		{
+			"name": "WEST PALM BEACH",
+			"dane": "24914020"
+		},
+		{
+			"name": "CLEARWATER",
+			"dane": "24914021"
+		},
+		{
+			"name": "LARGO",
+			"dane": "24914022"
+		},
+		{
+			"name": "PALM HARBOR",
+			"dane": "24914023"
+		},
+		{
+			"name": "ST. PETERSBURG",
+			"dane": "24914024"
+		},
+		{
+			"name": "PORT ST. LUCIE",
+			"dane": "24914025"
+		},
+		{
+			"name": "TAMPA",
+			"dane": "24914026"
+		},
+		{
+			"name": "PENSACOLA",
+			"dane": "24914027"
+		},
+		{
+			"name": "LAKELAND",
+			"dane": "24914028"
+		},
+		{
+			"name": "JACKSONVILLE-FLORIDA",
+			"dane": "24914029"
+		},
+		{
+			"name": "SARASOTA",
+			"dane": "24914030"
+		},
+		{
+			"name": "CORAL SPRINGS",
+			"dane": "24914031"
+		},
+		{
+			"name": "DAVIE",
+			"dane": "24914032"
+		},
+		{
+			"name": "DEERFIELD BEACH",
+			"dane": "24914033"
+		},
+		{
+			"name": "FORT LAUDERDALE",
+			"dane": "24914034"
+		},
+		{
+			"name": "HOLLYWOOD",
+			"dane": "24914035"
+		},
+		{
+			"name": "LAUDERHILL",
+			"dane": "24914036"
+		},
+		{
+			"name": "MARGATE",
+			"dane": "24914037"
+		},
+		{
+			"name": "PEMBROKE PINES",
+			"dane": "24914038"
+		},
+		{
+			"name": "PLANTATION",
+			"dane": "24914039"
+		},
+		{
+			"name": "POMPANO BEACH",
+			"dane": "24914040"
+		},
+		{
+			"name": "SUNRISE",
+			"dane": "24914041"
+		},
+		{
+			"name": "TAMARAC",
+			"dane": "24914042"
+		},
+		{
+			"name": "ATLANTA",
+			"dane": "24915000"
+		},
+		{
+			"name": "ALBANY-GEORGIA",
+			"dane": "24915001"
+		},
+		{
+			"name": "SANDY SPRINGS",
+			"dane": "24915002"
+		},
+		{
+			"name": "MACON",
+			"dane": "24915003"
+		},
+		{
+			"name": "ATHENS",
+			"dane": "24915004"
+		},
+		{
+			"name": "AUGUSTA",
+			"dane": "24915005"
+		},
+		{
+			"name": "COLUMBUS",
+			"dane": "24915006"
+		},
+		{
+			"name": "MARIETTA",
+			"dane": "24915007"
+		},
+		{
+			"name": "ROSWELL",
+			"dane": "24915008"
+		},
+		{
+			"name": "SANDY SPRINGS-GEORGIA",
+			"dane": "24915009"
+		},
+		{
+			"name": "SAVANNAH",
+			"dane": "24915010"
+		},
+		{
+			"name": "HONOLULU",
+			"dane": "24916000"
+		},
+		{
+			"name": "BOISE",
+			"dane": "24917000"
+		},
+		{
+			"name": "DAHO FALLS",
+			"dane": "24917001"
+		},
+		{
+			"name": "NAMPA",
+			"dane": "24917002"
+		},
+		{
+			"name": "POCATELLLO",
+			"dane": "24917003"
+		},
+		{
+			"name": "SPRINGFIELD-ILLINOIS",
+			"dane": "24918000"
+		},
+		{
+			"name": "CHAMPAIGN",
+			"dane": "24918001"
+		},
+		{
+			"name": "DECATUR-ILLINOIS",
+			"dane": "24918002"
+		},
+		{
+			"name": "BLOOMINGTON-ILLINOIS",
+			"dane": "24918003"
+		},
+		{
+			"name": "PEORIA-ILLINOIS",
+			"dane": "24918004"
+		},
+		{
+			"name": "CHICAGO",
+			"dane": "24918005"
+		},
+		{
+			"name": "BELLEVILLE",
+			"dane": "24918006"
+		},
+		{
+			"name": "HARRISBURG-ILLINOIS",
+			"dane": "24918007"
+		},
+		{
+			"name": "AURORA",
+			"dane": "24918008"
+		},
+		{
+			"name": "NAPERVILLE",
+			"dane": "24918009"
+		},
+		{
+			"name": "WHEATON",
+			"dane": "24918010"
+		},
+		{
+			"name": "BERWYN",
+			"dane": "24918011"
+		},
+		{
+			"name": "CICERO",
+			"dane": "24918012"
+		},
+		{
+			"name": "OAK LAWN",
+			"dane": "24918013"
+		},
+		{
+			"name": "OAK PARK",
+			"dane": "24918014"
+		},
+		{
+			"name": "ORLAND PARK",
+			"dane": "24918015"
+		},
+		{
+			"name": "JOLIET",
+			"dane": "24918016"
+		},
+		{
+			"name": "ROCKFORD",
+			"dane": "24918017"
+		},
+		{
+			"name": "ARLINGTON HEIGHTS",
+			"dane": "24918018"
+		},
+		{
+			"name": "DES PLAINES",
+			"dane": "24918019"
+		},
+		{
+			"name": "ELGIN",
+			"dane": "24918020"
+		},
+		{
+			"name": "EVANSTON",
+			"dane": "24918021"
+		},
+		{
+			"name": "MOUNT PROSPECT",
+			"dane": "24918022"
+		},
+		{
+			"name": "PALATINE",
+			"dane": "24918023"
+		},
+		{
+			"name": "SCHAUMBURG",
+			"dane": "24918024"
+		},
+		{
+			"name": "SKOKIE",
+			"dane": "24918025"
+		},
+		{
+			"name": "WAUKEGAN",
+			"dane": "24918026"
+		},
+		{
+			"name": "INDIANAPOLIS",
+			"dane": "24919000"
+		},
+		{
+			"name": "GARY",
+			"dane": "24919001"
+		},
+		{
+			"name": "HAMMOND",
+			"dane": "24919002"
+		},
+		{
+			"name": "FORT WAYNE",
+			"dane": "24919003"
+		},
+		{
+			"name": "ELKHART",
+			"dane": "24919004"
+		},
+		{
+			"name": "SOUTH BEND",
+			"dane": "24919005"
+		},
+		{
+			"name": "ANDERSON",
+			"dane": "24919006"
+		},
+		{
+			"name": "LAFAYETTE",
+			"dane": "24919007"
+		},
+		{
+			"name": "MUNCIE",
+			"dane": "24919008"
+		},
+		{
+			"name": "BLOOMINGTON-INDIANA",
+			"dane": "24919009"
+		},
+		{
+			"name": "EVANSVILLE",
+			"dane": "24919010"
+		},
+		{
+			"name": "TERRE HAUTE",
+			"dane": "24919011"
+		},
+		{
+			"name": "DES MOINES",
+			"dane": "24920000"
+		},
+		{
+			"name": "CEDAR RAPIDS",
+			"dane": "24920001"
+		},
+		{
+			"name": "IOWA CITY",
+			"dane": "24920002"
+		},
+		{
+			"name": "WATERLOO",
+			"dane": "24920003"
+		},
+		{
+			"name": "AMES",
+			"dane": "24920004"
+		},
+		{
+			"name": "DAVENPORT",
+			"dane": "24920005"
+		},
+		{
+			"name": "DUBUQUE",
+			"dane": "24920006"
+		},
+		{
+			"name": "FAIRFIELD",
+			"dane": "24920007"
+		},
+		{
+			"name": "MASON CITY",
+			"dane": "24920008"
+		},
+		{
+			"name": "COUNCIL BLUFFS",
+			"dane": "24920009"
+		},
+		{
+			"name": "SIOUX CITY",
+			"dane": "24920010"
+		},
+		{
+			"name": "TOPEKA",
+			"dane": "24921000"
+		},
+		{
+			"name": "WICHITA",
+			"dane": "24921001"
+		},
+		{
+			"name": "HUTCHINSON",
+			"dane": "24921002"
+		},
+		{
+			"name": "LAWRENCE-KANSAS",
+			"dane": "24921003"
+		},
+		{
+			"name": "KANSAS CITY-KANSAS",
+			"dane": "24921004"
+		},
+		{
+			"name": "OLATHE",
+			"dane": "24921005"
+		},
+		{
+			"name": "OVERLAND PARK",
+			"dane": "24921006"
+		},
+		{
+			"name": "BOWLING GREEN",
+			"dane": "24922000"
+		},
+		{
+			"name": "FRANKFORT",
+			"dane": "24922001"
+		},
+		{
+			"name": "OWENSBORO",
+			"dane": "24922002"
+		},
+		{
+			"name": "LOUISVILLE",
+			"dane": "24922003"
+		},
+		{
+			"name": "MAYSVILLE",
+			"dane": "24922004"
+		},
+		{
+			"name": "LEXINGTON",
+			"dane": "24922005"
+		},
+		{
+			"name": "BATON ROUGE",
+			"dane": "24923000"
+		},
+		{
+			"name": "BOSSIER CITY",
+			"dane": "24923001"
+		},
+		{
+			"name": "MONROE",
+			"dane": "24923002"
+		},
+		{
+			"name": "SHREVEPORT",
+			"dane": "24923003"
+		},
+		{
+			"name": "LAFAYETTE-LOUISIANA",
+			"dane": "24923004"
+		},
+		{
+			"name": "LAKE CHARLES",
+			"dane": "24923005"
+		},
+		{
+			"name": "KENNER",
+			"dane": "24923006"
+		},
+		{
+			"name": "METAIRIE",
+			"dane": "24923007"
+		},
+		{
+			"name": "NEW ORLEANS",
+			"dane": "24923008"
+		},
+		{
+			"name": "LAPLACE",
+			"dane": "24923009"
+		},
+		{
+			"name": "ST. ROSE",
+			"dane": "24923010"
+		},
+		{
+			"name": "AUGUSTA-MAINE",
+			"dane": "24924000"
+		},
+		{
+			"name": "PORTLAND",
+			"dane": "24924001"
+		},
+		{
+			"name": "ANNAPOLIS",
+			"dane": "24925000"
+		},
+		{
+			"name": "ASPEN HILL",
+			"dane": "24925001"
+		},
+		{
+			"name": "BETHESDA",
+			"dane": "24925002"
+		},
+		{
+			"name": "BOWIE",
+			"dane": "24925003"
+		},
+		{
+			"name": "FREDERICK",
+			"dane": "24925004"
+		},
+		{
+			"name": "GAITHERSBURG",
+			"dane": "24925005"
+		},
+		{
+			"name": "GERMANTOWN",
+			"dane": "24925006"
+		},
+		{
+			"name": "SILVER SPRING",
+			"dane": "24925007"
+		},
+		{
+			"name": "WHEATON-MARYLAND",
+			"dane": "24925008"
+		},
+		{
+			"name": "GLENMONT",
+			"dane": "24925009"
+		},
+		{
+			"name": "BALTIMORE",
+			"dane": "24925010"
+		},
+		{
+			"name": "COLUMBIA-MARYLAND",
+			"dane": "24925011"
+		},
+		{
+			"name": "DUNDALK",
+			"dane": "24925012"
+		},
+		{
+			"name": "ELLICOTT CITY",
+			"dane": "24925013"
+		},
+		{
+			"name": "TOWSON",
+			"dane": "24925014"
+		},
+		{
+			"name": "BOSTON",
+			"dane": "24926000"
+		},
+		{
+			"name": "CHICOPEE",
+			"dane": "24926001"
+		},
+		{
+			"name": "PITTSFIELD",
+			"dane": "24926002"
+		},
+		{
+			"name": "SPRINGFIELD",
+			"dane": "24926003"
+		},
+		{
+			"name": "BROCKTON",
+			"dane": "24926004"
+		},
+		{
+			"name": "FALL RIVER",
+			"dane": "24926005"
+		},
+		{
+			"name": "FRAMINGHAM",
+			"dane": "24926006"
+		},
+		{
+			"name": "NEW BEDFORD",
+			"dane": "24926007"
+		},
+		{
+			"name": "TAUNTON",
+			"dane": "24926008"
+		},
+		{
+			"name": "WORCESTER",
+			"dane": "24926009"
+		},
+		{
+			"name": "CAMBRIDGE",
+			"dane": "24926010"
+		},
+		{
+			"name": "NEWTON",
+			"dane": "24926011"
+		},
+		{
+			"name": "QUINCY",
+			"dane": "24926012"
+		},
+		{
+			"name": "WALTHAM",
+			"dane": "24926013"
+		},
+		{
+			"name": "LYNN",
+			"dane": "24926014"
+		},
+		{
+			"name": "MALDEN",
+			"dane": "24926015"
+		},
+		{
+			"name": "MEDFORD",
+			"dane": "24926016"
+		},
+		{
+			"name": "WEYMOUTH",
+			"dane": "24926017"
+		},
+		{
+			"name": "HAVERHILL",
+			"dane": "24926018"
+		},
+		{
+			"name": "LAWRENCE",
+			"dane": "24926019"
+		},
+		{
+			"name": "LOWELL",
+			"dane": "24926020"
+		},
+		{
+			"name": "LANSING",
+			"dane": "24927000"
+		},
+		{
+			"name": "MUSKEGON",
+			"dane": "24927001"
+		},
+		{
+			"name": "SHELBY",
+			"dane": "24927002"
+		},
+		{
+			"name": "FARMINGTON HILLS",
+			"dane": "24927003"
+		},
+		{
+			"name": "PONTIAC",
+			"dane": "24927004"
+		},
+		{
+			"name": "ROCHESTER HILLS",
+			"dane": "24927005"
+		},
+		{
+			"name": "ROYAL OAK",
+			"dane": "24927006"
+		},
+		{
+			"name": "SOUTHFIELD",
+			"dane": "24927007"
+		},
+		{
+			"name": "TROY",
+			"dane": "24927008"
+		},
+		{
+			"name": "WATERFORD",
+			"dane": "24927009"
+		},
+		{
+			"name": "BATTLE CREEK",
+			"dane": "24927010"
+		},
+		{
+			"name": "KALAMAZOO",
+			"dane": "24927011"
+		},
+		{
+			"name": "DEARBORN",
+			"dane": "24927012"
+		},
+		{
+			"name": "DEARBORN HEIGHTS",
+			"dane": "24927013"
+		},
+		{
+			"name": "DETROIT",
+			"dane": "24927014"
+		},
+		{
+			"name": "REDFORD",
+			"dane": "24927015"
+		},
+		{
+			"name": "TAYLOR",
+			"dane": "24927016"
+		},
+		{
+			"name": "CLINTON",
+			"dane": "24927017"
+		},
+		{
+			"name": "ST. CLAIR SHORES",
+			"dane": "24927018"
+		},
+		{
+			"name": "STERLING HEIGHTS",
+			"dane": "24927019"
+		},
+		{
+			"name": "WARREN",
+			"dane": "24927020"
+		},
+		{
+			"name": "GRAND RAPIDS",
+			"dane": "24927021"
+		},
+		{
+			"name": "WYOMING",
+			"dane": "24927022"
+		},
+		{
+			"name": "ANN ARBOR",
+			"dane": "24927023"
+		},
+		{
+			"name": "CANTON",
+			"dane": "24927024"
+		},
+		{
+			"name": "LIVONIA",
+			"dane": "24927025"
+		},
+		{
+			"name": "WESTLAND",
+			"dane": "24927026"
+		},
+		{
+			"name": "FLINT",
+			"dane": "24927027"
+		},
+		{
+			"name": "SAINTE MARIE",
+			"dane": "24927028"
+		},
+		{
+			"name": "SAGINAW",
+			"dane": "24927029"
+		},
+		{
+			"name": "SAINT PAUL",
+			"dane": "24928000"
+		},
+		{
+			"name": "DULUTH",
+			"dane": "24928001"
+		},
+		{
+			"name": "ST CLOUD",
+			"dane": "24928002"
+		},
+		{
+			"name": "ROCHESTER",
+			"dane": "24928003"
+		},
+		{
+			"name": "MINNEAPOLIS",
+			"dane": "24928004"
+		},
+		{
+			"name": "BROOKLYN PARK",
+			"dane": "24928005"
+		},
+		{
+			"name": "COON RAPIDS",
+			"dane": "24928006"
+		},
+		{
+			"name": "MAPLE GROVE",
+			"dane": "24928007"
+		},
+		{
+			"name": "PLYMOUTH-MINNESOTA",
+			"dane": "24928008"
+		},
+		{
+			"name": "BLOOMINGTON",
+			"dane": "24928009"
+		},
+		{
+			"name": "BURNSVILLE",
+			"dane": "24928010"
+		},
+		{
+			"name": "MINNETONKA",
+			"dane": "24928011"
+		},
+		{
+			"name": "JACKSON",
+			"dane": "24929000"
+		},
+		{
+			"name": "BILOXI",
+			"dane": "24929001"
+		},
+		{
+			"name": "GULFPORT",
+			"dane": "24929002"
+		},
+		{
+			"name": "GREENVILLE",
+			"dane": "24929003"
+		},
+		{
+			"name": "TUPELO",
+			"dane": "24929004"
+		},
+		{
+			"name": "JEFFERSON CITY",
+			"dane": "24930000"
+		},
+		{
+			"name": "FLORISSANT",
+			"dane": "24930001"
+		},
+		{
+			"name": "ST. LOUIS",
+			"dane": "24930002"
+		},
+		{
+			"name": "SPRINGFIELD-MISSOURI",
+			"dane": "24930003"
+		},
+		{
+			"name": "COLUMBIA-MISSOURI",
+			"dane": "24930004"
+		},
+		{
+			"name": "ST. CHARLES",
+			"dane": "24930005"
+		},
+		{
+			"name": "ST. PETERS",
+			"dane": "24930006"
+		},
+		{
+			"name": "CLINTON-MISSOURI",
+			"dane": "24930007"
+		},
+		{
+			"name": "WARRENSBURG",
+			"dane": "24930008"
+		},
+		{
+			"name": "INDEPENDENCE",
+			"dane": "24930009"
+		},
+		{
+			"name": "KANSAS CITY",
+			"dane": "24930010"
+		},
+		{
+			"name": "LEES SUMMIT",
+			"dane": "24930011"
+		},
+		{
+			"name": "ST. JOSEPH",
+			"dane": "24930012"
+		},
+		{
+			"name": "HELENA",
+			"dane": "24931000"
+		},
+		{
+			"name": "BILLINGS",
+			"dane": "24931001"
+		},
+		{
+			"name": "GREAT FALLS",
+			"dane": "24931002"
+		},
+		{
+			"name": "MISSOULA",
+			"dane": "24931003"
+		},
+		{
+			"name": "LINCOLN",
+			"dane": "24932000"
+		},
+		{
+			"name": "NORTH PLATTE",
+			"dane": "24932001"
+		},
+		{
+			"name": "SCOTTSBLUFF",
+			"dane": "24932002"
+		},
+		{
+			"name": "OMAHA",
+			"dane": "24932003"
+		},
+		{
+			"name": "CARSON CITY",
+			"dane": "24933000"
+		},
+		{
+			"name": "HENDERSON",
+			"dane": "24933001"
+		},
+		{
+			"name": "LAS VEGAS",
+			"dane": "24933002"
+		},
+		{
+			"name": "PARADISE",
+			"dane": "24933003"
+		},
+		{
+			"name": "SPRING VALLEY",
+			"dane": "24933004"
+		},
+		{
+			"name": "SUNRISE MANOR",
+			"dane": "24933005"
+		},
+		{
+			"name": "RENO",
+			"dane": "24933006"
+		},
+		{
+			"name": "SPARKS",
+			"dane": "24933007"
+		},
+		{
+			"name": "TRENTON",
+			"dane": "24934000"
+		},
+		{
+			"name": "BAYONNE",
+			"dane": "24934001"
+		},
+		{
+			"name": "JERSEY CITY",
+			"dane": "24934002"
+		},
+		{
+			"name": "UNION CITY-NEW JERSEY",
+			"dane": "24934003"
+		},
+		{
+			"name": "BRICK TOWNSHIP",
+			"dane": "24934004"
+		},
+		{
+			"name": "EDISON",
+			"dane": "24934005"
+		},
+		{
+			"name": "TOMS RIVER",
+			"dane": "24934006"
+		},
+		{
+			"name": "CAMDEN",
+			"dane": "24934007"
+		},
+		{
+			"name": "VINELAND",
+			"dane": "24934008"
+		},
+		{
+			"name": "ELIZABETH",
+			"dane": "24934009"
+		},
+		{
+			"name": "CLIFTON",
+			"dane": "24934010"
+		},
+		{
+			"name": "EAST ORANGE",
+			"dane": "24934011"
+		},
+		{
+			"name": "IRVINGTON",
+			"dane": "24934012"
+		},
+		{
+			"name": "NEWARK",
+			"dane": "24934013"
+		},
+		{
+			"name": "PASSAIC",
+			"dane": "24934014"
+		},
+		{
+			"name": "PATERSON",
+			"dane": "24934015"
+		},
+		{
+			"name": "WAYNE",
+			"dane": "24934016"
+		},
+		{
+			"name": "ALBANY",
+			"dane": "24935000"
+		},
+		{
+			"name": "NEW YORK CITY",
+			"dane": "24935001"
+		},
+		{
+			"name": "MANHATTAN AREA",
+			"dane": "24935002"
+		},
+		{
+			"name": "SYRACUSE",
+			"dane": "24935003"
+		},
+		{
+			"name": "UTICA-NEW YORK",
+			"dane": "24935004"
+		},
+		{
+			"name": "HEMPSTEAD",
+			"dane": "24935005"
+		},
+		{
+			"name": "ALBANY-NEW YORK",
+			"dane": "24935006"
+		},
+		{
+			"name": "SCHENECTADY",
+			"dane": "24935007"
+		},
+		{
+			"name": "ROCHESTER-NEW YORK",
+			"dane": "24935008"
+		},
+		{
+			"name": "ENDICOTT",
+			"dane": "24935009"
+		},
+		{
+			"name": "ITHACA",
+			"dane": "24935010"
+		},
+		{
+			"name": "BABYLON",
+			"dane": "24935011"
+		},
+		{
+			"name": "BRENTWOOD",
+			"dane": "24935012"
+		},
+		{
+			"name": "BROOKHAVEN",
+			"dane": "24935013"
+		},
+		{
+			"name": "SOUTHAMPTON",
+			"dane": "24935014"
+		},
+		{
+			"name": "BUFFALO",
+			"dane": "24935015"
+		},
+		{
+			"name": "CHEEKTOWAGA",
+			"dane": "24935016"
+		},
+		{
+			"name": "NIAGARA FALLS",
+			"dane": "24935017"
+		},
+		{
+			"name": "TONAWANDA",
+			"dane": "24935018"
+		},
+		{
+			"name": "CORNWALL",
+			"dane": "24935019"
+		},
+		{
+			"name": "MONTGOMERY-NEW YORK",
+			"dane": "24935020"
+		},
+		{
+			"name": "WOODSTOCK",
+			"dane": "24935021"
+		},
+		{
+			"name": "MOUNT VERNON",
+			"dane": "24935022"
+		},
+		{
+			"name": "NEW ROCHELLE",
+			"dane": "24935023"
+		},
+		{
+			"name": "WHITE PLAINS",
+			"dane": "24935024"
+		},
+		{
+			"name": "YONKERS",
+			"dane": "24935025"
+		},
+		{
+			"name": "CONCORD-NEW HAMPSHIRE",
+			"dane": "24936000"
+		},
+		{
+			"name": "MANCHESTER",
+			"dane": "24936001"
+		},
+		{
+			"name": "NASHUA",
+			"dane": "24936002"
+		},
+		{
+			"name": "SANTA FE",
+			"dane": "24937000"
+		},
+		{
+			"name": "ALBUQUERQUE",
+			"dane": "24937001"
+		},
+		{
+			"name": "FARMINGTON",
+			"dane": "24937002"
+		},
+		{
+			"name": "GALLUP",
+			"dane": "24937003"
+		},
+		{
+			"name": "ALAMOGORDO",
+			"dane": "24937004"
+		},
+		{
+			"name": "LAS CRUCES",
+			"dane": "24937005"
+		},
+		{
+			"name": "RIO RANCHO",
+			"dane": "24937006"
+		},
+		{
+			"name": "COLUMBUS-OHIO",
+			"dane": "24938000"
+		},
+		{
+			"name": "CLEVELAND",
+			"dane": "24938001"
+		},
+		{
+			"name": "EUCLID",
+			"dane": "24938002"
+		},
+		{
+			"name": "LAKEWOOD-OHIO",
+			"dane": "24938003"
+		},
+		{
+			"name": "PARMA",
+			"dane": "24938004"
+		},
+		{
+			"name": "AKRON",
+			"dane": "24938005"
+		},
+		{
+			"name": "CANTON-OHIO",
+			"dane": "24938006"
+		},
+		{
+			"name": "YOUNGSTOWN",
+			"dane": "24938007"
+		},
+		{
+			"name": "SANDUSKY",
+			"dane": "24938008"
+		},
+		{
+			"name": "TOLEDO-OHIO",
+			"dane": "24938009"
+		},
+		{
+			"name": "ELYRIA",
+			"dane": "24938010"
+		},
+		{
+			"name": "LORAIN",
+			"dane": "24938011"
+		},
+		{
+			"name": "MENTOR",
+			"dane": "24938012"
+		},
+		{
+			"name": "CINCINNATI",
+			"dane": "24938013"
+		},
+		{
+			"name": "HAMILTON-OHIO",
+			"dane": "24938014"
+		},
+		{
+			"name": "CHILLICOTHE",
+			"dane": "24938015"
+		},
+		{
+			"name": "ZANESVILLE",
+			"dane": "24938016"
+		},
+		{
+			"name": "DAYTON",
+			"dane": "24938017"
+		},
+		{
+			"name": "KETTERING",
+			"dane": "24938018"
+		},
+		{
+			"name": "SPRINGFIELD-OHIO",
+			"dane": "24938019"
+		},
+		{
+			"name": "OKLAHOMA CITY",
+			"dane": "24939000"
+		},
+		{
+			"name": "MIDWEST CITY",
+			"dane": "24939001"
+		},
+		{
+			"name": "NORMAN",
+			"dane": "24939002"
+		},
+		{
+			"name": "LAWTON",
+			"dane": "24939003"
+		},
+		{
+			"name": "BROKEN ARROW",
+			"dane": "24939004"
+		},
+		{
+			"name": "TULSA",
+			"dane": "24939005"
+		},
+		{
+			"name": "SALEM-OREGON",
+			"dane": "24940000"
+		},
+		{
+			"name": "BEAVERTON",
+			"dane": "24940001"
+		},
+		{
+			"name": "GRESHAM",
+			"dane": "24940002"
+		},
+		{
+			"name": "HILLSBORO",
+			"dane": "24940003"
+		},
+		{
+			"name": "PORTLAND-OREGON",
+			"dane": "24940004"
+		},
+		{
+			"name": "BEND",
+			"dane": "24940005"
+		},
+		{
+			"name": "EUGENE",
+			"dane": "24940006"
+		},
+		{
+			"name": "MEDFORD-OREGON",
+			"dane": "24940007"
+		},
+		{
+			"name": "SPRINGFIELD-OREGON",
+			"dane": "24940008"
+		},
+		{
+			"name": "HARRISBURG",
+			"dane": "24941000"
+		},
+		{
+			"name": "LEVITTOWN",
+			"dane": "24941001"
+		},
+		{
+			"name": "PHILADELPHIA",
+			"dane": "24941002"
+		},
+		{
+			"name": "PITTSBURGH",
+			"dane": "24941003"
+		},
+		{
+			"name": "SCRANTON",
+			"dane": "24941004"
+		},
+		{
+			"name": "WILKES",
+			"dane": "24941005"
+		},
+		{
+			"name": "BARRE",
+			"dane": "24941006"
+		},
+		{
+			"name": "ALLENTOWN",
+			"dane": "24941007"
+		},
+		{
+			"name": "BETHLEHEM",
+			"dane": "24941008"
+		},
+		{
+			"name": "READING",
+			"dane": "24941009"
+		},
+		{
+			"name": "LANCASTER",
+			"dane": "24941010"
+		},
+		{
+			"name": "ELWOOD CITY",
+			"dane": "24941011"
+		},
+		{
+			"name": "KENSINGTON",
+			"dane": "24941012"
+		},
+		{
+			"name": "ERIE",
+			"dane": "24941013"
+		},
+		{
+			"name": "PROVIDENCE",
+			"dane": "24942000"
+		},
+		{
+			"name": "CRANSTON",
+			"dane": "24942001"
+		},
+		{
+			"name": "PAWTUCKET",
+			"dane": "24942002"
+		},
+		{
+			"name": "WARWICK",
+			"dane": "24942003"
+		},
+		{
+			"name": "NASHVILLE",
+			"dane": "24943000"
+		},
+		{
+			"name": "CHATTANOOGA",
+			"dane": "24943001"
+		},
+		{
+			"name": "JOHNSON CITY",
+			"dane": "24943002"
+		},
+		{
+			"name": "MURFREESBORO",
+			"dane": "24943003"
+		},
+		{
+			"name": "JACKSON-TENNESSEE",
+			"dane": "24943004"
+		},
+		{
+			"name": "KNOXVILLE",
+			"dane": "24943005"
+		},
+		{
+			"name": "MEMPHIS",
+			"dane": "24943006"
+		},
+		{
+			"name": "CLARKSVILLE",
+			"dane": "24943007"
+		},
+		{
+			"name": "AUSTIN",
+			"dane": "24944000"
+		},
+		{
+			"name": "SAN ANTONIO-TEXAS",
+			"dane": "24944001"
+		},
+		{
+			"name": "ARLINGTON",
+			"dane": "24944002"
+		},
+		{
+			"name": "CARROLLTON",
+			"dane": "24944003"
+		},
+		{
+			"name": "DALLAS",
+			"dane": "24944004"
+		},
+		{
+			"name": "FLOWER MOUND",
+			"dane": "24944005"
+		},
+		{
+			"name": "GARLAND",
+			"dane": "24944006"
+		},
+		{
+			"name": "GRAND PRAIRIE",
+			"dane": "24944007"
+		},
+		{
+			"name": "IRVING",
+			"dane": "24944008"
+		},
+		{
+			"name": "LEWISVILLE",
+			"dane": "24944009"
+		},
+		{
+			"name": "MCKINNEY",
+			"dane": "24944010"
+		},
+		{
+			"name": "MESQUITE",
+			"dane": "24944011"
+		},
+		{
+			"name": "PLANO",
+			"dane": "24944012"
+		},
+		{
+			"name": "RICHARDSON",
+			"dane": "24944013"
+		},
+		{
+			"name": "KILLEEN",
+			"dane": "24944014"
+		},
+		{
+			"name": "TEMPLE",
+			"dane": "24944015"
+		},
+		{
+			"name": "WACO",
+			"dane": "24944016"
+		},
+		{
+			"name": "ABILENE",
+			"dane": "24944017"
+		},
+		{
+			"name": "SAN ANGELO",
+			"dane": "24944018"
+		},
+		{
+			"name": "CORPUS CHRISTI",
+			"dane": "24944019"
+		},
+		{
+			"name": "VICTORIA-TEXAS",
+			"dane": "24944020"
+		},
+		{
+			"name": "BEAUMONT",
+			"dane": "24944021"
+		},
+		{
+			"name": "GALVESTON",
+			"dane": "24944022"
+		},
+		{
+			"name": "PORT ARTHUR",
+			"dane": "24944023"
+		},
+		{
+			"name": "MIDLAND",
+			"dane": "24944024"
+		},
+		{
+			"name": "ODESSA",
+			"dane": "24944025"
+		},
+		{
+			"name": "ROUND ROCK",
+			"dane": "24944026"
+		},
+		{
+			"name": "BAYTOWN",
+			"dane": "24944027"
+		},
+		{
+			"name": "HOUSTON",
+			"dane": "24944028"
+		},
+		{
+			"name": "MISSOURI CITY",
+			"dane": "24944029"
+		},
+		{
+			"name": "PASADENA-TEXAS",
+			"dane": "24944030"
+		},
+		{
+			"name": "SUGAR LAND",
+			"dane": "24944031"
+		},
+		{
+			"name": "THE WOODLANDS",
+			"dane": "24944032"
+		},
+		{
+			"name": "AMARILLO",
+			"dane": "24944033"
+		},
+		{
+			"name": "LUBBOCK",
+			"dane": "24944034"
+		},
+		{
+			"name": "FORT WORTH",
+			"dane": "24944035"
+		},
+		{
+			"name": "NORTH RICHLAND HILLS",
+			"dane": "24944036"
+		},
+		{
+			"name": "BOERNE",
+			"dane": "24944037"
+		},
+		{
+			"name": "CANYON LAKE",
+			"dane": "24944038"
+		},
+		{
+			"name": "GONZALES",
+			"dane": "24944039"
+		},
+		{
+			"name": "LONGVIEW",
+			"dane": "24944040"
+		},
+		{
+			"name": "TYLER",
+			"dane": "24944041"
+		},
+		{
+			"name": "EL PASO-TEXAS",
+			"dane": "24944042"
+		},
+		{
+			"name": "DIBOLL",
+			"dane": "24944043"
+		},
+		{
+			"name": "LUFKIN",
+			"dane": "24944044"
+		},
+		{
+			"name": "WALLER",
+			"dane": "24944045"
+		},
+		{
+			"name": "BOWIE-TEXAS",
+			"dane": "24944046"
+		},
+		{
+			"name": "LAKE DALLAS",
+			"dane": "24944047"
+		},
+		{
+			"name": "WICHITA FALLS",
+			"dane": "24944048"
+		},
+		{
+			"name": "BROWNSVILLE",
+			"dane": "24944049"
+		},
+		{
+			"name": "HARLINGEN",
+			"dane": "24944050"
+		},
+		{
+			"name": "LAREDO",
+			"dane": "24944051"
+		},
+		{
+			"name": "MCALLEN",
+			"dane": "24944052"
+		},
+		{
+			"name": "BRYAN",
+			"dane": "24944053"
+		},
+		{
+			"name": "COLLEGE STATION",
+			"dane": "24944054"
+		},
+		{
+			"name": "SALT LAKE CITY",
+			"dane": "24945000"
+		},
+		{
+			"name": "BRIGHAM CITY",
+			"dane": "24945001"
+		},
+		{
+			"name": "LOGAN",
+			"dane": "24945002"
+		},
+		{
+			"name": "TREMONTON",
+			"dane": "24945003"
+		},
+		{
+			"name": "LAYTON",
+			"dane": "24945004"
+		},
+		{
+			"name": "OGDEN",
+			"dane": "24945005"
+		},
+		{
+			"name": "OREM",
+			"dane": "24945006"
+		},
+		{
+			"name": "PROVO",
+			"dane": "24945007"
+		},
+		{
+			"name": "SANDY",
+			"dane": "24945008"
+		},
+		{
+			"name": "TAYLORSVILLE",
+			"dane": "24945009"
+		},
+		{
+			"name": "WEST JORDAN",
+			"dane": "24945010"
+		},
+		{
+			"name": "WEST VALLEY CITY",
+			"dane": "24945011"
+		},
+		{
+			"name": "MONTPELIER",
+			"dane": "24946000"
+		},
+		{
+			"name": "COLCHESTER",
+			"dane": "24946001"
+		},
+		{
+			"name": "BURLINGTON",
+			"dane": "24946002"
+		},
+		{
+			"name": "RICHMOND-VIRGINIA",
+			"dane": "24947000"
+		},
+		{
+			"name": "CASTLEWOOD",
+			"dane": "24947001"
+		},
+		{
+			"name": "HILLSVILLE",
+			"dane": "24947002"
+		},
+		{
+			"name": "WOODLAWN",
+			"dane": "24947003"
+		},
+		{
+			"name": "LYNCHBURG",
+			"dane": "24947004"
+		},
+		{
+			"name": "ROANOKE",
+			"dane": "24947005"
+		},
+		{
+			"name": "ALEXANDRIA",
+			"dane": "24947006"
+		},
+		{
+			"name": "ANNANDALE",
+			"dane": "24947007"
+		},
+		{
+			"name": "ARLINGTON-VIRGINIA",
+			"dane": "24947008"
+		},
+		{
+			"name": "BURKE",
+			"dane": "24947009"
+		},
+		{
+			"name": "DALE CITY",
+			"dane": "24947010"
+		},
+		{
+			"name": "RESTON",
+			"dane": "24947011"
+		},
+		{
+			"name": "CHESAPEAKE",
+			"dane": "24947012"
+		},
+		{
+			"name": "HAMPTON",
+			"dane": "24947013"
+		},
+		{
+			"name": "NEWPORT NEWS",
+			"dane": "24947014"
+		},
+		{
+			"name": "NORFOLK",
+			"dane": "24947015"
+		},
+		{
+			"name": "PORTSMOUTH",
+			"dane": "24947016"
+		},
+		{
+			"name": "SUFFOLK",
+			"dane": "24947017"
+		},
+		{
+			"name": "VIRGINIA BEACH",
+			"dane": "24947018"
+		},
+		{
+			"name": "CHARLESTON",
+			"dane": "24948000"
+		},
+		{
+			"name": "HUNTINGTON",
+			"dane": "24948001"
+		},
+		{
+			"name": "MADISON",
+			"dane": "24949000"
+		},
+		{
+			"name": "KENOSHA",
+			"dane": "24949001"
+		},
+		{
+			"name": "RACINE",
+			"dane": "24949002"
+		},
+		{
+			"name": "MILWAUKEE",
+			"dane": "24949003"
+		},
+		{
+			"name": "JANESVILLE",
+			"dane": "24949004"
+		},
+		{
+			"name": "LA CROSSE",
+			"dane": "24949005"
+		},
+		{
+			"name": "EAU CLAIRE",
+			"dane": "24949006"
+		},
+		{
+			"name": "APPLETON,",
+			"dane": "24949007"
+		},
+		{
+			"name": "GREEN BAY",
+			"dane": "24949008"
+		},
+		{
+			"name": "OSHKOSH",
+			"dane": "24949009"
+		},
+		{
+			"name": "SHEBOYGAN",
+			"dane": "24949010"
+		},
+		{
+			"name": "CHEYENNE",
+			"dane": "24950000"
+		},
+		{
+			"name": "TALLIN",
+			"dane": "25101001"
+		},
+		{
+			"name": "ADÍS ABEBA",
+			"dane": "25301001"
+		},
+		{
+			"name": "TÓRSHAVN",
+			"dane": "25901001"
+		},
+		{
+			"name": "MANILA",
+			"dane": "26701001"
+		},
+		{
+			"name": "HELSINKI",
+			"dane": "27101001"
+		},
+		{
+			"name": "PARÍS",
+			"dane": "27501001"
+		},
+		{
+			"name": "LIBREVILLE",
+			"dane": "28101001"
+		},
+		{
+			"name": "BANJUL",
+			"dane": "28501001"
+		},
+		{
+			"name": "RAMALA",
+			"dane": "28601001"
+		},
+		{
+			"name": "TIFLIS",
+			"dane": "28701001"
+		},
+		{
+			"name": "ACCRA",
+			"dane": "28901001"
+		},
+		{
+			"name": "GIBRALTAR",
+			"dane": "29301001"
+		},
+		{
+			"name": "SAINT GEORGE'S",
+			"dane": "29701001"
+		},
+		{
+			"name": "ATENAS",
+			"dane": "30101001"
+		},
+		{
+			"name": "NUUK",
+			"dane": "30501001"
+		},
+		{
+			"name": "BASSE TERRE",
+			"dane": "30901001"
+		},
+		{
+			"name": "AGAÑA",
+			"dane": "31301001"
+		},
+		{
+			"name": "CIUDAD DE GUATEMALA",
+			"dane": "31701001"
+		},
+		{
+			"name": "CAYENA",
+			"dane": "32501001"
+		},
+		{
+			"name": "CONAKRY",
+			"dane": "32901001"
+		},
+		{
+			"name": "MALABO",
+			"dane": "33101001"
+		},
+		{
+			"name": "BISSAU",
+			"dane": "33401001"
+		},
+		{
+			"name": "GEORGETOWN",
+			"dane": "33701001"
+		},
+		{
+			"name": "PUERTO PRÍNCIPE",
+			"dane": "34101001"
+		},
+		{
+			"name": "TEGUCIGALPA",
+			"dane": "34501001"
+		},
+		{
+			"name": "HONG KONG",
+			"dane": "35101001"
+		},
+		{
+			"name": "BUDAPEST",
+			"dane": "35501001"
+		},
+		{
+			"name": "NUEVA DELHI",
+			"dane": "36101001"
+		},
+		{
+			"name": "YAKARTA",
+			"dane": "36501001"
+		},
+		{
+			"name": "BAGDAD",
+			"dane": "36901001"
+		},
+		{
+			"name": "TEHERÁN",
+			"dane": "37201001"
+		},
+		{
+			"name": "DUBLÍN",
+			"dane": "37501001"
+		},
+		{
+			"name": "REIKIAVIK",
+			"dane": "37901001"
+		},
+		{
+			"name": "JERUSALÉN",
+			"dane": "38301001"
+		},
+		{
+			"name": "ROMA",
+			"dane": "38601001"
+		},
+		{
+			"name": "KINGSTON-JAMAICA",
+			"dane": "39101001"
+		},
+		{
+			"name": "JOHNSTON, ISLA.",
+			"dane": "39501001"
+		},
+		{
+			"name": "TOKIO",
+			"dane": "39901001"
+		},
+		{
+			"name": "AMÁN",
+			"dane": "40301001"
+		},
+		{
+			"name": "ASTANÁ",
+			"dane": "40601001"
+		},
+		{
+			"name": "NAIROBI",
+			"dane": "41001001"
+		},
+		{
+			"name": "TARAWA",
+			"dane": "41101001"
+		},
+		{
+			"name": "BISKEK",
+			"dane": "41201001"
+		},
+		{
+			"name": "CIUDAD DE KUWAIT",
+			"dane": "41301001"
+		},
+		{
+			"name": "VIENTIÁN",
+			"dane": "42001001"
+		},
+		{
+			"name": "MASERU",
+			"dane": "42601001"
+		},
+		{
+			"name": "RIGA",
+			"dane": "42901001"
+		},
+		{
+			"name": "BEIRUT",
+			"dane": "43101001"
+		},
+		{
+			"name": "MONROVIA",
+			"dane": "43401001"
+		},
+		{
+			"name": "TRÍPOLI",
+			"dane": "43801001"
+		},
+		{
+			"name": "VADUZ",
+			"dane": "44001001"
+		},
+		{
+			"name": "VILNA",
+			"dane": "44301001"
+		},
+		{
+			"name": "LUXEMBURGO",
+			"dane": "44501001"
+		},
+		{
+			"name": "MACAO",
+			"dane": "44701001"
+		},
+		{
+			"name": "SKOPIE",
+			"dane": "44801001"
+		},
+		{
+			"name": "ANTANANARIVO",
+			"dane": "45001001"
+		},
+		{
+			"name": "KUALA LUMPUR",
+			"dane": "45501001"
+		},
+		{
+			"name": "LILONGÜE",
+			"dane": "45801001"
+		},
+		{
+			"name": "MALÉ",
+			"dane": "46101001"
+		},
+		{
+			"name": "BAMAKO",
+			"dane": "46401001"
+		},
+		{
+			"name": "LA VALETA",
+			"dane": "46701001"
+		},
+		{
+			"name": "SAIPÁN",
+			"dane": "46901001"
+		},
+		{
+			"name": "MAJURO",
+			"dane": "47201001"
+		},
+		{
+			"name": "RABAT",
+			"dane": "47401001"
+		},
+		{
+			"name": "FORT DE FRANCE",
+			"dane": "47701001"
+		},
+		{
+			"name": "PORT LOUIS",
+			"dane": "48501001"
+		},
+		{
+			"name": "NUAKCHOT",
+			"dane": "48801001"
+		},
+		{
+			"name": "CIUDAD DE MÉXICO",
+			"dane": "49301001"
+		},
+		{
+			"name": "PALIKIR",
+			"dane": "49401001"
+		},
+		{
+			"name": "MIDWAY, ISLAS.",
+			"dane": "49501001"
+		},
+		{
+			"name": "CHISINAU",
+			"dane": "49601001"
+		},
+		{
+			"name": "ULÁN BATOR",
+			"dane": "49701001"
+		},
+		{
+			"name": "MÓNACO",
+			"dane": "49801001"
+		},
+		{
+			"name": "BRADES",
+			"dane": "50101001"
+		},
+		{
+			"name": "MAPUTO",
+			"dane": "50501001"
+		},
+		{
+			"name": "WINDHOEK",
+			"dane": "50701001"
+		},
+		{
+			"name": "YAREN",
+			"dane": "50801001"
+		},
+		{
+			"name": "FLYING FISH COVE",
+			"dane": "51101001"
+		},
+		{
+			"name": "KATMANDÚ",
+			"dane": "51701001"
+		},
+		{
+			"name": "MANAGUA",
+			"dane": "52101001"
+		},
+		{
+			"name": "NIAMEY",
+			"dane": "52501001"
+		},
+		{
+			"name": "ABUJA",
+			"dane": "52801001"
+		},
+		{
+			"name": "ALOFI",
+			"dane": "53101001"
+		},
+		{
+			"name": "KINGSTON",
+			"dane": "53501001"
+		},
+		{
+			"name": "OSLO",
+			"dane": "53801001"
+		},
+		{
+			"name": "NUMEA",
+			"dane": "54201001"
+		},
+		{
+			"name": "PORT MORESBY",
+			"dane": "54501001"
+		},
+		{
+			"name": "WELLINGTON",
+			"dane": "54801001"
+		},
+		{
+			"name": "PORT VILA",
+			"dane": "55101001"
+		},
+		{
+			"name": "MASCATE",
+			"dane": "55601001"
+		},
+		{
+			"name": "ÁMSTERDAM",
+			"dane": "57301001"
+		},
+		{
+			"name": "ISLAMABAD",
+			"dane": "57601001"
+		},
+		{
+			"name": "MELEKEOK",
+			"dane": "57801001"
+		},
+		{
+			"name": "PANAMÁ",
+			"dane": "58001001"
+		},
+		{
+			"name": "ASUNCIÓN",
+			"dane": "58601001"
+		},
+		{
+			"name": "LIMA",
+			"dane": "58901001"
+		},
+		{
+			"name": "ADAMSTOWN",
+			"dane": "59301001"
+		},
+		{
+			"name": "PAPEETE",
+			"dane": "59901001"
+		},
+		{
+			"name": "VARSOVIA",
+			"dane": "60301001"
+		},
+		{
+			"name": "LISBOA",
+			"dane": "60701001"
+		},
+		{
+			"name": "SAN JUAN",
+			"dane": "61101001"
+		},
+		{
+			"name": "DOHA",
+			"dane": "61801001"
+		},
+		{
+			"name": "INGLATERRA",
+			"dane": "62801001"
+		},
+		{
+			"name": "BANGUI",
+			"dane": "64001001"
+		},
+		{
+			"name": "PRAGA",
+			"dane": "64401001"
+		},
+		{
+			"name": "SANTO DOMING",
+			"dane": "64701001"
+		},
+		{
+			"name": "SAINT DENIS",
+			"dane": "66001001"
+		},
+		{
+			"name": "HARARE",
+			"dane": "66501001"
+		},
+		{
+			"name": "BUCAREST",
+			"dane": "67001001"
+		},
+		{
+			"name": "KIGALI",
+			"dane": "67501001"
+		},
+		{
+			"name": "MOSCÚ",
+			"dane": "67601001"
+		},
+		{
+			"name": "HONIARA",
+			"dane": "67701001"
+		},
+		{
+			"name": "EL AAIÚN",
+			"dane": "68501001"
+		},
+		{
+			"name": "APIA-SAMOA",
+			"dane": "68701001"
+		},
+		{
+			"name": "PAGO PAGO",
+			"dane": "69001001"
+		},
+		{
+			"name": "BASSETERRE",
+			"dane": "69501001"
+		},
+		{
+			"name": "CIUDAD DE SAN MARINO",
+			"dane": "69701001"
+		},
+		{
+			"name": "SAN PEDRO",
+			"dane": "70001001"
+		},
+		{
+			"name": "KINGSTOWN",
+			"dane": "70501001"
+		},
+		{
+			"name": "JAMESTOWN",
+			"dane": "71001001"
+		},
+		{
+			"name": "CASTRIES",
+			"dane": "71501001"
+		},
+		{
+			"name": "SANTO TOMÉ",
+			"dane": "72001001"
+		},
+		{
+			"name": "DAKAR",
+			"dane": "72801001"
+		},
+		{
+			"name": "VICTORIA-SEYCHELLES",
+			"dane": "73101001"
+		},
+		{
+			"name": "FREETOWN-SIERRA LEONA",
+			"dane": "73501001"
+		},
+		{
+			"name": "SINGAPUR",
+			"dane": "74101001"
+		},
+		{
+			"name": "DAMASCO",
+			"dane": "74401001"
+		},
+		{
+			"name": "MOGADISCIO",
+			"dane": "74801001"
+		},
+		{
+			"name": "SRI JAYAWARDENAPURA",
+			"dane": "75001001"
+		},
+		{
+			"name": "CIUDAD DEL CABO",
+			"dane": "75601001"
+		},
+		{
+			"name": "JARTUM",
+			"dane": "75901001"
+		},
+		{
+			"name": "ESTOCOLMO",
+			"dane": "76401001"
+		},
+		{
+			"name": "BERNA",
+			"dane": "76701001"
+		},
+		{
+			"name": "PARAMARIBO",
+			"dane": "77001001"
+		},
+		{
+			"name": "LOBAMBA",
+			"dane": "77301001"
+		},
+		{
+			"name": "DUSAMBÉ",
+			"dane": "77401001"
+		},
+		{
+			"name": "BANGKOK",
+			"dane": "77601001"
+		},
+		{
+			"name": "DODOMA",
+			"dane": "78001001"
+		},
+		{
+			"name": "YIBUTI",
+			"dane": "78301001"
+		},
+		{
+			"name": "BASE ROTHERA",
+			"dane": "78601001"
+		},
+		{
+			"name": "T. BRIT. OCEANOINDICO.",
+			"dane": "78701001"
+		},
+		{
+			"name": "DILI",
+			"dane": "78801001"
+		},
+		{
+			"name": "LOMÉ",
+			"dane": "80001001"
+		},
+		{
+			"name": "FAKAOFO",
+			"dane": "80501001"
+		},
+		{
+			"name": "NUKUALOFA",
+			"dane": "81001001"
+		},
+		{
+			"name": "PUERTO ESPAÑA",
+			"dane": "81501001"
+		},
+		{
+			"name": "TÚNEZ",
+			"dane": "82001001"
+		},
+		{
+			"name": "COCKBURN TOWN",
+			"dane": "82301001"
+		},
+		{
+			"name": "ASJABAD",
+			"dane": "82501001"
+		},
+		{
+			"name": "ANKARA",
+			"dane": "82701001"
+		},
+		{
+			"name": "FUNAFUTI",
+			"dane": "82801001"
+		},
+		{
+			"name": "KIEV",
+			"dane": "83001001"
+		},
+		{
+			"name": "KAMPALA",
+			"dane": "83301001"
+		},
+		{
+			"name": "MONTEVIDEO",
+			"dane": "84501001"
+		},
+		{
+			"name": "TASKENT",
+			"dane": "84701001"
+		},
+		{
+			"name": "CARÁCAS",
+			"dane": "85001001"
+		},
+		{
+			"name": "HANÓI",
+			"dane": "85501001"
+		},
+		{
+			"name": "ROAD TOWN",
+			"dane": "86301001"
+		},
+		{
+			"name": "CHARLOTTE AMALIE",
+			"dane": "86601001"
+		},
+		{
+			"name": "SUVA",
+			"dane": "87001001"
+		},
+		{
+			"name": "WAKE, ISLA",
+			"dane": "87301001"
+		},
+		{
+			"name": "MAT",
+			"dane": "87501001"
+		},
+		{
+			"name": "SANÁ",
+			"dane": "88001001"
+		},
+		{
+			"name": "BELGRADO",
+			"dane": "88501001"
+		},
+		{
+			"name": "KINSHASA",
+			"dane": "88801001"
+		},
+		{
+			"name": "LUSAKA",
+			"dane": "89001001"
+		},
+		{
+			"name": "ZONA FRANCA BARRANQUILLA",
+			"dane": "91101001"
+		},
+		{
+			"name": "ZONA FRANCA BUENAVENTURA",
+			"dane": "91201001"
+		},
+		{
+			"name": "ZONA FRANCA CALI",
+			"dane": "91301001"
+		},
+		{
+			"name": "ZONA FRANCA CUCUTA",
+			"dane": "91401001"
+		},
+		{
+			"name": "ZONA FRANCA SANTA MARTA",
+			"dane": "91501001"
+		},
+		{
+			"name": "ZONA FRANCA CARTAGENA",
+			"dane": "91601001"
+		},
+		{
+			"name": "ZONA FRANCA RIONEGRO",
+			"dane": "91701001"
+		},
+		{
+			"name": "ZONA FRANCA LA CANDELARIA",
+			"dane": "91801001"
+		},
+		{
+			"name": "ZONA FRANCA BOGOTA",
+			"dane": "91901001"
+		},
+		{
+			"name": "ZONA FRANCA PACIFICO",
+			"dane": "92001001"
+		},
+		{
+			"name": "ZONA FRANCA BARU BEACH RESORT",
+			"dane": "92101001"
+		},
+		{
+			"name": "ZONA FRANCA POZOS COLORADOS",
+			"dane": "92201001"
+		},
+		{
+			"name": "ZONA FRANCA EUROCARIBE",
+			"dane": "92301001"
+		},
+		{
+			"name": "NO DECLARADOS - NO DECLARADOS",
+			"dane": "99900000"
+		},
+		{
+			"name": "99901001000",
+			"dane": "NO DECLARADOS - NO DECLARADOS "
+		}
+	]
+}

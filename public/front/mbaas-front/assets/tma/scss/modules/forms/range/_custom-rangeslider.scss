@@ -1,0 +1,150 @@
+
+
+/**
+* Modules - forms - Range slider
+*/
+
+.rangeSlider {
+	width: 100%;
+	margin: em(21) 0;
+	padding: 0;
+	@include prefix((
+		box-sizing: border-box,
+		display: flex,
+		justify-content: flex-start,
+		align-items: center,
+		flex-direction: column
+	), webkit moz o ms);
+	&__indicator
+	{
+		width: 100%;
+		margin-bottom: em(16);
+		background-color: $color__background--main;
+		font-size: em(26);
+		font-weight: bold;
+		padding: em(7);
+		@include prefix((
+			box-sizing: border-box,
+			display: flex,
+			justify-content: center,
+			align-items: center
+		), webkit moz o ms);
+		&:before
+		{
+			content: '';
+			margin-right: em(3);
+		}
+	}
+	&__input
+	{
+		width: 100%;
+		height: em(4);
+		border-radius: em(2);   
+		background: $color__background--main;
+		outline: none;
+		cursor: pointer;
+		background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, $color__primary), color-stop(100%, $color__primary));
+	    background-image: -webkit-linear-gradient($color__primary, $color__primary);
+	    background-image: -moz-linear-gradient($color__primary, $color__primary);
+	    background-image: -o-linear-gradient($color__primary, $color__primary);
+	    background-image: linear-gradient($color__primary, $color__primary);
+	    background-repeat: no-repeat;
+	    cursor: pointer;
+		@include prefix((
+			box-sizing: border-box,
+			transition: .3s,
+			appearance: none
+		), webkit moz o ms);
+	}
+	::-webkit-slider-runnable-track {
+	    box-shadow: none;
+	    border: none;
+	    background: transparent;
+	    -webkit-appearance: none;
+	    @include prefix((
+			box-sizing: border-box,
+			transition: .3s,
+			appearance: none
+		), webkit moz o ms);
+	}
+
+	::-moz-range-track {
+	    box-shadow: none;
+	    border: none;
+	    background: transparent;
+	}
+
+	::-moz-focus-outer {
+	    border: 0;
+	}
+
+	::-webkit-slider-thumb {
+	    width: em(16);
+		height: em(16);
+		border-radius: 50%; 
+		background: $color__primary;
+		cursor: pointer;
+		@include prefix((
+			box-sizing: border-box,
+			appearance: none,
+			transition: .3s
+		), webkit moz o ms);
+	}
+
+	::-moz-range-thumb {
+	    width: em(16);
+		height: em(16);
+		border-radius: 50%; 
+		background: $color__primary;
+		cursor: pointer;
+		@include prefix((
+			box-sizing: border-box,
+			appearance: none,
+			transition: .3s,
+		), webkit moz o ms);
+	}
+
+	::-ms-ticks-after { 
+	    display: none; 
+	}
+
+	::-ms-ticks-before { 
+	    display: none; 
+	}
+
+	::-ms-track { 
+	    background: $color__background--main;
+	    color: transparent;
+	    border: none;
+	}
+
+	::-ms-tooltip { 
+	    display: none;
+	}
+	&__limits
+	{
+		width: 100%;
+		padding: 0;
+		margin-top: em(13);
+		@include prefix((
+			box-sizing: border-box,
+			display: flex,
+			justify-content: space-between,
+			align-items: center
+		), webkit moz o ms);
+		&__limit
+		{
+			font-weight: 500;
+			font-size: em(11);
+			&:before
+			{
+				content: '$ ';
+				margin-right: em(3);
+			}
+			&--end
+			{
+				color: $color__primary;
+			}
+		}
+	}
+}

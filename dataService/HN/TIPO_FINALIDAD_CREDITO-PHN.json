@@ -1,0 +1,118 @@
+[
+ {
+   "value": 1,
+   "label": "SOLO CONVERSION"
+ },
+ {
+   "value": 2,
+   "label": "PRESTAMOS PARA VEHICULOS"
+ },
+ {
+   "value": 3,
+   "label": "PRESTAMOS PARA VIAJES"
+ },
+ {
+   "value": 4,
+   "label": "PRESTAMOS PARA SALUD"
+ },
+ {
+   "value": 5,
+   "label": "MENAJE"
+ },
+ {
+   "value": 6,
+   "label": "CONSOLIDACION DE DEUDAS"
+ },
+ {
+   "value": 7,
+   "label": "EDUCACION"
+ },
+ {
+   "value": 8,
+   "label": "PLUS"
+ },
+ {
+   "value": 9,
+   "label": "OTROS"
+ },
+ {
+   "value": 10,
+   "label": "MEJORA A VIVIENDAS"
+ },
+ {
+   "value": 11,
+   "label": "ESPECIALES O EXCEPCION"
+ },
+ {
+   "value": 12,
+   "label": "CAPITAL DE TRABAJO"
+ },
+ {
+   "value": 13,
+   "label": "MAQUINARIA Y EQUIPO"
+ },
+ {
+   "value": 14,
+   "label": "EQUIPO DE TRANSP. PRODUCTIVO"
+ },
+ {
+   "value": 15,
+   "label": "BIENES INMUEBLES"
+ },
+ {
+   "value": 16,
+   "label": "VEHICULO NUEVO"
+ },
+ {
+   "value": 17,
+   "label": "VEHICULO USADO"
+ },
+ {
+   "value": 18,
+   "label": "COMPRA DE VIVIENDA"
+ },
+ {
+   "value": 19,
+   "label": "CONSTRUCCION"
+ },
+ {
+   "value": 20,
+   "label": "COMPRA DE TERRENO"
+ },
+ {
+   "value": 21,
+   "label": "COMPRA DE ACTIVO EVENTUAL"
+ },
+ {
+   "value": 22,
+   "label": "PRESTAMOS GARANTIZADOS CON CDT"
+ },
+ {
+   "value": 23,
+   "label": "LIBERACION DE HIPOTECA"
+ },
+ {
+   "value": 24,
+   "label": "Compra Lote y Construccion"
+ },
+ {
+   "value": 25,
+   "label": "PROMOSION REASA BGA"
+ },
+ {
+   "value": 26,
+   "label": "VEHICULOS NUEVOS DISPENSADOS"
+ },
+ {
+   "value": 31,
+   "label": "PRESTAMOS CON EXCEPCION"
+ },
+ {
+   "value": 32,
+   "label": "COMPRA CARTERA AUTO"
+ },
+ {
+   "value": 41,
+   "label": "PRESTAMO PRODUCTO DABUENAVIDA"
+ }
+]

@@ -1,0 +1,169 @@
+
+// =============================================================================
+// Import Base variables
+// =============================================================================
+
+@import "../variables/_base-variables";
+
+// =============================================================================
+// Text elements styles -mixin
+// =============================================================================
+
+@mixin text( $size: $font__size, $line: $font__base, $margin-top: 0, $margin-bottom: 0, $family: $font__family, $color: $color__text, $weight: 100, $style: normal) {
+    color: $color;
+    font-family: $family;
+    font-size: em($size);
+    font-weight: $weight;
+    line-height: em($line, $size);
+    margin-top: em($margin-top, $size);
+    margin-bottom: em($margin-bottom, $size);
+    font-style: $style;
+}
+
+/**
+ * Text elements - styles.
+ */
+
+h1, .h1
+{
+    @include text(57, 76, 21, 42, $color: $color__text, $weight: 900)
+}
+
+h2, .h2
+{
+    @include text(36, 42, 7, 18, $color: $color__text, $weight: 900)
+}
+
+h3, .h3
+{
+    @include text(26, 21, 0, 21, $color: $color__text, $weight: 300)
+}
+
+h4, .h4
+{
+    @include text(18, 21, 0, 18, $weight: 600)
+}
+
+h5, .h5
+{
+    @include text(16, 21, 0, 21, $weight: 300)
+}
+
+h6, .h6
+{
+    @include text(12, 16, 0, 10, $weight: 300)
+}
+
+p
+{
+    @include text($margin-bottom: 21, $color: $color__text--light, $weight: 200)
+}
+
+ul li
+{
+    @include text(15, 16, 7, 0, $weight: 200)
+}
+
+ol 
+{
+    list-style: none;
+    counter-reset: my-awesome-counter;
+    padding-left: 0;
+    margin-bottom: em(28);
+    li 
+    {
+        @include text(18, 18, 30, 0, $weight: 200);
+        counter-increment: my-awesome-counter;
+        padding-left: em(35);
+        position: relative;
+        &:before 
+        {
+            content: counter(my-awesome-counter);
+            position: absolute;
+            top: -3px;
+            left: 0;
+            background-color: red;
+            font-weight: bold;
+            width: 28px;
+            height: 28px;
+            color: white;
+            font-weight: 300;
+            font-size: 15px;
+            @include prefix((
+                border-radius: 50%,
+                display: flex,
+                justify-content: center,
+                align-items: center
+            ), webkit moz o ms);
+        }
+    }
+}
+
+em
+{
+    @include text(11, 15, 10, 0, $weight: 300)
+}
+
+/**
+ * Text colors - styles.
+ */
+
+.text__color--light
+{
+    color: white !important;
+}
+
+.text__color--dark
+{
+    color: $color__text--dark !important;
+}
+
+.text__color
+{
+    color: $color__text;
+}
+
+.text__color--primary
+{
+    color: $color__primary;
+}
+
+/**
+ * Text align - styles.
+ */
+
+ .text__align--left
+ {
+    display: block;
+    text-align: left;
+ }
+
+ .text__align--right
+ {
+    display: block;
+    text-align: right;
+ }
+
+ .text__align--center
+ {
+    display: block;
+    text-align: center;
+ }
+
+/**
+ * Text align - weight.
+ */
+
+ .text__weight--regular
+ {
+    font-weight: normal !important;
+ }
+
+/**
+ * Text margin variations
+ */
+
+ .text__margin--bottom0
+ {
+    margin-bottom: 0;
+ }

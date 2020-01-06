@@ -1,0 +1,16 @@
+{
+    "cities": [
+        {
+            "name": "Buenos Aires",
+            "dane": "00101001"
+        },
+        {
+            "name": "Bogotá",
+            "dane": "00201001"
+        },
+        {
+            "name": "Ciudad de México",
+            "dane": "00301001"
+        }
+    ]
+}

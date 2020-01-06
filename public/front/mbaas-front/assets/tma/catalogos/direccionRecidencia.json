@@ -1,0 +1,9 @@
+{
+  "tipoVia": [
+    { "label": "CR", "value": "CR" },
+    { "label": "CL", "value": "CL" },
+    { "label": "TV", "value": "TV" },
+    { "label": "DG", "value": "DG" },
+    { "label": "Otro", "value": "Otro" }
+  ]
+}

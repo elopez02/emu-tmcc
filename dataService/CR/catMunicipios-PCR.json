@@ -1,0 +1,401 @@
+[{
+	"nombre": "ATENAS",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "205"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "201",
+	"nombre": "CENTRAL"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "203",
+	"nombre": "GRECIA"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "215",
+	"nombre": "GUATUSO"
+}, {
+	"codigo": "214",
+	"nombre": "LOS CHILES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2"
+}, {
+	"codigo": "206",
+	"nombre": "NARANJO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2"
+}, {
+	"nombre": "OROTINA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "209"
+}, {
+	"nombre": "PALMARES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "207"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "208",
+	"nombre": "POAS"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "210",
+	"nombre": "SAN CARLOS"
+}, {
+	"codigo": "204",
+	"nombre": "SAN MATEO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2"
+}, {
+	"nombre": "SAN RAMON",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2",
+	"codigo": "202"
+}, {
+	"codigo": "213",
+	"nombre": "UPALA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2"
+}, {
+	"codigo": "212",
+	"nombre": "VALVERDE VEGA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2"
+}, {
+	"codigo": "211",
+	"nombre": "ZARCERO/ALFARO RUIZ",
+	"indicativoTelefonico": "+506",
+	"codDepto": "2"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "3",
+	"codigo": "306",
+	"nombre": "ALVARADO"
+}, {
+	"nombre": "CENTRAL",
+	"indicativoTelefonico": "+506",
+	"codDepto": "3",
+	"codigo": "301"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "3",
+	"codigo": "308",
+	"nombre": "EL GUARCO"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "3",
+	"codigo": "304",
+	"nombre": "JIMENEZ"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "3",
+	"codigo": "303",
+	"nombre": "LA UNION"
+}, {
+	"codigo": "307",
+	"nombre": "OREAMUNO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "3"
+}, {
+	"codigo": "302",
+	"nombre": "PARAISO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "3"
+}, {
+	"codigo": "305",
+	"nombre": "TURRIALBA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "3"
+}, {
+	"nombre": "ABANGARES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "507"
+}, {
+	"codigo": "504",
+	"nombre": "BAGACES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5"
+}, {
+	"nombre": "CANAS",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "506"
+}, {
+	"nombre": "CARRILLO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "505"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "511",
+	"nombre": "HOJANCHA"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "510",
+	"nombre": "LA CRUZ"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "501",
+	"nombre": "LIBERIA"
+}, {
+	"nombre": "NANDAYURE",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "509"
+}, {
+	"codigo": "502",
+	"nombre": "NICOYA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5"
+}, {
+	"nombre": "SANTA CRUZ",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "503"
+}, {
+	"nombre": "TILARAN",
+	"indicativoTelefonico": "+506",
+	"codDepto": "5",
+	"codigo": "508"
+}, {
+	"codigo": "402",
+	"nombre": "BARVA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4"
+}, {
+	"codigo": "407",
+	"nombre": "BELEN",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4"
+}, {
+	"codigo": "401",
+	"nombre": "CENTRAL",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4"
+}, {
+	"nombre": "FLORES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4",
+	"codigo": "408"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "4",
+	"codigo": "406",
+	"nombre": "SAN ISIDRO"
+}, {
+	"codigo": "409",
+	"nombre": "SAN PABLO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "4",
+	"codigo": "405",
+	"nombre": "SAN RAFAEL"
+}, {
+	"codigo": "404",
+	"nombre": "SANTA BARBARA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4"
+}, {
+	"nombre": "SANTO DOMINGO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4",
+	"codigo": "403"
+}, {
+	"codigo": "410",
+	"nombre": "SARAPIQUI",
+	"indicativoTelefonico": "+506",
+	"codDepto": "4"
+}, {
+	"codigo": "706",
+	"nombre": "GUACIMO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "7"
+}, {
+	"codigo": "701",
+	"nombre": "LIMON",
+	"indicativoTelefonico": "+506",
+	"codDepto": "7"
+}, {
+	"nombre": "MATINA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "7",
+	"codigo": "705"
+}, {
+	"nombre": "POCOCI",
+	"indicativoTelefonico": "+506",
+	"codDepto": "7",
+	"codigo": "702"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "7",
+	"codigo": "703",
+	"nombre": "SIQUIRRES"
+}, {
+	"nombre": "TALAMANCA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "7",
+	"codigo": "704"
+}, {
+	"nombre": "AGUIRRE",
+	"indicativoTelefonico": "+506",
+	"codDepto": "6",
+	"codigo": "606"
+}, {
+	"codigo": "603",
+	"nombre": "BUENOS AIRES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "6"
+}, {
+	"nombre": "CORREDORES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "6",
+	"codigo": "610"
+}, {
+	"codigo": "608",
+	"nombre": "COTO BRUS",
+	"indicativoTelefonico": "+506",
+	"codDepto": "6"
+}, {
+	"codigo": "602",
+	"nombre": "ESPARZA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "6"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "6",
+	"codigo": "611",
+	"nombre": "GARABITO"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "6",
+	"codigo": "607",
+	"nombre": "GOLFITO"
+}, {
+	"codigo": "604",
+	"nombre": "MONTES DE ORO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "6"
+}, {
+	"codigo": "605",
+	"nombre": "OSA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "6"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "6",
+	"codigo": "609",
+	"nombre": "PARRITA"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "6",
+	"codigo": "601",
+	"nombre": "PUNTARENAS"
+}, {
+	"codigo": "112",
+	"nombre": "ACOSTA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"nombre": "ALAJUELITA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "110"
+}, {
+	"nombre": "ASERRI",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "106"
+}, {
+	"codigo": "101",
+	"nombre": "CENTRAL",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"codigo": "111",
+	"nombre": "CORONADO",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"codigo": "118",
+	"nombre": "CURRIDABAT",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"codigo": "103",
+	"nombre": "DESAMPARADOS",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "117",
+	"nombre": "DOTA"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "102",
+	"nombre": "ESCAZU"
+}, {
+	"nombre": "GOICOECHEA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "108"
+}, {
+	"codigo": "120",
+	"nombre": "LEON CORTES",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"nombre": "MONTES DE OCA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "115"
+}, {
+	"nombre": "MORA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "107"
+}, {
+	"codigo": "114",
+	"nombre": "MORAVIA",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"codigo": "119",
+	"nombre": "PEREZ ZELEDON",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "104",
+	"nombre": "PURISCAL"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "109",
+	"nombre": "SANTA ANA"
+}, {
+	"nombre": "TARRAZU",
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "105"
+}, {
+	"indicativoTelefonico": "+506",
+	"codDepto": "1",
+	"codigo": "113",
+	"nombre": "TIBAS"
+}]

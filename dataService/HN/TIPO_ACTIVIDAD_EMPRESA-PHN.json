@@ -1,0 +1,302 @@
+[
+ {
+   "value": "1",
+   "label": "ASALARIADO"
+ },
+ {
+   "value": "2",
+   "label": "ABOGADO INDEPENDIENTE"
+ },
+ {
+   "value": "3",
+   "label": "REPRESENTANTES ORGANIZACIONES RELIGIOSAS"
+ },
+ {
+   "value": "9",
+   "label": "CRIA Y COMERCIO DE GANADO"
+ },
+ {
+   "value": "10",
+   "label": "AMA DE CASA"
+ },
+ {
+   "value": "11",
+   "label": "ESTUDIANTE"
+ },
+ {
+   "value": "12",
+   "label": "EMPLEADO"
+ },
+ {
+   "value": "13",
+   "label": "MEDICO U ODONTOLOGO INDEPENDIENTE"
+ },
+ {
+   "value": "14",
+   "label": "CONTADOR"
+ },
+ {
+   "value": "15",
+   "label": "COMERCIANTE INFORMAL"
+ },
+ {
+   "value": "23",
+   "label": "JUBILADO O PENSIONADO"
+ },
+ {
+   "value": "24",
+   "label": "CONSULTOR INDEPENDIENTE"
+ },
+ {
+   "value": "25",
+   "label": "CONSTRUCCION"
+ },
+ {
+   "value": "26",
+   "label": "ARQUITECTO / INGENIERO INDEPENDIENTE"
+ },
+ {
+   "value": "27",
+   "label": "ARRENDAMIENTO COMPRA VENTA BIENES RAICES"
+ },
+ {
+   "value": "29",
+   "label": "COMERCIALIZACION REPUESTOS NUEVOS/USADOS"
+ },
+ {
+   "value": "30",
+   "label": "COMPRA VENTA DE AUTOMOVILES USADOS"
+ },
+ {
+   "value": "42",
+   "label": "AGRICULTOR"
+ },
+ {
+   "value": "43",
+   "label": "COMPRA VENTA ROPA/ZAPATOS NUEVOS/USADOS"
+ },
+ {
+   "value": "44",
+   "label": "DESEMPLEADO"
+ },
+ {
+   "value": "45",
+   "label": "ALCALDE"
+ },
+ {
+   "value": "46",
+   "label": "ALQUILERES / ARRENDAMIENTOS O RENTAS"
+ },
+ {
+   "value": "47",
+   "label": "ARTISTA"
+ },
+ {
+   "value": "48",
+   "label": "CAMBISTA DE DOLARES"
+ },
+ {
+   "value": "49",
+   "label": "CARPINTERO O EBANISTA"
+ },
+ {
+   "value": "50",
+   "label": "COMERCIANTE INDIVIDUAL"
+ },
+ {
+   "value": "51",
+   "label": "COMPRA VENTA ANTIGUEDADES OBRAS DE ARTE"
+ },
+ {
+   "value": "52",
+   "label": "COMERCIALIZACION DE CHATARRA"
+ },
+ {
+   "value": "53",
+   "label": "COMPRA VENTA DE METALES PRECIOSOS"
+ },
+ {
+   "value": "54",
+   "label": "COMPRA VENTA DE MADERA"
+ },
+ {
+   "value": "55",
+   "label": "CONTRATISTA"
+ },
+ {
+   "value": "56",
+   "label": "DEPORTISTA"
+ },
+ {
+   "value": "57",
+   "label": "DIPUTADO"
+ },
+ {
+   "value": "58",
+   "label": "DISEÑADOR GRAFICO INDEPENDIENTE"
+ },
+ {
+   "value": "59",
+   "label": "EMBAJADOR / CONSUL"
+ },
+ {
+   "value": "60",
+   "label": "ENFERMERO/A"
+ },
+ {
+   "value": "61",
+   "label": "ESCRITOR INDEPENDIENTE"
+ },
+ {
+   "value": "62",
+   "label": "FOTOGRAFO INDEPENDIENTE"
+ },
+ {
+   "value": "63",
+   "label": "MAESTRO O DOCENTE"
+ },
+ {
+   "value": "64",
+   "label": "MINISTRO DE GOBIERNO"
+ },
+ {
+   "value": "65",
+   "label": "MOTORISTA"
+ },
+ {
+   "value": "66",
+   "label": "OFICIOS VARIOS"
+ },
+ {
+   "value": "67",
+   "label": "SILVICULTURA Y PESCA"
+ },
+ {
+   "value": "68",
+   "label": "POLICIA O MILITAR"
+ },
+ {
+   "value": "69",
+   "label": "PRESTAMISTA NO BANCARIO"
+ },
+ {
+   "value": "70",
+   "label": "PROPIETARIO DE NEGOCIO"
+ },
+ {
+   "value": "71",
+   "label": "SERVICIOS VARIOS"
+ },
+ {
+   "value": "126",
+   "label": "CASA DE EMPEÑO"
+ },
+ {
+   "value": "127",
+   "label": "MILITAR ALTO RANGO"
+ },
+ {
+   "value": "128",
+   "label": "REGIDOR"
+ },
+ {
+   "value": "129",
+   "label": "MAGISTRADO"
+ },
+ {
+   "value": "130",
+   "label": "PRESIDENTE / DESIGNADOS PRESIDENCIALES"
+ },
+ {
+   "value": "131",
+   "label": "GERENTE/DIRECTOR ENTIDAD DESCENTRALIZADA"
+ },
+ {
+   "value": "136",
+   "label": "CONCIERTOS O ESPECTACULOS"
+ },
+ {
+   "value": "137",
+   "label": "JUEGOS DE AZAR / APUESTAS"
+ },
+ {
+   "value": "159",
+   "label": "INVERSION FILATELICA BIENES SUNTUARIOS"
+ },
+ {
+   "value": "161",
+   "label": "ELABORACION JOYAS CON METALES PRECIOSOS"
+ },
+ {
+   "value": "163",
+   "label": "COMPRA VENTA DE AUTOMOVILES NUEVOS"
+ },
+ {
+   "value": "164",
+   "label": "COMPRA VENTA DE AERONAVES NUEVAS"
+ },
+ {
+   "value": "165",
+   "label": "COMPRA VENTA DE AERONAVES USADAS"
+ },
+ {
+   "value": "166",
+   "label": "COMPRA VENTA DE NAVES MARITIMAS NUEVAS"
+ },
+ {
+   "value": "167",
+   "label": "COMPRA VENTA DE NAVES MARITIMAS USADAS"
+ },
+ {
+   "value": "168",
+   "label": "ARRENDAMIENTO DE AUTOMOVILES"
+ },
+ {
+   "value": "169",
+   "label": "ARRENDAMIENTO DE AERONAVES"
+ },
+ {
+   "value": "170",
+   "label": "ARRENDAMIENTO DE NAVES MARITIMAS"
+ },
+ {
+   "value": "172",
+   "label": "ABOGADO COMPRA VENTA DE BIENES INMUEBLES"
+ },
+ {
+   "value": "173",
+   "label": "NOTARIO COMPRA VENTA DE BIENES INMUEBLES"
+ },
+ {
+   "value": "174",
+   "label": "CONTADOR COMPRA VENTA BIENES INMUEBLES"
+ },
+ {
+   "value": "180",
+   "label": "ESTABLECIMIENTOS DE ALTA CONCENTRACION"
+ },
+ {
+   "value": "185",
+   "label": "SUBASTAS GANADERAS"
+ },
+ {
+   "value": "195",
+   "label": "SERVICIO DE TRANSPORTE TURISTICO"
+ },
+ {
+   "value": "196",
+   "label": "SERVICIO DE OPERADORES /GUIAS TURISTICOS"
+ },
+ {
+   "value": "200",
+   "label": "MARINO"
+ },
+ {
+   "value": "202",
+   "label": "SERVICIOS DE SEGURIDAD"
+ },
+ {
+   "value": "203",
+   "label": "COMERCIALIZACION DE CANNABIS O DERIVADOS"
+ }
+]

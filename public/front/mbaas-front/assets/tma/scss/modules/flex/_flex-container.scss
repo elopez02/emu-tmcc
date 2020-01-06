@@ -1,0 +1,35 @@
+
+/**
+ * Modules - flex container
+ */
+
+.flexContainer
+{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	@include prefix((
+		box-sizing: border-box,
+ 		display: flex,
+    ), webkit moz o ms);
+    &--cc
+    {
+    	@include prefix((
+			justify-content: center,
+			align-items: center
+	    ), webkit moz o ms);
+    }
+    &--sbc
+    {
+    	@include prefix((
+			justify-content: space-between,
+			align-items: center
+	    ), webkit moz o ms);
+    }
+    &--fdc
+    {
+    	@include prefix((
+			flex-direction: column
+	    ), webkit moz o ms);
+    }
+}

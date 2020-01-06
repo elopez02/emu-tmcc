@@ -1,0 +1,14 @@
+[
+ {
+   "value": "1",
+   "label": "Permanente"
+ },
+ {
+   "value": "3",
+   "label": "Por Proyecto (se rechaza)"
+ },
+ {
+   "value": "6",
+   "label": "Por Contrato (se rechaza)"
+ }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "0",
+        "icono": "ico_plata",
+        "descripcion": "Apertura automática de cuentas en colones y dólares.",
+        "titulo": ""
+    }, {
+        "id": "1",
+        "icono": "ico_percent",
+        "descripcion": "Reciba atractivos intereses por sus saldos.",
+        "titulo": ""
+    }, {
+        "id": "2",
+        "icono": "ico_compu",
+        "descripcion": "Realice transferencias en tiempo real o programadas a travé del Sistema SINPE.o SINPE Móvil.",
+        "titulo": ""
+    },
+    {
+        "id": "",
+        "icono": "ico_manoCel",
+        "descripcion": "Realice con facilidad transferencias internacionales.",
+        "titulo": ""
+    }, {
+        "id": "4",
+        "icono": "ico_personas",
+        "descripcion": "Afilie sus cargos automáticos a su cuenta Maestra y ahorre tiempo.",
+        "titulo": ""
+    }
+]

@@ -1,0 +1,22 @@
+[
+ {
+   "label": "ALQUILADA",
+   "value": "1"
+ },
+ {
+   "label": "PROPIA SIN HIPOTECA",
+   "value": "2"
+ },
+ {
+   "label": "PROPIA HIPOTECADA",
+   "value": "3"
+ },
+ {
+   "label": "PRESTADA",
+   "value": "4"
+ },
+ {
+   "label": "VIVE CON PADRES",
+   "value": "5"
+ }
+]

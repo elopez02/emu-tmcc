@@ -1,0 +1,294 @@
+[
+ {
+   "value": "50201",
+   "label": "Ama de Casa"
+ },
+ {
+   "value": "50202",
+   "label": "Estudiante"
+ },
+ {
+   "value": "50203",
+   "label": "Otras dependencias"
+ },
+ {
+   "value": "50402",
+   "label": "Despachos de Abogados/Notarios"
+ },
+ {
+   "value": "50403",
+   "label": "Despacho de contadores públicos privados"
+ },
+ {
+   "value": "50405",
+   "label": "Asesorías/consultorías"
+ },
+ {
+   "value": "50406",
+   "label": "Comercio de vehículos nuevos y usados diferentes a concesionarios, partes, piezas y accesorios"
+ },
+ {
+   "value": "50407",
+   "label": "Actividades Hoteleras"
+ },
+ {
+   "value": "50408",
+   "label": "Otras actividades relacionadas con turismo"
+ },
+ {
+   "value": "50409",
+   "label": "Alquiler de propiedades"
+ },
+ {
+   "value": "50412",
+   "label": "Comercio y producción de obras de arte"
+ },
+ {
+   "value": "50413",
+   "label": "Alquiler de maquinaria pesada"
+ },
+ {
+   "value": "50414",
+   "label": "Joyerías (Producción, extracción y comercialización)"
+ },
+ {
+   "value": "50415",
+   "label": "Producción y/o venta de cuero y pieles"
+ },
+ {
+   "value": "50417",
+   "label": "Opera a través de Internet (e-business)"
+ },
+ {
+   "value": "50420",
+   "label": "Supermercado y minisúper"
+ },
+ {
+   "value": "50422",
+   "label": "Agencias de Viajes."
+ },
+ {
+   "value": "50423",
+   "label": "Transporte aéreo, terrestre y marítimo"
+ },
+ {
+   "value": "50424",
+   "label": "Empresas farmacéuticas"
+ },
+ {
+   "value": "50425",
+   "label": "Empresas de factoraje y descuento de facturas"
+ },
+ {
+   "value": "50433",
+   "label": "Otras actividades"
+ },
+ {
+   "value": "50434",
+   "label": "Gasolinera y centros de servicio"
+ },
+ {
+   "value": "50435",
+   "label": "Restaurantes y ventas de comida"
+ },
+ {
+   "value": "50437",
+   "label": "Transporte de personas"
+ },
+ {
+   "value": "50438",
+   "label": "Representantes de organizaciones religiosas"
+ },
+ {
+   "value": "50439",
+   "label": "Comercialización de chatarra, empresas recicladoras"
+ },
+ {
+   "value": "50440",
+   "label": "Relacionados con Petróleo, cemento"
+ },
+ {
+   "value": "50441",
+   "label": "Software/Hardware/Web/On Line/Call Center/Hosting/Otros relacionados con sistemas de información"
+ },
+ {
+   "value": "50442",
+   "label": "Agricultura y relacionados"
+ },
+ {
+   "value": "50443",
+   "label": "Constructoras e inmobiliarias"
+ },
+ {
+   "value": "50444",
+   "label": "Metales, minerales y piedras preciosas-producción, extracción, comercialización de metales"
+ },
+ {
+   "value": "50445",
+   "label": "Farmacias y macrobióticas"
+ },
+ {
+   "value": "50446",
+   "label": "Ganadería/Equinos/Avicultura/Otros relacionados"
+ },
+ {
+   "value": "50447",
+   "label": "Pesca y relacionados"
+ },
+ {
+   "value": "50448",
+   "label": "Producción u organización de actividades artísticas, entretenimiento y eventos musicales"
+ },
+ {
+   "value": "50449",
+   "label": "Seguridad/monitoreo"
+ },
+ {
+   "value": "50450",
+   "label": "Transporte de valores"
+ },
+ {
+   "value": "50451",
+   "label": "Venta de repuestos y partes."
+ },
+ {
+   "value": "50452",
+   "label": "Comercio o producción de insumos químicos y sustancias controladas"
+ },
+ {
+   "value": "50453",
+   "label": "Distribuidores autorizados, comercio de vehículos nuevos y usados, partes, piezas y accesorios"
+ },
+ {
+   "value": "50454",
+   "label": "Bares, centros nocturnos, discotecas"
+ },
+ {
+   "value": "50455",
+   "label": "Producción o comercio de bebidas alcohólicas"
+ },
+ {
+   "value": "50501",
+   "label": "Abogado"
+ },
+ {
+   "value": "50502",
+   "label": "Informático"
+ },
+ {
+   "value": "50503",
+   "label": "Comisionista"
+ },
+ {
+   "value": "50505",
+   "label": "Contador"
+ },
+ {
+   "value": "50506",
+   "label": "Diseñador Grafico/web/multimedia"
+ },
+ {
+   "value": "50507",
+   "label": "Corredor de bienes raíces"
+ },
+ {
+   "value": "50508",
+   "label": "Fotografía y Video"
+ },
+ {
+   "value": "50509",
+   "label": "Guionistas-Escritor"
+ },
+ {
+   "value": "50510",
+   "label": "Ingeniero"
+ },
+ {
+   "value": "50511",
+   "label": "Medico"
+ },
+ {
+   "value": "50512",
+   "label": "Mercado logo"
+ },
+ {
+   "value": "50513",
+   "label": "Odontólogo"
+ },
+ {
+   "value": "50514",
+   "label": "Otro"
+ },
+ {
+   "value": "50515",
+   "label": "Publicista"
+ },
+ {
+   "value": "50516",
+   "label": "Traductor Profesional"
+ },
+ {
+   "value": "50601",
+   "label": "Años de trabajo"
+ },
+ {
+   "value": "50602",
+   "label": "Herencias"
+ },
+ {
+   "value": "50603",
+   "label": "Otros"
+ },
+ {
+   "value": "50604",
+   "label": "Patrimonio familiar"
+ },
+ {
+   "value": "50605",
+   "label": "Premios (lotería)"
+ },
+ {
+   "value": "50606",
+   "label": "Seguros"
+ },
+ {
+   "value": "50607",
+   "label": "Por venta de bienes"
+ },
+ {
+   "value": "51101",
+   "label": "Articulo 15"
+ },
+ {
+   "value": "51102",
+   "label": "PEP"
+ },
+ {
+   "value": "51103",
+   "label": "Productos militares"
+ },
+ {
+   "value": "51104",
+   "label": "Lista CRRT"
+ },
+ {
+   "value": "51106",
+   "label": "Otros"
+ },
+ {
+   "value": "51107",
+   "label": "Control"
+ },
+ {
+   "value": "51108",
+   "label": "APNFD-Compra y venta de propiedades"
+ },
+ {
+   "value": "51109",
+   "label": "APNFD-Comercio de metales preciosos y piedras preciosas"
+ },
+ {
+   "value": "51110",
+   "label": "APNFD-Administrador de Recursos y Bienes"
+ }
+]

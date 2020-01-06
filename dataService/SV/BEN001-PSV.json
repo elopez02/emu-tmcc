@@ -1,0 +1,18 @@
+[
+    {
+        "id": "0",
+        "icono": "ico_manoCel",
+        "descripcion": "Apertura 100% digital.",
+        "titulo": ""
+      }, {
+        "id": "1",
+        "icono": "ico_signopesos",
+        "descripcion": "Monto de apertura $0.00",
+        "titulo": ""
+      }, {
+        "id": "2",
+        "icono": "ico_transaccion",
+        "descripcion": "Transacciones interbancarias Gratis.",
+        "titulo": ""
+      }
+]

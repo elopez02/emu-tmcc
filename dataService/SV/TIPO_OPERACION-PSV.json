@@ -1,0 +1,12 @@
+[
+    { "value": "Importación", "label": "Importación"},
+    { "value": "préstamos", "label": "préstamos"},
+    { "value": "exportación", "label": "exportación"},
+    { "value": "pago de servicios", "label": "pago de servicios"},
+    { "value": "inversión", "label": "inversión"},
+    { "value": "remesas", "label": "remesas"},
+    { "value": "giros", "label": "giros"},
+    { "value": "giros", "label": "giros"},
+    { "value": "compra y venta de divisas", "label": "compra y venta de divisas"},
+    { "value": "producto", "label": "producto"}
+]

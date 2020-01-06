@@ -1,0 +1,43 @@
+
+/**
+ * Layout - Right Container
+ */
+
+.rightContainer
+{
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    padding: em(32);
+    top: 0;
+    left: 0;
+    @include prefix((
+        box-sizing: border-box, 
+    ), webkit moz o ms);
+    @include media(sm)
+    {
+        padding: em(48);
+    }
+    @include media(md)
+    {
+        position: relative;
+        padding: em(84);
+        min-height: em(630);
+    }
+    @include media(lg)
+    {
+        position: relative;
+        height: 100%;
+        width: 55%;
+        margin: 0;
+        padding: em(48) em(62) em(32) em(62); 
+    }
+    @include media(xlg)
+    {
+        position: relative;
+        height: 100%;
+        width: 55%;
+        margin: 0;
+        padding: em(48) em(84) em(32) em(84);
+    }
+}

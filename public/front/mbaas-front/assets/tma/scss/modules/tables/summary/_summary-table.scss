@@ -1,0 +1,114 @@
+
+/**
+* Modules - Tables - Summary table
+*/
+
+.summaryTable
+{
+	width: 100%;
+	background-color: $color__background--main;
+	padding: 0 em(15);
+	margin: em(32) 0;
+	border-radius: em(5);
+	font-size: 0.85em;
+	@include prefix((
+ 		box-sizing: border-box
+    ), webkit moz o ms);
+    &__row
+    {
+    	border-bottom: solid em(1.1) rgba($color__text--light, 0.3);
+    	width: 100%;
+    	padding: em(10) 0;
+    	&:last-child
+    	{
+    		margin-bottom: 0;
+    		border: none;
+    	}
+    	@include prefix((
+	 		box-sizing: border-box,
+	 		display: flex,
+	 		justify-content: center,
+	 		align-items: center,
+	 		flex-direction: column
+	    ), webkit moz o ms);
+	    &__cell
+	    {
+	    	width: 100%;
+	    	padding: 0 0 7px 7px ;
+	    	@include prefix((
+	    		box-sizing: border-box,
+		 		flex: 1,
+		    ), webkit moz o ms);
+		    &:nth-child(even)
+	    	{
+	    		padding-bottom: 0;
+	    	}
+		    &--bold
+		    {
+		    	font-weight: 600;
+		    }
+		    &--heavy
+		    {
+		    	font-weight: 900;
+		    	font-size: 1.5em;
+		    }
+	    }
+	    @include media(sm)
+	    {
+	    	padding: em(20) 0;
+	    	@include prefix((
+		 		flex-direction: row
+		    ), webkit moz o ms);
+		    &__cell
+		    {
+		    	padding: 0 em(15);
+		    	&--heavy
+			    {
+			    	border-left: solid em(1.1) rgba($color__text--light, 0.3);
+			    }
+		    	&:nth-child(even)
+		    	{
+		    		text-align: center;
+		    	}
+		    }
+	    }
+	    @include media(md)
+	    {
+	    	padding: em(20) 0;
+	    	@include prefix((
+		 		flex-direction: row
+		    ), webkit moz o ms);
+		    &__cell
+		    {
+		    	padding: 0 em(15);
+		    	&--heavy
+			    {
+			    	border-left: solid em(1.1) rgba($color__text--light, 0.3);
+			    }
+		    	&:nth-child(even)
+		    	{
+		    		text-align: center;
+		    	}
+		    }
+	    }
+	    @include media(xlg)
+	    {
+	    	padding: em(20) 0;
+	    	@include prefix((
+		 		flex-direction: row
+		    ), webkit moz o ms);
+		    &__cell
+		    {
+		    	padding: 0 em(15);
+		    	&--heavy
+			    {
+			    	border-left: solid em(1.1) rgba($color__text--light, 0.3);
+			    }
+		    	&:nth-child(even)
+		    	{
+		    		text-align: center;
+		    	}
+		    }
+	    }
+    }
+}

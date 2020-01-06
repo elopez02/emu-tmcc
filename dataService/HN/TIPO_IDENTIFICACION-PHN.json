@@ -1,0 +1,14 @@
+[
+    {
+        "value": "Identidad",
+        "label": "Identidad"
+    },
+    {
+        "value": "Pasaporte",
+        "label": "Pasaporte"
+    },
+    {
+        "value": "Carnet de residencia",
+        "label": "Carnet de residencia"
+    }
+]

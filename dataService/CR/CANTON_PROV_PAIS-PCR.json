@@ -1,0 +1,5582 @@
+[
+ {
+   "value": "1",
+   "label": "Carmen",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "La Merced",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Hospital",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Catedral",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Zapote",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "San Francisco de Dos Rios",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "La Uruca",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Mata Redonda",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Pavas",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Hatillo",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "San Sebastian",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "12",
+   "label": "OMAR DENGO",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "101",
+   "name_canton": "CENTRAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Escazu",
+   "code_canton": "102",
+   "name_canton": "ESCAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Antonio",
+   "code_canton": "102",
+   "name_canton": "ESCAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Rafael",
+   "code_canton": "102",
+   "name_canton": "ESCAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "GUACHIPELIN",
+   "code_canton": "102",
+   "name_canton": "ESCAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Desamparados",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Miguel",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Juan de Dios",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Rafael Arriba",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "San Antonio",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Frailes",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Patarra",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "San Cristobal",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Rosario",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Damas",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "San Rafael Abajo",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "12",
+   "label": "Gravilias",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "13",
+   "label": "LOS GUIDO",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "103",
+   "name_canton": "DESAMPARADOS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "SANTIAGO",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Mercedes",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Barbacoas",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Grifo Alto",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "San Rafael",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Candelaria",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Desamparaditos",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "San Antonio",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Chires",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "SAN JUAN",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "104",
+   "name_canton": "PURISCAL",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Marcos",
+   "code_canton": "105",
+   "name_canton": "TARRAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Lorenzo",
+   "code_canton": "105",
+   "name_canton": "TARRAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Carlos",
+   "code_canton": "105",
+   "name_canton": "TARRAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "105",
+   "name_canton": "TARRAZU",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Aserri",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Tarbaca",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Vuelta de Jorco",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Gabriel",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Legua",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Monterrey",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "SALITRILLO",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "106",
+   "name_canton": "ASERRI",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Colon",
+   "code_canton": "107",
+   "name_canton": "MORA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Guayabo",
+   "code_canton": "107",
+   "name_canton": "MORA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Tabarcia",
+   "code_canton": "107",
+   "name_canton": "MORA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Piedras Negras",
+   "code_canton": "107",
+   "name_canton": "MORA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Picagres",
+   "code_canton": "107",
+   "name_canton": "MORA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "107",
+   "name_canton": "MORA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Guadalupe",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Francisco",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Calle Blancos",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Mata de Platano",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Ipis",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Rancho Redondo",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Purral",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "108",
+   "name_canton": "GOICOECHEA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Santa Ana",
+   "code_canton": "109",
+   "name_canton": "SANTA ANA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Salitral",
+   "code_canton": "109",
+   "name_canton": "SANTA ANA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Pozos",
+   "code_canton": "109",
+   "name_canton": "SANTA ANA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Uruca",
+   "code_canton": "109",
+   "name_canton": "SANTA ANA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Piedades",
+   "code_canton": "109",
+   "name_canton": "SANTA ANA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Brasil",
+   "code_canton": "109",
+   "name_canton": "SANTA ANA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "109",
+   "name_canton": "SANTA ANA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Alajuelita",
+   "code_canton": "110",
+   "name_canton": "ALAJUELITA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Josecito",
+   "code_canton": "110",
+   "name_canton": "ALAJUELITA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Antonio",
+   "code_canton": "110",
+   "name_canton": "ALAJUELITA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Concepcion",
+   "code_canton": "110",
+   "name_canton": "ALAJUELITA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "San Felipe",
+   "code_canton": "110",
+   "name_canton": "ALAJUELITA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "110",
+   "name_canton": "ALAJUELITA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Isidro",
+   "code_canton": "111",
+   "name_canton": "CORONADO",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Rafael",
+   "code_canton": "111",
+   "name_canton": "CORONADO",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Dulce Nombre",
+   "code_canton": "111",
+   "name_canton": "CORONADO",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Patalilllo - San Antonio -",
+   "code_canton": "111",
+   "name_canton": "CORONADO",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Cascajal",
+   "code_canton": "111",
+   "name_canton": "CORONADO",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "111",
+   "name_canton": "CORONADO",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Ignacio",
+   "code_canton": "112",
+   "name_canton": "ACOSTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Guaitil",
+   "code_canton": "112",
+   "name_canton": "ACOSTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Palmichal",
+   "code_canton": "112",
+   "name_canton": "ACOSTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Cangrejal",
+   "code_canton": "112",
+   "name_canton": "ACOSTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Sabanillas",
+   "code_canton": "112",
+   "name_canton": "ACOSTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "112",
+   "name_canton": "ACOSTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Juan",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Cinco Esquinas",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Anselmo Llorente",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Leon XIII",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "COLIMA",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "FLORIDA",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "LA FLORIDA",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "113",
+   "name_canton": "TIBAS",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Vicente",
+   "code_canton": "114",
+   "name_canton": "MORAVIA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Jeronimo",
+   "code_canton": "114",
+   "name_canton": "MORAVIA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Trinidad",
+   "code_canton": "114",
+   "name_canton": "MORAVIA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "114",
+   "name_canton": "MORAVIA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Pedro",
+   "code_canton": "115",
+   "name_canton": "MONTES DE OCA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Sabanilla",
+   "code_canton": "115",
+   "name_canton": "MONTES DE OCA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Mercedes o Betania",
+   "code_canton": "115",
+   "name_canton": "MONTES DE OCA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Rafael",
+   "code_canton": "115",
+   "name_canton": "MONTES DE OCA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "115",
+   "name_canton": "MONTES DE OCA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Pablo",
+   "code_canton": "116",
+   "name_canton": "TURRUBARES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Pedro",
+   "code_canton": "116",
+   "name_canton": "TURRUBARES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Juan de Mata",
+   "code_canton": "116",
+   "name_canton": "TURRUBARES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Luis",
+   "code_canton": "116",
+   "name_canton": "TURRUBARES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "CARARA",
+   "code_canton": "116",
+   "name_canton": "TURRUBARES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "116",
+   "name_canton": "TURRUBARES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Santa Maria",
+   "code_canton": "117",
+   "name_canton": "DOTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Jardin",
+   "code_canton": "117",
+   "name_canton": "DOTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Copey",
+   "code_canton": "117",
+   "name_canton": "DOTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "117",
+   "name_canton": "DOTA",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Curridabat",
+   "code_canton": "118",
+   "name_canton": "CURRIDABAT",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Granadilla",
+   "code_canton": "118",
+   "name_canton": "CURRIDABAT",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Sanchez",
+   "code_canton": "118",
+   "name_canton": "CURRIDABAT",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Tirrases",
+   "code_canton": "118",
+   "name_canton": "CURRIDABAT",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "118",
+   "name_canton": "CURRIDABAT",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Isidro del General",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "General",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Daniel Flores",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Rivas",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "San Pedro",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Platanares",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Pejibaye",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Cajon",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Baru",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Rio Nuevo",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "Paramo",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "119",
+   "name_canton": "PEREZ ZELEDON",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Pablo",
+   "code_canton": "120",
+   "name_canton": "LEON CORTES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Andres",
+   "code_canton": "120",
+   "name_canton": "LEON CORTES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Llano Bonito",
+   "code_canton": "120",
+   "name_canton": "LEON CORTES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Isidro",
+   "code_canton": "120",
+   "name_canton": "LEON CORTES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Santa Cruz",
+   "code_canton": "120",
+   "name_canton": "LEON CORTES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "San Antonio",
+   "code_canton": "120",
+   "name_canton": "LEON CORTES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "120",
+   "name_canton": "LEON CORTES",
+   "code_provincia": "1",
+   "name_provincia": "SAN JOSE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Alajuela",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Jose",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Carrizal",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Antonio",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "LA GUACIMA",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "San Isidro",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Sabanilla",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "San Rafael",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Rio Segundo",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Desamparados",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "TURRUCARES",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "12",
+   "label": "Tambor",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "13",
+   "label": "La Garita",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "14",
+   "label": "Sarapiqui",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "15",
+   "label": "TURRUCARES",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "201",
+   "name_canton": "CENTRAL",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Ramon",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Santiago",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Juan",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Piedades Norte",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Piedades Sur",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "San Rafael",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "San Isidro",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Angeles",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Alfaro",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Volio",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "Concepcion",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "12",
+   "label": "Zapotal",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "13",
+   "label": "Pe?as Blancas",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "202",
+   "name_canton": "SAN RAMON",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Grecia",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Isidro",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Jose",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Roque",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Tacares",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Rio Cuarto",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Puente de Piedra",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Bolivar",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "203",
+   "name_canton": "GRECIA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Mateo",
+   "code_canton": "204",
+   "name_canton": "SAN MATEO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Desmonte",
+   "code_canton": "204",
+   "name_canton": "SAN MATEO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Jesus Maria",
+   "code_canton": "204",
+   "name_canton": "SAN MATEO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "204",
+   "name_canton": "SAN MATEO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Atenas",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Jesus",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Mercedes",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Isidro",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Concepcion",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "San Jose",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Santa Eulalia",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "205",
+   "name_canton": "ATENAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Naranjo",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Miguel",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Jose",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Cirri Sur",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "San Jeronimo",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "San Juan",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Rosario",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "206",
+   "name_canton": "NARANJO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Palmares",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Zaragoza",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Buenos Aires",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Santiago",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Candelaria",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Esquipulas",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Granja",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "207",
+   "name_canton": "PALMARES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Pedro",
+   "code_canton": "208",
+   "name_canton": "POAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Juan",
+   "code_canton": "208",
+   "name_canton": "POAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Rafael",
+   "code_canton": "208",
+   "name_canton": "POAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Carrillos",
+   "code_canton": "208",
+   "name_canton": "POAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Sabana Redonda",
+   "code_canton": "208",
+   "name_canton": "POAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "POAS",
+   "code_canton": "208",
+   "name_canton": "POAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "208",
+   "name_canton": "POAS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Orotina",
+   "code_canton": "209",
+   "name_canton": "OROTINA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Mastate",
+   "code_canton": "209",
+   "name_canton": "OROTINA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Hacienda",
+   "code_canton": "209",
+   "name_canton": "OROTINA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Coyolar",
+   "code_canton": "209",
+   "name_canton": "OROTINA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Ceiba",
+   "code_canton": "209",
+   "name_canton": "OROTINA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "209",
+   "name_canton": "OROTINA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Ciudad Quesada",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Florencia",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Buena Vista",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Aguas Zarcas",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Venecia",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Pital",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Fortuna",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Tigra",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Palmera",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Venado",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "Cutris",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "12",
+   "label": "Monterrey",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "13",
+   "label": "Pocosol",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "210",
+   "name_canton": "SAN CARLOS",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Zarcero",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Laguna",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Tapezco",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Guadalupe",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Palmira",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Zapote",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "BRISAS",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "211",
+   "name_canton": "ZARCERO/ALFARO RUIZ",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Sarchi Norte",
+   "code_canton": "212",
+   "name_canton": "VALVERDE VEGA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Sarchi Sur",
+   "code_canton": "212",
+   "name_canton": "VALVERDE VEGA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Toro Amarillo",
+   "code_canton": "212",
+   "name_canton": "VALVERDE VEGA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Pedro",
+   "code_canton": "212",
+   "name_canton": "VALVERDE VEGA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Rodriguez",
+   "code_canton": "212",
+   "name_canton": "VALVERDE VEGA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "212",
+   "name_canton": "VALVERDE VEGA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Upala",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Aguas Claras",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Jose o Pizote",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Bijagua",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Delicias",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Dos Rios",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Yolillal",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "213",
+   "name_canton": "UPALA",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Los Chiles",
+   "code_canton": "214",
+   "name_canton": "LOS CHILES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Ca?o Negro",
+   "code_canton": "214",
+   "name_canton": "LOS CHILES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "El Amparo",
+   "code_canton": "214",
+   "name_canton": "LOS CHILES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Jorge",
+   "code_canton": "214",
+   "name_canton": "LOS CHILES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "214",
+   "name_canton": "LOS CHILES",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Rafael",
+   "code_canton": "215",
+   "name_canton": "GUATUSO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Buena Vista",
+   "code_canton": "215",
+   "name_canton": "GUATUSO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Cote",
+   "code_canton": "215",
+   "name_canton": "GUATUSO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "215",
+   "name_canton": "GUATUSO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "RIO CUARTO",
+   "code_canton": "216",
+   "name_canton": "RIO CUARTO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "SANTA ISABEL",
+   "code_canton": "216",
+   "name_canton": "RIO CUARTO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "SANTA RITA",
+   "code_canton": "216",
+   "name_canton": "RIO CUARTO",
+   "code_provincia": "2",
+   "name_provincia": "ALAJUELA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Oriental",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Occidental",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Carmen",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Nicolas",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Aguacaliente",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Guadalupe o Arenilla",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Corralillo",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Tierra Blanca",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Dulce Nombre",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Llano Grande",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "Quebradilla",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "301",
+   "name_canton": "CENTRAL",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Paraiso",
+   "code_canton": "302",
+   "name_canton": "PARAISO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Santiago",
+   "code_canton": "302",
+   "name_canton": "PARAISO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Orosi",
+   "code_canton": "302",
+   "name_canton": "PARAISO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Cachi",
+   "code_canton": "302",
+   "name_canton": "PARAISO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "LLANOS DE SANTA LUCIA",
+   "code_canton": "302",
+   "name_canton": "PARAISO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "302",
+   "name_canton": "PARAISO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Tres Rios",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Diego",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Juan",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Rafael",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Concepcion",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Dulce Nombre",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "San Ramon",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Rio Azul",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "LINDA VISTA",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "303",
+   "name_canton": "LA UNION",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "JUAN VIÑAS",
+   "code_canton": "304",
+   "name_canton": "JIMENEZ",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Tucurrique",
+   "code_canton": "304",
+   "name_canton": "JIMENEZ",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Pejibaye",
+   "code_canton": "304",
+   "name_canton": "JIMENEZ",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "304",
+   "name_canton": "JIMENEZ",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Turrialba",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "La Suiza",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Peralta",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Santa Cruz",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Santa Teresita",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Pavones",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Tuis",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Tayutic",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Santa Rosa",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Tres Equiz",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "LA ISABEL",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "12",
+   "label": "CHIRRIPO",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "305",
+   "name_canton": "TURRIALBA",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Pacayas",
+   "code_canton": "306",
+   "name_canton": "ALVARADO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Cervantes",
+   "code_canton": "306",
+   "name_canton": "ALVARADO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Capellades",
+   "code_canton": "306",
+   "name_canton": "ALVARADO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "306",
+   "name_canton": "ALVARADO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Rafael",
+   "code_canton": "307",
+   "name_canton": "OREAMUNO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Cot",
+   "code_canton": "307",
+   "name_canton": "OREAMUNO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Potrero Cerrado",
+   "code_canton": "307",
+   "name_canton": "OREAMUNO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Cipreses",
+   "code_canton": "307",
+   "name_canton": "OREAMUNO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Santa Rosa",
+   "code_canton": "307",
+   "name_canton": "OREAMUNO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "EL CARMEN",
+   "code_canton": "307",
+   "name_canton": "OREAMUNO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "307",
+   "name_canton": "OREAMUNO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Tejar",
+   "code_canton": "308",
+   "name_canton": "EL GUARCO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Isidro",
+   "code_canton": "308",
+   "name_canton": "EL GUARCO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Tobosi",
+   "code_canton": "308",
+   "name_canton": "EL GUARCO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Patio de agua",
+   "code_canton": "308",
+   "name_canton": "EL GUARCO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "308",
+   "name_canton": "EL GUARCO",
+   "code_provincia": "3",
+   "name_provincia": "CARTAGO",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Heredia",
+   "code_canton": "401",
+   "name_canton": "CENTRAL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Mercedes",
+   "code_canton": "401",
+   "name_canton": "CENTRAL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Francisco",
+   "code_canton": "401",
+   "name_canton": "CENTRAL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Ulloa",
+   "code_canton": "401",
+   "name_canton": "CENTRAL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Varrablanca",
+   "code_canton": "401",
+   "name_canton": "CENTRAL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "401",
+   "name_canton": "CENTRAL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "BARVA",
+   "code_canton": "402",
+   "name_canton": "BARVA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Pedro",
+   "code_canton": "402",
+   "name_canton": "BARVA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Pablo",
+   "code_canton": "402",
+   "name_canton": "BARVA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Roque",
+   "code_canton": "402",
+   "name_canton": "BARVA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Santa Lucia",
+   "code_canton": "402",
+   "name_canton": "BARVA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "San Jose de la Monta?a",
+   "code_canton": "402",
+   "name_canton": "BARVA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "402",
+   "name_canton": "BARVA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Santo Domingo",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Vicente",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Miguel",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Paracito",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Santo Tomas",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Santa Rosa",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Tures",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Para",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "403",
+   "name_canton": "SANTO DOMINGO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Santa Barbara",
+   "code_canton": "404",
+   "name_canton": "SANTA BARBARA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Pedro",
+   "code_canton": "404",
+   "name_canton": "SANTA BARBARA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Juan",
+   "code_canton": "404",
+   "name_canton": "SANTA BARBARA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Jesus",
+   "code_canton": "404",
+   "name_canton": "SANTA BARBARA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Santo Domingo",
+   "code_canton": "404",
+   "name_canton": "SANTA BARBARA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Puraba",
+   "code_canton": "404",
+   "name_canton": "SANTA BARBARA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "404",
+   "name_canton": "SANTA BARBARA",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Rafael",
+   "code_canton": "405",
+   "name_canton": "SAN RAFAEL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Josecito",
+   "code_canton": "405",
+   "name_canton": "SAN RAFAEL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Santiago",
+   "code_canton": "405",
+   "name_canton": "SAN RAFAEL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Angeles",
+   "code_canton": "405",
+   "name_canton": "SAN RAFAEL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Concepcion",
+   "code_canton": "405",
+   "name_canton": "SAN RAFAEL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "405",
+   "name_canton": "SAN RAFAEL",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Isidro",
+   "code_canton": "406",
+   "name_canton": "SAN ISIDRO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Jose",
+   "code_canton": "406",
+   "name_canton": "SAN ISIDRO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Concepcion",
+   "code_canton": "406",
+   "name_canton": "SAN ISIDRO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "SAN FRANCISCO",
+   "code_canton": "406",
+   "name_canton": "SAN ISIDRO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "406",
+   "name_canton": "SAN ISIDRO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Antonio",
+   "code_canton": "407",
+   "name_canton": "BELEN",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "La Rivera",
+   "code_canton": "407",
+   "name_canton": "BELEN",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Asuncion",
+   "code_canton": "407",
+   "name_canton": "BELEN",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "407",
+   "name_canton": "BELEN",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Joaquin",
+   "code_canton": "408",
+   "name_canton": "FLORES",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Barrantes",
+   "code_canton": "408",
+   "name_canton": "FLORES",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Llorente",
+   "code_canton": "408",
+   "name_canton": "FLORES",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "408",
+   "name_canton": "FLORES",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Pablo",
+   "code_canton": "409",
+   "name_canton": "SAN PABLO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "RINCON DE SABANILLA",
+   "code_canton": "409",
+   "name_canton": "SAN PABLO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "409",
+   "name_canton": "SAN PABLO",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Puerto viejo",
+   "code_canton": "410",
+   "name_canton": "SARAPIQUI",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "La Virgen",
+   "code_canton": "410",
+   "name_canton": "SARAPIQUI",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Horquetas",
+   "code_canton": "410",
+   "name_canton": "SARAPIQUI",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "410",
+   "name_canton": "SARAPIQUI",
+   "code_provincia": "4",
+   "name_provincia": "HEREDIA",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Liberia",
+   "code_canton": "501",
+   "name_canton": "LIBERIA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Ca?as Dulces",
+   "code_canton": "501",
+   "name_canton": "LIBERIA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Mayorga",
+   "code_canton": "501",
+   "name_canton": "LIBERIA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Nacascolo - Guardia",
+   "code_canton": "501",
+   "name_canton": "LIBERIA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Curubande",
+   "code_canton": "501",
+   "name_canton": "LIBERIA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "501",
+   "name_canton": "LIBERIA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Nicoya",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Mansion",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Antonio",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Quebrada Honda",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Samara",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Nosara",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Belen de Nosarita",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "502",
+   "name_canton": "NICOYA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Santa Cruz",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Bolson",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Veintisiete de Abril",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Tempate",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Cartagena",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Cuajiniquil",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Diria",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Cabo Velas",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Tamarindo",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "503",
+   "name_canton": "SANTA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Bagaces",
+   "code_canton": "504",
+   "name_canton": "BAGACES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Fortuna",
+   "code_canton": "504",
+   "name_canton": "BAGACES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Mogote",
+   "code_canton": "504",
+   "name_canton": "BAGACES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Rio Naranjo",
+   "code_canton": "504",
+   "name_canton": "BAGACES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "504",
+   "name_canton": "BAGACES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Filadelfia",
+   "code_canton": "505",
+   "name_canton": "CARRILLO",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Palmira",
+   "code_canton": "505",
+   "name_canton": "CARRILLO",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Sardinal",
+   "code_canton": "505",
+   "name_canton": "CARRILLO",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Belen",
+   "code_canton": "505",
+   "name_canton": "CARRILLO",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "505",
+   "name_canton": "CARRILLO",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Canas",
+   "code_canton": "506",
+   "name_canton": "CANAS",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Palmira",
+   "code_canton": "506",
+   "name_canton": "CANAS",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Miguel",
+   "code_canton": "506",
+   "name_canton": "CANAS",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Bebedero",
+   "code_canton": "506",
+   "name_canton": "CANAS",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Porozal",
+   "code_canton": "506",
+   "name_canton": "CANAS",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "506",
+   "name_canton": "CANAS",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Las Juntas",
+   "code_canton": "507",
+   "name_canton": "ABANGARES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Sierra",
+   "code_canton": "507",
+   "name_canton": "ABANGARES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Juan",
+   "code_canton": "507",
+   "name_canton": "ABANGARES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Colorado",
+   "code_canton": "507",
+   "name_canton": "ABANGARES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "507",
+   "name_canton": "ABANGARES",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Tilaran",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Quebrada Grande",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Tronadora",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Santa Rosa",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Libano",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Tierras Morenas",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Arenal",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "508",
+   "name_canton": "TILARAN",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Carmona",
+   "code_canton": "509",
+   "name_canton": "NANDAYURE",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Santa Rita",
+   "code_canton": "509",
+   "name_canton": "NANDAYURE",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Zapotal",
+   "code_canton": "509",
+   "name_canton": "NANDAYURE",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Pablo",
+   "code_canton": "509",
+   "name_canton": "NANDAYURE",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Porvenir",
+   "code_canton": "509",
+   "name_canton": "NANDAYURE",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Bejuco",
+   "code_canton": "509",
+   "name_canton": "NANDAYURE",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "509",
+   "name_canton": "NANDAYURE",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "La Cruz",
+   "code_canton": "510",
+   "name_canton": "LA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Santa Cecilia",
+   "code_canton": "510",
+   "name_canton": "LA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Garita",
+   "code_canton": "510",
+   "name_canton": "LA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Santa Elena",
+   "code_canton": "510",
+   "name_canton": "LA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "510",
+   "name_canton": "LA CRUZ",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Hojancha",
+   "code_canton": "511",
+   "name_canton": "HOJANCHA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "MONTE ROMO",
+   "code_canton": "511",
+   "name_canton": "HOJANCHA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "PUERTO CARRILLO",
+   "code_canton": "511",
+   "name_canton": "HOJANCHA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "HUACAS",
+   "code_canton": "511",
+   "name_canton": "HOJANCHA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "511",
+   "name_canton": "HOJANCHA",
+   "code_provincia": "5",
+   "name_provincia": "GUANACASTE",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Puntarenas",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Pitahaya",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Chomes",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Lepanto",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Paquera",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Manzanillo",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Guacimal",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Barranca",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "Monte Verde",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "10",
+   "label": "Isla del Coco",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "11",
+   "label": "Cobano",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "12",
+   "label": "Chacarita",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "13",
+   "label": "EL ROBLE",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "14",
+   "label": "ACAPULCO",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "601",
+   "name_canton": "PUNTARENAS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Espiritu Santo",
+   "code_canton": "602",
+   "name_canton": "ESPARZA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "San Juan Grande",
+   "code_canton": "602",
+   "name_canton": "ESPARZA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Macacona",
+   "code_canton": "602",
+   "name_canton": "ESPARZA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "San Rafael",
+   "code_canton": "602",
+   "name_canton": "ESPARZA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "San Jeronimo",
+   "code_canton": "602",
+   "name_canton": "ESPARZA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "602",
+   "name_canton": "ESPARZA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Buenos Aires",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Volcan",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Potrero Grande",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Boruca",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Pilas",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Colinas",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "Changuena",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "8",
+   "label": "Biolley",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "603",
+   "name_canton": "BUENOS AIRES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Miramar",
+   "code_canton": "604",
+   "name_canton": "MONTES DE ORO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "La Union",
+   "code_canton": "604",
+   "name_canton": "MONTES DE ORO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "San Isidro",
+   "code_canton": "604",
+   "name_canton": "MONTES DE ORO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "604",
+   "name_canton": "MONTES DE ORO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Puerto Cortes",
+   "code_canton": "605",
+   "name_canton": "OSA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Palmar",
+   "code_canton": "605",
+   "name_canton": "OSA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Sierpe",
+   "code_canton": "605",
+   "name_canton": "OSA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Bahia Ballena",
+   "code_canton": "605",
+   "name_canton": "OSA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Piedras Blancas",
+   "code_canton": "605",
+   "name_canton": "OSA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "605",
+   "name_canton": "OSA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Quepos",
+   "code_canton": "606",
+   "name_canton": "AGUIRRE",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Savegre",
+   "code_canton": "606",
+   "name_canton": "AGUIRRE",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Naranjito",
+   "code_canton": "606",
+   "name_canton": "AGUIRRE",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "606",
+   "name_canton": "AGUIRRE",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Golfito",
+   "code_canton": "607",
+   "name_canton": "GOLFITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Puerto Jimenez",
+   "code_canton": "607",
+   "name_canton": "GOLFITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Guaycara",
+   "code_canton": "607",
+   "name_canton": "GOLFITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Pavon",
+   "code_canton": "607",
+   "name_canton": "GOLFITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "607",
+   "name_canton": "GOLFITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "San Vito",
+   "code_canton": "608",
+   "name_canton": "COTO BRUS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Sabalito",
+   "code_canton": "608",
+   "name_canton": "COTO BRUS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "AguaBuena",
+   "code_canton": "608",
+   "name_canton": "COTO BRUS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Limoncito",
+   "code_canton": "608",
+   "name_canton": "COTO BRUS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Pitier",
+   "code_canton": "608",
+   "name_canton": "COTO BRUS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "608",
+   "name_canton": "COTO BRUS",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Parrita",
+   "code_canton": "609",
+   "name_canton": "PARRITA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "609",
+   "name_canton": "PARRITA",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Corredor",
+   "code_canton": "610",
+   "name_canton": "CORREDORES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "La Cuesta",
+   "code_canton": "610",
+   "name_canton": "CORREDORES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Canoas",
+   "code_canton": "610",
+   "name_canton": "CORREDORES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Laurel",
+   "code_canton": "610",
+   "name_canton": "CORREDORES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "610",
+   "name_canton": "CORREDORES",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Jaco",
+   "code_canton": "611",
+   "name_canton": "GARABITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Tarcoles",
+   "code_canton": "611",
+   "name_canton": "GARABITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "611",
+   "name_canton": "GARABITO",
+   "code_provincia": "6",
+   "name_provincia": "PUNTARENAS",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Limon",
+   "code_canton": "701",
+   "name_canton": "LIMON",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Valle La Estrella",
+   "code_canton": "701",
+   "name_canton": "LIMON",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Rio Blanco",
+   "code_canton": "701",
+   "name_canton": "LIMON",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Matama",
+   "code_canton": "701",
+   "name_canton": "LIMON",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "701",
+   "name_canton": "LIMON",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Guapiles",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Jimenez",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Rita",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Roxana",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Cariari",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Colorado",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "7",
+   "label": "LA COLONIA",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "702",
+   "name_canton": "POCOCI",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Siquirres",
+   "code_canton": "703",
+   "name_canton": "SIQUIRRES",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Pacuarito",
+   "code_canton": "703",
+   "name_canton": "SIQUIRRES",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Florida",
+   "code_canton": "703",
+   "name_canton": "SIQUIRRES",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Germania",
+   "code_canton": "703",
+   "name_canton": "SIQUIRRES",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Cairo",
+   "code_canton": "703",
+   "name_canton": "SIQUIRRES",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "6",
+   "label": "Alegria",
+   "code_canton": "703",
+   "name_canton": "SIQUIRRES",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "703",
+   "name_canton": "SIQUIRRES",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Bratsi",
+   "code_canton": "704",
+   "name_canton": "TALAMANCA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Sixaola",
+   "code_canton": "704",
+   "name_canton": "TALAMANCA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Cahuita",
+   "code_canton": "704",
+   "name_canton": "TALAMANCA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "704",
+   "name_canton": "TALAMANCA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Matina",
+   "code_canton": "705",
+   "name_canton": "MATINA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Batan",
+   "code_canton": "705",
+   "name_canton": "MATINA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "CARRANDI",
+   "code_canton": "705",
+   "name_canton": "MATINA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "705",
+   "name_canton": "MATINA",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "1",
+   "label": "Guacimo",
+   "code_canton": "706",
+   "name_canton": "GUACIMO",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "2",
+   "label": "Mercedes",
+   "code_canton": "706",
+   "name_canton": "GUACIMO",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "3",
+   "label": "Pocora",
+   "code_canton": "706",
+   "name_canton": "GUACIMO",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "4",
+   "label": "Rio Jimenez",
+   "code_canton": "706",
+   "name_canton": "GUACIMO",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "5",
+   "label": "Duacari",
+   "code_canton": "706",
+   "name_canton": "GUACIMO",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "99",
+   "label": "Distrito no definido",
+   "code_canton": "706",
+   "name_canton": "GUACIMO",
+   "code_provincia": "7",
+   "name_provincia": "LIMON",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ },
+ {
+   "value": "9",
+   "label": "DISTRITO NO DEFINIDO (MIGRACIO",
+   "code_canton": "999",
+   "name_canton": "CANTON NO DEFINIDO (MIGRACION)",
+   "code_provincia": "9",
+   "name_provincia": "PROVINCIA NO DEFINID",
+   "code_pais": "41",
+   "name_pais": "COSTA RICA"
+ }
+]

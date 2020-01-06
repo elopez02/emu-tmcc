@@ -1,0 +1,14 @@
+[
+	{
+		"noCliente": {
+            "maxValorDeseado": 50000,
+            "minValorDeseado": 1000,
+            "intervalo": 500
+		},
+		"cliente": {
+			"maxValorDeseado": 10000,
+            "minValorDeseado": 1000,
+            "intervalo": 500
+		}
+	}
+]

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "value": "Argentina",
+            "id": "001"
+        },
+        {
+            "value": "Colombia",
+            "id": "002"
+        },
+        {
+            "value": "México",
+            "id": "003"
+        }
+    ]
+}

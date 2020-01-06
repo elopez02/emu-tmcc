@@ -1,0 +1,58 @@
+[
+  {
+    "value": "01",
+    "label": "Asalariado"
+  },
+  {
+    "value": "01",
+    "label": "Religioso"
+  },
+  {
+    "value": "01",
+    "label": "Sector Publico"
+  },
+  {
+    "value": "02",
+    "label": "Estudiante"
+  },
+  {
+    "value": "02",
+    "label": "Ama de casa"
+  },
+  {
+    "value": "03",
+    "label": "Pensionado"
+  },
+  {
+    "value": "03",
+    "label": "Jubilado"
+  },
+  {
+    "value": "04",
+    "label": "Persona Natural con Negocio Propio"
+  },
+  {
+    "value": "05",
+    "label": "Profesional"
+  },
+  {
+    "value": "05",
+    "label": "Independiente"
+  },
+  {
+    "value": "05",
+    "label": "Socio"
+  },
+  {
+    "value": "05",
+    "label": "Rentista de Capital"
+  },
+  {
+    "value": "06",
+    "label": "Banca Patrimonial"
+  },
+  {
+    "value": "06",
+    "label": "SCC"
+  }
+]

@@ -1,0 +1,98 @@
+
+/**
+ * Modules - Information modal
+ */
+
+.infoModal
+{
+	background-color: white;
+	width: 90%;
+	height: 90vh;
+	border-radius: em(13);
+	overflow-y: scroll;
+	padding: em(32);
+	vertical-align: top;
+	@include prefix((
+ 		box-sizing: border-box,
+ 		transition: ease all 0.7s,
+ 		transform: translateY(-50em),
+	), webkit moz o ms);
+	img
+	{
+		width: 100%;
+		margin-bottom: em(21);
+	}
+	h3
+	{
+		line-height: 1.5em;
+		text-transform: uppercase;
+		font-size: 1.3em;
+	}
+    ul
+    {
+    	padding-left: 0;
+    }
+	&__footer
+	{
+		width: 100%;
+		height: em(55);
+		margin: em(32) 0;
+		@include prefix((
+	 		box-sizing: border-box,
+	 		display: flex,
+	 		justify-content: center,
+	 		align-items: center,
+	    ), webkit moz o ms);
+	    @include media(lg)
+		{
+			@include prefix((
+		 		justify-content: flex-end,
+		    ), webkit moz o ms);
+		}
+		@include media(xlg)
+		{
+			@include prefix((
+		 		justify-content: flex-end,
+		    ), webkit moz o ms);
+		}
+	}
+	@include media(md)
+	{
+		width: 70%;
+	}
+	@include media(lg)
+	{
+		width: 65%;
+	}
+	@include media(xlg)
+	{
+		width: 60%;
+	}
+}
+
+/*
+ *  custom scrollbar
+ */
+
+.infoModal::-webkit-scrollbar-track
+{
+    box-shadow: none;
+    border-radius: 5px;
+    background-color: rgba(white, 0);
+    cursor: pointer !important;
+}
+
+.infoModal::-webkit-scrollbar
+{
+    width: 5px;
+    background-color: rgba(white, 0);
+    cursor: pointer !important;
+}
+
+.infoModal::-webkit-scrollbar-thumb
+{
+    border-radius: 5px;
+    box-shadow: none;
+    background-color: $color__lightgray;
+    cursor: pointer !important;
+}

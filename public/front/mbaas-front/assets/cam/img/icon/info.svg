@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #004eff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 11px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_343" data-name="Grupo 343" transform="translate(-355 -264)">
+    <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="6" cy="6" r="6" transform="translate(355 264)"/>
+    <text id="i" class="cls-2" transform="translate(360 273)"><tspan x="0" y="0">i</tspan></text>
+  </g>
+</svg>

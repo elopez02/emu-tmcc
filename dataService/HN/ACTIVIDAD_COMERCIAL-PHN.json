@@ -1,0 +1,818 @@
+[
+ {
+   "value": "1",
+   "label": "ASALARIADO"
+ },
+ {
+   "value": "2",
+   "label": "ABOGADO INDEPENDIENTE"
+ },
+ {
+   "value": "3",
+   "label": "REPRESENTANTES ORGANIZACIONES RELIGIOSAS"
+ },
+ {
+   "value": "4",
+   "label": "HOTEL"
+ },
+ {
+   "value": "5",
+   "label": "ZONAS INDUSTRIALES DE PROCESAMIENTO ZIP"
+ },
+ {
+   "value": "6",
+   "label": "VENTA DE ARMAS Y PRODUCTOS MILITARES"
+ },
+ {
+   "value": "7",
+   "label": "OTROS"
+ },
+ {
+   "value": "8",
+   "label": "OTROS"
+ },
+ {
+   "value": "9",
+   "label": "CRIA Y COMERCIO DE GANADO"
+ },
+ {
+   "value": "10",
+   "label": "AMA DE CASA"
+ },
+ {
+   "value": "11",
+   "label": "ESTUDIANTE"
+ },
+ {
+   "value": "12",
+   "label": "EMPLEADO"
+ },
+ {
+   "value": "13",
+   "label": "MEDICO U ODONTOLOGO INDEPENDIENTE"
+ },
+ {
+   "value": "14",
+   "label": "CONTADOR"
+ },
+ {
+   "value": "15",
+   "label": "COMERCIANTE INFORMAL"
+ },
+ {
+   "value": "16",
+   "label": "ARRENDAMIENTO COMPRA VENTA BIENES RAICES"
+ },
+ {
+   "value": "17",
+   "label": "EMPRESA DE TRANSPORTE CARGA / PASAJERO"
+ },
+ {
+   "value": "18",
+   "label": "COMERCIALIZACION DE CHATARRA"
+ },
+ {
+   "value": "19",
+   "label": "BUFETE DE ABOGADOS Y NOTARIOS"
+ },
+ {
+   "value": "20",
+   "label": "COMERCIO ROPA O ZAPATOS USADOS"
+ },
+ {
+   "value": "21",
+   "label": "MAQUILA"
+ },
+ {
+   "value": "22",
+   "label": "GASOLINERA"
+ },
+ {
+   "value": "23",
+   "label": "JUBILADO O PENSIONADO"
+ },
+ {
+   "value": "24",
+   "label": "CONSULTOR INDEPENDIENTE"
+ },
+ {
+   "value": "25",
+   "label": "CONSTRUCCION"
+ },
+ {
+   "value": "26",
+   "label": "ARQUITECTO / INGENIERO INDEPENDIENTE"
+ },
+ {
+   "value": "27",
+   "label": "ARRENDAMIENTO COMPRA VENTA BIENES RAICES"
+ },
+ {
+   "value": "28",
+   "label": "PEP PERSONA POLITICAMENTE EXPUESTA"
+ },
+ {
+   "value": "29",
+   "label": "COMERCIALIZACION REPUESTOS NUEVOS/USADOS"
+ },
+ {
+   "value": "30",
+   "label": "COMPRA VENTA DE AUTOMOVILES USADOS"
+ },
+ {
+   "value": "31",
+   "label": "BUFETE DE CONTADORES PUBLICOS"
+ },
+ {
+   "value": "32",
+   "label": "COMERCIALIZACION REPUESTOS NUEVOS/USADOS"
+ },
+ {
+   "value": "33",
+   "label": "COMPRA VENTA DE AUTOMOVILES NUEVOS"
+ },
+ {
+   "value": "34",
+   "label": "CONCESIONARIA DE MOTOCICLETAS"
+ },
+ {
+   "value": "35",
+   "label": "PRESTAMISTA NO BANCARIO"
+ },
+ {
+   "value": "36",
+   "label": "INDUSTRIA"
+ },
+ {
+   "value": "37",
+   "label": "AGENCIA DE VIAJES"
+ },
+ {
+   "value": "38",
+   "label": "COMPRA VENTA DE AUTOMOVILES USADOS"
+ },
+ {
+   "value": "39",
+   "label": "VENTA DE ROPA USADA"
+ },
+ {
+   "value": "40",
+   "label": "ABARROTERIA"
+ },
+ {
+   "value": "41",
+   "label": "VENTA DE ABARROTERIA"
+ },
+ {
+   "value": "42",
+   "label": "AGRICULTOR"
+ },
+ {
+   "value": "43",
+   "label": "COMPRA VENTA ROPA/ZAPATOS NUEVOS/USADOS"
+ },
+ {
+   "value": "44",
+   "label": "DESEMPLEADO"
+ },
+ {
+   "value": "45",
+   "label": "ALCALDE"
+ },
+ {
+   "value": "46",
+   "label": "ALQUILERES / ARRENDAMIENTOS O RENTAS"
+ },
+ {
+   "value": "47",
+   "label": "ARTISTA"
+ },
+ {
+   "value": "48",
+   "label": "CAMBISTA DE DOLARES"
+ },
+ {
+   "value": "49",
+   "label": "CARPINTERO O EBANISTA"
+ },
+ {
+   "value": "50",
+   "label": "COMERCIANTE INDIVIDUAL"
+ },
+ {
+   "value": "51",
+   "label": "COMPRA VENTA ANTIGUEDADES OBRAS DE ARTE"
+ },
+ {
+   "value": "52",
+   "label": "COMERCIALIZACION DE CHATARRA"
+ },
+ {
+   "value": "53",
+   "label": "COMPRA VENTA DE METALES PRECIOSOS"
+ },
+ {
+   "value": "54",
+   "label": "COMPRA VENTA DE MADERA"
+ },
+ {
+   "value": "55",
+   "label": "CONTRATISTA"
+ },
+ {
+   "value": "56",
+   "label": "DEPORTISTA"
+ },
+ {
+   "value": "57",
+   "label": "DIPUTADO"
+ },
+ {
+   "value": "58",
+   "label": "DISEÑADOR GRAFICO INDEPENDIENTE"
+ },
+ {
+   "value": "59",
+   "label": "EMBAJADOR / CONSUL"
+ },
+ {
+   "value": "60",
+   "label": "ENFERMERO/A"
+ },
+ {
+   "value": "61",
+   "label": "ESCRITOR INDEPENDIENTE"
+ },
+ {
+   "value": "62",
+   "label": "FOTOGRAFO INDEPENDIENTE"
+ },
+ {
+   "value": "63",
+   "label": "MAESTRO O DOCENTE"
+ },
+ {
+   "value": "64",
+   "label": "MINISTRO DE GOBIERNO"
+ },
+ {
+   "value": "65",
+   "label": "MOTORISTA"
+ },
+ {
+   "value": "66",
+   "label": "OFICIOS VARIOS"
+ },
+ {
+   "value": "67",
+   "label": "SILVICULTURA Y PESCA"
+ },
+ {
+   "value": "68",
+   "label": "POLICIA O MILITAR"
+ },
+ {
+   "value": "69",
+   "label": "PRESTAMISTA NO BANCARIO"
+ },
+ {
+   "value": "70",
+   "label": "PROPIETARIO DE NEGOCIO"
+ },
+ {
+   "value": "71",
+   "label": "SERVICIOS VARIOS"
+ },
+ {
+   "value": "72",
+   "label": "AGENCIA ADUANERA"
+ },
+ {
+   "value": "73",
+   "label": "SILVICULTURA Y PESCA"
+ },
+ {
+   "value": "74",
+   "label": "ALCALDIA O CORPORACION MUNICIPAL"
+ },
+ {
+   "value": "75",
+   "label": "INVERSION FILATELICA BIENES SUNTUARIOS"
+ },
+ {
+   "value": "76",
+   "label": "ARRENDAMIENTO EQUIPO INDUSTRIAL"
+ },
+ {
+   "value": "77",
+   "label": "ARRENDAMIENTO / ALQUILER DE INMUEBLES"
+ },
+ {
+   "value": "78",
+   "label": "CLUB/ASOCIACION DEPORTIVA/PROFESIONAL"
+ },
+ {
+   "value": "79",
+   "label": "BANCOS COMERCIALES"
+ },
+ {
+   "value": "80",
+   "label": "CASA DE EMPEÑO"
+ },
+ {
+   "value": "81",
+   "label": "CASINO O JUEGOS DE AZAR / APUESTAS"
+ },
+ {
+   "value": "82",
+   "label": "COMPRA VENTA DE METALES PRECIOSOS"
+ },
+ {
+   "value": "83",
+   "label": "COMPRA VENTA DE MADERA"
+ },
+ {
+   "value": "84",
+   "label": "COOPERATIVA"
+ },
+ {
+   "value": "85",
+   "label": "CORREDOR DE SEGUROS"
+ },
+ {
+   "value": "86",
+   "label": "DESPACHO CONTADORES PUBLICOS"
+ },
+ {
+   "value": "87",
+   "label": "DISTRIBUCION COMBUSTIBLE NO GASOLINERA"
+ },
+ {
+   "value": "88",
+   "label": "ENERGIA TERMICA EOLICA SOLAR U OTROS"
+ },
+ {
+   "value": "89",
+   "label": "ESCUELAS COLEGIOS UNIVERSIDAD PRIVADAS"
+ },
+ {
+   "value": "90",
+   "label": "EXTRACCION COMERCIALIZACION MINERA"
+ },
+ {
+   "value": "91",
+   "label": "FARMACIA"
+ },
+ {
+   "value": "92",
+   "label": "FINANCIERA"
+ },
+ {
+   "value": "93",
+   "label": "SECRETARIA DE GOBIERNO"
+ },
+ {
+   "value": "94",
+   "label": "IMPORTACION / EXPORTACION"
+ },
+ {
+   "value": "95",
+   "label": "INDUSTRIA TEXTIL"
+ },
+ {
+   "value": "96",
+   "label": "LABORATORIO FARMACEUTICO / DROGUERIA"
+ },
+ {
+   "value": "97",
+   "label": "ONG/ORG BENEFICA/FUND SIN FINES DE LUCRO"
+ },
+ {
+   "value": "98",
+   "label": "ORGANIZACION GREMIAL O SINDICATO"
+ },
+ {
+   "value": "99",
+   "label": "COMUNIDADES RELIGIOSAS"
+ },
+ {
+   "value": "100",
+   "label": "OTRAS INDUSTRIAS"
+ },
+ {
+   "value": "101",
+   "label": "OTRO COMERCIO"
+ },
+ {
+   "value": "102",
+   "label": "PARTIDO POLITICO O CAMPAÑA POLITICA"
+ },
+ {
+   "value": "103",
+   "label": "TRANSFERENCIA REMESADORA ENVIO DE DINERO"
+ },
+ {
+   "value": "104",
+   "label": "ARRENDAMIENTO DE AUTOMOVILES"
+ },
+ {
+   "value": "105",
+   "label": "BAR / RESTAURANTE"
+ },
+ {
+   "value": "106",
+   "label": "SERVICIOS DE CONSTRUCCION O DISEÑO"
+ },
+ {
+   "value": "107",
+   "label": "SERVICIOS DE CONSULTORIA"
+ },
+ {
+   "value": "108",
+   "label": "SERVICIOS GENERALES"
+ },
+ {
+   "value": "109",
+   "label": "SERVICIOS MEDICOS"
+ },
+ {
+   "value": "110",
+   "label": "SUPERMERCADO O MERCADITO"
+ },
+ {
+   "value": "111",
+   "label": "TELECOMUNICACIONES"
+ },
+ {
+   "value": "112",
+   "label": "REDES DE TELEMERCADEO"
+ },
+ {
+   "value": "113",
+   "label": "VENTA MAQUINARIA PESADA Y REPUESTOS"
+ },
+ {
+   "value": "114",
+   "label": "CASA DE CAMBIO"
+ },
+ {
+   "value": "115",
+   "label": "MOTELES O RESIDENCIAS U HOTELES DE PASO"
+ },
+ {
+   "value": "116",
+   "label": "TRANSACCIONES DE BOLSAS DE VALORES"
+ },
+ {
+   "value": "117",
+   "label": "COMERCIALIZACION DE SOFTWARE / HARDWARE"
+ },
+ {
+   "value": "118",
+   "label": "PRODUCCION COMERCIO BEBIDAS ALCOHOLICAS"
+ },
+ {
+   "value": "119",
+   "label": "FONDOS DE EMPLEADOS"
+ },
+ {
+   "value": "120",
+   "label": "TRASLADOS DE VALORES, CAUDALES O DINERO"
+ },
+ {
+   "value": "121",
+   "label": "BLINDAJE DE VEHICULOS E INMUEBLES"
+ },
+ {
+   "value": "122",
+   "label": "EMBAJADAS / CONSULADOS"
+ },
+ {
+   "value": "123",
+   "label": "COMERCIO PRODUCCION DE INSUMOS QUIMICOS"
+ },
+ {
+   "value": "124",
+   "label": "EMPRESAS MULTINIVEL"
+ },
+ {
+   "value": "125",
+   "label": "OPERACIONES DE AHORRO Y PRESTAMO"
+ },
+ {
+   "value": "126",
+   "label": "CASA DE EMPEÑO"
+ },
+ {
+   "value": "127",
+   "label": "MILITAR ALTO RANGO"
+ },
+ {
+   "value": "128",
+   "label": "REGIDOR"
+ },
+ {
+   "value": "129",
+   "label": "MAGISTRADO"
+ },
+ {
+   "value": "130",
+   "label": "PRESIDENTE / DESIGNADOS PRESIDENCIALES"
+ },
+ {
+   "value": "131",
+   "label": "GERENTE/DIRECTOR ENTIDAD DESCENTRALIZADA"
+ },
+ {
+   "value": "132",
+   "label": "DISCOTECA / INDUSTRIA SEXO / PROSTIBULO"
+ },
+ {
+   "value": "133",
+   "label": "PAGINA INTERNET VIDEO CHAT ADULTO/EROTIC"
+ },
+ {
+   "value": "134",
+   "label": "PAGINAS WEB PORNOGRAFICAS"
+ },
+ {
+   "value": "135",
+   "label": "CONCIERTOS O ESPECTACULOS"
+ },
+ {
+   "value": "136",
+   "label": "CONCIERTOS O ESPECTACULOS"
+ },
+ {
+   "value": "137",
+   "label": "JUEGOS DE AZAR / APUESTAS"
+ },
+ {
+   "value": "138",
+   "label": "SERVICIOS DE SEGURIDAD"
+ },
+ {
+   "value": "139",
+   "label": "BANCOS ESTATALES"
+ },
+ {
+   "value": "140",
+   "label": "BANCA DE SEGUNDO PISO"
+ },
+ {
+   "value": "141",
+   "label": "INSTITUCIONES DE SEGUROS"
+ },
+ {
+   "value": "142",
+   "label": "PROCESADORAS DE TARJETAS DE CREDITO"
+ },
+ {
+   "value": "143",
+   "label": "FONDOS PUBLICOS DE PENSIONES"
+ },
+ {
+   "value": "144",
+   "label": "CASAS DE BOLSAS"
+ },
+ {
+   "value": "145",
+   "label": "ALMACENES GENERALES DE DEPOSITO"
+ },
+ {
+   "value": "146",
+   "label": "ORGAN PRIVADAS DE DESARROLLO FINANCIERAS"
+ },
+ {
+   "value": "147",
+   "label": "CENTRALES DE RIESGO PRIVADAS"
+ },
+ {
+   "value": "148",
+   "label": "SOCIEDADES CLASIFICADORAS DE RIESGO"
+ },
+ {
+   "value": "149",
+   "label": "ADMINIST DE FONDO DE GARANTIA RECIPROCA"
+ },
+ {
+   "value": "150",
+   "label": "FONDOS PRIVADOS DE PENSIONES"
+ },
+ {
+   "value": "151",
+   "label": "SERV. COURRIER TERRESTRE AEREO MARITIMO"
+ },
+ {
+   "value": "152",
+   "label": "COMPRA VENTA DE NAVES MARITIMAS NUEVAS"
+ },
+ {
+   "value": "153",
+   "label": "COMPRA VENTA DE NAVES MARITIMAS USADAS"
+ },
+ {
+   "value": "154",
+   "label": "COMPRA VENTA DE AERONAVES NUEVAS"
+ },
+ {
+   "value": "155",
+   "label": "COMPRA VENTA DE AERONAVES USADAS"
+ },
+ {
+   "value": "156",
+   "label": "ARRENDAMIENTO DE NAVES MARITIMAS"
+ },
+ {
+   "value": "157",
+   "label": "ARRENDAMIENTO DE AERONAVES"
+ },
+ {
+   "value": "158",
+   "label": "SERVICIOS POSTALES O ENCOMIENDAS"
+ },
+ {
+   "value": "159",
+   "label": "INVERSION FILATELICA BIENES SUNTUARIOS"
+ },
+ {
+   "value": "160",
+   "label": "COMPRA VENTA ANTIGUEDADES OBRAS DE ARTE"
+ },
+ {
+   "value": "161",
+   "label": "ELABORACION JOYAS CON METALES PRECIOSOS"
+ },
+ {
+   "value": "162",
+   "label": "ELABORACION JOYAS CON METALES PRECIOSOS"
+ },
+ {
+   "value": "163",
+   "label": "COMPRA VENTA DE AUTOMOVILES NUEVOS"
+ },
+ {
+   "value": "164",
+   "label": "COMPRA VENTA DE AERONAVES NUEVAS"
+ },
+ {
+   "value": "165",
+   "label": "COMPRA VENTA DE AERONAVES USADAS"
+ },
+ {
+   "value": "166",
+   "label": "COMPRA VENTA DE NAVES MARITIMAS NUEVAS"
+ },
+ {
+   "value": "167",
+   "label": "COMPRA VENTA DE NAVES MARITIMAS USADAS"
+ },
+ {
+   "value": "168",
+   "label": "ARRENDAMIENTO DE AUTOMOVILES"
+ },
+ {
+   "value": "169",
+   "label": "ARRENDAMIENTO DE AERONAVES"
+ },
+ {
+   "value": "170",
+   "label": "ARRENDAMIENTO DE NAVES MARITIMAS"
+ },
+ {
+   "value": "171",
+   "label": "TRANSPORTE DE CAUDALES VALORES O DINERO"
+ },
+ {
+   "value": "172",
+   "label": "ABOGADO COMPRA VENTA DE BIENES INMUEBLES"
+ },
+ {
+   "value": "173",
+   "label": "NOTARIO COMPRA VENTA DE BIENES INMUEBLES"
+ },
+ {
+   "value": "174",
+   "label": "CONTADOR COMPRA VENTA BIENES INMUEBLES"
+ },
+ {
+   "value": "175",
+   "label": "OPERACIONES SISTEMATICAS TITULOS VALORES"
+ },
+ {
+   "value": "176",
+   "label": "OPERACIONES SISTEMATICAS FORMA MAGNETICA"
+ },
+ {
+   "value": "177",
+   "label": "OPERACIONES SISTEMATICAS ELECTRONICAS"
+ },
+ {
+   "value": "178",
+   "label": "OPERACIONES SISTEMATICAS TELEFONICAS"
+ },
+ {
+   "value": "179",
+   "label": "TRANSFERENCIAS SISTEMATICAS DE FONDOS"
+ },
+ {
+   "value": "180",
+   "label": "ESTABLECIMIENTOS DE ALTA CONCENTRACION"
+ },
+ {
+   "value": "181",
+   "label": "PROCESAMIENTO Y PRODUCCION MINERA"
+ },
+ {
+   "value": "182",
+   "label": "EXTRACCION COMERCIALIZACION PETROLERA"
+ },
+ {
+   "value": "183",
+   "label": "PROCESAMIENTO Y PRODUCCION PETROLERA"
+ },
+ {
+   "value": "184",
+   "label": "EMPRESA RECICLADORA"
+ },
+ {
+   "value": "185",
+   "label": "SUBASTAS GANADERAS"
+ },
+ {
+   "value": "186",
+   "label": "CRIA Y COMERCIO DE GANADO"
+ },
+ {
+   "value": "187",
+   "label": "SUBASTAS GANADERAS"
+ },
+ {
+   "value": "188",
+   "label": "COMERCIO PRODUCCION SUSTANCIA CONTROLADA"
+ },
+ {
+   "value": "189",
+   "label": "CASAS DE CITAS / CENTROS NOCTURNOS"
+ },
+ {
+   "value": "190",
+   "label": "FUNDACIONES Y ASOCIACIONES"
+ },
+ {
+   "value": "191",
+   "label": "AGRICULTURA"
+ },
+ {
+   "value": "192",
+   "label": "BUFETE ABOGADO COMPRA VTA BIENES RAICES"
+ },
+ {
+   "value": "193",
+   "label": "NOTARIO COMPRA VENTA DE BIENES REICES"
+ },
+ {
+   "value": "194",
+   "label": "SERVICIO DE TRANSPORTE TURISTICO"
+ },
+ {
+   "value": "195",
+   "label": "SERVICIO DE TRANSPORTE TURISTICO"
+ },
+ {
+   "value": "196",
+   "label": "SERVICIO DE OPERADORES /GUIAS TURISTICOS"
+ },
+ {
+   "value": "197",
+   "label": "SERVICIO DE OPERADORES /GUIAS TURISTICOS"
+ },
+ {
+   "value": "198",
+   "label": "CLUB/ASOCIACION/PROFESIONAL DE FUTBOL"
+ },
+ {
+   "value": "199",
+   "label": "ESCUELAS COLEGIOS UNIVERSIDAD PUBLICA"
+ },
+ {
+   "value": "200",
+   "label": "MARINO"
+ },
+ {
+   "value": "201",
+   "label": "GESTIONES DE COBRO/TERCERIZACION DE PROC"
+ },
+ {
+   "value": "202",
+   "label": "SERVICIOS DE SEGURIDAD"
+ },
+ {
+   "value": "203",
+   "label": "COMERCIALIZACION DE CANNABIS O DERIVADOS"
+ },
+ {
+   "value": "204",
+   "label": "COMERCIALIZACION DE CANNABIS O DERIVADOS"
+ }
+]

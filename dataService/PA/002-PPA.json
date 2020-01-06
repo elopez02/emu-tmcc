@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "value": "bogotá",
+            "id": "001"
+        },
+        {
+            "value": "Medellín",
+            "id": "002"
+        },
+        {
+            "value": "Cali",
+            "id": "003"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "listClasificacionesTributarias": [
+    { "name": "Cía. de responsabilidad limitada (LLC)" },
+    { "name": "Fideicomiso/caudal hereditario" },
+    { "name": "Sociedad colectiva" },
+    { "name": "Sociedad anónima tipo S" },
+    { "name": "Sociedad anónima tipo C" },
+    { "name": "Otro" },
+    { "name": "Individuo/empresario por cuenta propia o LLC de un solo miembro" }
+  ]
+}

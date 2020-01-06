@@ -1,0 +1,86 @@
+[
+ {
+   "value": "0",
+   "label": "DOLAR"
+ },
+ {
+   "value": "1",
+   "label": "PESETA(S) ESPAÑOLAS"
+ },
+ {
+   "value": "2",
+   "label": "MARCO(S) ALEMAN"
+ },
+ {
+   "value": "3",
+   "label": "FRANCO(S) FRANCES"
+ },
+ {
+   "value": "4",
+   "label": "YEN"
+ },
+ {
+   "value": "5",
+   "label": "LIBRA(S) ESTERLINA"
+ },
+ {
+   "value": "6",
+   "label": "EURO"
+ },
+ {
+   "value": "7",
+   "label": "FRANCO(S) BELGA"
+ },
+ {
+   "value": "8",
+   "label": "CHELINE(S) AUSTRIACOS"
+ },
+ {
+   "value": "9",
+   "label": "CORONA(S) DANESAS"
+ },
+ {
+   "value": "10",
+   "label": "CORONA(S) NORUEGA"
+ },
+ {
+   "value": "11",
+   "label": "CORONA(S) SUECA"
+ },
+ {
+   "value": "12",
+   "label": "FRANCO(S) SUIZO"
+ },
+ {
+   "value": "13",
+   "label": "DOLAR(ES) CANADIENSE"
+ },
+ {
+   "value": "15",
+   "label": "FLORIN(ES) HOLANDES"
+ },
+ {
+   "value": "16",
+   "label": "QUETZAL"
+ },
+ {
+   "value": "17",
+   "label": "ECUS"
+ },
+ {
+   "value": "18",
+   "label": "NUEVO(S) SOLE(S) PERUANO"
+ },
+ {
+   "value": "19",
+   "label": "LIRA ITALIANA"
+ },
+ {
+   "value": "20",
+   "label": "COLON"
+ },
+ {
+   "value": "21",
+   "label": "DOLAR AUSTRALIANO"
+ }
+]

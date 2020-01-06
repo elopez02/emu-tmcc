@@ -1,0 +1,156 @@
+
+/**
+* Modules - forms - form group
+*/
+
+.formGroup
+{
+	width: 100%;
+	margin-bottom: em(20);
+	font-family: $font__family !important;
+	&__label
+	{
+		font-weight: normal;
+		font-size: em(16);
+		padding: 0;
+		margin: 0 0 em(10) 0;
+		@include prefix((
+			box-sizing: border-box,
+	 		appearance: none,
+	 		display: flex,
+	 		justify-content: space-between,
+	 		align-items: center,
+	    ), webkit moz o ms);
+	}
+	&__input
+	{
+		width: 100%;
+		background-color: $color__inputs;
+		border: solid 1px $color__inputs;
+		box-shadow: none;
+		outline: none;
+		height: em(44) !important;
+		padding: 0 em(15) !important;
+		font-size: em(16) !important;
+		border-radius: 0;
+		color: $color__text--light;
+		font-style: italic;
+		&:hover
+		{
+			border-color: rgba($color__text--dark, 0.3);
+		}
+		&:focus
+		{
+			border-color: rgba($color__text--dark, 0.3);
+		}
+		&:disabled
+		{
+			background-color: rgba($color__lightgray, 0.2);
+			border-color: rgba($color__text--dark, 0.2);
+			cursor: no-drop;
+			color: rgba($color__text--dark, 0.5);
+			::placeholder 
+			{ /* Chrome, Firefox, Opera, Safari 10.1+ */
+				color: red;
+				opacity: 1; /* Firefox */
+			}
+			:-ms-input-placeholder 
+			{ /* Internet Explorer 10-11 */
+				color: red;
+			}
+			::-ms-input-placeholder 
+			{ /* Microsoft Edge */
+				color: red;
+			}
+		}
+		@include prefix((
+			box-sizing: border-box,
+	 		appearance: none,
+	 		display: flex,
+	 		justify-content: flex-start,
+	 		align-items: center,
+	 		transition: ease all 0.3s
+	    ), webkit moz o ms);
+	    &--select
+	    {
+	    	background-image: url(/assets/cam/img/icon/felcha_hacia_abajo.svg);
+	    	background-size: em(20) em(20);
+	    	background-position: center right;
+	    	background-repeat: no-repeat;
+			cursor: pointer;
+			background-origin: content-box;
+			margin-right: em(2);
+			font-style: italic;
+		}
+		&--alignCenter
+		{
+			text-align: center;
+		}
+	}
+	&__flexRow
+	{
+		width: 100%;
+		margin-top: em(8);
+		@include prefix((
+			box-sizing: border-box,
+	 		appearance: none,
+	 		display: flex,
+	 		justify-content: space-arround,
+			align-items: center,
+			flex-direction: row
+		), webkit moz o ms);
+		&__child
+	    {
+			margin: 0 em(5);
+	    	&:first-child
+	    	{
+	    		margin-left: 0;
+			}
+	    	&:last-child
+	    	{
+	    		margin-right: 0;
+			}
+			&--idLast
+			{
+				width: em(150);
+				@include media(sm)
+				{
+					width: 80em;
+				}
+				@include media(md)
+				{
+					width: 50em;
+				}
+				@include media(lg)
+				{
+					width: 80em;
+				}
+			}
+	    }
+	    &__separator
+	    {
+	    	height: 100%;
+			font-size: 1.5em;
+	    	@include prefix((
+				box-sizing: border-box,
+		 		display: flex,
+		 		justify-content: center,
+		 		align-items: center,
+		    ), webkit moz o ms);
+	    }
+	}
+}
+
+::placeholder 
+{ /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: $color__text--light;
+	opacity: 1; /* Firefox */
+}
+:-ms-input-placeholder 
+{ /* Internet Explorer 10-11 */
+	color: $color__text--light;
+}
+::-ms-input-placeholder 
+{ /* Microsoft Edge */
+	color: $color__text--light;
+}

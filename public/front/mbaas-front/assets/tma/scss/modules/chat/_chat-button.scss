@@ -1,0 +1,72 @@
+
+/**
+ * Modules - Chat button
+ */
+
+ .chatButton
+ {
+ 	border: none;
+ 	background-color: $color__primary;
+ 	width: em(60);
+ 	height: em(60);
+ 	border-radius: 50%;
+ 	position: absolute;
+ 	right: em(20);
+ 	top: em(20);
+    z-index: 10;
+	text-decoration: none !important;
+	cursor: pointer;
+ 	@include prefix((
+ 		display: flex,
+ 		justify-content: center,
+ 		align-items: center,
+ 		outline: none,
+ 		box-shadow: none 
+    ), webkit moz o ms);
+ 	&__label
+ 	{
+ 		color: white;
+ 		line-height: 0;
+ 		padding: 0;
+ 		margin: 0;
+ 		font-size: em(37);
+ 	}
+ 	@include media(sm)
+    {
+        width: em(75);
+ 		height: em(75);
+ 		right: em(30);
+ 		top: em(30);
+ 		&__label
+	 	{
+	 		font-size: em(47);
+	 	}
+    }
+ 	@include media(md)
+    {
+        width: em(80);
+ 		height: em(80);
+ 		right: em(53);
+ 		top: em(53);
+    }
+ 	@include media(lg)
+    {
+        width: em(80);
+ 		height: em(80);
+ 		right: em(40);
+ 		top: em(25);
+ 		&__label
+	 	{
+	 		font-size: em(47);
+	 	}
+    }
+ 	@include media(xlg)
+    {
+ 		right: em(53);
+ 		top: em(29);
+ 		&__label
+	 	{
+	 		font-size: em(47);
+	 	}
+    }
+ }

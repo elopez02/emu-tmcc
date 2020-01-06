@@ -1,0 +1,26 @@
+[
+ {
+   "label": "SIN ESTUDIOS",
+   "value": "1"
+ },
+ {
+   "label": "PRIMARIA COMPLETA",
+   "value": "2"
+ },
+ {
+   "label": "SECUNDARIA COMPLETA",
+   "value": "3"
+ },
+ {
+   "label": "TECNICO COMPLETO",
+   "value": "4"
+ },
+ {
+   "label": "UNIVERSITARIA COMPLETA",
+   "value": "5"
+ },
+ {
+   "label": "POSTGRADO COMPLETO",
+   "value": "6"
+ }
+]

@@ -1,0 +1,1990 @@
+[
+ {
+   "value": "0010",
+   "label": "Asalariados: Personas naturales y s"
+ },
+ {
+   "value": "0090",
+   "label": "Rentistas de Capital solo para Pers"
+ },
+ {
+   "value": "0111",
+   "label": "Cultivo de cereales (excepto arroz)"
+ },
+ {
+   "value": "0112",
+   "label": "Cultivo de arroz"
+ },
+ {
+   "value": "0113",
+   "label": "Cultivo de hortalizas, raices y tub"
+ },
+ {
+   "value": "0114",
+   "label": "Cultivo de tabaco"
+ },
+ {
+   "value": "0115",
+   "label": "Cultivo de plantas textiles"
+ },
+ {
+   "value": "0119",
+   "label": "Otros cultivos transitorios n.c.p."
+ },
+ {
+   "value": "0121",
+   "label": "Cultivo de frutas tropicales y subt"
+ },
+ {
+   "value": "0122",
+   "label": "Cultivo de platano y banano"
+ },
+ {
+   "value": "0123",
+   "label": "Cultivo de cafe"
+ },
+ {
+   "value": "0124",
+   "label": "Cultivo de ca¦a de azucar"
+ },
+ {
+   "value": "0125",
+   "label": "Cultivo de flor de corte"
+ },
+ {
+   "value": "0126",
+   "label": "Cultivo de palma para aceite (palma"
+ },
+ {
+   "value": "0127",
+   "label": "Cultivo de plantas con las que se p"
+ },
+ {
+   "value": "0128",
+   "label": "Cultivo de especias y de plantas ar"
+ },
+ {
+   "value": "0129",
+   "label": "Otros cultivos permanentes n.c.p."
+ },
+ {
+   "value": "0130",
+   "label": "Propagacion de plantas (actividades"
+ },
+ {
+   "value": "0141",
+   "label": "Cria de ganado bovino y bufalino"
+ },
+ {
+   "value": "0142",
+   "label": "Cria de caballos y otros equinos"
+ },
+ {
+   "value": "0143",
+   "label": "Cria de ovejas y cabras"
+ },
+ {
+   "value": "0144",
+   "label": "Cria de ganado porcino"
+ },
+ {
+   "value": "0145",
+   "label": "Cria de aves de corral"
+ },
+ {
+   "value": "0149",
+   "label": "Cria de otros animales n.c.p."
+ },
+ {
+   "value": "0150",
+   "label": "Explotacion mixta (agricola y pecua"
+ },
+ {
+   "value": "0161",
+   "label": "Actividades de apoyo a la agricultu"
+ },
+ {
+   "value": "0162",
+   "label": "Actividades de apoyo a la ganaderia"
+ },
+ {
+   "value": "0163",
+   "label": "Actividades posteriores a la cosech"
+ },
+ {
+   "value": "0164",
+   "label": "Tratamiento de semillas para propag"
+ },
+ {
+   "value": "0170",
+   "label": "Caza ordinaria y mediante trampas y"
+ },
+ {
+   "value": "0210",
+   "label": "Silvicultura y otras actividades fo"
+ },
+ {
+   "value": "0220",
+   "label": "Extraccion de madera"
+ },
+ {
+   "value": "0230",
+   "label": "Recoleccion de productos forestales"
+ },
+ {
+   "value": "0240",
+   "label": "Servicios de apoyo a la silvicultur"
+ },
+ {
+   "value": "0311",
+   "label": "Pesca maritima"
+ },
+ {
+   "value": "0312",
+   "label": "Pesca de agua dulce"
+ },
+ {
+   "value": "0321",
+   "label": "Acuicultura maritima"
+ },
+ {
+   "value": "0322",
+   "label": "Acuicultura de agua dulce"
+ },
+ {
+   "value": "0510",
+   "label": "Extraccion de hulla (carbon de pied"
+ },
+ {
+   "value": "0520",
+   "label": "Extraccion de carbon lignito"
+ },
+ {
+   "value": "0610",
+   "label": "Extraccion de petroleo crudo"
+ },
+ {
+   "value": "0620",
+   "label": "Extraccion de gas natural"
+ },
+ {
+   "value": "0710",
+   "label": "Extraccion de minerales de hierro"
+ },
+ {
+   "value": "0721",
+   "label": "Extraccion de minerales de uranio y"
+ },
+ {
+   "value": "0722",
+   "label": "Extraccion de oro y otros metales p"
+ },
+ {
+   "value": "0723",
+   "label": "Extraccion de minerales de niquel"
+ },
+ {
+   "value": "0729",
+   "label": "Extraccion de otros minerales metal"
+ },
+ {
+   "value": "0811",
+   "label": "Extraccion de piedra, arena, arcill"
+ },
+ {
+   "value": "0812",
+   "label": "Extraccion de arcillas de uso indus"
+ },
+ {
+   "value": "0820",
+   "label": "Extraccion de esmeraldas, piedras p"
+ },
+ {
+   "value": "0891",
+   "label": "Extraccion de minerales para la fab"
+ },
+ {
+   "value": "0892",
+   "label": "Extraccion de halita (sal)"
+ },
+ {
+   "value": "0899",
+   "label": "Extraccion de otros minerales no me"
+ },
+ {
+   "value": "0910",
+   "label": "Actividades de apoyo para la extrac"
+ },
+ {
+   "value": "0990",
+   "label": "Actividades de apoyo para otras act"
+ },
+ {
+   "value": "1011",
+   "label": "Procesamiento y conservacion de car"
+ },
+ {
+   "value": "1012",
+   "label": "Procesamiento y conservacion de pes"
+ },
+ {
+   "value": "1020",
+   "label": "Procesamiento y conservacion de fru"
+ },
+ {
+   "value": "1030",
+   "label": "Elaboracion de aceites y grasas de"
+ },
+ {
+   "value": "1040",
+   "label": "Elaboracion de productos lacteos"
+ },
+ {
+   "value": "1051",
+   "label": "Elaboracion de productos de moliner"
+ },
+ {
+   "value": "1052",
+   "label": "Elaboracion de almidones y producto"
+ },
+ {
+   "value": "1061",
+   "label": "Trilla de cafe"
+ },
+ {
+   "value": "1062",
+   "label": "Descafeinado, tostion y molienda de"
+ },
+ {
+   "value": "1063",
+   "label": "Otros derivados del cafe"
+ },
+ {
+   "value": "1071",
+   "label": "Elaboracion y refinacion de azucar"
+ },
+ {
+   "value": "1072",
+   "label": "Elaboracion de panela"
+ },
+ {
+   "value": "1081",
+   "label": "Elaboracion de productos de panader"
+ },
+ {
+   "value": "1082",
+   "label": "Elaboracion de cacao, chocolate y p"
+ },
+ {
+   "value": "1083",
+   "label": "Elaboracion de macarrones, fideos,"
+ },
+ {
+   "value": "1084",
+   "label": "Elaboracion de comidas y platos pre"
+ },
+ {
+   "value": "1089",
+   "label": "Elaboracion de otros productos alim"
+ },
+ {
+   "value": "1090",
+   "label": "Elaboracion de alimentos preparados"
+ },
+ {
+   "value": "1101",
+   "label": "Destilacion, rectificaci¾n y mezcla"
+ },
+ {
+   "value": "1102",
+   "label": "Elaboracion de bebidas fermentadas"
+ },
+ {
+   "value": "1103",
+   "label": "Produccion de malta, elaboracion de"
+ },
+ {
+   "value": "1104",
+   "label": "Elaboracion de bebidas no alcoholic"
+ },
+ {
+   "value": "1200",
+   "label": "Elaboracion de productos de tabaco"
+ },
+ {
+   "value": "1311",
+   "label": "Preparacion e hilatura de fibras te"
+ },
+ {
+   "value": "1312",
+   "label": "Tejeduria de productos textiles"
+ },
+ {
+   "value": "1313",
+   "label": "Acabado de productos textiles"
+ },
+ {
+   "value": "1391",
+   "label": "Fabricacion de tejidos de punto y g"
+ },
+ {
+   "value": "1392",
+   "label": "Confeccion de articulos con materia"
+ },
+ {
+   "value": "1393",
+   "label": "Fabricacion de tapetes y alfombras"
+ },
+ {
+   "value": "1394",
+   "label": "Fabricacion de cuerdas, cordeles, c"
+ },
+ {
+   "value": "1399",
+   "label": "Fabricacion de otros articulos text"
+ },
+ {
+   "value": "1410",
+   "label": "Confeccion de prendas de vestir, ex"
+ },
+ {
+   "value": "1420",
+   "label": "Fabricacion de articulos de piel"
+ },
+ {
+   "value": "1430",
+   "label": "Fabricacion de articulos de punto y"
+ },
+ {
+   "value": "1511",
+   "label": "Curtido y recurtido de cueros; recu"
+ },
+ {
+   "value": "1512",
+   "label": "Fabricacion de articulos de viaje,"
+ },
+ {
+   "value": "1513",
+   "label": "Fabricacion de articulos de viaje,"
+ },
+ {
+   "value": "1521",
+   "label": "Fabricacion de calzado de cuero y p"
+ },
+ {
+   "value": "1522",
+   "label": "Fabricacion de otros tipos de calza"
+ },
+ {
+   "value": "1523",
+   "label": "Fabricacion de partes del calzado"
+ },
+ {
+   "value": "1610",
+   "label": "Aserrado, acepillado e impregnacion"
+ },
+ {
+   "value": "1620",
+   "label": "Fabricacion de hojas de madera para"
+ },
+ {
+   "value": "1630",
+   "label": "Fabricacion de partes y piezas de m"
+ },
+ {
+   "value": "1640",
+   "label": "Fabricacion de recipientes de mader"
+ },
+ {
+   "value": "1690",
+   "label": "Fabricacion de otros productos de m"
+ },
+ {
+   "value": "1701",
+   "label": "Fabricacion de pulpas (pastas) celu"
+ },
+ {
+   "value": "1702",
+   "label": "Fabricacion de papel y carton ondul"
+ },
+ {
+   "value": "1709",
+   "label": "Fabricacion de otros articulos de p"
+ },
+ {
+   "value": "1811",
+   "label": "Actividades de impresion"
+ },
+ {
+   "value": "1812",
+   "label": "Actividades de servicios relacionad"
+ },
+ {
+   "value": "1820",
+   "label": "Produccion de copias a partir de gr"
+ },
+ {
+   "value": "1910",
+   "label": "Fabricacion de productos de hornos"
+ },
+ {
+   "value": "1921",
+   "label": "Fabricacion de productos de la refi"
+ },
+ {
+   "value": "1922",
+   "label": "Actividad de mezcla de combustibles"
+ },
+ {
+   "value": "2011",
+   "label": "Fabricacion de sustancias y product"
+ },
+ {
+   "value": "2012",
+   "label": "Fabricacion de abonos y compuestos"
+ },
+ {
+   "value": "2013",
+   "label": "Fabricacion de plasticos en formas"
+ },
+ {
+   "value": "2014",
+   "label": "Fabricacion de caucho sintetico en"
+ },
+ {
+   "value": "2021",
+   "label": "Fabricacion de plaguicidas y otros"
+ },
+ {
+   "value": "2022",
+   "label": "Fabricacion de pinturas, barnices y"
+ },
+ {
+   "value": "2023",
+   "label": "Fabricacion de jabones y detergente"
+ },
+ {
+   "value": "2029",
+   "label": "Fabricacion de otros productos quim"
+ },
+ {
+   "value": "2030",
+   "label": "Fabricacion de fibras sinteticas y"
+ },
+ {
+   "value": "2100",
+   "label": "Fabricacion de productos farmaceuti"
+ },
+ {
+   "value": "2211",
+   "label": "Fabricacion de llantas y neumaticos"
+ },
+ {
+   "value": "2212",
+   "label": "Reencauche de llantas usadas"
+ },
+ {
+   "value": "2219",
+   "label": "Fabricacion de formas basicas de ca"
+ },
+ {
+   "value": "2221",
+   "label": "Fabricacion de formas bßsicas de pl"
+ },
+ {
+   "value": "2229",
+   "label": "Fabricacion de articulos de plastic"
+ },
+ {
+   "value": "2310",
+   "label": "Fabricacion de vidrio y productos d"
+ },
+ {
+   "value": "2391",
+   "label": "Fabricacion de productos refractari"
+ },
+ {
+   "value": "2392",
+   "label": "Fabricacion de materiales de arcill"
+ },
+ {
+   "value": "2393",
+   "label": "Fabricacion de otros productos de c"
+ },
+ {
+   "value": "2394",
+   "label": "Fabricacion de cemento, cal y yeso"
+ },
+ {
+   "value": "2395",
+   "label": "Fabricacion de articulos de hormigo"
+ },
+ {
+   "value": "2396",
+   "label": "Corte, tallado y acabado de la pied"
+ },
+ {
+   "value": "2399",
+   "label": "Fabricacion de otros productos mine"
+ },
+ {
+   "value": "2410",
+   "label": "Industrias basicas de hierro y de a"
+ },
+ {
+   "value": "2421",
+   "label": "Industrias basicas de metales preci"
+ },
+ {
+   "value": "2429",
+   "label": "Industrias basicas de otros metales"
+ },
+ {
+   "value": "2431",
+   "label": "Fundicion de hierro y de acero"
+ },
+ {
+   "value": "2432",
+   "label": "Fundicion de metales no ferrosos"
+ },
+ {
+   "value": "2511",
+   "label": "Fabricacion de productos metalicos"
+ },
+ {
+   "value": "2512",
+   "label": "Fabricacion de tanques, depositos y"
+ },
+ {
+   "value": "2513",
+   "label": "Fabricacion de generadores de vapor"
+ },
+ {
+   "value": "2520",
+   "label": "Fabricacion de armas y municiones"
+ },
+ {
+   "value": "2591",
+   "label": "Forja, prensado, estampado y lamina"
+ },
+ {
+   "value": "2592",
+   "label": "Tratamiento y revestimiento de meta"
+ },
+ {
+   "value": "2593",
+   "label": "Fabricacion de articulos de cuchill"
+ },
+ {
+   "value": "2599",
+   "label": "Fabricacion de otros productos elab"
+ },
+ {
+   "value": "2610",
+   "label": "Fabricacion de componentes y tabler"
+ },
+ {
+   "value": "2620",
+   "label": "Fabricacion de computadoras y de eq"
+ },
+ {
+   "value": "2630",
+   "label": "Fabricacion de equipos de comunicac"
+ },
+ {
+   "value": "2640",
+   "label": "Fabricacion de aparatos electronico"
+ },
+ {
+   "value": "2651",
+   "label": "Fabricacion de equipo de medicion,"
+ },
+ {
+   "value": "2652",
+   "label": "Fabricacion de relojes"
+ },
+ {
+   "value": "2660",
+   "label": "Fabricacion de equipo de irradiacio"
+ },
+ {
+   "value": "2670",
+   "label": "Fabricacion de instrumentos opticos"
+ },
+ {
+   "value": "2680",
+   "label": "Fabricacion de soportes magneticos"
+ },
+ {
+   "value": "2711",
+   "label": "Fabricacion de motores, generadores"
+ },
+ {
+   "value": "2712",
+   "label": "Fabricacion de aparatos de distribu"
+ },
+ {
+   "value": "2720",
+   "label": "Fabricacion de pilas, baterias y ac"
+ },
+ {
+   "value": "2731",
+   "label": "Fabricacion de hilos y cables elect"
+ },
+ {
+   "value": "2732",
+   "label": "Fabricacion de dispositivos de cabl"
+ },
+ {
+   "value": "2740",
+   "label": "Fabricacion de equipos electricos d"
+ },
+ {
+   "value": "2750",
+   "label": "Fabricacion de aparatos de uso dome"
+ },
+ {
+   "value": "2790",
+   "label": "Fabricacion de otros tipos de equip"
+ },
+ {
+   "value": "2811",
+   "label": "Fabricacion de motores, turbinas, y"
+ },
+ {
+   "value": "2812",
+   "label": "Fabricacion de equipos de potencia"
+ },
+ {
+   "value": "2813",
+   "label": "Fabricacion de otras bombas, compre"
+ },
+ {
+   "value": "2814",
+   "label": "Fabricacion de cojinetes, engranaje"
+ },
+ {
+   "value": "2815",
+   "label": "Fabricacion de hornos, hogares y qu"
+ },
+ {
+   "value": "2816",
+   "label": "Fabricacion de equipo de elevacion"
+ },
+ {
+   "value": "2817",
+   "label": "Fabricacion de maquinaria y equipo"
+ },
+ {
+   "value": "2818",
+   "label": "Fabricacion de herramientas manuale"
+ },
+ {
+   "value": "2819",
+   "label": "Fabricacion de otros tipos de maqui"
+ },
+ {
+   "value": "2821",
+   "label": "Fabricacion de maquinaria agropecua"
+ },
+ {
+   "value": "2822",
+   "label": "Fabricacion de maquinas formadoras"
+ },
+ {
+   "value": "2823",
+   "label": "Fabricacion de maquinaria para la m"
+ },
+ {
+   "value": "2824",
+   "label": "Fabricacion de maquinaria para expl"
+ },
+ {
+   "value": "2825",
+   "label": "Fabricacion de maquinaria para la e"
+ },
+ {
+   "value": "2826",
+   "label": "Fabricacion de maquinaria para la e"
+ },
+ {
+   "value": "2829",
+   "label": "Fabricacion de otros tipos de maqui"
+ },
+ {
+   "value": "2910",
+   "label": "Fabricacion de vehiculos automotore"
+ },
+ {
+   "value": "2920",
+   "label": "Fabricacion de carrocerias para veh"
+ },
+ {
+   "value": "2930",
+   "label": "Fabricacion de partes, piezas (auto"
+ },
+ {
+   "value": "3011",
+   "label": "Construccion de barcos y de estruct"
+ },
+ {
+   "value": "3012",
+   "label": "Construccion de embarcaciones de re"
+ },
+ {
+   "value": "3020",
+   "label": "Fabricacion de locomotoras y de mat"
+ },
+ {
+   "value": "3030",
+   "label": "Fabricacion de aeronaves, naves esp"
+ },
+ {
+   "value": "3040",
+   "label": "Fabricacion de vehiculos militares"
+ },
+ {
+   "value": "3091",
+   "label": "Fabricacion de motocicletas"
+ },
+ {
+   "value": "3092",
+   "label": "Fabricacion de bicicletas y de sill"
+ },
+ {
+   "value": "3099",
+   "label": "Fabricacion de otros tipos de equip"
+ },
+ {
+   "value": "3110",
+   "label": "Fabricacion de muebles"
+ },
+ {
+   "value": "3120",
+   "label": "Fabricacion de colchones y somieres"
+ },
+ {
+   "value": "3210",
+   "label": "Fabricacion de joyas, bisuteria y a"
+ },
+ {
+   "value": "3220",
+   "label": "Fabricacion de instrumentos musical"
+ },
+ {
+   "value": "3230",
+   "label": "Fabricacion de articulos y equipo p"
+ },
+ {
+   "value": "3240",
+   "label": "Fabricacion de juegos, juguetes y r"
+ },
+ {
+   "value": "3250",
+   "label": "Fabricacion de instrumentos, aparat"
+ },
+ {
+   "value": "3290",
+   "label": "Otras industrias manufactureras n.c"
+ },
+ {
+   "value": "3311",
+   "label": "Mantenimiento y reparacion especial"
+ },
+ {
+   "value": "3312",
+   "label": "Mantenimiento y reparacion especial"
+ },
+ {
+   "value": "3313",
+   "label": "Mantenimiento y reparacion especial"
+ },
+ {
+   "value": "3314",
+   "label": "Mantenimiento y reparacion especial"
+ },
+ {
+   "value": "3315",
+   "label": "Mantenimiento y reparacion especial"
+ },
+ {
+   "value": "3319",
+   "label": "Mantenimiento y reparacion de otros"
+ },
+ {
+   "value": "3320",
+   "label": "Instalacion especializada de maquin"
+ },
+ {
+   "value": "3511",
+   "label": "Generacion de energia electrica"
+ },
+ {
+   "value": "3512",
+   "label": "Transmision de energia electrica"
+ },
+ {
+   "value": "3513",
+   "label": "Distribucion de energia electrica"
+ },
+ {
+   "value": "3514",
+   "label": "Comercializacion de energia electri"
+ },
+ {
+   "value": "3520",
+   "label": "Produccion de gas; distribucion de"
+ },
+ {
+   "value": "3530",
+   "label": "Suministro de vapor y aire acondici"
+ },
+ {
+   "value": "3600",
+   "label": "Captacion, tratamiento y distribuci"
+ },
+ {
+   "value": "3700",
+   "label": "Evacuacion y tratamiento de aguas r"
+ },
+ {
+   "value": "3811",
+   "label": "Recoleccion de desechos no peligros"
+ },
+ {
+   "value": "3812",
+   "label": "Recoleccion de desechos peligrosos"
+ },
+ {
+   "value": "3821",
+   "label": "Tratamiento y disposicion de desech"
+ },
+ {
+   "value": "3822",
+   "label": "Tratamiento y disposicion de desech"
+ },
+ {
+   "value": "3830",
+   "label": "Recuperacion de materiales"
+ },
+ {
+   "value": "3900",
+   "label": "Actividades de saneamiento ambienta"
+ },
+ {
+   "value": "4111",
+   "label": "Construccion de edificios residenci"
+ },
+ {
+   "value": "4112",
+   "label": "Construccion de edificios no reside"
+ },
+ {
+   "value": "4210",
+   "label": "Construccion de carreteras y vias d"
+ },
+ {
+   "value": "4220",
+   "label": "Construccion de proyectos de servic"
+ },
+ {
+   "value": "4290",
+   "label": "Construccion de otras obras de inge"
+ },
+ {
+   "value": "4311",
+   "label": "Demolicion"
+ },
+ {
+   "value": "4312",
+   "label": "Preparacion del terreno"
+ },
+ {
+   "value": "4321",
+   "label": "Instalaciones electricas"
+ },
+ {
+   "value": "4322",
+   "label": "Instalaciones de fontaneria, calefa"
+ },
+ {
+   "value": "4329",
+   "label": "Otras instalaciones especializadas"
+ },
+ {
+   "value": "4330",
+   "label": "Terminacion y acabado de edificios"
+ },
+ {
+   "value": "4390",
+   "label": "Otras actividades especializadas pa"
+ },
+ {
+   "value": "4511",
+   "label": "Comercio de vehiculos automotores n"
+ },
+ {
+   "value": "4512",
+   "label": "Comercio de vehiculos automotores u"
+ },
+ {
+   "value": "4520",
+   "label": "Mantenimiento y reparacion de vehic"
+ },
+ {
+   "value": "4530",
+   "label": "Comercio de partes, piezas (autopar"
+ },
+ {
+   "value": "4541",
+   "label": "Comercio de motocicletas y de sus p"
+ },
+ {
+   "value": "4542",
+   "label": "Mantenimiento y reparacion de motoc"
+ },
+ {
+   "value": "4610",
+   "label": "Comercio al por mayor a cambio de u"
+ },
+ {
+   "value": "4620",
+   "label": "Comercio al por mayor de materias p"
+ },
+ {
+   "value": "4631",
+   "label": "Comercio al por mayor de productos"
+ },
+ {
+   "value": "4632",
+   "label": "Comercio al por mayor de bebidas y"
+ },
+ {
+   "value": "4641",
+   "label": "Comercio al por mayor de productos"
+ },
+ {
+   "value": "4642",
+   "label": "Comercio al por mayor de prendas de"
+ },
+ {
+   "value": "4643",
+   "label": "Comercio al por mayor de calzado"
+ },
+ {
+   "value": "4644",
+   "label": "Comercio al por mayor de aparatos y"
+ },
+ {
+   "value": "4645",
+   "label": "Comercio al por mayor de productos"
+ },
+ {
+   "value": "4649",
+   "label": "Comercio al por mayor de otros uten"
+ },
+ {
+   "value": "4651",
+   "label": "Comercio al por mayor de computador"
+ },
+ {
+   "value": "4652",
+   "label": "Comercio al por mayor de equipo, pa"
+ },
+ {
+   "value": "4653",
+   "label": "Comercio al por mayor de maquinaria"
+ },
+ {
+   "value": "4659",
+   "label": "Comercio al por mayor de otros tipo"
+ },
+ {
+   "value": "4661",
+   "label": "Comercio al por mayor de combustibl"
+ },
+ {
+   "value": "4662",
+   "label": "Comercio al por mayor de metales y"
+ },
+ {
+   "value": "4663",
+   "label": "Comercio al por mayor de materiales"
+ },
+ {
+   "value": "4664",
+   "label": "Comercio al por mayor de productos"
+ },
+ {
+   "value": "4665",
+   "label": "Comercio al por mayor de desperdici"
+ },
+ {
+   "value": "4669",
+   "label": "Comercio al por mayor de otros prod"
+ },
+ {
+   "value": "4690",
+   "label": "Comercio al por mayor no especializ"
+ },
+ {
+   "value": "4711",
+   "label": "Comercio al por menor en establecim"
+ },
+ {
+   "value": "4719",
+   "label": "Comercio al por menor en establecim"
+ },
+ {
+   "value": "4721",
+   "label": "Comercio al por menor de productos"
+ },
+ {
+   "value": "4722",
+   "label": "Comercio al por menor de leche, pro"
+ },
+ {
+   "value": "4723",
+   "label": "Comercio al por menor de carnes (in"
+ },
+ {
+   "value": "4724",
+   "label": "Comercio al por menor de bebidas y"
+ },
+ {
+   "value": "4729",
+   "label": "Comercio al por menor de otros prod"
+ },
+ {
+   "value": "4731",
+   "label": "Comercio al por menor de combustibl"
+ },
+ {
+   "value": "4732",
+   "label": "Comercio al por menor de lubricante"
+ },
+ {
+   "value": "4741",
+   "label": "Comercio al por menor de computador"
+ },
+ {
+   "value": "4742",
+   "label": "Comercio al por menor de equipos y"
+ },
+ {
+   "value": "4751",
+   "label": "Comercio al por menor de productos"
+ },
+ {
+   "value": "4752",
+   "label": "Comercio al por menor de articulos"
+ },
+ {
+   "value": "4753",
+   "label": "Comercio al por menor de tapices, a"
+ },
+ {
+   "value": "4754",
+   "label": "Comercio al por menor de electrodom"
+ },
+ {
+   "value": "4755",
+   "label": "Comercio al por menor de articulos"
+ },
+ {
+   "value": "4759",
+   "label": "Comercio al por menor de otros arti"
+ },
+ {
+   "value": "4761",
+   "label": "Comercio al por menor de libros, pe"
+ },
+ {
+   "value": "4762",
+   "label": "Comercio al por menor de articulos"
+ },
+ {
+   "value": "4769",
+   "label": "Comercio al por menor de otros arti"
+ },
+ {
+   "value": "4771",
+   "label": "Comercio al por menor de prendas de"
+ },
+ {
+   "value": "4772",
+   "label": "Comercio al por menor de todo tipo"
+ },
+ {
+   "value": "4773",
+   "label": "Comercio al por menor de productos"
+ },
+ {
+   "value": "4774",
+   "label": "Comercio al por menor de otros prod"
+ },
+ {
+   "value": "4775",
+   "label": "Comercio al por menor de articulos"
+ },
+ {
+   "value": "4781",
+   "label": "Comercio al por menor de alimentos,"
+ },
+ {
+   "value": "4782",
+   "label": "Comercio al por menor de productos"
+ },
+ {
+   "value": "4789",
+   "label": "Comercio al por menor de otros prod"
+ },
+ {
+   "value": "4791",
+   "label": "Comercio al por menor realizado a t"
+ },
+ {
+   "value": "4792",
+   "label": "Comercio al por menor realizado a t"
+ },
+ {
+   "value": "4799",
+   "label": "Otros tipos de comercio al por meno"
+ },
+ {
+   "value": "4911",
+   "label": "Transporte ferreo de pasajeros"
+ },
+ {
+   "value": "4912",
+   "label": "Transporte ferreo de carga"
+ },
+ {
+   "value": "4921",
+   "label": "Transporte de pasajeros"
+ },
+ {
+   "value": "4922",
+   "label": "Transporte mixto"
+ },
+ {
+   "value": "4923",
+   "label": "Transporte de carga por carretera"
+ },
+ {
+   "value": "4930",
+   "label": "Transporte por tuberias"
+ },
+ {
+   "value": "5011",
+   "label": "Transporte de pasajeros maritimo y"
+ },
+ {
+   "value": "5012",
+   "label": "Transporte de carga maritimo y de c"
+ },
+ {
+   "value": "5021",
+   "label": "Transporte fluvial de pasajeros"
+ },
+ {
+   "value": "5022",
+   "label": "Transporte fluvial de carga"
+ },
+ {
+   "value": "5111",
+   "label": "Transporte aereo nacional de pasaje"
+ },
+ {
+   "value": "5112",
+   "label": "Transporte aereo internacional de p"
+ },
+ {
+   "value": "5121",
+   "label": "Transporte aereo nacional de carga"
+ },
+ {
+   "value": "5122",
+   "label": "Transporte aereo internacional de c"
+ },
+ {
+   "value": "5210",
+   "label": "Almacenamiento y deposito"
+ },
+ {
+   "value": "5221",
+   "label": "Actividades de estaciones, vias y s"
+ },
+ {
+   "value": "5222",
+   "label": "Actividades de puertos y servicios"
+ },
+ {
+   "value": "5223",
+   "label": "Actividades de aeropuertos, servici"
+ },
+ {
+   "value": "5224",
+   "label": "Manipulacion de carga"
+ },
+ {
+   "value": "5229",
+   "label": "Otras actividades complementarias a"
+ },
+ {
+   "value": "5310",
+   "label": "Actividades postales nacionales"
+ },
+ {
+   "value": "5320",
+   "label": "Actividades de mensajeria"
+ },
+ {
+   "value": "5511",
+   "label": "Alojamiento en hoteles"
+ },
+ {
+   "value": "5512",
+   "label": "Alojamiento en aparta-hoteles"
+ },
+ {
+   "value": "5513",
+   "label": "Alojamiento en centros vacacionales"
+ },
+ {
+   "value": "5514",
+   "label": "Alojamiento rural"
+ },
+ {
+   "value": "5519",
+   "label": "Otros tipos de alojamientos para vi"
+ },
+ {
+   "value": "5520",
+   "label": "Actividades de zonas de camping y p"
+ },
+ {
+   "value": "5530",
+   "label": "Servicio por horas"
+ },
+ {
+   "value": "5590",
+   "label": "Otros tipos de alojamiento n.c.p."
+ },
+ {
+   "value": "5611",
+   "label": "Expendio a la mesa de comidas prepa"
+ },
+ {
+   "value": "5612",
+   "label": "Expendio por autoservicio de comida"
+ },
+ {
+   "value": "5613",
+   "label": "Expendio de comidas preparadas en c"
+ },
+ {
+   "value": "5619",
+   "label": "Otros tipos de expendio de comidas"
+ },
+ {
+   "value": "5621",
+   "label": "Catering para eventos"
+ },
+ {
+   "value": "5629",
+   "label": "Actividades de otros servicios de c"
+ },
+ {
+   "value": "5630",
+   "label": "Expendio de bebidas alcoholicas par"
+ },
+ {
+   "value": "5811",
+   "label": "Edicion de libros"
+ },
+ {
+   "value": "5812",
+   "label": "Edicion de directorios y listas de"
+ },
+ {
+   "value": "5813",
+   "label": "Edicion de periodicos, revistas y o"
+ },
+ {
+   "value": "5819",
+   "label": "Otros trabajos de edicion"
+ },
+ {
+   "value": "5820",
+   "label": "Edicion de programas de informatica"
+ },
+ {
+   "value": "5911",
+   "label": "Actividades de produccion de pelicu"
+ },
+ {
+   "value": "5912",
+   "label": "Actividades de postproduccion de pe"
+ },
+ {
+   "value": "5913",
+   "label": "Actividades de distribucion de peli"
+ },
+ {
+   "value": "5914",
+   "label": "Actividades de exhibicion de pelicu"
+ },
+ {
+   "value": "5920",
+   "label": "Actividades de grabacion de sonido"
+ },
+ {
+   "value": "6010",
+   "label": "Actividades de programacion y trans"
+ },
+ {
+   "value": "6020",
+   "label": "Actividades de programacion y trans"
+ },
+ {
+   "value": "6110",
+   "label": "Actividades de telecomunicaciones a"
+ },
+ {
+   "value": "6120",
+   "label": "Actividades de telecomunicaciones i"
+ },
+ {
+   "value": "6130",
+   "label": "Actividades de telecomunicacion sat"
+ },
+ {
+   "value": "6190",
+   "label": "Otras actividades de telecomunicaci"
+ },
+ {
+   "value": "6201",
+   "label": "Actividades de desarrollo de sistem"
+ },
+ {
+   "value": "6202",
+   "label": "Actividades de consultoria informat"
+ },
+ {
+   "value": "6209",
+   "label": "Otras actividades de tecnologias de"
+ },
+ {
+   "value": "6311",
+   "label": "Procesamiento de datos, alojamiento"
+ },
+ {
+   "value": "6312",
+   "label": "Portales Web"
+ },
+ {
+   "value": "6391",
+   "label": "Actividades de agencias de noticias"
+ },
+ {
+   "value": "6399",
+   "label": "Otras actividades de servicio de in"
+ },
+ {
+   "value": "6411",
+   "label": "Banco Central"
+ },
+ {
+   "value": "6412",
+   "label": "Bancos comerciales"
+ },
+ {
+   "value": "6421",
+   "label": "Actividades de las corporaciones fi"
+ },
+ {
+   "value": "6422",
+   "label": "Actividades de las compa¦ias de fin"
+ },
+ {
+   "value": "6423",
+   "label": "Banca de segundo piso"
+ },
+ {
+   "value": "6424",
+   "label": "Actividades de las cooperativas fin"
+ },
+ {
+   "value": "6431",
+   "label": "Fideicomisos, fondos y entidades fi"
+ },
+ {
+   "value": "6432",
+   "label": "Fondos de cesantias"
+ },
+ {
+   "value": "6491",
+   "label": "Leasing financiero (arrendamiento f"
+ },
+ {
+   "value": "6492",
+   "label": "Actividades financieras de fondos d"
+ },
+ {
+   "value": "6493",
+   "label": "Actividades de compra de cartera o"
+ },
+ {
+   "value": "6494",
+   "label": "Otras actividades de distribucion d"
+ },
+ {
+   "value": "6495",
+   "label": "Instituciones especiales oficiales"
+ },
+ {
+   "value": "6499",
+   "label": "Otras actividades de servicio finan"
+ },
+ {
+   "value": "6511",
+   "label": "Seguros generales"
+ },
+ {
+   "value": "6512",
+   "label": "Seguros de vida"
+ },
+ {
+   "value": "6513",
+   "label": "Reaseguros"
+ },
+ {
+   "value": "6514",
+   "label": "Capitalizacion"
+ },
+ {
+   "value": "6521",
+   "label": "Servicios de seguros sociales de sa"
+ },
+ {
+   "value": "6522",
+   "label": "Servicios de seguros sociales de ri"
+ },
+ {
+   "value": "6531",
+   "label": "Regimen de prima media con prestaci"
+ },
+ {
+   "value": "6532",
+   "label": "Regimen de ahorro individual (RAI)"
+ },
+ {
+   "value": "6611",
+   "label": "Administraci¾n de mercados financie"
+ },
+ {
+   "value": "6612",
+   "label": "Corretaje de valores y de contratos"
+ },
+ {
+   "value": "6613",
+   "label": "Otras actividades relacionadas con"
+ },
+ {
+   "value": "6614",
+   "label": "Actividades de las casas de cambio"
+ },
+ {
+   "value": "6615",
+   "label": "Actividades de los profesionales de"
+ },
+ {
+   "value": "6619",
+   "label": "Otras actividades auxiliares de las"
+ },
+ {
+   "value": "6621",
+   "label": "Actividades de agentes y corredores"
+ },
+ {
+   "value": "6629",
+   "label": "Evaluacion de riesgos y da±os, y ot"
+ },
+ {
+   "value": "6630",
+   "label": "Actividades de administracion de fo"
+ },
+ {
+   "value": "6810",
+   "label": "Actividades inmobiliarias realizada"
+ },
+ {
+   "value": "6820",
+   "label": "Actividades inmobiliarias realizada"
+ },
+ {
+   "value": "6910",
+   "label": "Actividades juridicas"
+ },
+ {
+   "value": "6920",
+   "label": "Actividades de contabilidad, tenedu"
+ },
+ {
+   "value": "7010",
+   "label": "Actividades de administracion empre"
+ },
+ {
+   "value": "7020",
+   "label": "Actividades de consultaria de gesti"
+ },
+ {
+   "value": "7110",
+   "label": "Actividades de arquitectura e ingen"
+ },
+ {
+   "value": "7120",
+   "label": "Ensayos y analisis tecnicos"
+ },
+ {
+   "value": "7210",
+   "label": "Investigaciones y desarrollo experi"
+ },
+ {
+   "value": "7220",
+   "label": "Investigaciones y desarrollo experi"
+ },
+ {
+   "value": "7310",
+   "label": "Publicidad"
+ },
+ {
+   "value": "7320",
+   "label": "Estudios de mercado y realizacion d"
+ },
+ {
+   "value": "7410",
+   "label": "Actividades especializadas de dise±"
+ },
+ {
+   "value": "7420",
+   "label": "Actividades de fotografia"
+ },
+ {
+   "value": "7490",
+   "label": "Otras actividades profesionales, ci"
+ },
+ {
+   "value": "7500",
+   "label": "Actividades veterinarias"
+ },
+ {
+   "value": "7710",
+   "label": "Alquiler y arrendamiento de vehicul"
+ },
+ {
+   "value": "7721",
+   "label": "Alquiler y arrendamiento de equipo"
+ },
+ {
+   "value": "7722",
+   "label": "Alquiler de videos y discos"
+ },
+ {
+   "value": "7729",
+   "label": "Alquiler y arrendamiento de otros e"
+ },
+ {
+   "value": "7730",
+   "label": "Alquiler y arrendamiento de otros t"
+ },
+ {
+   "value": "7740",
+   "label": "Arrendamiento de propiedad intelect"
+ },
+ {
+   "value": "7810",
+   "label": "Actividades de agencias de empleo"
+ },
+ {
+   "value": "7820",
+   "label": "Actividades de agencias de empleo t"
+ },
+ {
+   "value": "7830",
+   "label": "Otras actividades de suministro de"
+ },
+ {
+   "value": "7911",
+   "label": "Actividades de las agencias de viaj"
+ },
+ {
+   "value": "7912",
+   "label": "Actividades de operadores turistico"
+ },
+ {
+   "value": "7990",
+   "label": "Otros servicios de reserva y activi"
+ },
+ {
+   "value": "8010",
+   "label": "Actividades de seguridad privada"
+ },
+ {
+   "value": "8020",
+   "label": "Actividades de servicios de sistema"
+ },
+ {
+   "value": "8030",
+   "label": "Actividades de detectives e investi"
+ },
+ {
+   "value": "8110",
+   "label": "Actividades combinadas de apoyo a i"
+ },
+ {
+   "value": "8121",
+   "label": "Limpieza general interior de edific"
+ },
+ {
+   "value": "8129",
+   "label": "Otras actividades de limpieza de ed"
+ },
+ {
+   "value": "8130",
+   "label": "Actividades de paisajismo y servici"
+ },
+ {
+   "value": "8211",
+   "label": "Actividades combinadas de servicios"
+ },
+ {
+   "value": "8219",
+   "label": "Fotocopiado, preparacion de documen"
+ },
+ {
+   "value": "8220",
+   "label": "Actividades de centros de llamadas"
+ },
+ {
+   "value": "8230",
+   "label": "Organizacion de convenciones y even"
+ },
+ {
+   "value": "8291",
+   "label": "Actividades de agencias de cobranza"
+ },
+ {
+   "value": "8292",
+   "label": "Actividades de envase y empaque"
+ },
+ {
+   "value": "8299",
+   "label": "Otras actividades de servicio de ap"
+ },
+ {
+   "value": "8411",
+   "label": "Actividades legislativas de la admi"
+ },
+ {
+   "value": "8412",
+   "label": "Actividades ejecutivas de la admini"
+ },
+ {
+   "value": "8413",
+   "label": "Regulacion de las actividades de or"
+ },
+ {
+   "value": "8414",
+   "label": "Actividades reguladoras y facilitad"
+ },
+ {
+   "value": "8415",
+   "label": "Actividades de los otros organos de"
+ },
+ {
+   "value": "8421",
+   "label": "Relaciones exteriores"
+ },
+ {
+   "value": "8422",
+   "label": "Actividades de defensa"
+ },
+ {
+   "value": "8423",
+   "label": "Orden publico y actividades de segu"
+ },
+ {
+   "value": "8424",
+   "label": "Administracion de justicia"
+ },
+ {
+   "value": "8430",
+   "label": "Actividades de planes de Seguridad"
+ },
+ {
+   "value": "8511",
+   "label": "Educacion de la primera infancia"
+ },
+ {
+   "value": "8512",
+   "label": "Educacion preescolar"
+ },
+ {
+   "value": "8513",
+   "label": "Educacion basica primaria"
+ },
+ {
+   "value": "8521",
+   "label": "Educacion basica secundaria"
+ },
+ {
+   "value": "8522",
+   "label": "Educacion media academica"
+ },
+ {
+   "value": "8523",
+   "label": "Educacion media tecnica y de formac"
+ },
+ {
+   "value": "8530",
+   "label": "Establecimientos que combinan difer"
+ },
+ {
+   "value": "8541",
+   "label": "Educacion tecnica profesional"
+ },
+ {
+   "value": "8542",
+   "label": "Educacion tecnologica"
+ },
+ {
+   "value": "8543",
+   "label": "Educacion de instituciones universi"
+ },
+ {
+   "value": "8544",
+   "label": "Educacion de universidades"
+ },
+ {
+   "value": "8551",
+   "label": "Formacion academica no formal"
+ },
+ {
+   "value": "8552",
+   "label": "Ense¦anza deportiva y recreativa"
+ },
+ {
+   "value": "8553",
+   "label": "Ense¦anza cultural"
+ },
+ {
+   "value": "8559",
+   "label": "Otros tipos de educacion n.c.p."
+ },
+ {
+   "value": "8560",
+   "label": "Actividades de apoyo a la educacion"
+ },
+ {
+   "value": "8610",
+   "label": "Actividades de hospitales y clinica"
+ },
+ {
+   "value": "8621",
+   "label": "Actividades de la practica medica,"
+ },
+ {
+   "value": "8622",
+   "label": "Actividades de la practica odontolo"
+ },
+ {
+   "value": "8691",
+   "label": "Actividades de apoyo diagnostico"
+ },
+ {
+   "value": "8692",
+   "label": "Actividades de apoyo terapeutico"
+ },
+ {
+   "value": "8699",
+   "label": "Otras actividades de atencion de la"
+ },
+ {
+   "value": "8710",
+   "label": "Actividades de atencion residencial"
+ },
+ {
+   "value": "8720",
+   "label": "Actividades de atencion residencial"
+ },
+ {
+   "value": "8730",
+   "label": "Actividades de atencion en instituc"
+ },
+ {
+   "value": "8790",
+   "label": "Otras actividades de atencion en in"
+ },
+ {
+   "value": "8810",
+   "label": "Actividades de asistencia social si"
+ },
+ {
+   "value": "8890",
+   "label": "Otras actividades de asistencia soc"
+ },
+ {
+   "value": "9001",
+   "label": "Creacion literaria"
+ },
+ {
+   "value": "9002",
+   "label": "Creacion musical"
+ },
+ {
+   "value": "9003",
+   "label": "Creacion teatral"
+ },
+ {
+   "value": "9004",
+   "label": "Creacion audiovisual"
+ },
+ {
+   "value": "9005",
+   "label": "Artes plasticas y visuales"
+ },
+ {
+   "value": "9006",
+   "label": "Actividades teatrales"
+ },
+ {
+   "value": "9007",
+   "label": "Actividades de espectaculos musical"
+ },
+ {
+   "value": "9009",
+   "label": "Otras actividades de espectaculos e"
+ },
+ {
+   "value": "9101",
+   "label": "Actividades de Bibliotecas y archiv"
+ },
+ {
+   "value": "9102",
+   "label": "Actividades y funcionamiento de mus"
+ },
+ {
+   "value": "9103",
+   "label": "Actividades de jardines botanicos,"
+ },
+ {
+   "value": "9200",
+   "label": "Actividades de juegos de azar y apu"
+ },
+ {
+   "value": "9311",
+   "label": "Gestion de instalaciones deportivas"
+ },
+ {
+   "value": "9312",
+   "label": "Actividades de clubes deportivos"
+ },
+ {
+   "value": "9319",
+   "label": "Otras actividades deportivas"
+ },
+ {
+   "value": "9321",
+   "label": "Actividades de parques de atraccion"
+ },
+ {
+   "value": "9329",
+   "label": "Otras actividades recreativas y de"
+ },
+ {
+   "value": "9411",
+   "label": "Actividades de asociaciones empresa"
+ },
+ {
+   "value": "9412",
+   "label": "Actividades de asociaciones profesi"
+ },
+ {
+   "value": "9420",
+   "label": "Actividades de sindicatos de emplea"
+ },
+ {
+   "value": "9491",
+   "label": "Actividades de asociaciones religio"
+ },
+ {
+   "value": "9492",
+   "label": "Actividades de asociaciones politic"
+ },
+ {
+   "value": "9499",
+   "label": "Actividades de otras asociaciones n"
+ },
+ {
+   "value": "9511",
+   "label": "Mantenimiento y reparacion de compu"
+ },
+ {
+   "value": "9512",
+   "label": "Mantenimiento y reparacion de equip"
+ },
+ {
+   "value": "9521",
+   "label": "Mantenimiento y reparacion de apara"
+ },
+ {
+   "value": "9522",
+   "label": "Mantenimiento y reparacion de apara"
+ },
+ {
+   "value": "9523",
+   "label": "Reparacion de calzado y articulos d"
+ },
+ {
+   "value": "9524",
+   "label": "Reparacion de muebles y accesorios"
+ },
+ {
+   "value": "9529",
+   "label": "Mantenimiento y reparacion de otros"
+ },
+ {
+   "value": "9601",
+   "label": "Lavado y limpieza, incluso la limpi"
+ },
+ {
+   "value": "9602",
+   "label": "Peluqueria y otros tratamientos de"
+ },
+ {
+   "value": "9603",
+   "label": "Pompas funebres y actividades relac"
+ },
+ {
+   "value": "9609",
+   "label": "Otras actividades de servicios pers"
+ },
+ {
+   "value": "9700",
+   "label": "Actividades de los hogares individu"
+ },
+ {
+   "value": "9810",
+   "label": "Actividades no diferenciadas de los"
+ },
+ {
+   "value": "9820",
+   "label": "Actividades no diferenciadas de los"
+ },
+ {
+   "value": "9900",
+   "label": "Actividades de organizaciones y ent"
+ }
+]

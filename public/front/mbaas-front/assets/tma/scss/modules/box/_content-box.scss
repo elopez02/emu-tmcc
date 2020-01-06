@@ -1,0 +1,241 @@
+
+/**
+ * Modules - inner content box
+ */
+
+.contentBox
+{
+    width: 100%;
+    background-color: white;
+    border-radius: em(13);
+    height: 80vh;
+    padding: em(48) em(32) em(21) em(32);
+    overflow-y: scroll;
+    @include prefix((
+        box-sizing: border-box,
+    ), webkit moz o ms);
+    @include media(sm)
+    {
+        height: 100%;
+        padding: em(48) em(62);
+        position: relative;
+    }
+    @include media(md)
+    {
+        height: 80vh;
+        padding: em(48) em(62);
+        position: relative;
+    }
+    @include media(lg)
+    {
+        height: 100%;
+        padding: em(48);
+        position: relative;
+    }
+    @include media(xlg)
+    {
+        height: 100%;
+        padding: em(37) em(73);
+        position: relative;
+    }
+    &__alignment--centerCenter
+        {
+            @include prefix((
+                display: flex,
+                justify-content: center,
+                align-items: center,
+                flex-direction: column
+            ), webkit moz o ms);
+        }
+    &__confetti
+    {
+        position: absolute;
+        top: em(20);
+        right: em(5);
+        width: em(130);
+        height: em(65);
+        z-index: 5;
+        background-image: url(../img/el_confetti.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        @include media(sm)
+        {
+            top: em(25);
+            right: em(10);
+            width: em(140);
+            height: em(70);
+        }
+        @include media(md)
+        {
+            top: em(40);
+            right: em(15);
+            width: em(190);
+            height: em(85);
+        }
+        @include media(lg)
+        {
+            top: em(30);
+            right: em(5);
+            width: em(170);
+            height: em(70);
+        }
+        @include media(xlg)
+        {
+            top: em(30);
+            right: em(10);
+            width: em(190);
+            height: em(75);
+        }
+    }
+    &__header
+    {
+        font-size: 0.8em;
+        width: 100%;
+        border-bottom: 2px solid $color__background--main;
+        &__list
+        {
+            padding-left: em(21);
+        }
+    }
+    &__bodyContent
+    {
+        margin: em(40) 0 em(60) 0;
+    }
+    &__icon
+    {
+        margin: 0 0 em(5) 0;
+        font-size: em(65);
+        line-height: em(15);
+    }
+    &__cardImage
+    {
+        width: em(140);
+        min-height: em(30);
+        background-color: $color__background--main;
+        margin: em(10) auto em(28) auto;
+        border-radius: em(7);
+        overflow: hidden;
+        @include prefix((
+            display: flex,
+            justify-content: center,
+            align-items: center,
+            flex-direction: column
+        ), webkit moz o ms);
+        img
+        {
+            width: 100%;
+        }
+    }
+    &__videoContainer
+    {
+        background-color: $color__background--main;
+        position: relative;
+        padding-bottom: 50.25%;
+        padding-top: 20px;
+        height: 0;
+        overflow: hidden;
+        margin: em(15) auto;
+        @include prefix((
+            border-radius: em(10),
+        ), webkit moz o ms);
+        &--inner
+        {
+            @include media(lg)
+            {
+                display: none;
+            }
+            @include media(xlg)
+            {
+                display: none;
+            }
+        }
+        &--outer
+        {
+            display: none;
+            @include media(lg)
+            {
+                display: block;
+            }
+            @include media(xlg)
+            {
+                display: block;
+            }
+        }
+        @include media(sm)
+        {
+            padding-bottom: 51.25%;
+            padding-top: 23px;
+        }
+        @include media(md)
+        {
+            padding-bottom: 52.25%;
+            padding-top: 25px;
+        }
+        @include media(lg)
+        {
+            position: absolute;
+            width: 83%;
+            top: 0;
+            bottom: 0;
+            margin: auto 0;
+            right: 85%;
+            z-index: 30;
+            padding-bottom: 47.25%;
+            padding-top: 0;
+            @include prefix((
+                border-radius: em(15),
+            ), webkit moz o ms);
+        }
+        @include media(xlg)
+        {
+            position: absolute;
+            width: 78.5%;
+            top: 0;
+            bottom: 0;
+            margin: auto 0;
+            right: 89%;
+            z-index: 30;
+            padding-bottom: 45.25%;
+            padding-top: 0;
+            @include prefix((
+                border-radius: em(20),
+            ), webkit moz o ms);
+        }
+        iframe
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+
+/*
+ *  custom scrollbar
+ */
+
+.contentBox::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: none;
+    border-radius: 5px;
+    background-color: rgba(white, 0);
+    cursor: pointer !important;
+}
+
+.contentBox::-webkit-scrollbar
+{
+    width: 5px;
+    background-color: rgba(white, 0);
+    cursor: pointer !important;
+}
+
+.contentBox::-webkit-scrollbar-thumb
+{
+    border-radius: 5px;
+    -webkit-box-shadow: none;
+    background-color: $color__lightgray;
+    cursor: pointer !important;
+}

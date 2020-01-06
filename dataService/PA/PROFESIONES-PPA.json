@@ -1,0 +1,1094 @@
+[
+ {
+   "value": "0001",
+   "label": "ACTUARIO"
+ },
+ {
+   "value": "0002",
+   "label": "ADMINISTRACION AGROPECUARIA"
+ },
+ {
+   "value": "0003",
+   "label": "ADMINISTRACION BANCARIA"
+ },
+ {
+   "value": "0004",
+   "label": "ADMINISTRACION COMERCIAL Y FINANCIE"
+ },
+ {
+   "value": "0005",
+   "label": "ADMINISTRACION CONTABLE Y FINANZAS"
+ },
+ {
+   "value": "0006",
+   "label": "ADMINISTRACION DE AEROLINEAS"
+ },
+ {
+   "value": "0007",
+   "label": "ADMINISTRACION DE ARCHIVOS"
+ },
+ {
+   "value": "0008",
+   "label": "ADMINISTRACION DE EMPRESAS"
+ },
+ {
+   "value": "0009",
+   "label": "ADMINISTRACION DE EMPRESAS SISTEMAT"
+ },
+ {
+   "value": "0010",
+   "label": "ADMINISTRACION DE INFORMATICA"
+ },
+ {
+   "value": "0011",
+   "label": "ADMINISTRACION DE NEGOCIOS"
+ },
+ {
+   "value": "0012",
+   "label": "ADMINISTRACION DE OBRAS CIVILES"
+ },
+ {
+   "value": "0013",
+   "label": "ADMINISTRACION DE PERSONAL"
+ },
+ {
+   "value": "0014",
+   "label": "ADMINISTRACION DE REDES DE DATOS"
+ },
+ {
+   "value": "0015",
+   "label": "ADMINISTRACION DE SEGUROS"
+ },
+ {
+   "value": "0016",
+   "label": "ADMINISTRACION DE SISTEMAS"
+ },
+ {
+   "value": "0017",
+   "label": "ADMINISTRACION DE SISTEMAS DE INFOR"
+ },
+ {
+   "value": "0018",
+   "label": "ADMINISTRACION EDUCATIVA"
+ },
+ {
+   "value": "0019",
+   "label": "ADMINISTRACION EN COMERCIO EXTERIOR"
+ },
+ {
+   "value": "0020",
+   "label": "ADMINISTRACION EN SEGURIDAD"
+ },
+ {
+   "value": "0021",
+   "label": "ADMINISTRACION FINANCIERA"
+ },
+ {
+   "value": "0022",
+   "label": "ADMINISTRACION FINANCIERA Y DE SIST"
+ },
+ {
+   "value": "0023",
+   "label": "ADMINISTRACION HOTELERA Y DE TURISM"
+ },
+ {
+   "value": "0024",
+   "label": "ADMINISTRACION PUBLICA"
+ },
+ {
+   "value": "0025",
+   "label": "ADMINISTRACION TURISTICA"
+ },
+ {
+   "value": "0026",
+   "label": "ADMINISTRACION Y AUDITORIA DE SISTE"
+ },
+ {
+   "value": "0027",
+   "label": "ADMINISTRADOR FINCA RAIZ"
+ },
+ {
+   "value": "0028",
+   "label": "ADMINISTRADOR PORTUARIO"
+ },
+ {
+   "value": "0029",
+   "label": "AGENTES DE ADUANA"
+ },
+ {
+   "value": "0030",
+   "label": "AGREGADO MILITAR NAVAL AEREO"
+ },
+ {
+   "value": "0031",
+   "label": "AGROLOGIA"
+ },
+ {
+   "value": "0032",
+   "label": "AGRONOMIA"
+ },
+ {
+   "value": "0033",
+   "label": "AMA DE CASA"
+ },
+ {
+   "value": "0034",
+   "label": "ANALISIS CUANTITATIVOS"
+ },
+ {
+   "value": "0035",
+   "label": "ANALISIS Y PROGRAMACION DE COMPUTAD"
+ },
+ {
+   "value": "0036",
+   "label": "ANTROPOLOGO"
+ },
+ {
+   "value": "0037",
+   "label": "ARQUEOLOGO"
+ },
+ {
+   "value": "0038",
+   "label": "ARQUITECTURA Y DISENO"
+ },
+ {
+   "value": "0039",
+   "label": "ARTES GRAFICAS"
+ },
+ {
+   "value": "0040",
+   "label": "ASESOR"
+ },
+ {
+   "value": "0041",
+   "label": "ASESOR SEGUROS"
+ },
+ {
+   "value": "0042",
+   "label": "ASPECTOS GNALES DE SEGUROS"
+ },
+ {
+   "value": "0043",
+   "label": "AUDITORIA"
+ },
+ {
+   "value": "0044",
+   "label": "AUDITORIA DE ENTIDADES FINANCIERAS"
+ },
+ {
+   "value": "0045",
+   "label": "AUTOMATIZACION DE PROCESOS INDUSTRI"
+ },
+ {
+   "value": "0046",
+   "label": "AUXILIAR CONTABLE"
+ },
+ {
+   "value": "0047",
+   "label": "AUXILIAR DE ARCHIVO"
+ },
+ {
+   "value": "0048",
+   "label": "AUXILIAR DE SISTEMAS"
+ },
+ {
+   "value": "0049",
+   "label": "AUXILIAR DE VUELO"
+ },
+ {
+   "value": "0050",
+   "label": "AYUDA AUDIO-VISUALES"
+ },
+ {
+   "value": "0051",
+   "label": "BACTERIOLOGIA"
+ },
+ {
+   "value": "0052",
+   "label": "BIBLIOTECOLOGIA Y ARCHIVISTICA"
+ },
+ {
+   "value": "0053",
+   "label": "BIOLOGIA"
+ },
+ {
+   "value": "0054",
+   "label": "BIOQUIMICA"
+ },
+ {
+   "value": "0055",
+   "label": "CARRERA MILITAR"
+ },
+ {
+   "value": "0056",
+   "label": "CARTOGRAFO"
+ },
+ {
+   "value": "0057",
+   "label": "CIENCIAS ACTUARIALES"
+ },
+ {
+   "value": "0058",
+   "label": "CIENCIAS ADMINISTRATIVAS"
+ },
+ {
+   "value": "0059",
+   "label": "CIENCIAS POLITICAS"
+ },
+ {
+   "value": "0060",
+   "label": "CINE Y FOTOGRAFIA"
+ },
+ {
+   "value": "0061",
+   "label": "CIRCULOS DE CALIDAD"
+ },
+ {
+   "value": "0062",
+   "label": "COMERCIANTE"
+ },
+ {
+   "value": "0063",
+   "label": "COMERCIO EXTERIOR"
+ },
+ {
+   "value": "0064",
+   "label": "COMERCIO INTERNACIONAL"
+ },
+ {
+   "value": "0065",
+   "label": "COMUNICACION EMPRESAS"
+ },
+ {
+   "value": "0066",
+   "label": "COMUNICACION SOCIAL"
+ },
+ {
+   "value": "0067",
+   "label": "CONDUCTOR"
+ },
+ {
+   "value": "0068",
+   "label": "CONTADURIA"
+ },
+ {
+   "value": "0069",
+   "label": "CONTADURIA SISTEMATIZADA"
+ },
+ {
+   "value": "0070",
+   "label": "CONTRATISTA - CONSTRUCCION"
+ },
+ {
+   "value": "0071",
+   "label": "COOPERATIVISMO"
+ },
+ {
+   "value": "0072",
+   "label": "CORROSION"
+ },
+ {
+   "value": "0073",
+   "label": "COSTOS Y AUDITORIA"
+ },
+ {
+   "value": "0074",
+   "label": "COSTOS Y ESTADISTICAS"
+ },
+ {
+   "value": "0075",
+   "label": "CREDITO ESTADOS FINANCIEROS"
+ },
+ {
+   "value": "0076",
+   "label": "CURSO BASICO DE REASEGUROS"
+ },
+ {
+   "value": "0077",
+   "label": "CURSO DE SISTEMAS"
+ },
+ {
+   "value": "0078",
+   "label": "DELINEANTE DE ARQUITECTURA Y DISENO"
+ },
+ {
+   "value": "0079",
+   "label": "DERECHO"
+ },
+ {
+   "value": "0080",
+   "label": "DESARROLLO EMPRESARIAL"
+ },
+ {
+   "value": "0081",
+   "label": "DIBUJO ARQUITECTONICO"
+ },
+ {
+   "value": "0082",
+   "label": "DIBUJO PUBLICITARIO Y COMUNICACION"
+ },
+ {
+   "value": "0083",
+   "label": "DIBUJO TECNICO"
+ },
+ {
+   "value": "0084",
+   "label": "DIPLOMACIA"
+ },
+ {
+   "value": "0085",
+   "label": "DIPLOMADO EN AUDITORIA DE SERVICIO"
+ },
+ {
+   "value": "0086",
+   "label": "DIPLOMADO EN GERENCIA DE INSTITUCIO"
+ },
+ {
+   "value": "0087",
+   "label": "DIRECCION Y GUION PARA CINE"
+ },
+ {
+   "value": "0088",
+   "label": "DISENO DE INTERIORES"
+ },
+ {
+   "value": "0089",
+   "label": "DISENO DE MODA Y TEXTILES"
+ },
+ {
+   "value": "0090",
+   "label": "DISENO GRAFICO"
+ },
+ {
+   "value": "0091",
+   "label": "DISENO DE BASES DE DATOS"
+ },
+ {
+   "value": "0092",
+   "label": "DISENO DE MAQUINAS"
+ },
+ {
+   "value": "0093",
+   "label": "DISENO DE MODAS"
+ },
+ {
+   "value": "0094",
+   "label": "DISENO INDUSTRIAL"
+ },
+ {
+   "value": "0095",
+   "label": "DOCENCIA EN MECANICA INDUSTRIAL"
+ },
+ {
+   "value": "0096",
+   "label": "ECONOMIA"
+ },
+ {
+   "value": "0097",
+   "label": "ECONOMIA EN COMERCIO EXTERIOR"
+ },
+ {
+   "value": "0098",
+   "label": "EDUCACION ESPECIAL"
+ },
+ {
+   "value": "0099",
+   "label": "EDUCACION FISICA"
+ },
+ {
+   "value": "0100",
+   "label": "EFECTIVIDAD GERENCIAL"
+ },
+ {
+   "value": "0101",
+   "label": "ELECTROMEDICINA"
+ },
+ {
+   "value": "0102",
+   "label": "EMPLEADO"
+ },
+ {
+   "value": "0103",
+   "label": "ENFERMERIA"
+ },
+ {
+   "value": "0104",
+   "label": "ESCUELA DE SEGUROS"
+ },
+ {
+   "value": "0105",
+   "label": "ESPECIALIZ EN RIESGOS PROFESIONALES"
+ },
+ {
+   "value": "0106",
+   "label": "ESPECIALIZACION EN CALIDAD"
+ },
+ {
+   "value": "0107",
+   "label": "ESPECIALIZACION EN MERCADOS"
+ },
+ {
+   "value": "0108",
+   "label": "ESPECIALIZACION EN TELEINFORMATICA"
+ },
+ {
+   "value": "0109",
+   "label": "ESPECIALIZACION PLANEACION ECONOMIC"
+ },
+ {
+   "value": "0110",
+   "label": "ESTILISTA"
+ },
+ {
+   "value": "0111",
+   "label": "ESTRATEGIA EMPRESARIAL"
+ },
+ {
+   "value": "0112",
+   "label": "ESTUDIANTE"
+ },
+ {
+   "value": "0113",
+   "label": "EVALUACION DE PROYECTOS"
+ },
+ {
+   "value": "0114",
+   "label": "FILOLOGIA E IDIOMAS"
+ },
+ {
+   "value": "0115",
+   "label": "FILOSOFIA Y LETRAS"
+ },
+ {
+   "value": "0116",
+   "label": "FINANZAS"
+ },
+ {
+   "value": "0117",
+   "label": "FISIOTERAPIA"
+ },
+ {
+   "value": "0118",
+   "label": "FONOAUDIOLOGIA"
+ },
+ {
+   "value": "0119",
+   "label": "FOTOGRAFIA Y AUDIOVISUALES"
+ },
+ {
+   "value": "0120",
+   "label": "GEMOLOGO"
+ },
+ {
+   "value": "0121",
+   "label": "GEOFISICO"
+ },
+ {
+   "value": "0122",
+   "label": "GEOLOGO"
+ },
+ {
+   "value": "0123",
+   "label": "GERENCIA DE MERCADEO"
+ },
+ {
+   "value": "0124",
+   "label": "GERENCIA DE PROYECTOS"
+ },
+ {
+   "value": "0125",
+   "label": "GERENCIA DE RECURSOS HUMANOS"
+ },
+ {
+   "value": "0126",
+   "label": "GERENCIA DE SEGUROS"
+ },
+ {
+   "value": "0127",
+   "label": "GERENCIA DE VENTAS"
+ },
+ {
+   "value": "0128",
+   "label": "GERENCIA ESTRATEGICA DE INFORMATICA"
+ },
+ {
+   "value": "0129",
+   "label": "GERENCIA FINANCIERA"
+ },
+ {
+   "value": "0130",
+   "label": "GERENCIA SOBRE FINANZAS"
+ },
+ {
+   "value": "0131",
+   "label": "GERENCIA SOCIAL"
+ },
+ {
+   "value": "0132",
+   "label": "GERENCIA Y AUDITORIA SERVICIOS DE L"
+ },
+ {
+   "value": "0133",
+   "label": "GESTION BANCARIA"
+ },
+ {
+   "value": "0134",
+   "label": "GESTION DE DISENO INDUSTRIAL"
+ },
+ {
+   "value": "0135",
+   "label": "GESTION HUMANA"
+ },
+ {
+   "value": "0136",
+   "label": "GUIA TURISTICA"
+ },
+ {
+   "value": "0137",
+   "label": "HIGIENE Y SEGURIDAD INDUSTRIAL"
+ },
+ {
+   "value": "0138",
+   "label": "HOGAR"
+ },
+ {
+   "value": "0139",
+   "label": "IMPRENTA"
+ },
+ {
+   "value": "0140",
+   "label": "INDEPENDIENTE"
+ },
+ {
+   "value": "0141",
+   "label": "INDUSTRIA PRIVADA"
+ },
+ {
+   "value": "0142",
+   "label": "INFORMATICA"
+ },
+ {
+   "value": "0143",
+   "label": "INGENIERIA ADMINISTRATIVA"
+ },
+ {
+   "value": "0144",
+   "label": "INGENIERIA AGROINDUSTRIAL"
+ },
+ {
+   "value": "0145",
+   "label": "INGENIERIA AGRONOMA"
+ },
+ {
+   "value": "0146",
+   "label": "INGENIERIA AUTOMOTRIZ"
+ },
+ {
+   "value": "0147",
+   "label": "INGENIERIA CIVIL"
+ },
+ {
+   "value": "0148",
+   "label": "INGENIERIA DE ALIMENTOS"
+ },
+ {
+   "value": "0149",
+   "label": "INGENIERIA DE MERCADOS"
+ },
+ {
+   "value": "0150",
+   "label": "INGENIERIA DE MINAS"
+ },
+ {
+   "value": "0151",
+   "label": "INGENIERIA DE PETROLEOS"
+ },
+ {
+   "value": "0152",
+   "label": "INGENIERIA DE SEGUROS"
+ },
+ {
+   "value": "0153",
+   "label": "INGENIERIA DE SISTEMAS"
+ },
+ {
+   "value": "0154",
+   "label": "INGENIERIA ELECTRICA"
+ },
+ {
+   "value": "0155",
+   "label": "INGENIERIA ELECTRONICA"
+ },
+ {
+   "value": "0156",
+   "label": "INGENIERIA INDUSTRIAL"
+ },
+ {
+   "value": "0157",
+   "label": "INGENIERIA MECANICA"
+ },
+ {
+   "value": "0158",
+   "label": "INGENIERIA MILITAR"
+ },
+ {
+   "value": "0159",
+   "label": "INGENIERIA PRODUCTOS"
+ },
+ {
+   "value": "0160",
+   "label": "INGENIERIA QUIMICA"
+ },
+ {
+   "value": "0161",
+   "label": "INGENIERO GEOGRAFO"
+ },
+ {
+   "value": "0162",
+   "label": "INGENIERO SANITARIO"
+ },
+ {
+   "value": "0163",
+   "label": "INSTRUMENTACION QUIRURGICA"
+ },
+ {
+   "value": "0164",
+   "label": "JURISPRUDENCIA"
+ },
+ {
+   "value": "0165",
+   "label": "LA INDUSTRIA"
+ },
+ {
+   "value": "0166",
+   "label": "LEGISLACION FINANCIERA"
+ },
+ {
+   "value": "0167",
+   "label": "LEGISLACION LABORAL Y COMERCIAL"
+ },
+ {
+   "value": "0168",
+   "label": "LICENCIADO EN COMERCIO Y CONTADURIA"
+ },
+ {
+   "value": "0169",
+   "label": "LICENCIADO EN EDUCACION"
+ },
+ {
+   "value": "0170",
+   "label": "LICENCIADO EN IDIOMAS"
+ },
+ {
+   "value": "0171",
+   "label": "LICENCIADO EN MATEMATICAS"
+ },
+ {
+   "value": "0172",
+   "label": "LICENCIADO EN PSICOPEDAGOGIA"
+ },
+ {
+   "value": "0173",
+   "label": "LICENCIATURA EN ADMINISTRACION EDUC"
+ },
+ {
+   "value": "0174",
+   "label": "LICENCIATURA EN CIENCIAS AGROPECUAR"
+ },
+ {
+   "value": "0175",
+   "label": "LICENCIATURA EN EDUCACION ESPECIAL"
+ },
+ {
+   "value": "0176",
+   "label": "LICENCIATURA EN FISICA"
+ },
+ {
+   "value": "0177",
+   "label": "LICENCIATURA ESPANOL Y LITERATURA"
+ },
+ {
+   "value": "0178",
+   "label": "LICENCIATURA MECANICA INDUSTRIAL Y"
+ },
+ {
+   "value": "0179",
+   "label": "LITERATURA Y LINGUISTICA"
+ },
+ {
+   "value": "0180",
+   "label": "LOCUCION Y PRODUCTOR DE RADIO Y TEL"
+ },
+ {
+   "value": "0181",
+   "label": "MANEJO COMPUTADOR"
+ },
+ {
+   "value": "0182",
+   "label": "MECANICA DENTAL"
+ },
+ {
+   "value": "0183",
+   "label": "MECANOGRAFIA"
+ },
+ {
+   "value": "0184",
+   "label": "MEDICINA"
+ },
+ {
+   "value": "0185",
+   "label": "MERCADEO"
+ },
+ {
+   "value": "0186",
+   "label": "MERCADOLOGIA"
+ },
+ {
+   "value": "0187",
+   "label": "MERCADOTECNIA"
+ },
+ {
+   "value": "0188",
+   "label": "METODOLOGIA GENERAL"
+ },
+ {
+   "value": "0189",
+   "label": "MICROEMPRESAS"
+ },
+ {
+   "value": "0190",
+   "label": "MUSICA"
+ },
+ {
+   "value": "0191",
+   "label": "NO TIENE PROFESION"
+ },
+ {
+   "value": "0192",
+   "label": "NUTRICIONISTA"
+ },
+ {
+   "value": "0193",
+   "label": "ODONTOLOGIA"
+ },
+ {
+   "value": "0194",
+   "label": "OPERACION DE COMPUTADORES"
+ },
+ {
+   "value": "0195",
+   "label": "OPTOMETRA"
+ },
+ {
+   "value": "0196",
+   "label": "ORGANIZACION ADTIVA DE LA AGENCIA C"
+ },
+ {
+   "value": "0197",
+   "label": "OTRAS"
+ },
+ {
+   "value": "0198",
+   "label": "PAISAJISTA"
+ },
+ {
+   "value": "0199",
+   "label": "PENSIONADO"
+ },
+ {
+   "value": "0200",
+   "label": "PERIODISMO"
+ },
+ {
+   "value": "0201",
+   "label": "PILOTO"
+ },
+ {
+   "value": "0202",
+   "label": "PLANEACION ESTRATEGICA"
+ },
+ {
+   "value": "0203",
+   "label": "PRENSA ESCRITA Y TELEVISION"
+ },
+ {
+   "value": "0204",
+   "label": "PROGRAMA AVANZADO DIRECCION EMPRESA"
+ },
+ {
+   "value": "0205",
+   "label": "PROGRAMA DE ALTA GERENCIA"
+ },
+ {
+   "value": "0206",
+   "label": "PROGRAMA DE DESARROLLO DIRECTIVO"
+ },
+ {
+   "value": "0207",
+   "label": "PROGRAMACION"
+ },
+ {
+   "value": "0208",
+   "label": "PSICOLOGIA"
+ },
+ {
+   "value": "0209",
+   "label": "PSIQUIATRIA"
+ },
+ {
+   "value": "0210",
+   "label": "PUBLICISTA"
+ },
+ {
+   "value": "0211",
+   "label": "QUIMICA"
+ },
+ {
+   "value": "0212",
+   "label": "REFORMA LABORAL LEY 50 DE 1990"
+ },
+ {
+   "value": "0213",
+   "label": "RELACIONES INTERNACIONALES"
+ },
+ {
+   "value": "0214",
+   "label": "RELIGIOSO"
+ },
+ {
+   "value": "0215",
+   "label": "REVISORIA FISCAL Y AUDITORIA EXTERN"
+ },
+ {
+   "value": "0216",
+   "label": "SALUD OCUPACIONAL"
+ },
+ {
+   "value": "0217",
+   "label": "SECRETARIADO"
+ },
+ {
+   "value": "0218",
+   "label": "SEGURIDAD INTEGRAL EN LA EMPRESA"
+ },
+ {
+   "value": "0219",
+   "label": "SEGURIDAD SOCIAL"
+ },
+ {
+   "value": "0220",
+   "label": "SEMINARIO VENTAS"
+ },
+ {
+   "value": "0221",
+   "label": "SERVICIO AL CLIENTE"
+ },
+ {
+   "value": "0222",
+   "label": "SERVIDOR PUBLICO"
+ },
+ {
+   "value": "0223",
+   "label": "SISTEMAS"
+ },
+ {
+   "value": "0224",
+   "label": "SOCIO / RENTISTA DE CAPITAL"
+ },
+ {
+   "value": "0225",
+   "label": "SOCIOLOGIA"
+ },
+ {
+   "value": "0226",
+   "label": "SUMINISTROS Y FARMACIA"
+ },
+ {
+   "value": "0227",
+   "label": "SUPERVISION ESCOLAR"
+ },
+ {
+   "value": "0228",
+   "label": "SUPERVISION INDUSTRIAL"
+ },
+ {
+   "value": "0229",
+   "label": "TECNICA PECUARIA"
+ },
+ {
+   "value": "0230",
+   "label": "TECNICAS DE LA EDUCACION"
+ },
+ {
+   "value": "0231",
+   "label": "TECNICAS DE TRADUCCION"
+ },
+ {
+   "value": "0232",
+   "label": "TECNICO ELECTRICISTA DE INSTALACION"
+ },
+ {
+   "value": "0233",
+   "label": "TECNICO ELECTRONICO"
+ },
+ {
+   "value": "0234",
+   "label": "TECNICO EN CONTABILIDAD Y FINANZAS"
+ },
+ {
+   "value": "0235",
+   "label": "TECNICO EN MESA Y BAR"
+ },
+ {
+   "value": "0236",
+   "label": "TECNICO EN NEGOCIOS INTERNACIONALES"
+ },
+ {
+   "value": "0237",
+   "label": "TECNICO EN PRODUCCION DE CONFECCION"
+ },
+ {
+   "value": "0238",
+   "label": "TECNICO EN RADIOLOGIA"
+ },
+ {
+   "value": "0239",
+   "label": "TECNICO EN RELACIONES INDUSTRIALES"
+ },
+ {
+   "value": "0240",
+   "label": "TECNICO EN SEGUROS"
+ },
+ {
+   "value": "0241",
+   "label": "TECNICO MECANICA INDUSTRIAL"
+ },
+ {
+   "value": "0242",
+   "label": "TECNOLIGIA EN SISTEMATIZACION DE DA"
+ },
+ {
+   "value": "0243",
+   "label": "TECNOLOGIA ADMINISTRACION INDUSTRIA"
+ },
+ {
+   "value": "0244",
+   "label": "TECNOLOGIA DE ALIMENTOS"
+ },
+ {
+   "value": "0245",
+   "label": "TECNOLOGIA EN ADMINISTRACION BANCAR"
+ },
+ {
+   "value": "0246",
+   "label": "TECNOLOGIA EN ADMINISTRACION COMERC"
+ },
+ {
+   "value": "0247",
+   "label": "TECNOLOGIA EN ADMINISTRACION DE EMP"
+ },
+ {
+   "value": "0248",
+   "label": "TECNOLOGIA EN ADMINISTRACION DE SEG"
+ },
+ {
+   "value": "0249",
+   "label": "TECNOLOGIA EN ADMINISTRACION DE SIS"
+ },
+ {
+   "value": "0250",
+   "label": "TECNOLOGIA EN ADMINISTRACION FINANC"
+ },
+ {
+   "value": "0251",
+   "label": "TECNOLOGIA EN ALIMENTOS"
+ },
+ {
+   "value": "0252",
+   "label": "TECNOLOGIA EN CONTABILIDAD"
+ },
+ {
+   "value": "0253",
+   "label": "TECNOLOGIA EN MECANICA"
+ },
+ {
+   "value": "0254",
+   "label": "TECNOLOGIA EN MECANICA AUTOMOTRIZ"
+ },
+ {
+   "value": "0255",
+   "label": "TECNOLOGIA EN MERCADEO Y PUBLICIDAD"
+ },
+ {
+   "value": "0256",
+   "label": "TECNOLOGIA EN MERCADEO Y VENTAS"
+ },
+ {
+   "value": "0257",
+   "label": "TECNOLOGIA EN MERCADOTECNIA"
+ },
+ {
+   "value": "0258",
+   "label": "TECNOLOGIA INDUSTRIAL"
+ },
+ {
+   "value": "0259",
+   "label": "TECNOLOGO EN GERONTOLOGIA"
+ },
+ {
+   "value": "0260",
+   "label": "TECNOLOGO QUIMICA INDUSTRIAL"
+ },
+ {
+   "value": "0261",
+   "label": "TERAPIA DEL LENGUAJE Y LA AUDICION"
+ },
+ {
+   "value": "0262",
+   "label": "TERAPIA OCUPACIONAL"
+ },
+ {
+   "value": "0263",
+   "label": "TOPOGRAFIA"
+ },
+ {
+   "value": "0264",
+   "label": "TRABAJO SOCIAL"
+ },
+ {
+   "value": "0265",
+   "label": "TRADUCCION SIMULTANEA"
+ },
+ {
+   "value": "0266",
+   "label": "TRADUCCION Y TURISMO"
+ },
+ {
+   "value": "0267",
+   "label": "TRANSPORTE"
+ },
+ {
+   "value": "0268",
+   "label": "TRATAMIENTO DE AGUAS"
+ },
+ {
+   "value": "0269",
+   "label": "VENDEDOR"
+ },
+ {
+   "value": "0270",
+   "label": "VENTAS Y MERCADEO"
+ },
+ {
+   "value": "0271",
+   "label": "VETERINARIA"
+ },
+ {
+   "value": "0272",
+   "label": "VISITADOR MEDICO"
+ },
+ {
+   "value": "0273",
+   "label": "ZOOTECNIA"
+ }
+]

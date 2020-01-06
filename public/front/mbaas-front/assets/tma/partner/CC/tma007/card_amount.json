@@ -1,0 +1,25 @@
+{
+  "salto": 500000,
+  "tarjetas": [
+    {
+      "minimo": "-Infinity",
+      "maximo": 500000,
+      "tarjeta": "DR Visa Signature Avianca.svg"
+    },
+    {
+      "minimo": 500000,
+      "maximo": 3000000,
+      "tarjeta": "U5 VISA CLASICA AVIANCA LIFEMILES.svg"
+    },
+    {
+      "minimo": 3000000,
+      "maximo": 6000000,
+      "tarjeta": "R8 VISA AVIANCA ORO.svg"
+    },
+    {
+      "minimo": 6000000,
+      "maximo": "Infinity",
+      "tarjeta": "DS VISA PLATINUM AVIANCA.svg"
+    }
+  ]
+}

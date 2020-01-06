@@ -1,0 +1,98 @@
+
+/**
+* Modules - forms - Primary button
+*/
+
+.button
+{
+	min-width: em(200);
+	height: em(44);
+	margin: em(28) auto;
+	border-radius: em(24);
+	font-size: 0.9em;
+	border: none;
+	padding: 0 em(23);
+	@include prefix((
+        box-sizing: border-box,
+        display: flex,
+        justify-content: center,
+        align-items: center,
+        box-shadow: none,
+        outline: none,
+        transition: ease all 0.3s,
+    ), webkit moz o ms);
+    &:disabled
+    {
+    	cursor: no-drop;
+    	@include prefix((
+	        opacity: 0.3,
+	    ), webkit moz o ms);	
+    }
+    &__label
+    {
+    	font-weight: 600;
+    	line-height: 0;
+    	padding: 0;
+    	margin: 0;
+    	&--light
+    	{
+    		color: white;
+    	}
+        &--gray
+        {
+            color: $color__lightgray;
+            font-weight: 500;
+        }
+        &--red
+        {
+            color: $color__primary;
+            font-weight: 500;
+        }
+    }
+    &--primary
+    {
+    	background-color: $color__primary
+    }
+    &--linkType
+    {
+        background-color: transparent !important;
+        margin: em(10) auto;
+        height: auto;
+        font-size: 0.7em;
+        cursor: pointer;
+    }
+    &--iconType
+    {
+        background-color: transparent !important;
+        margin: 0 0 0 em(16);
+        height: em(20);
+        padding: 0;
+        min-width: em(20) !important;
+        width: em(20) !important;
+        border-radius: 0;
+        font-size: 1.4em !important;
+        @include prefix((
+            justify-content: flex-end
+        ), webkit moz o ms);
+    }
+    @include media(sm)
+    {
+        font-size: 1em;
+        min-width: em(250);
+    }
+    @include media(md)
+    {
+        font-size: 1em;
+        min-width: em(250);
+    }
+    @include media(lg)
+    {
+        font-size: 1em;
+        min-width: em(250);
+    }
+    @include media(xlg)
+    {
+        font-size: 1em;
+        min-width: em(250);
+    }
+}

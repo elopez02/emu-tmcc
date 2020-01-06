@@ -1,0 +1,14 @@
+[
+ {
+   "value": "1",
+   "label": "Asalariado"
+ },
+ {
+   "value": "2",
+   "label": "Comerciante (no aplica para crédito) se rechazaría si el cliente lo elige"
+ },
+ {
+   "value": "3",
+   "label": "Profesional IND"
+ }
+]

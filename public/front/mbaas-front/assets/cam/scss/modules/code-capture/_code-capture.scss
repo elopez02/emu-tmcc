@@ -1,0 +1,73 @@
+.containerCode{
+  width: 60%;
+  margin: 1rem auto 0 auto;
+  @include media(sm){
+    width: 320px;
+  }
+  @include media(md){
+    width: 320px;
+  }
+  @include media(lg){
+    width: 330px;
+  }
+  img{
+    width: 100%;
+  }
+}
+
+.codeCapture {
+    padding: 1em;
+    border: 0.2em solid #ce102c;
+    position: relative;
+    margin: 0;
+  
+    &::before, &::after {
+      content: '';
+      display: block;
+      position: absolute;
+      background: #ffffff;
+      @include media(lg){
+        background: #fcfcfc;
+      }
+    }
+    
+    &::before {
+      top: -0.30em; // let it overlap a bit to prevent thin line which could appear during scaling in some browsers etc.
+      bottom: -0.30em;
+      left: 1em;
+      right: 1em;
+    }
+    
+    &::after{
+      left: -0.30em;
+      right: -0.30em;
+      top: 1em;
+      bottom: 1em;
+    }
+    
+    // you need this to move the text in front of the ::after overlay
+    .heading {
+      position: relative;
+      z-index: 1;
+    }
+  }
+  
+  
+  
+  ///////////////////////////
+  //   Presentation only   //
+  ///////////////////////////
+  
+  body {
+    min-height: 100vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sample-heading.explanation {
+    &::before, &::after {
+      background: rgba(#f0f, .5);
+    }
+  }

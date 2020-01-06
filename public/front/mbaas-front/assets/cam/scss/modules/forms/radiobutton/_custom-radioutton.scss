@@ -1,0 +1,103 @@
+
+/**
+* Modules - forms - radiobutton
+*/
+
+/* Customize the label (the radiobuttonContainer) */
+.radiobuttonContainer {
+	position: relative;
+	user-select: none;
+	margin: 0 auto em(32) auto;
+	font-size: 13px;
+	font-weight: 200;
+	line-height: normal;
+	background-color: transparent;
+	width: 100%;
+	@include prefix((
+		appearance: none,
+		box-sizing: border-box,
+		display: flex,
+		justify-content: space-between,		
+		align-items: center,
+		user-select: none
+	), webkit moz o ms);
+	&--naked
+	{
+		margin: 0 0 0 em(20);
+		width: auto !important;
+		@include prefix((
+			justify-content: flex-start !important,
+		), webkit moz o ms);
+	}
+	&__label
+	{
+		background-color: $color__background--main;
+		height: em(53);
+		width: 100%;
+		padding: em(18);
+		font-weight: 600;
+		@include prefix((
+			box-sizing: border-box,
+			display: flex,
+			flex: 1,
+			justify-content: flex-start,		
+			align-items: center
+		), webkit moz o ms);
+		&--naked
+		{
+			background-color: transparent;
+			height: em(35);
+			padding: em(10);
+		}
+	}
+}
+
+/* Hide the browser's default checkbox */
+input[type="radio"] {
+	position: absolute;
+	opacity: 0;
+	z-index: 10;
+	cursor: pointer;
+	height: 100%;
+	width: 20px;
+	top: 0;
+	right: 0;
+}
+
+/* Create a custom checkbox *//* Create a custom radio button */
+.radiobtn {
+	position: relative;
+	top: 0;
+	left: 0;
+	height: 20px;
+	width: 20px;
+	background-color: transparent !important;
+	border-radius: 50%;
+	border: solid 2px rgba($color__primary, 0.5);
+	margin-left: em(15);
+  }
+  
+  /* Create the indicator (the dot/circle - hidden when not checked) */
+  .radiobtn:after {
+	content: "";
+	position: absolute;
+	display: none;
+  }
+  
+  /* Show the indicator (dot/circle) when checked */
+  .container input:checked ~ .radiobtn:after {
+	display: block;
+  }
+  
+  /* Style the indicator (dot/circle) */
+  .container .radiobtn:after {
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto auto;
+	width: 14px;
+	height: 14px;
+	border-radius: 50%;
+	background: $color__primary;
+  }

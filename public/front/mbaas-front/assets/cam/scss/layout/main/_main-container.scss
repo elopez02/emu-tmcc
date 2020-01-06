@@ -1,0 +1,32 @@
+
+/**
+ * Layout - Main container
+ */
+
+.container
+{
+    width: 100%;
+    background-color: $color__background--main;
+    position: relative;
+    padding: em(32) em(20);
+    min-height: 100vh;
+    font-family: $font__family;
+    @include prefix((
+        box-sizing: border-box,
+        display: flex,
+        justify-content: flex-start,
+        align-items: center,
+        flex-direction: column, 
+    ), webkit moz o ms);
+    &--menu
+    {
+        @include media(lg){
+            width: 50%;
+            margin: 0 auto;
+        }
+        @include media(xlg){
+            width: 50%;
+            margin: 0 auto;
+        }
+    }    
+}

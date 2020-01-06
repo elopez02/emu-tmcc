@@ -1,0 +1,26 @@
+[
+ {
+   "value": "C",
+   "label": "CASADO(A)"
+ },
+ {
+   "value": "D",
+   "label": "DIVORCIADO(A)"
+ },
+ {
+   "value": "L",
+   "label": "SEPARADO"
+ },
+ {
+   "value": "S",
+   "label": "SOLTERO(A)"
+ },
+ {
+   "value": "U",
+   "label": "UNION LIBRE"
+ },
+ {
+   "value": "V",
+   "label": "VIUDO(A)"
+ }
+]

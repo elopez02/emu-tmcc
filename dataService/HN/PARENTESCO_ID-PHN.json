@@ -1,0 +1,150 @@
+[
+ {
+   "value": "001",
+   "label": "HERMANA"
+ },
+ {
+   "value": "002",
+   "label": "HERMANO"
+ },
+ {
+   "value": "003",
+   "label": "TIA"
+ },
+ {
+   "value": "004",
+   "label": "TIO"
+ },
+ {
+   "value": "005",
+   "label": "ABUELO"
+ },
+ {
+   "value": "006",
+   "label": "ABUELA"
+ },
+ {
+   "value": "007",
+   "label": "PAPA"
+ },
+ {
+   "value": "008",
+   "label": "MAMA"
+ },
+ {
+   "value": "009",
+   "label": "HIJO"
+ },
+ {
+   "value": "010",
+   "label": "HIJA"
+ },
+ {
+   "value": "011",
+   "label": "SOBRINA"
+ },
+ {
+   "value": "012",
+   "label": "SOBRINO"
+ },
+ {
+   "value": "013",
+   "label": "OTROS"
+ },
+ {
+   "value": "014",
+   "label": "ESPOSA"
+ },
+ {
+   "value": "015",
+   "label": "ESPOSO"
+ },
+ {
+   "value": "016",
+   "label": "AMIGO"
+ },
+ {
+   "value": "017",
+   "label": "NOVIO"
+ },
+ {
+   "value": "018",
+   "label": "NOVIA"
+ },
+ {
+   "value": "019",
+   "label": "SUEGRA"
+ },
+ {
+   "value": "020",
+   "label": "CUÑADO"
+ },
+ {
+   "value": "021",
+   "label": "CUÑADA"
+ },
+ {
+   "value": "022",
+   "label": "HIJASTRO"
+ },
+ {
+   "value": "023",
+   "label": "HIJASTRA"
+ },
+ {
+   "value": "024",
+   "label": "NIETO"
+ },
+ {
+   "value": "025",
+   "label": "NIETA"
+ },
+ {
+   "value": "026",
+   "label": "COMPAÑERO HOGAR"
+ },
+ {
+   "value": "027",
+   "label": "COMPAÑERA HOGAR"
+ },
+ {
+   "value": "028",
+   "label": "AMIGA"
+ },
+ {
+   "value": "029",
+   "label": "SUEGRO"
+ },
+ {
+   "value": "030",
+   "label": "YERNO"
+ },
+ {
+   "value": "031",
+   "label": "NUERA"
+ },
+ {
+   "value": "032",
+   "label": "BISABUELO"
+ },
+ {
+   "value": "033",
+   "label": "BISABUELA"
+ },
+ {
+   "value": "034",
+   "label": "BISNIETO"
+ },
+ {
+   "value": "035",
+   "label": "BISNIETA"
+ },
+ {
+   "value": "036",
+   "label": "PRIMO"
+ },
+ {
+   "value": "037",
+   "label": "PRIMA"
+ }
+]

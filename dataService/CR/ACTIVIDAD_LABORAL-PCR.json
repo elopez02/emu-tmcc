@@ -1,0 +1,14 @@
+[
+ {
+   "value": "E",
+   "label": "Asalariado"
+ },
+ {
+   "value": "I",
+   "label": "Independiente"
+ },
+ {
+   "value": "L",
+   "label": "Libranza"
+ }
+]

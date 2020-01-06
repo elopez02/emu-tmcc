@@ -1,0 +1,152 @@
+[
+ {
+   "FAECONCEP": "ACT",
+   "FAECORREL": "1",
+   "FAERANINI": "0",
+   "FAERANFIN": "1000000"
+ },
+ {
+   "FAECONCEP": "ACT",
+   "FAECORREL": "2",
+   "FAERANINI": "1000001",
+   "FAERANFIN": "3000000"
+ },
+ {
+   "FAECONCEP": "ACT",
+   "FAECORREL": "3",
+   "FAERANINI": "3000001",
+   "FAERANFIN": "5000000"
+ },
+ {
+   "FAECONCEP": "ACT",
+   "FAECORREL": "4",
+   "FAERANINI": "5000001",
+   "FAERANFIN": "7500000"
+ },
+ {
+   "FAECONCEP": "ACT",
+   "FAECORREL": "5",
+   "FAERANINI": "7500001",
+   "FAERANFIN": "10000000"
+ },
+ {
+   "FAECONCEP": "ACT",
+   "FAECORREL": "6",
+   "FAERANINI": "10000001",
+   "FAERANFIN": "999999999"
+ },
+ {
+   "FAECONCEP": "EGR",
+   "FAECORREL": "1",
+   "FAERANINI": "0",
+   "FAERANFIN": "34648.17"
+ },
+ {
+   "FAECONCEP": "EGR",
+   "FAECORREL": "2",
+   "FAERANINI": "34648.18",
+   "FAERANFIN": "69296.34"
+ },
+ {
+   "FAECONCEP": "EGR",
+   "FAECORREL": "3",
+   "FAERANINI": "69296.35",
+   "FAERANFIN": "115493.9"
+ },
+ {
+   "FAECONCEP": "EGR",
+   "FAECORREL": "4",
+   "FAERANINI": "115493.91",
+   "FAERANFIN": "230987.8"
+ },
+ {
+   "FAECONCEP": "EGR",
+   "FAECORREL": "5",
+   "FAERANINI": "230987.81",
+   "FAERANFIN": "577469.5"
+ },
+ {
+   "FAECONCEP": "EGR",
+   "FAECORREL": "6",
+   "FAERANINI": "577469.51",
+   "FAERANFIN": "999999999"
+ },
+ {
+   "FAECONCEP": "ING",
+   "FAECORREL": "1",
+   "FAERANINI": "0",
+   "FAERANFIN": "34648.17"
+ },
+ {
+   "FAECONCEP": "ING",
+   "FAECORREL": "2",
+   "FAERANINI": "34648.18",
+   "FAERANFIN": "69296.34"
+ },
+ {
+   "FAECONCEP": "ING",
+   "FAECORREL": "3",
+   "FAERANINI": "69296.35",
+   "FAERANFIN": "115493.9"
+ },
+ {
+   "FAECONCEP": "ING",
+   "FAECORREL": "4",
+   "FAERANINI": "115493.91",
+   "FAERANFIN": "230987.8"
+ },
+ {
+   "FAECONCEP": "ING",
+   "FAECORREL": "5",
+   "FAERANINI": "230987.81",
+   "FAERANFIN": "577469.5"
+ },
+ {
+   "FAECONCEP": "ING",
+   "FAECORREL": "6",
+   "FAERANINI": "577469.51",
+   "FAERANFIN": "999999999"
+ },
+ {
+   "FAECONCEP": "PAS",
+   "FAECORREL": "1",
+   "FAERANINI": "0",
+   "FAERANFIN": "500000"
+ },
+ {
+   "FAECONCEP": "PAS",
+   "FAECORREL": "2",
+   "FAERANINI": "500001",
+   "FAERANFIN": "1000000"
+ },
+ {
+   "FAECONCEP": "PAS",
+   "FAECORREL": "3",
+   "FAERANINI": "1000001",
+   "FAERANFIN": "3000000"
+ },
+ {
+   "FAECONCEP": "PAS",
+   "FAECORREL": "4",
+   "FAERANINI": "3000001",
+   "FAERANFIN": "5000000"
+ },
+ {
+   "FAECONCEP": "PAS",
+   "FAECORREL": "5",
+   "FAERANINI": "5000001",
+   "FAERANFIN": "7500000"
+ },
+ {
+   "FAECONCEP": "PAS",
+   "FAECORREL": "6",
+   "FAERANINI": "7500001",
+   "FAERANFIN": "10000000"
+ },
+ {
+   "FAECONCEP": "PAS",
+   "FAECORREL": "7",
+   "FAERANINI": "10000001",
+   "FAERANFIN": "999999999"
+ }
+]

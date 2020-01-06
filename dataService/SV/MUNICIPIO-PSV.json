@@ -1,0 +1,2936 @@
+[
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "01",
+   "label": "AHUACHAPAN",
+   "Abreviatura": "AHPAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "02",
+   "label": "APANECA",
+   "Abreviatura": "APNCA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "03",
+   "label": "ATIQUIZAYA",
+   "Abreviatura": "ATQYA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "04",
+   "label": "CONCEPCION DE ATACO",
+   "Abreviatura": "ATACO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "05",
+   "label": "EL REFUGIO",
+   "Abreviatura": "E.REF"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "06",
+   "label": "GUAYMANGO",
+   "Abreviatura": "GYMGO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "07",
+   "label": "JUJUTLA",
+   "Abreviatura": "JJTLA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "08",
+   "label": "SAN FRANCISCO MENENDEZ",
+   "Abreviatura": "SF.ME"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "09",
+   "label": "SAN LORENZO",
+   "Abreviatura": "S.LZO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "10",
+   "label": "SAN PEDRO PUXTLA",
+   "Abreviatura": "S.PUX"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "11",
+   "label": "TACUBA",
+   "Abreviatura": "TCUBA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "01",
+   "label_departamento": "AHUACHAPAN",
+   "value": "12",
+   "label": "TURIN",
+   "Abreviatura": "TURIN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "01",
+   "label": "CANDELARIA DE LA FRONTERA",
+   "Abreviatura": "CDRIA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "02",
+   "label": "COATEPEQUE",
+   "Abreviatura": "COATP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "03",
+   "label": "CHALCHUAPA",
+   "Abreviatura": "CHLPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "04",
+   "label": "EL CONGO",
+   "Abreviatura": "CONGO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "05",
+   "label": "EL PORVENIR",
+   "Abreviatura": "PORV."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "06",
+   "label": "MASAHUAT",
+   "Abreviatura": "MSHT."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "07",
+   "label": "METAPAN",
+   "Abreviatura": "MTPAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "08",
+   "label": "SAN ANTONIO PAJONAL",
+   "Abreviatura": "PJNAL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "09",
+   "label": "SAN SEBASTIAN SALITRILLO",
+   "Abreviatura": "STLLO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "10",
+   "label": "SANTA ANA",
+   "Abreviatura": "S.A."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "11",
+   "label": "SANTA ROSA GUACHIPILIN",
+   "Abreviatura": "GPLIN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "12",
+   "label": "SANTIAGO DE LA FRONTERA",
+   "Abreviatura": "S.FRA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "02",
+   "label_departamento": "SANTA ANA",
+   "value": "13",
+   "label": "TEXISTEPEQUE",
+   "Abreviatura": "TEXIS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "01",
+   "label": "ACAJUTLA",
+   "Abreviatura": "ACAJ."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "02",
+   "label": "ARMENIA",
+   "Abreviatura": "ARMEN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "03",
+   "label": "CALUCO",
+   "Abreviatura": "CALUC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "04",
+   "label": "CUISNAHUAT",
+   "Abreviatura": "CUISN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "05",
+   "label": "SANTA ISABEL ISHUATAN",
+   "Abreviatura": "ISHUA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "06",
+   "label": "IZALCO",
+   "Abreviatura": "IZLCO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "07",
+   "label": "JUAYUA",
+   "Abreviatura": "JYUA."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "08",
+   "label": "NAHUIZALCO",
+   "Abreviatura": "NZLCO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "09",
+   "label": "NAHUILINGO",
+   "Abreviatura": "NLNGO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "10",
+   "label": "SALCOATITAN",
+   "Abreviatura": "SALCO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "11",
+   "label": "SAN ANTONIO DEL MONTE",
+   "Abreviatura": "SAMTE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "12",
+   "label": "SAN JULIAN",
+   "Abreviatura": "S.JLN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "13",
+   "label": "SANTA CATARINA MASAHUAT",
+   "Abreviatura": "CTMST"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "14",
+   "label": "SANTO DOMINGO GUZMAN",
+   "Abreviatura": "S.DGO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "15",
+   "label": "SONSONATE",
+   "Abreviatura": "SONS."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "03",
+   "label_departamento": "SONSONATE",
+   "value": "16",
+   "label": "SONZACATE",
+   "Abreviatura": "SONSA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "01",
+   "label": "AGUA CALIENTE",
+   "Abreviatura": "A.CTE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "02",
+   "label": "ARCATAO",
+   "Abreviatura": "ARTAO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "03",
+   "label": "AZACUALPA",
+   "Abreviatura": "AZLPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "04",
+   "label": "CITALA",
+   "Abreviatura": "CITAL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "05",
+   "label": "COMALAPA",
+   "Abreviatura": "CMLPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "06",
+   "label": "CONCEPCION QUEZALTEPEQUE",
+   "Abreviatura": "CQUEZ"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "07",
+   "label": "CHALATENANGO",
+   "Abreviatura": "CHLGO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "08",
+   "label": "DULCE NOMBRE DE MARIA",
+   "Abreviatura": "DNMAR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "09",
+   "label": "EL CARRIZAL",
+   "Abreviatura": "CARRI"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "10",
+   "label": "EL PARAISO",
+   "Abreviatura": "PARAI"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "11",
+   "label": "LA LAGUNA",
+   "Abreviatura": "LLAGU"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "12",
+   "label": "LA PALMA",
+   "Abreviatura": "LPALM"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "13",
+   "label": "LA REINA",
+   "Abreviatura": "LREIN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "14",
+   "label": "LAS VUELTAS",
+   "Abreviatura": "LVUEL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "15",
+   "label": "NOMBRE DE JESUS",
+   "Abreviatura": "NJESU"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "16",
+   "label": "NUEVA CONCEPCION",
+   "Abreviatura": "NCONC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "17",
+   "label": "NUEVA TRINIDAD",
+   "Abreviatura": "NTRIN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "18",
+   "label": "OJOS DE AGUA",
+   "Abreviatura": "OAGUA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "19",
+   "label": "POTONICO",
+   "Abreviatura": "POTON"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "20",
+   "label": "SAN ANTONIO DE LA CRUZ",
+   "Abreviatura": "SACRU"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "21",
+   "label": "SAN ANTONIO LOS RANCHOS",
+   "Abreviatura": "SARAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "22",
+   "label": "SAN FERNANDO",
+   "Abreviatura": "SFERN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "23",
+   "label": "SAN FRANCISCO LEMPA",
+   "Abreviatura": "SFLEM"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "24",
+   "label": "SAN FRANCISCO MORAZAN",
+   "Abreviatura": "SFMOR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "25",
+   "label": "SAN IGNACIO",
+   "Abreviatura": "S.IGN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "26",
+   "label": "SAN ISIDRO LABRADOR",
+   "Abreviatura": "S.I.L"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "27",
+   "label": "SAN J. CANCASQUE",
+   "Abreviatura": "CNQUE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "28",
+   "label": "SAN JOSE LAS FLORES",
+   "Abreviatura": "SNJOS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "29",
+   "label": "SAN LUIS DEL CARMEN",
+   "Abreviatura": "S.L.C"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "30",
+   "label": "SAN  MIGUEL DE MERCEDES",
+   "Abreviatura": "SM.ME"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "31",
+   "label": "SAN RAFAEL",
+   "Abreviatura": "S.RAF"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "32",
+   "label": "SANTA RITA",
+   "Abreviatura": "SRITA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "04",
+   "label_departamento": "CHALATENANGO",
+   "value": "33",
+   "label": "TEJUTLA",
+   "Abreviatura": "TEJUT"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "01",
+   "label": "ANTIGUO CUSCATLAN",
+   "Abreviatura": "ANT.C"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "02",
+   "label": "CIUDAD ARCE",
+   "Abreviatura": "C.ARC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "03",
+   "label": "COLON",
+   "Abreviatura": "COLON"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "04",
+   "label": "COMASAGUA",
+   "Abreviatura": "CMGUA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "05",
+   "label": "CHILTIUPAN",
+   "Abreviatura": "CHLPN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "06",
+   "label": "HUIZUCAR",
+   "Abreviatura": "HZCAR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "07",
+   "label": "JAYAQUE",
+   "Abreviatura": "JYQUE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "08",
+   "label": "JICALAPA",
+   "Abreviatura": "JLCPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "09",
+   "label": "LA LIBERTAD",
+   "Abreviatura": "L.L."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "10",
+   "label": "NUEVO CUSCATLAN",
+   "Abreviatura": "NVO.C"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "11",
+   "label": "SANTA TECLA",
+   "Abreviatura": "STA T"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "12",
+   "label": "QUEZALTEPEQUE",
+   "Abreviatura": "QZALT"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "13",
+   "label": "SACACOYO",
+   "Abreviatura": "SACYO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "14",
+   "label": "SAN JOSE VILLANUEVA",
+   "Abreviatura": "SJVIL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "15",
+   "label": "SAN JUAN OPICO",
+   "Abreviatura": "OPICO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "16",
+   "label": "SAN MATIAS",
+   "Abreviatura": "SNMTS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "17",
+   "label": "SAN PABLO TACACHICO",
+   "Abreviatura": "TCHCO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "18",
+   "label": "TAMANIQUE",
+   "Abreviatura": "TAMAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "19",
+   "label": "TALNIQUE",
+   "Abreviatura": "TALNQ"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "20",
+   "label": "TEOTEPEQUE",
+   "Abreviatura": "TEOTE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "21",
+   "label": "TEPECOYO",
+   "Abreviatura": "TEPYO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "05",
+   "label_departamento": "LA LIBERTAD",
+   "value": "22",
+   "label": "ZARAGOZA",
+   "Abreviatura": "ZGOZA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "01",
+   "label": "AGUILARES",
+   "Abreviatura": "AGIL."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "02",
+   "label": "APOPA",
+   "Abreviatura": "APOP."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "03",
+   "label": "AYUTUXTEPEQUE",
+   "Abreviatura": "AYUTX"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "04",
+   "label": "CUSCATANCINGO",
+   "Abreviatura": "CUSGO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "05",
+   "label": "EL PAISNAL",
+   "Abreviatura": "EPAIS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "06",
+   "label": "GUAZAPA",
+   "Abreviatura": "GZAPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "07",
+   "label": "ILOPANGO",
+   "Abreviatura": "ILOPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "08",
+   "label": "MEJICANOS",
+   "Abreviatura": "MEJIC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "09",
+   "label": "NEJAPA",
+   "Abreviatura": "NEJAP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "10",
+   "label": "PANCHIMALCO",
+   "Abreviatura": "PANCH"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "11",
+   "label": "ROSARIO DE MORA",
+   "Abreviatura": "R.MOR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "12",
+   "label": "SAN MARCOS",
+   "Abreviatura": "SMARC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "13",
+   "label": "SAN MARTIN",
+   "Abreviatura": "SMTIN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "14",
+   "label": "SAN SALVADOR",
+   "Abreviatura": "S.S."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "15",
+   "label": "SANTIAGO TEXACUANGOS",
+   "Abreviatura": "SGTEX"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "16",
+   "label": "SANTO TOMAS",
+   "Abreviatura": "STOMA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "17",
+   "label": "SOYAPANGO",
+   "Abreviatura": "SOYAP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "18",
+   "label": "TONACATEPEQUE",
+   "Abreviatura": "TONAC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "06",
+   "label_departamento": "SAN SANLVADOR",
+   "value": "19",
+   "label": "CIUDAD DELGADO",
+   "Abreviatura": "CDELG"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "01",
+   "label": "CANDELARIA",
+   "Abreviatura": "CAND."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "02",
+   "label": "COJUTEPEQUE",
+   "Abreviatura": "COJUT"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "03",
+   "label": "EL CARMEN",
+   "Abreviatura": "ECARM"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "04",
+   "label": "EL ROSARIO",
+   "Abreviatura": "EROSA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "05",
+   "label": "MONTE SAN JUAN",
+   "Abreviatura": "MTESJ"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "06",
+   "label": "ORATORIO DE CONCEPCION",
+   "Abreviatura": "OCONC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "07",
+   "label": "SAN BARTOLOME PERULAPIA",
+   "Abreviatura": "PERUL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "08",
+   "label": "SAN CRISTOBAL",
+   "Abreviatura": "SCRIS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "09",
+   "label": "SAN JOSE GUAYABAL",
+   "Abreviatura": "SJGUA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "10",
+   "label": "SAN PEDRO PERULAPAN",
+   "Abreviatura": "SPPER"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "11",
+   "label": "SAN RAFAEL CEDROS",
+   "Abreviatura": "SRCED"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "12",
+   "label": "SAN RAMON",
+   "Abreviatura": "SRAMO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "13",
+   "label": "SANTA CRUZ ANALQUITO",
+   "Abreviatura": "SCANA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "14",
+   "label": "SANTA CRUZ MICHAPA",
+   "Abreviatura": "SCMIC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "15",
+   "label": "SUCHITOTO",
+   "Abreviatura": "SUCTO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "07",
+   "label_departamento": "CUSCATLAN",
+   "value": "16",
+   "label": "TENANCINGO",
+   "Abreviatura": "TCING"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "01",
+   "label": "CUYULTITAN",
+   "Abreviatura": "CUYUL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "02",
+   "label": "ROSARIO LA PAZ",
+   "Abreviatura": "ROSAR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "03",
+   "label": "JERUSALEN",
+   "Abreviatura": "JERUS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "04",
+   "label": "MERCEDES LA CEIBA",
+   "Abreviatura": "MCEIB"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "05",
+   "label": "OLOCUILTA",
+   "Abreviatura": "OLOC."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "06",
+   "label": "PARAISO DE OSORIO",
+   "Abreviatura": "POSOR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "07",
+   "label": "SAN ANTONIO MASAHUAT",
+   "Abreviatura": "MASAH"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "08",
+   "label": "SAN EMIGDIO",
+   "Abreviatura": "EMIGD"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "09",
+   "label": "SAN FRANCISCO CHINAMECA",
+   "Abreviatura": "CHMCA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "10",
+   "label": "SAN JUAN NONUALCO",
+   "Abreviatura": "SJNCO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "11",
+   "label": "SAN JUAN TALPA",
+   "Abreviatura": "SJTAL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "12",
+   "label": "SAN JUAN TEPEZONTES",
+   "Abreviatura": "SJTEP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "13",
+   "label": "SAN LUIS TALPA",
+   "Abreviatura": "SLUIS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "14",
+   "label": "SAN MIGUEL TEPEZONTES",
+   "Abreviatura": "SMTEP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "15",
+   "label": "SAN PEDRO MASAHUAT",
+   "Abreviatura": "SPMAS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "16",
+   "label": "SAN PEDRO NONUALCO",
+   "Abreviatura": "SPNON"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "17",
+   "label": "SAN RAFAEL OBRAJUELO",
+   "Abreviatura": "SROBR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "18",
+   "label": "SANTA MARIA OSTUMA",
+   "Abreviatura": "SMOST"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "19",
+   "label": "SANTIAGO NONUALCO",
+   "Abreviatura": "S.NCO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "20",
+   "label": "TAPALHUACA",
+   "Abreviatura": "TAPAL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "21",
+   "label": "ZACATECOLUCA",
+   "Abreviatura": "ZACAT"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "08",
+   "label_departamento": "LA PAZ",
+   "value": "22",
+   "label": "SAN LUIS LA HERRADURA",
+   "Abreviatura": "SLHER"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "01",
+   "label": "CINQUERA",
+   "Abreviatura": "CINQA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "02",
+   "label": "GUACOTECTI",
+   "Abreviatura": "GUACO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "03",
+   "label": "ILOBASCO",
+   "Abreviatura": "ILOB."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "04",
+   "label": "JUTIAPA",
+   "Abreviatura": "JUTIA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "05",
+   "label": "SAN ISIDRO",
+   "Abreviatura": "SISID"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "06",
+   "label": "SENSUNTEPEQUE",
+   "Abreviatura": "STQUE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "07",
+   "label": "TEJUTEPEQUE",
+   "Abreviatura": "TEJUT"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "08",
+   "label": "VICTORIA",
+   "Abreviatura": "VICT."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "09",
+   "label_departamento": "CABAÑAS",
+   "value": "09",
+   "label": "VILLA DOLORES",
+   "Abreviatura": "DRES."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "01",
+   "label": "APASTEPEQUE",
+   "Abreviatura": "APAST"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "02",
+   "label": "GUADALUPE",
+   "Abreviatura": "GUAD."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "03",
+   "label": "SAN CAYETANO ISTEPEQUE",
+   "Abreviatura": "SCIST"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "04",
+   "label": "SANTA CLARA",
+   "Abreviatura": "SCLAR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "05",
+   "label": "SANTO DOMINGO",
+   "Abreviatura": "SDOM."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "06",
+   "label": "SAN ESTEBAN CATARINA",
+   "Abreviatura": "SESCA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "07",
+   "label": "SAN ILDEFONSO",
+   "Abreviatura": "SILDE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "08",
+   "label": "SAN LORENZO",
+   "Abreviatura": "SLORZ"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "09",
+   "label": "SAN SEBASTIAN",
+   "Abreviatura": "SSEB."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "10",
+   "label": "SAN VICENTE",
+   "Abreviatura": "S.VIC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "11",
+   "label": "TECOLUCA",
+   "Abreviatura": "TECOL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "12",
+   "label": "TEPETITAN",
+   "Abreviatura": "TEPET"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "10",
+   "label_departamento": "SAN VICENTE",
+   "value": "13",
+   "label": "VERAPAZ",
+   "Abreviatura": "VERAP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "01",
+   "label": "ALEGRIA",
+   "Abreviatura": "ALEG."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "02",
+   "label": "BERLIN",
+   "Abreviatura": "BERL."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "03",
+   "label": "CALIFORNIA",
+   "Abreviatura": "CALIF"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "04",
+   "label": "CONCEPCION BATRES",
+   "Abreviatura": "CBATR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "05",
+   "label": "EL TRIUNFO",
+   "Abreviatura": "TRIUF"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "06",
+   "label": "EREGUAYQUIN",
+   "Abreviatura": "EREG."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "07",
+   "label": "ESTANZUELAS",
+   "Abreviatura": "ESTAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "08",
+   "label": "JIQUILISCO",
+   "Abreviatura": "JIQUI"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "09",
+   "label": "JUCUAPA",
+   "Abreviatura": "JUCPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "10",
+   "label": "JUCUARAN",
+   "Abreviatura": "JURAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "11",
+   "label": "MERCEDES UMAÑA",
+   "Abreviatura": "MUMAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "12",
+   "label": "NUEVA GRANADA",
+   "Abreviatura": "NGRAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "13",
+   "label": "OZATLAN",
+   "Abreviatura": "OZAT."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "14",
+   "label": "PUERTO EL TRIUNFO",
+   "Abreviatura": "PTRFO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "15",
+   "label": "SAN AGUSTIN",
+   "Abreviatura": "SAGUS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "16",
+   "label": "SAN BUENAVENTURA",
+   "Abreviatura": "SBVRA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "17",
+   "label": "SAN DIONISIO",
+   "Abreviatura": "SDION"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "18",
+   "label": "SANTA ELENA",
+   "Abreviatura": "SELEN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "19",
+   "label": "SAN FRANCISCO JAVIER",
+   "Abreviatura": "SFJAV"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "20",
+   "label": "SANTA MARIA",
+   "Abreviatura": "STAMA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "21",
+   "label": "SANTIAGO DE MARIA",
+   "Abreviatura": "SGOMA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "22",
+   "label": "TECAPAN",
+   "Abreviatura": "TECAP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "11",
+   "label_departamento": "USULUTAN",
+   "value": "23",
+   "label": "USULUTAN",
+   "Abreviatura": "USUL."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "01",
+   "label": "CAROLINA",
+   "Abreviatura": "CAROL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "02",
+   "label": "CIUDAD BARRIOS",
+   "Abreviatura": "C.BOS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "03",
+   "label": "COMACARAN",
+   "Abreviatura": "COMAC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "04",
+   "label": "CHAPELTIQUE",
+   "Abreviatura": "CHQUE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "05",
+   "label": "CHINAMECA",
+   "Abreviatura": "CHMCA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "06",
+   "label": "CHIRILAGUA",
+   "Abreviatura": "CHGUA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "07",
+   "label": "EL TRANSITO",
+   "Abreviatura": "ELTTO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "08",
+   "label": "LOLOTIQUE",
+   "Abreviatura": "LOLOT"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "09",
+   "label": "MONCAGUA",
+   "Abreviatura": "MONCA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "10",
+   "label": "NUEVA GUADALUPE",
+   "Abreviatura": "NVAGU"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "11",
+   "label": "NUEVO EDEN DE SAN JUAN",
+   "Abreviatura": "NESJN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "12",
+   "label": "QUELEPA",
+   "Abreviatura": "QUEPA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "13",
+   "label": "SAN ANTONIO DEL MOSCO",
+   "Abreviatura": "SNANT"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "14",
+   "label": "SAN GERARDO",
+   "Abreviatura": "SGER."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "15",
+   "label": "SAN JORGE",
+   "Abreviatura": "SJORG"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "16",
+   "label": "SAN LUIS REINA",
+   "Abreviatura": "SLREI"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "17",
+   "label": "SAN MIGUEL",
+   "Abreviatura": "S.MIG"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "18",
+   "label": "SAN RAFAEL ORIENTE",
+   "Abreviatura": "SNRAF"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "19",
+   "label": "SESORI",
+   "Abreviatura": "SESOR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "12",
+   "label_departamento": "SAN MIGUEL",
+   "value": "20",
+   "label": "ULUAZAPA",
+   "Abreviatura": "ULUAZ"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "01",
+   "label": "ARAMBALA",
+   "Abreviatura": "ARAMB"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "02",
+   "label": "CACAOPERA",
+   "Abreviatura": "CACAO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "03",
+   "label": "CORINTO",
+   "Abreviatura": "CORIN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "04",
+   "label": "CHILANGA",
+   "Abreviatura": "CHIL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "05",
+   "label": "DELICIAS DE CONCEPCION",
+   "Abreviatura": "DCCIO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "06",
+   "label": "EL DIVISADERO",
+   "Abreviatura": "DIVIS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "07",
+   "label": "EL ROSARIO",
+   "Abreviatura": "ELROS"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "08",
+   "label": "GUALOCOCTI",
+   "Abreviatura": "GUATI"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "09",
+   "label": "GUATAJIAGUA",
+   "Abreviatura": "GUATA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "10",
+   "label": "JOATECA",
+   "Abreviatura": "JOAT."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "11",
+   "label": "JOCOAITIQUE",
+   "Abreviatura": "JOCOA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "12",
+   "label": "JOCORO",
+   "Abreviatura": "JOCOR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "13",
+   "label": "LOLOTIQUILLO",
+   "Abreviatura": "LOTLO"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "14",
+   "label": "MEANGUERA",
+   "Abreviatura": "MEANG"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "15",
+   "label": "OSICALA",
+   "Abreviatura": "OSIC."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "16",
+   "label": "PERQUIN",
+   "Abreviatura": "PERQN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "17",
+   "label": "SAN CARLOS",
+   "Abreviatura": "SCARL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "18",
+   "label": "SAN FERNANDO",
+   "Abreviatura": "SFERN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "19",
+   "label": "SAN FRANCISCO GOTERA",
+   "Abreviatura": "GOTER"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "20",
+   "label": "SAN ISIDRO",
+   "Abreviatura": "SISID"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "21",
+   "label": "SAN SIMON",
+   "Abreviatura": "SSIMN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "22",
+   "label": "SENSEMBRA",
+   "Abreviatura": "SENSE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "23",
+   "label": "SOCIEDAD",
+   "Abreviatura": "SOC."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "24",
+   "label": "TOROLA",
+   "Abreviatura": "TOROL"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "25",
+   "label": "YAMABAL",
+   "Abreviatura": "YAMAB"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "13",
+   "label_departamento": "MORAZAN",
+   "value": "26",
+   "label": "YOLOAIQUIN",
+   "Abreviatura": "YOLOA"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "01",
+   "label": "ANAMOROS",
+   "Abreviatura": "ANAM."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "02",
+   "label": "BOLIVAR",
+   "Abreviatura": "BOLIV"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "03",
+   "label": "CONCEPCION DE ORIENTE",
+   "Abreviatura": "CCOTE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "04",
+   "label": "CONCHAGUA",
+   "Abreviatura": "CONCH"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "05",
+   "label": "EL CARMEN",
+   "Abreviatura": "ECARM"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "06",
+   "label": "EL SAUCE",
+   "Abreviatura": "ESAUC"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "07",
+   "label": "INTIPUCA",
+   "Abreviatura": "INTIP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "08",
+   "label": "LA UNION",
+   "Abreviatura": "L.U."
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "09",
+   "label": "LISLIQUE",
+   "Abreviatura": "LISLI"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "10",
+   "label": "MEANGUERA DEL GOLFO",
+   "Abreviatura": "MRAGF"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "11",
+   "label": "NUEVA ESPARTA",
+   "Abreviatura": "N.ESP"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "12",
+   "label": "PASAQUINA",
+   "Abreviatura": "PASAQ"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "13",
+   "label": "POLOROS",
+   "Abreviatura": "POLOR"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "14",
+   "label": "SAN ALEJO",
+   "Abreviatura": "SALEJ"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "15",
+   "label": "SAN JOSE",
+   "Abreviatura": "SJOSE"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "16",
+   "label": "SANTA ROSA DE LIMA",
+   "Abreviatura": "SRLIM"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "17",
+   "label": "YAYANTIQUE",
+   "Abreviatura": "YAYAN"
+ },
+ {
+   "value_pais": "01",
+   "label_pais": "EL SALVADOR",
+   "value_departamento": "14",
+   "label_departamento": "LA UNION",
+   "value": "18",
+   "label": "YUCUAIQUIN",
+   "Abreviatura": "YCUAI"
+ },
+ {
+   "value_pais": "15",
+   "label_pais": "GUATEMALA",
+   "value_departamento": "15",
+   "label_departamento": "GUATEMALA",
+   "value": "01",
+   "label": "OTROS PAISES",
+   "Abreviatura": "OPAIS"
+ },
+ {
+   "value_pais": "16",
+   "label_pais": "HONDURAS",
+   "value_departamento": "16",
+   "label_departamento": "HONDURAS",
+   "value": "01",
+   "label": "OTROS PAISES",
+   "Abreviatura": "OPAIS"
+ },
+ {
+   "value_pais": "17",
+   "label_pais": "NICARAGUA",
+   "value_departamento": "17",
+   "label_departamento": "NICARAGUA",
+   "value": "01",
+   "label": "OTROS PAISES",
+   "Abreviatura": "OPAIS"
+ },
+ {
+   "value_pais": "18",
+   "label_pais": "COSTA RICA",
+   "value_departamento": "18",
+   "label_departamento": "COSTA RICA",
+   "value": "01",
+   "label": "OTROS PAISES",
+   "Abreviatura": "OPAIS"
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1901",
+   "label": "ALABAMA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1902",
+   "label": "ALASKA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1903",
+   "label": "AMERICAN SAMOA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1904",
+   "label": "ARIZONA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1905",
+   "label": "ARKANSAS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1906",
+   "label": "CALIFORNIA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1907",
+   "label": "COLORADO",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1908",
+   "label": "CONNECTICUT",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1909",
+   "label": "DELAWARE",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1910",
+   "label": "DISTRICT OF COLUMBIA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1911",
+   "label": "FEDERATED STATES OF MICRONESIA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1912",
+   "label": "FLORIDA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1913",
+   "label": "GEORGIA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1914",
+   "label": "GUAM",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1915",
+   "label": "HAWAII",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1916",
+   "label": "IDAHO",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1917",
+   "label": "ILLINOIS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1918",
+   "label": "INDIANA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1919",
+   "label": "IOWA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1920",
+   "label": "KANSAS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1921",
+   "label": "KENTUCKY",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1922",
+   "label": "LOUISIANA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1923",
+   "label": "MAINE",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1924",
+   "label": "MARYLAND",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1925",
+   "label": "MASSACHUSETTS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1926",
+   "label": "MICHIGAN",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1927",
+   "label": "MINNESOTA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1928",
+   "label": "MISSISSIPPI",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1929",
+   "label": "MISSOURI",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1930",
+   "label": "MONTANA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1931",
+   "label": "NEBRASKA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1932",
+   "label": "NEVADA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1933",
+   "label": "NEW HAMPSHIRE",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1934",
+   "label": "NEW JERSEY",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1935",
+   "label": "NEW MEXICO",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1936",
+   "label": "NEW YORK",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1937",
+   "label": "NORTH CAROLINA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1938",
+   "label": "NORTH DAKOTA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1939",
+   "label": "NORTHERN MARIANA ISLANDS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1940",
+   "label": "OHIO",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1941",
+   "label": "OKLAHOMA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1942",
+   "label": "OREGON",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1943",
+   "label": "PENNSYLVANIA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1944",
+   "label": "PUERTO RICO",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1945",
+   "label": "REPUBLIC OF PALAU",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1946",
+   "label": "REPUBLIC OF THE MARSHALL ISLANDS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1947",
+   "label": "RHODE ISLAND",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1948",
+   "label": "SOUTH CAROLINA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1949",
+   "label": "SOUTH DAKOTA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1950",
+   "label": "TENNESSEE",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1951",
+   "label": "TEXAS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1952",
+   "label": "US VIRGIN ISLANDS",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1953",
+   "label": "UTAH",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1954",
+   "label": "VERMONT",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1955",
+   "label": "VIRGINIA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1956",
+   "label": "WASHINGTON",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1957",
+   "label": "WEST VIRGINIA",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1958",
+   "label": "WISCONSIN",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "19",
+   "label_pais": "ESTADOS UNIDOS",
+   "value_departamento": "19",
+   "label_departamento": "ESTADOS UNIDOS",
+   "value": "1959",
+   "label": "WYOMING",
+   "Abreviatura": ""
+ },
+ {
+   "value_pais": "20",
+   "label_pais": "RESTO DEL MUNDO",
+   "value_departamento": "20",
+   "label_departamento": "RESTO DEL MUNDO",
+   "value": "01",
+   "label": "OTROS PAISES",
+   "Abreviatura": "OPAIS"
+ }
+]

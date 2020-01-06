@@ -1,0 +1,1392 @@
+[
+ {
+   "label": "ABOGADO",
+   "value": "1",
+   "value2": "1"
+ },
+ {
+   "label": "ADMINISTRADOR",
+   "value": "2",
+   "value2": "2"
+ },
+ {
+   "label": "AGRICULTOR",
+   "value": "3",
+   "value2": "5"
+ },
+ {
+   "label": "ANALISTA DE CREDITO",
+   "value": "5",
+   "value2": "2"
+ },
+ {
+   "label": "ANALISTA DE SISTEMAS/PROGRAMADOR",
+   "value": "6",
+   "value2": "2"
+ },
+ {
+   "label": "ASCENSORISTA",
+   "value": "7",
+   "value2": "1"
+ },
+ {
+   "label": "ASISTENTE ADMINISTRATIVO",
+   "value": "8",
+   "value2": "2"
+ },
+ {
+   "label": "ASISTENTE LEGAL",
+   "value": "9",
+   "value2": "5"
+ },
+ {
+   "label": "ASISTENTE DE CREDITO",
+   "value": "10",
+   "value2": "5"
+ },
+ {
+   "label": "DIRECTOR",
+   "value": "11",
+   "value2": "1"
+ },
+ {
+   "label": "DIRECTOR REGIONAL",
+   "value": "12",
+   "value2": "1"
+ },
+ {
+   "label": "CAJERO",
+   "value": "13",
+   "value2": "2"
+ },
+ {
+   "label": "CAPATAZ",
+   "value": "14",
+   "value2": "1"
+ },
+ {
+   "label": "COBRADOR",
+   "value": "15",
+   "value2": "5"
+ },
+ {
+   "label": "CONTADOR PUBLICO AUTORIZADO/CONTADOR",
+   "value": "16",
+   "value2": "2"
+ },
+ {
+   "label": "CORREDOR DE SEGUROS",
+   "value": "17",
+   "value2": "1"
+ },
+ {
+   "label": "ENFERMERO (A)",
+   "value": "18",
+   "value2": "2"
+ },
+ {
+   "label": "EMPRESARIO",
+   "value": "19",
+   "value2": "1"
+ },
+ {
+   "label": "EJECUTIVO",
+   "value": "20",
+   "value2": "4"
+ },
+ {
+   "label": "EJECUTIVO DE VENTAS",
+   "value": "21",
+   "value2": "4"
+ },
+ {
+   "label": "FISCAL",
+   "value": "22",
+   "value2": "1"
+ },
+ {
+   "label": "GANADERO",
+   "value": "23",
+   "value2": "5"
+ },
+ {
+   "label": "GERENTE DE COBROS",
+   "value": "24",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE DE COMPRAS",
+   "value": "25",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE DE CONTABILIDAD",
+   "value": "26",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE DE COMPUTO",
+   "value": "27",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE DE FINANZAS",
+   "value": "28",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE GENERAL",
+   "value": "29",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE DE MERCADEO",
+   "value": "30",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE DE OPERACIONES",
+   "value": "31",
+   "value2": "1"
+ },
+ {
+   "label": "GERENTE DE VENTAS",
+   "value": "32",
+   "value2": "1"
+ },
+ {
+   "label": "JEFE DE COBROS",
+   "value": "33",
+   "value2": "3"
+ },
+ {
+   "label": "JEFE DE COMPRAS",
+   "value": "34",
+   "value2": "3"
+ },
+ {
+   "label": "JEFE DE CONTABILIDAD",
+   "value": "35",
+   "value2": "3"
+ },
+ {
+   "label": "JEFE DE COMPUTO",
+   "value": "36",
+   "value2": "3"
+ },
+ {
+   "label": "JEFE DE ENFERMERIA",
+   "value": "37",
+   "value2": "3"
+ },
+ {
+   "label": "PROVEEDURIA",
+   "value": "38",
+   "value2": "3"
+ },
+ {
+   "label": "JEFE DE OPERACIONES",
+   "value": "39",
+   "value2": "3"
+ },
+ {
+   "label": "JEFE DE PLANTA",
+   "value": "40",
+   "value2": "3"
+ },
+ {
+   "label": "JUBILADO",
+   "value": "41",
+   "value2": "1"
+ },
+ {
+   "label": "JUEZ",
+   "value": "42",
+   "value2": "1"
+ },
+ {
+   "label": "LEGISLADOR",
+   "value": "43",
+   "value2": "1"
+ },
+ {
+   "label": "MAESTRO",
+   "value": "44",
+   "value2": "1"
+ },
+ {
+   "label": "MAGISTRADO",
+   "value": "45",
+   "value2": "1"
+ },
+ {
+   "label": "MINISTRO",
+   "value": "46",
+   "value2": "1"
+ },
+ {
+   "label": "MONSEÑOR",
+   "value": "47",
+   "value2": "1"
+ },
+ {
+   "label": "NOTARIO",
+   "value": "48",
+   "value2": "1"
+ },
+ {
+   "label": "OBISPO",
+   "value": "49",
+   "value2": "1"
+ },
+ {
+   "label": "OFICINISTA",
+   "value": "50",
+   "value2": "5"
+ },
+ {
+   "label": "OPERADOR",
+   "value": "51",
+   "value2": "5"
+ },
+ {
+   "label": "PROFESOR",
+   "value": "52",
+   "value2": "1"
+ },
+ {
+   "label": "PRESIDENTE",
+   "value": "53",
+   "value2": "1"
+ },
+ {
+   "label": "SACERDOTE/PASTOR/TEOLOGO",
+   "value": "54",
+   "value2": "5"
+ },
+ {
+   "label": "SECRETARIA",
+   "value": "55",
+   "value2": "1"
+ },
+ {
+   "label": "SECRETARIA EJECUTIVA",
+   "value": "56",
+   "value2": "1"
+ },
+ {
+   "label": "SECRETARIO",
+   "value": "57",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE DE COBROS",
+   "value": "58",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE DE COMPRAS",
+   "value": "59",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE DE COMPUTO",
+   "value": "60",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE DE CONTABILIDAD",
+   "value": "61",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE DE FINANZAS",
+   "value": "62",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE GENERAL",
+   "value": "63",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE DE MERCADEO",
+   "value": "64",
+   "value2": "1"
+ },
+ {
+   "label": "SUB-GERENTE DE OPERACIONES",
+   "value": "65",
+   "value2": "1"
+ },
+ {
+   "label": "DEPENDIENTE",
+   "value": "66",
+   "value2": "2"
+ },
+ {
+   "label": "SUB-GERENTE DE VENTAS",
+   "value": "67",
+   "value2": "1"
+ },
+ {
+   "label": "TESORERO",
+   "value": "68",
+   "value2": "3"
+ },
+ {
+   "label": "VENDEDOR",
+   "value": "69",
+   "value2": "3"
+ },
+ {
+   "label": "VICEPRESIDENTE",
+   "value": "70",
+   "value2": "5"
+ },
+ {
+   "label": "AGENTE VIAJERO",
+   "value": "71",
+   "value2": "1"
+ },
+ {
+   "label": "AJUSTADOR",
+   "value": "72",
+   "value2": "1"
+ },
+ {
+   "label": "ALCALDE/CORREGIDOR/REPRESENTANTE",
+   "value": "73",
+   "value2": "1"
+ },
+ {
+   "label": "ALMACENISTA",
+   "value": "74",
+   "value2": "1"
+ },
+ {
+   "label": "ASERRADOR",
+   "value": "75",
+   "value2": "1"
+ },
+ {
+   "label": "ASESOR LEGAL",
+   "value": "76",
+   "value2": "4"
+ },
+ {
+   "label": "ASISTENTE DE PRODUCCION",
+   "value": "77",
+   "value2": "1"
+ },
+ {
+   "label": "ASISTENTE ESTADISTICO",
+   "value": "78",
+   "value2": "1"
+ },
+ {
+   "label": "AUXILIAR DE CONTABILIDAD",
+   "value": "79",
+   "value2": "4"
+ },
+ {
+   "label": "AUXILIAR DE ENFERMERIA",
+   "value": "80",
+   "value2": "4"
+ },
+ {
+   "label": "AYUDANTE DE VETERINARIO",
+   "value": "81",
+   "value2": "1"
+ },
+ {
+   "label": "AYUDANTE DE ZAPATERO",
+   "value": "82",
+   "value2": "1"
+ },
+ {
+   "label": "AYUDANTE DE CARPINTERIA",
+   "value": "83",
+   "value2": "1"
+ },
+ {
+   "label": "AYUDANTE DE EBANISTA",
+   "value": "84",
+   "value2": "5"
+ },
+ {
+   "label": "AYUDANTE DE PINTOR",
+   "value": "85",
+   "value2": "1"
+ },
+ {
+   "label": "AZAFATA",
+   "value": "86",
+   "value2": "1"
+ },
+ {
+   "label": "BARBERO",
+   "value": "87",
+   "value2": "1"
+ },
+ {
+   "label": "BOTONES",
+   "value": "88",
+   "value2": "1"
+ },
+ {
+   "label": "BOXEADOR",
+   "value": "89",
+   "value2": "1"
+ },
+ {
+   "label": "CAMARERO (A)",
+   "value": "91",
+   "value2": "1"
+ },
+ {
+   "label": "CARNICERO",
+   "value": "92",
+   "value2": "1"
+ },
+ {
+   "label": "CARPINTERO/ALBAÑIL",
+   "value": "93",
+   "value2": "5"
+ },
+ {
+   "label": "DIGITADOR",
+   "value": "94",
+   "value2": "4"
+ },
+ {
+   "label": "CONDUCTOR",
+   "value": "95",
+   "value2": "1"
+ },
+ {
+   "label": "CONSUL",
+   "value": "96",
+   "value2": "1"
+ },
+ {
+   "label": "DESPACHADOR",
+   "value": "97",
+   "value2": "1"
+ },
+ {
+   "label": "DETECTIVE",
+   "value": "98",
+   "value2": "1"
+ },
+ {
+   "label": "EBANISTA",
+   "value": "99",
+   "value2": "5"
+ },
+ {
+   "label": "ELECTRICISTA",
+   "value": "100",
+   "value2": "1"
+ },
+ {
+   "label": "EMBAJADOR",
+   "value": "101",
+   "value2": "1"
+ },
+ {
+   "label": "ESTIBADOR",
+   "value": "102",
+   "value2": "1"
+ },
+ {
+   "label": "GOBERNADOR",
+   "value": "103",
+   "value2": "1"
+ },
+ {
+   "label": "GUARDABOSQUES",
+   "value": "104",
+   "value2": "1"
+ },
+ {
+   "label": "INSPECTOR",
+   "value": "105",
+   "value2": "5"
+ },
+ {
+   "label": "JEFE DE ADMINISTRACION",
+   "value": "106",
+   "value2": "3"
+ },
+ {
+   "label": "JEFE DE FINANZAS",
+   "value": "107",
+   "value2": "3"
+ },
+ {
+   "label": "MANICURISTA/ESTILISTA/COSMETOLOGO",
+   "value": "109",
+   "value2": "1"
+ },
+ {
+   "label": "MATARIFE",
+   "value": "110",
+   "value2": "1"
+ },
+ {
+   "label": "MECANICO",
+   "value": "111",
+   "value2": "4"
+ },
+ {
+   "label": "MENSAJERO",
+   "value": "112",
+   "value2": "2"
+ },
+ {
+   "label": "MESERO",
+   "value": "113",
+   "value2": "1"
+ },
+ {
+   "label": "MODISTA",
+   "value": "114",
+   "value2": "1"
+ },
+ {
+   "label": "MOLINERO",
+   "value": "115",
+   "value2": "1"
+ },
+ {
+   "label": "CONSULTOR",
+   "value": "116",
+   "value2": "2"
+ },
+ {
+   "label": "ASISTENTE DE ADUANAS",
+   "value": "117",
+   "value2": "1"
+ },
+ {
+   "label": "EMPACADOR",
+   "value": "118",
+   "value2": "4"
+ },
+ {
+   "label": "SUPERINTENDENTE",
+   "value": "119",
+   "value2": "1"
+ },
+ {
+   "label": "PRODUCTOR GRAFICO",
+   "value": "120",
+   "value2": "1"
+ },
+ {
+   "label": "PANADERO",
+   "value": "121",
+   "value2": "5"
+ },
+ {
+   "label": "PINTOR",
+   "value": "122",
+   "value2": "1"
+ },
+ {
+   "label": "PLOMERO",
+   "value": "123",
+   "value2": "1"
+ },
+ {
+   "label": "RECEPCIONISTA",
+   "value": "124",
+   "value2": "3"
+ },
+ {
+   "label": "RELOJERO",
+   "value": "125",
+   "value2": "1"
+ },
+ {
+   "label": "SASTRE",
+   "value": "126",
+   "value2": "1"
+ },
+ {
+   "label": "OPTOMETRISTA",
+   "value": "127",
+   "value2": "5"
+ },
+ {
+   "label": "SUB-GERENTE VARIOS",
+   "value": "128",
+   "value2": "1"
+ },
+ {
+   "label": "SUPERVISOR",
+   "value": "129",
+   "value2": "4"
+ },
+ {
+   "label": "TALABARTERO",
+   "value": "130",
+   "value2": "1"
+ },
+ {
+   "label": "TAPICERO",
+   "value": "131",
+   "value2": "1"
+ },
+ {
+   "label": "DIBUJANTE",
+   "value": "132",
+   "value2": "1"
+ },
+ {
+   "label": "TIPOGRAFO",
+   "value": "133",
+   "value2": "1"
+ },
+ {
+   "label": "ZAPATERO",
+   "value": "134",
+   "value2": "1"
+ },
+ {
+   "label": "POLICIA",
+   "value": "135",
+   "value2": "1"
+ },
+ {
+   "label": "TRABAJADOR MANUAL",
+   "value": "136",
+   "value2": "1"
+ },
+ {
+   "label": "MEDICO",
+   "value": "137",
+   "value2": "1"
+ },
+ {
+   "label": "BIBLIOTECARIO",
+   "value": "138",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO",
+   "value": "139",
+   "value2": "1"
+ },
+ {
+   "label": "OFICIAL",
+   "value": "140",
+   "value2": "3"
+ },
+ {
+   "label": "CAMAROGRAFO",
+   "value": "142",
+   "value2": "1"
+ },
+ {
+   "label": "ASISTENTE",
+   "value": "143",
+   "value2": "2"
+ },
+ {
+   "label": "JORNALERO",
+   "value": "144",
+   "value2": "2"
+ },
+ {
+   "label": "DISEÑADOR DE INTERIORES",
+   "value": "146",
+   "value2": "5"
+ },
+ {
+   "label": "FOTOGRAFO",
+   "value": "147",
+   "value2": "1"
+ },
+ {
+   "label": "CONTRALOR",
+   "value": "148",
+   "value2": "5"
+ },
+ {
+   "label": "TECNICO",
+   "value": "149",
+   "value2": "5"
+ },
+ {
+   "label": "ENCARGADO DE PLANIFICACION",
+   "value": "150",
+   "value2": "5"
+ },
+ {
+   "label": "QUIMICO/BIOLOGO",
+   "value": "151",
+   "value2": "1"
+ },
+ {
+   "label": "LABORATORIO/FARMACIA",
+   "value": "152",
+   "value2": "3"
+ },
+ {
+   "label": "ARQUITECTO",
+   "value": "153",
+   "value2": "2"
+ },
+ {
+   "label": "CONSTRUCTOR",
+   "value": "154",
+   "value2": "1"
+ },
+ {
+   "label": "VISITADOR MEDICO",
+   "value": "155",
+   "value2": "1"
+ },
+ {
+   "label": "NUTRICIONISTA",
+   "value": "156",
+   "value2": "1"
+ },
+ {
+   "label": "MARINO/NAVIERO/OFICIAL DE MARINA",
+   "value": "157",
+   "value2": "5"
+ },
+ {
+   "label": "PORCINOCULTOR",
+   "value": "158",
+   "value2": "1"
+ },
+ {
+   "label": "ODONTOLOGO/DENTISTA",
+   "value": "159",
+   "value2": "1"
+ },
+ {
+   "label": "PRESUPUESTISTA",
+   "value": "160",
+   "value2": "1"
+ },
+ {
+   "label": "PILOTO DE AVIACION",
+   "value": "161",
+   "value2": "2"
+ },
+ {
+   "label": "BANQUERO",
+   "value": "162",
+   "value2": "5"
+ },
+ {
+   "label": "VETERINARIO",
+   "value": "163",
+   "value2": "2"
+ },
+ {
+   "label": "ECONOMISTA",
+   "value": "164",
+   "value2": "1"
+ },
+ {
+   "label": "COMERCIANTE",
+   "value": "165",
+   "value2": "1"
+ },
+ {
+   "label": "MUSICO",
+   "value": "167",
+   "value2": "1"
+ },
+ {
+   "label": "ELECTROMECANICO",
+   "value": "168",
+   "value2": "4"
+ },
+ {
+   "label": "AUDITOR",
+   "value": "169",
+   "value2": "3"
+ },
+ {
+   "label": "ANALISTA",
+   "value": "170",
+   "value2": "2"
+ },
+ {
+   "label": "BOMBERO",
+   "value": "171",
+   "value2": "1"
+ },
+ {
+   "label": "BIOLOGO",
+   "value": "172",
+   "value2": "1"
+ },
+ {
+   "label": "INSTALADOR",
+   "value": "173",
+   "value2": "5"
+ },
+ {
+   "label": "SOLDADOR",
+   "value": "174",
+   "value2": "4"
+ },
+ {
+   "label": "GERENTE",
+   "value": "175",
+   "value2": "1"
+ },
+ {
+   "label": "GUARDIA DE SEGURIDAD",
+   "value": "176",
+   "value2": "3"
+ },
+ {
+   "label": "PUBLICISTA",
+   "value": "177",
+   "value2": "5"
+ },
+ {
+   "label": "TOPOGRAFO",
+   "value": "178",
+   "value2": "1"
+ },
+ {
+   "label": "MERCADO/MERCADOTECNIA",
+   "value": "179",
+   "value2": "1"
+ },
+ {
+   "label": "SUBCONTRALOR/ASISTENTE CONTRALOR",
+   "value": "180",
+   "value2": "1"
+ },
+ {
+   "label": "DIPLOMATICO/PROTOCOLO",
+   "value": "181",
+   "value2": "1"
+ },
+ {
+   "label": "FUTBOLISTA",
+   "value": "182",
+   "value2": "1"
+ },
+ {
+   "label": "PERIODISTA",
+   "value": "183",
+   "value2": "5"
+ },
+ {
+   "label": "AGRIMENSOR",
+   "value": "184",
+   "value2": "1"
+ },
+ {
+   "label": "ALBAÑIL",
+   "value": "185",
+   "value2": "5"
+ },
+ {
+   "label": "ALFARERO",
+   "value": "186",
+   "value2": "1"
+ },
+ {
+   "label": "ANALISTA FINANCIERO",
+   "value": "187",
+   "value2": "2"
+ },
+ {
+   "label": "ARTESANO",
+   "value": "188",
+   "value2": "1"
+ },
+ {
+   "label": "ARTISTA",
+   "value": "189",
+   "value2": "1"
+ },
+ {
+   "label": "CIRUJANO",
+   "value": "190",
+   "value2": "1"
+ },
+ {
+   "label": "CONTADOR",
+   "value": "191",
+   "value2": "2"
+ },
+ {
+   "label": "CORREDOR DE ADUANAS",
+   "value": "192",
+   "value2": "1"
+ },
+ {
+   "label": "PASTELERO",
+   "value": "193",
+   "value2": "1"
+ },
+ {
+   "label": "HNA. RELIGIOSA",
+   "value": "194",
+   "value2": "1"
+ },
+ {
+   "label": "PILOTO DE BARCO",
+   "value": "195",
+   "value2": "1"
+ },
+ {
+   "label": "PROGRAMADOR",
+   "value": "196",
+   "value2": "1"
+ },
+ {
+   "label": "PSICOLOGO",
+   "value": "197",
+   "value2": "1"
+ },
+ {
+   "label": "DISEÑADOR GRAFICO",
+   "value": "198",
+   "value2": "5"
+ },
+ {
+   "label": "TENSADOR",
+   "value": "199",
+   "value2": "1"
+ },
+ {
+   "label": "INTERPRETE",
+   "value": "201",
+   "value2": "1"
+ },
+ {
+   "label": "TRADUCTOR",
+   "value": "204",
+   "value2": "1"
+ },
+ {
+   "label": "ASISTENTE DE FARMACIA",
+   "value": "205",
+   "value2": "5"
+ },
+ {
+   "label": "ASESOR",
+   "value": "207",
+   "value2": "4"
+ },
+ {
+   "label": "CONTRATISTA",
+   "value": "208",
+   "value2": "1"
+ },
+ {
+   "label": "FISOTERAPEUTA",
+   "value": "209",
+   "value2": "2"
+ },
+ {
+   "label": "CHEF DE COCINA",
+   "value": "210",
+   "value2": "4"
+ },
+ {
+   "label": "RECOLECTOR DE BASURA",
+   "value": "211",
+   "value2": "1"
+ },
+ {
+   "label": "TORNERO",
+   "value": "212",
+   "value2": "1"
+ },
+ {
+   "label": "OPERARIO",
+   "value": "213",
+   "value2": "5"
+ },
+ {
+   "label": "MISCELANEO",
+   "value": "214",
+   "value2": "1"
+ },
+ {
+   "label": "BODEGUERO",
+   "value": "215",
+   "value2": "3"
+ },
+ {
+   "label": "TRANSPORTISTA",
+   "value": "216",
+   "value2": "1"
+ },
+ {
+   "label": "AGENTE DE VENTAS",
+   "value": "217",
+   "value2": "5"
+ },
+ {
+   "label": "EMPLEADA DOMESTICA",
+   "value": "218",
+   "value2": "1"
+ },
+ {
+   "label": "TELEOPERADOR (A)",
+   "value": "219",
+   "value2": "2"
+ },
+ {
+   "label": "AUXILIAR DE PERSONALIZACION",
+   "value": "220",
+   "value2": "1"
+ },
+ {
+   "label": "TECNICO EN IMPRESION",
+   "value": "221",
+   "value2": "1"
+ },
+ {
+   "label": "AUXILIAR DE PERSONAL",
+   "value": "222",
+   "value2": "4"
+ },
+ {
+   "label": "CONTROL/CALIDAD",
+   "value": "223",
+   "value2": "3"
+ },
+ {
+   "label": "PEON",
+   "value": "224",
+   "value2": "2"
+ },
+ {
+   "label": "AUXILIAR",
+   "value": "225",
+   "value2": "4"
+ },
+ {
+   "label": "REPARADOR",
+   "value": "226",
+   "value2": "1"
+ },
+ {
+   "label": "AYUDANTE DE CONSTRUCCION",
+   "value": "227",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO DE ALIMENTOS",
+   "value": "139",
+   "value2": "1"
+ },
+ {
+   "label": "GUIA TURISTICO",
+   "value": "229",
+   "value2": "5"
+ },
+ {
+   "label": "CHOFER",
+   "value": "230",
+   "value2": "4"
+ },
+ {
+   "label": "SERVICIO AL CLIENTE",
+   "value": "231",
+   "value2": "4"
+ },
+ {
+   "label": "AYUDANTE",
+   "value": "232",
+   "value2": "5"
+ },
+ {
+   "label": "TURISMO",
+   "value": "233",
+   "value2": "1"
+ },
+ {
+   "label": "BANCARIO",
+   "value": "234",
+   "value2": "5"
+ },
+ {
+   "label": "AUXILIAR DE PROCESOS",
+   "value": "235",
+   "value2": "4"
+ },
+ {
+   "label": "AUXILIAR DE PRENSA",
+   "value": "236",
+   "value2": "4"
+ },
+ {
+   "label": "JEFE DE BODEGA",
+   "value": "237",
+   "value2": "3"
+ },
+ {
+   "label": "PENSIONADO",
+   "value": "238",
+   "value2": "1"
+ },
+ {
+   "label": "JEFE DE PROYECTOS",
+   "value": "239",
+   "value2": "5"
+ },
+ {
+   "label": "MANTENIMIENTO",
+   "value": "240",
+   "value2": "3"
+ },
+ {
+   "label": "PROMOTOR",
+   "value": "241",
+   "value2": "2"
+ },
+ {
+   "label": "FARMACEUTICO",
+   "value": "242",
+   "value2": "1"
+ },
+ {
+   "label": "ESTILISTA",
+   "value": "243",
+   "value2": "5"
+ },
+ {
+   "label": "SOPORTE TECNICO",
+   "value": "244",
+   "value2": "3"
+ },
+ {
+   "label": "ENCARGADO DE EXPENDIO",
+   "value": "245",
+   "value2": "1"
+ },
+ {
+   "label": "REDACTOR",
+   "value": "246",
+   "value2": "1"
+ },
+ {
+   "label": "COORDINADOR",
+   "value": "247",
+   "value2": "2"
+ },
+ {
+   "label": "JARDINERO",
+   "value": "248",
+   "value2": "1"
+ },
+ {
+   "label": "PROPIETARIO",
+   "value": "249",
+   "value2": "1"
+ },
+ {
+   "label": "ARMADOR",
+   "value": "250",
+   "value2": "1"
+ },
+ {
+   "label": "MICROBIOLOGO (A)",
+   "value": "251",
+   "value2": "1"
+ },
+ {
+   "label": "ENCARGADO DE CUADRILLA",
+   "value": "252",
+   "value2": "1"
+ },
+ {
+   "label": "CONSEJERO",
+   "value": "253",
+   "value2": "5"
+ },
+ {
+   "label": "MODELO",
+   "value": "254",
+   "value2": "1"
+ },
+ {
+   "label": "MAESTRO DE OBRAS",
+   "value": "255",
+   "value2": "3"
+ },
+ {
+   "label": "ZOOTECNISTA",
+   "value": "256",
+   "value2": "1"
+ },
+ {
+   "label": "LOCUTOR",
+   "value": "257",
+   "value2": "1"
+ },
+ {
+   "label": "ANFITRION",
+   "value": "258",
+   "value2": "1"
+ },
+ {
+   "label": "ENCARGADO VARIOS",
+   "value": "259",
+   "value2": "4"
+ },
+ {
+   "label": "BARTENDER",
+   "value": "260",
+   "value2": "5"
+ },
+ {
+   "label": "DISPLAY",
+   "value": "261",
+   "value2": "1"
+ },
+ {
+   "label": "CORREDOR DE BOLSA",
+   "value": "262",
+   "value2": "1"
+ },
+ {
+   "label": "POLITOLOGO",
+   "value": "263",
+   "value2": "1"
+ },
+ {
+   "label": "FILOSOFO",
+   "value": "264",
+   "value2": "1"
+ },
+ {
+   "label": "PRODUCTOR AUDIOVISUAL",
+   "value": "265",
+   "value2": "5"
+ },
+ {
+   "label": "AYUDANTE DE CARGA",
+   "value": "2030",
+   "value2": "1"
+ },
+ {
+   "label": "ANTROPÓLOGO",
+   "value": "276",
+   "value2": "3"
+ },
+ {
+   "label": "COMUNICADOR",
+   "value": "183",
+   "value2": "5"
+ },
+ {
+   "label": "DENTISTA",
+   "value": "159",
+   "value2": "1"
+ },
+ {
+   "label": "ESTADISTICO",
+   "value": "200",
+   "value2": "1"
+ },
+ {
+   "label": "ESTETICISTA",
+   "value": "687",
+   "value2": "5"
+ },
+ {
+   "label": "FÍSICO",
+   "value": "321",
+   "value2": "3"
+ },
+ {
+   "label": "FONTANERO",
+   "value": "123",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO AGRÓNOMO",
+   "value": "331",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO CIVIL",
+   "value": "139",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO INDUSTRIAL",
+   "value": "139",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO MECÁNICO",
+   "value": "337",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO QUÍMICO",
+   "value": "359",
+   "value2": "1"
+ },
+ {
+   "label": "INGENIERO SISTEMAS",
+   "value": "334",
+   "value2": "2"
+ },
+ {
+   "label": "MANIPULADOR DE ELECTORRADIOLOGÍA MÉDICA",
+   "value": "742",
+   "value2": "1"
+ },
+ {
+   "label": "OFTALMÓLOGO",
+   "value": "859",
+   "value2": "5"
+ },
+ {
+   "label": "PERITO MERCANTIL",
+   "value": "363",
+   "value2": "2"
+ },
+ {
+   "label": "PROCURADOR JUDICIAL",
+   "value": "1",
+   "value2": "1"
+ },
+ {
+   "label": "QUIROPRÁCTICO",
+   "value": "370",
+   "value2": "2"
+ },
+ {
+   "label": "RELACIONISTA PÚBLICO",
+   "value": "373",
+   "value2": "5"
+ },
+ {
+   "label": "SOCIÓLOGO",
+   "value": "380",
+   "value2": "3"
+ },
+ {
+   "label": "TÉCNICO DE REFRIGERACIÓN",
+   "value": "629",
+   "value2": "5"
+ },
+ {
+   "label": "TÉCNICO INFORMÁTICA",
+   "value": "384",
+   "value2": "5"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+   "value2": "32",
+   "value": "EMP",
+   "label": "EMPLEADOS"
+ },
+ {
+   "value2": "32",
+   "value": "GER",
+   "label": "GERENTE"
+ },
+ {
+   "value2": "32",
+   "value": "JEF",
+   "label": "JEFES"
+ },
+ {
+   "value2": "32",
+   "value": "JUD",
+   "label": "JUNTA DIRECTIVA"
+ }
+]

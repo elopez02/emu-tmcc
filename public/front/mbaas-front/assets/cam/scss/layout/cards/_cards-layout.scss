@@ -1,0 +1,140 @@
+
+/**
+* Modules - forms - Layout
+*/
+
+.cardsContainer
+{
+	width: 100%;
+	display: block;
+	@include prefix((
+		box-sizing: border-box,		 
+	), webkit moz o ms);
+	@include media(lg){
+		padding: em(32) 0;
+		border: solid 1px $color__lightgray;
+		padding: em(35) em(40);
+		background-image: url(src/assets/cam/img/layout/curve_bg.png);
+		background-position: right bottom;
+		background-repeat: no-repeat;
+		background-color: rgba($color__lightgray, 0.04);
+		border-radius: em(42);
+		@include prefix((
+			box-shadow: 0 0 em(8) rgba($color__text--light, 0.17)	 
+		), webkit moz o ms);
+	}
+	&__row
+	{
+		margin: em(40) 0;
+		width: 100%;
+		min-height: 100px;
+		@include prefix((
+			box-sizing: border-box,
+			display: flex,
+			justify-content: center,
+			align-items: flex-start,
+			flex-direction: column
+		), webkit moz o ms);
+		@include media(md){
+			@include prefix((
+				flex-direction: row,
+				flex-wrap: wrap
+			), webkit moz o ms);
+		}
+		@include media(lg){
+			@include prefix((
+				flex-direction: row,
+				flex-wrap: wrap
+			), webkit moz o ms);
+		}
+		.card
+		{
+			padding: em(25) em(30);
+			border-radius: em(20);
+			background: $color__inputs;
+			margin: 1rem 0;
+			width: 100%;
+			@include prefix((
+				box-sizing: border-box
+			), webkit moz o ms);
+			@include media(md){
+				font-size: 1.15em;
+				width: 45%;
+				margin: 1rem;
+			}
+			@include media(lg)
+			{
+				font-size: 1.15em;
+				width: 30%;
+				margin: 1rem;
+			}
+			&__header
+			{
+				border-bottom: solid 3px $color__primary;
+				width: 100%;
+				h3
+				{
+					font-weight: bold;
+					strong
+					{
+						color: $color__primary;
+					}
+				}
+			}
+			&__body
+			{
+				margin: em(12) 0;
+				@include media(md)
+				{
+					min-height: 13rem;
+				}
+				@include media(lg)
+				{
+					min-height: 14rem;
+				}
+				ul
+				{
+					padding: 0 em(15);
+					list-style: none;
+					li
+					{
+						&:before
+						{
+							content: "\2022";  
+							color: $color__primary;
+							font-weight: bold; 
+							display: inline-block; 
+							width: 1em;
+							margin-left: -1em; 
+						}
+					}
+				}
+			}
+			&__footer
+			{
+				margin-top: em(20);
+				@include prefix((
+					box-sizing: border-box,
+					display: flex,
+					justify-content: flex-end,
+					align-items: center
+				), webkit moz o ms);
+				span
+				{
+					color: $color__primary;
+					margin-right: em(10);
+				}
+				img
+				{
+					width: 20px;
+				}
+			}
+		}
+	}
+	&__buttonContainer
+	{
+		width: 100%;
+		margin: em(40) 0;
+		display: block;
+	}
+}

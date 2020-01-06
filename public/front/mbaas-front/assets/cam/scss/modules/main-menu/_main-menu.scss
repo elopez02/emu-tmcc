@@ -1,0 +1,65 @@
+
+/**
+ * Modules - menu module
+ */
+
+.mainMenu
+{
+    padding: em(16);
+    border-radius: em(20);
+    height: em(80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-bottom: em(20);
+    background-size: 110%;
+    background-position: center center;
+    @include prefix((
+        box-sizing: border-box,
+        display: flex,
+        flex-direction: row,
+        align-items: center,
+        justify-content: center,
+    ), webkit moz o ms);
+    @include media(lg){
+        border-radius: em(35);
+        height: em(120);
+    }
+    &:nth-child(1){
+        background-image: URL("/assets/cam/img/layout/credito_movil.png");
+    }
+    &:nth-child(2){
+        background-image: URL("/assets/cam/img/layout/cuenta_movil.png");
+    }
+    &:nth-child(3){
+        background-image: URL("/assets/cam/img/layout/tarjeta_movil.png");
+    }
+    &__content{
+        flex-grow: 12;
+        position: relative;
+        margin: 0 em(5) 0 30px;
+        padding: 0 em(7);
+        text-align: center;
+        @include prefix((
+            box-sizing: border-box,
+            display: flex,
+            flex-direction: column,
+            align-items: center,
+            justify-content: center,
+            flex: 1
+        ), webkit moz o ms);
+        @include media(lg){
+            font-size: 1.4rem;
+        }
+        h6
+        {
+            margin-bottom: 0;
+        }
+        h3{
+            margin-bottom: em(3);
+        }
+    }
+    img{
+        width: 25px;
+    }
+}

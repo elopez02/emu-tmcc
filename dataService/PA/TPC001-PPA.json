@@ -1,0 +1,42 @@
+[
+    {
+    "id": "0",
+    "titulo": "Cuenta Digital",
+    "caracteristicas": [
+            {
+                "id": "0",
+                "descripcion": "Apertura de cuenta de ahorro en línea, de manera inmediata."
+            },
+            {
+                "id": "1",
+                "descripcion": "Los depósitos y retiros mensuales no puedes superar el monto de $5.000.oo USD"
+            },
+            {
+                "id": "2",
+                "descripcion": "El saldo máximo en la cuenta no debe superar los $5.000.oo USD."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "titulo": "Cuenta Regular",
+        "caracteristicas": [
+                {
+                    "id": "0",
+                    "descripcion": "Cuenta aplica tarjeta débito."
+                },
+                {
+                    "id": "1",
+                    "descripcion": "Anualidad gratis de tarjeta débito."
+                },
+                {
+                    "id": "2",
+                    "descripcion": "Anualidad de $30.00."
+                },
+                {
+                    "id": "3",
+                    "descripcion": "El depósito inicial no puede superar el monto registrado en el proceso de apertura."
+                }
+            ]
+        }
+]

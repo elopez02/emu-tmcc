@@ -1,0 +1,54 @@
+.tooltip
+{
+	position: relative;
+	font-size: 12px;
+	&__trigger
+	{
+		background-color: $color__tooltip;
+		color: white !important;
+		width: em(25);
+		height: em(25);
+		text-decoration: none !important;
+		border-radius: 50%;
+		right: em(20);
+		top: em(57);
+		position: relative;
+		cursor: pointer;
+		@include prefix((
+			box-sizing: border-box,
+			appearance: none,
+			display: flex,
+			justify-content: center,
+			align-items: center,
+		), webkit moz o ms);
+		&:hover ~ .tooltip__message
+		{
+			@include prefix((
+				opacity: 1,
+				pointer-events: aoto,
+				transform: translateY(0),
+			), webkit moz o ms);
+		}
+	}
+	&__message
+	{
+		width: em(350);
+		padding: em(28);
+		background-color: $color__lightgray;
+		position: absolute;
+		top: em(60);
+		right: 0;
+		border-radius: em(15);
+		font-size: em(15);
+		line-height: em(21);
+		font-weight: 500;
+		z-index: 10;
+		@include prefix((
+			box-sizing: border-box,
+			opacity: 0,
+			transition: ease all 0.3s,
+			pointer-events: none,
+			transform: translateY(2em),
+			), webkit moz o ms);
+	}
+}

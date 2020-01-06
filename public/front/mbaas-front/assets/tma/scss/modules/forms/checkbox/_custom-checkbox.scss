@@ -1,0 +1,137 @@
+
+/**
+* Modules - forms - checkbox
+*/
+
+/* Customize the label (the checkboxContainer) */
+.checkboxContainer {
+	display: inline-block;
+	position: relative;
+	padding-left: 35px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	margin: 0 auto em(21) auto;
+	font-size: 13px;
+	font-weight: 200;
+	line-height: normal;
+	background-color: transparent !important;
+	width: 100%;
+	&--blocks
+	{
+		width: 50%;
+		margin: 0 0 em(15) 0;
+		@include media(sm)
+		{
+			width: 33.3%;
+		}
+		@include media(md)
+		{
+			width: 33.3%;
+		}
+		@include media(lg)
+		{
+			width: 50%;
+		}
+		@include media(xlg)
+		{
+			width: 25%;
+			margin: 0 0 em(20) 0;
+		}
+	}
+	span
+	{
+		a
+		{
+			cursor: pointer;
+			color: $color__primary !important;
+			display: inline-block;
+			margin: 0 em(5);
+			font-weight: bold;
+			pointer-events: auto !important;
+		}
+	}
+	@include prefix((
+		appearance: none,
+		box-sizing: border-box,
+		display: flex,
+		justify-content: flex-start,
+		align-items: center
+	), webkit moz o ms);
+}
+
+/* Hide the browser's default checkbox */
+input[type="checkbox"] {
+	position: absolute;
+	opacity: 0;
+	z-index: 10;
+	cursor: pointer;
+	height: 100%;
+	width: 20px;
+	top: 0;
+	left: 0;
+	@include media(xlg)
+	{
+		/* On mouse-over, add a primary background color */
+		&:hover ~ .checkmark
+		{
+			background-color: $color__primary;
+		}
+	}
+}
+
+/* Create a custom checkbox */
+.checkmark {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 18px;
+	width: 18px;
+	background-color: rgba($color__primary, 0.3);
+	border-radius: 3px;
+	overflow: hidden;
+	@include prefix((
+		box-sizing: border-box,
+		display: flex,
+		justify-content: center,
+		align-items: center,
+		box-shadow: none,
+		outline: none,
+		transition: ease all 0.3s
+	), webkit moz o ms);
+	&:after 
+	{
+		font-family: 'icomoon';
+		content: "\e901";
+		color: white;
+		font-size: 14px;
+		@include prefix((
+			transition: ease all 0.3s,
+			transform: translateY(2em)
+		), webkit moz o ms);
+	}
+	@include media(xlg)
+	{
+		/* On mouse-over, add a primary background color */
+		&:hover
+		{
+			background-color: $color__primary;
+		}
+	}
+}
+
+/* When the checkbox is checked, add a primary background */
+
+input[type="checkbox"]:checked ~ .checkmark {
+	background-color: $color__primary;
+}
+
+/* Show the checkmark when checked */
+
+input[type="checkbox"]:checked ~ .checkmark:after {
+	@include prefix((
+		transform: translateY(0)
+	), webkit moz o ms);
+}

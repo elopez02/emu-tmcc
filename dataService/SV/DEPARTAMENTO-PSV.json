@@ -1,0 +1,22 @@
+[
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "01", "label": "AHUACHAPAN"},
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "02", "label": "SANTA ANA" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "03", "label": "SONSONATE" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "04", "label": "CHALATENANGO" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "05", "label": "LA LIBERTAD" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "06", "label": "SAN SANLVADOR" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "07", "label": "CUSCATLAN" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "08", "label": "LA PAZ" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "09", "label": "CABAÑAS" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "10", "label": "SAN VINCENTE" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "11", "label": "USULUTAN" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "12", "label": "SAN MIGUEL" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "13", "label": "MORAZAN" },
+    { "value_pais": "01", "label_pais": "EL SALVADOR", "value": "14", "label": "LA UNION" },
+    { "value_pais": "15", "label_pais": "GUATEMALA", "value": "15", "label": "GUATEMALA" },
+    { "value_pais": "16", "label_pais": "HONDURAS", "value": "16", "label": "HONDURAS" },
+    { "value_pais": "17", "label_pais": "NICARAGUA", "value": "17", "label": "NICARAGUA" },
+    { "value_pais": "18", "label_pais": "COSTA RICA", "value": "18", "label": "COSTA RICA" },
+    { "value_pais": "19", "label_pais": "ESTADOS UNIDOS", "value": "19", "label": "ESTADOS UNIDOS" },
+    { "value_pais": "20", "label_pais": "RESTO DEL MUNDO", "value": "20", "label": "RESTO DEL MUNDO" }
+]
