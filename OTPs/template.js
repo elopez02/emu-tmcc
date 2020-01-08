@@ -10,7 +10,14 @@ module.exports = {
     },
     TEMP001: {
         status: 1,
-        payload: {}
+        payload: {
+            title: 'Beneficios Tajeta Movil Compra Cartera',
+            beneficios: [
+                { value: 2, label: 'Retiros sin Tarjetas' },
+                { value: 1, label: 'Administracion de cuentas' },
+                { value: 3, label: 'Consultas de saldos de cuentas' }
+            ]
+        }
     },
     TEMP002: {
         status: 1,

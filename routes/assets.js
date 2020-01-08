@@ -21,7 +21,7 @@ router.get('/:assets_id', (req, res) => {
   // if( query.lenguaje ) {
   //   file = `${file}-L${query.lenguaje}`
   // }
-  file = `${file}.${query.type}`
+  // file = `${file}.${query.type}`
   res.sendFile(file, { root: path.join(__dirname, '../assets') });
 });
 

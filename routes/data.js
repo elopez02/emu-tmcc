@@ -16,13 +16,14 @@ const respuesta = (req, res) => {
         const query = req.query;
         file = req.params.data_id;
         if( query.pais ) {
-          file = `${file}-P${query.pais}`
+          // file = `${file}-P${query.pais}`
+          file = `${file}`
         }
         file = `${file}.json`
-        if ( query.pais ) {
-          res.sendFile(file, { root: path.join(__dirname, `../dataService/${query.pais}`) });
-          return;
-        }
+        // if ( query.pais ) {
+        //   res.sendFile(file, { root: path.join(__dirname, `../dataService/${query.pais}`) });
+        //   return;
+        // }
         res.sendFile(file, { root: path.join(__dirname, '../dataService') });
         return;
        }
@@ -36,3 +37,5 @@ router.get('/:data_id', respuesta);
 router.get('/:data_id/:filtro', respuesta);
 
 module.exports = router;
+
+// 
