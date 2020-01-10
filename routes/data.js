@@ -24,7 +24,7 @@ const respuesta = (req, res) => {
         //   res.sendFile(file, { root: path.join(__dirname, `../dataService/${query.pais}`) });
         //   return;
         // }
-        res.sendFile(file, { root: path.join(__dirname, '../dataService') });
+        res.sendFile(file, { root: path.join(__dirname, '../dataService/CO') });
         return;
        }
        return res.json(res2.body);
