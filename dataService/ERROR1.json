@@ -1,8 +1,0 @@
-{
-    "buttons": [{
-        "callback": "https://www.google.com.mx",
-        "buttonText": "PRUEBA"
-    }],
-    "title": "PRUEBA",
-    "message": "PRUEBA"
-}
