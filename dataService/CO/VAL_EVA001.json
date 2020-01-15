@@ -1,0 +1,58 @@
+[
+    {
+        "ingresosMensuales": {
+            "validations": {
+                "required": true
+            },
+            "errorMessages": {}
+        },
+        "actividadLaboral": {
+            "validations": {
+                "required": true
+            },
+            "errorMessages": {}
+        },
+        "nombreEmpresa": {
+            "validations": {
+                "required": true
+            },
+            "errorMessages": {}
+        },
+        "tipoContrato": {
+            "validations": {
+                "required": true
+            },
+            "errorMessages": {}
+        },
+        "actividadEconomica": {
+            "validations": {
+                "required": true
+            },
+            "errorMessages": {}
+        },
+        "ciudad": {
+            "validations": {
+                "required": true
+            },
+            "errorMessages": {}
+        },
+        "direccion": {
+            "validations": {
+                "required": true
+            },
+            "errorMessages": {}
+        },
+        "codigoAsesor": {
+            "validations": {},
+            "errorMessages": {}
+        },
+        "aceptarAutorizacion": {
+            "validations": {
+                "requiredTrue": true
+            },
+            "errorMessages": {
+                "requiredTrue": "Debe aceptar la autorización para poder continuar."
+            }
+        }
+    }
+]
