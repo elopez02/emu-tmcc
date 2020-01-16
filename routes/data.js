@@ -7,7 +7,7 @@ const path = require('path');
 
 const respuesta = (req, res) => {
 
-  var fullUrl = 'https://mbaas.desa.cam.davivienda.com/catalogo/v1'+ req.originalUrl;
+  var fullUrl = 'https://mbaas.desa.co.davivienda.com/catalogo/v1'+ req.originalUrl;
   // var fullUrl = ''+ req.originalUrl;
 
     request(fullUrl, { json: true }, (err, res2, body) => {
