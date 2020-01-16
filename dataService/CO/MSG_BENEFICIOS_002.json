@@ -1,0 +1,8 @@
+[{
+	"buttons": [{
+		"callback": "https://davivienda.com",
+		"buttonText": "Continuar"
+	}],
+	"title": "ERROR",
+	"message": "Cliente del banco, inicie session en zona privada"
+}]
