@@ -1,9 +1,12 @@
-[{
+[
+  {
     "buttons": [
-        {
-          "buttonText": "Acepto"
-        }
-      ],
-      "title": "",
-      "message": "FORMULARIO_VINCULACION"
-}]
+      {
+        "buttonText": "Aceptar",
+        "class": "button button--primary"
+      }
+    ],
+    "title": "",
+    "message": "AUTORIZACIONES"
+  }
+]
