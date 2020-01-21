@@ -1,8 +1,12 @@
-[{
-	"buttons": [{
-		"callback": "https://davivienda.com",
-		"buttonText": "Continuar"
-	}],
-	"title": "ERROR",
-	"message": "Cliente del banco, inicie session en zona privada"
-}]
+[
+	{
+		"message": "Por el momento, no podemos atender su solicitud por este canal.",
+		"title": "Error de comunicación",
+		"buttons": [
+			{
+				"callback": "www.davivienda.com/success",
+				"buttonText": "Continuar"
+			}
+		]
+	}
+]
