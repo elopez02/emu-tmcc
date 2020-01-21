@@ -1,0 +1,11 @@
+[
+  {
+    "message": "Para realizar su solicitud de Tarjeta Móvil, es necesario que actualice su información personal en una de nuestras oficinas.",
+    "buttons": [
+      {
+        "callback": "www.davivienda.com/success",
+        "buttonText": "Continuar"
+      }
+    ]
+  }
+]

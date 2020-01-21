@@ -1,0 +1,17 @@
+[
+  {
+    "mbaasCode": "1",
+    "value": "E",
+    "descripcion": "Empleado"
+  },
+  {
+    "mbaasCode": "2",
+    "value": "I",
+    "label": "Independiente"
+  },
+  {
+    "mbaasCode": "3",
+    "value": "P",
+    "label": "Pensionado"
+  }
+]
