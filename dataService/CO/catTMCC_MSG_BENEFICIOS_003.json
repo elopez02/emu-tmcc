@@ -1,0 +1,11 @@
+[
+  {
+    "message": "Usted alcanzó el límite de negaciones de Tarjeta Móvil. Le invitamos a realizar una nueva solicitud a partir del día.",
+    "buttons": [
+      {
+        "callback": "www.davivienda.com/success",
+        "buttonText": "Continuar"
+      }
+    ]
+  }
+]

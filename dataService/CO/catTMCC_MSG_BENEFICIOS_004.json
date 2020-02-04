@@ -1,0 +1,10 @@
+[
+  {
+    "message": "Lo sentimos, esta opción solo está disponible para clientes con cédula de ciudadanía colombiana.Lo invitamos a realizar la solicitud de Tarjeta Móvil en nuestras oficinas de servicio.",
+    "buttons": [
+      {
+        "buttonText": "Continuar"
+      }
+    ]
+  }
+]

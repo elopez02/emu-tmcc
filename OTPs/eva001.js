@@ -20,7 +20,6 @@ module.exports = {
     EVA001: {
         status: 1,
         payload: {
-            idCiudad: "11001",
             direccion: "Carrera 009 #116-08",
         }
     },

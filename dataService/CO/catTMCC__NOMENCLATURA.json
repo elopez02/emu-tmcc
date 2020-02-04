@@ -1,0 +1,22 @@
+[
+  {
+    "mbaasCode": "1",
+    "value": "Cll",
+    "descripcion": "Calle"
+  },
+  {
+    "mbaasCode": "2",
+    "value": "Cra",
+    "descripcion": "Carrera"
+  },
+  {
+    "mbaasCode": "3",
+    "value": "Trv",
+    "descripcion": "Transversal"
+  },
+  {
+    "mbaasCode": "4",
+    "value": "Dg",
+    "descripcion": "Diagonal"
+  }
+]

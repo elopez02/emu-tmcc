@@ -10,6 +10,7 @@ module.exports = {
     BEN001: {
         status: 1,
         payload: {
+            message: 'MSG_RETOMA',
             pais: 'CO',
             modulo: 'TMCC',
             canal: '37',

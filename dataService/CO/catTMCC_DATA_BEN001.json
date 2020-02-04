@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "icono": "image-tc-bnft1",
+        "descripcion": "Solicitud 100% digital y sin cobros por comisión de trámite."
+    },
+    {
+        "id": "2",
+        "icono": "image-tc-bnft2",
+        "descripcion": "Uso inmediato a través del app Davipay."
+    },
+    {
+        "id": "3",
+        "icono": "image-tc-bnft5",
+        "descripcion": "Cuenta con Seguro de vida o incapacidad total y permanente que cubre el saldo de la deuda."
+    },
+    {
+        "id": "4",
+        "icono": "image-tc-bnft4",
+        "descripcion": "Posibilidad de realizar compra de cartera de tarjetas que tenga en otros bancos a tasa preferencial."
+    },
+    {
+        "id": "5",
+        "icono": "image-tc-bnft3",
+        "descripcion": "Sin cuota de manejo, mientras haga uso de su tarjeta mensualmente."
+    }
+]
