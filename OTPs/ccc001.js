@@ -12,26 +12,35 @@ module.exports = {
     status: 1,
     payload: {
       cupoCartera: "18500",
+      cupoTotalTarjeta: "17000",
       tarjetasBancos: [
         {
           banco: "BBVA",
           tipo: "CV",
-          saldo: "5000.99"
+          saldo: "5000",
+          saldoMinimo: "1000",
+          saldoMaximo: "4500"
         },
         {
           banco: "Santander",
           tipo: "CM",
-          saldo: "17500.36"
+          saldo: "17500",
+          saldoMinimo: "200",
+          saldoMaximo: "8000"
         },
         {
           banco: "Am - Ex.",
           tipo: "AE",
-          saldo: "3500.00"
+          saldo: "3500",
+          saldoMinimo: "500",
+          saldoMaximo: "3000"
         },
         {
           banco: "Banamex",
           tipo: "CM",
-          saldo: "1700.96"
+          saldo: "1700",
+          saldoMinimo: "100",
+          saldoMaximo: "1000"
         }
       ]
     }
