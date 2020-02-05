@@ -2,14 +2,14 @@
   {
     "buttons": [
       {
-        "buttonText": "Aceptar"
-      },
-      {
         "buttonText": "Cancelar",
         "class": "button button--secondary"
+      },
+      {
+        "buttonText": "Aceptar"
       }
     ],
     "title": "",
-    "message": "¿Tiene una retoma de datos pendiente, desea continuar con dicha retoma?"
+    "message": ""
   }
 ]

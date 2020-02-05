@@ -22,6 +22,16 @@ module.exports = {
         payload: {
             idCiudad: "169:91:407",
             direccion: "Carrera 009 #116-08",
+            formulario: {
+                ingresosMensuales: "2050000",
+                actividadLaboral: "E",
+                nombreEmpresa: "Nombre de la empresa",
+                tipoContrato: "0001",
+                actividadEconomica: "",
+                ciudad: "169:91:407",
+                codigoAsesor: "001",
+                autorizacion: false
+            }
         }
     },
 };
