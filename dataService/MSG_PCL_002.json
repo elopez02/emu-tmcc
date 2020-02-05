@@ -2,8 +2,8 @@
   {
     "buttons": [
       {
-        "callback": "https://davivienda.com",
-        "buttonText": "Continuar"
+        "callback": "BEN001",
+        "buttonText": "Aceptar"
       }
     ],
     "title": "ERROR",
