@@ -1,5 +1,4 @@
 module.exports = {
-<<<<<<< HEAD
   // TOKEN DEL EMU
   // token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IkNSIiwibW9kdWxvIjoicXVlPz8_In0.2UplU6K0DBOTsikhlNbNq2IcgvkkoIIG4GEXym1ovKE',
   // TOKEN DE PRESENTACION CLIENTE
@@ -12,83 +11,60 @@ module.exports = {
   CCC001: {
     status: 1,
     payload: {
-      cupoCartera: "18500",
+      cupoCompraCartera: "18500",
       cupoTotalTarjeta: "17000",
-      tarjetasBancos: [
+      productos: [
         {
-          banco: "BBVA",
-          tipo: "CV",
-          saldo: "5000",
-          saldoMinimo: "1000",
-          saldoMaximo: "4500"
+          descProducto: "TARJETA DE CREDITO Master Card",
+          nitEntidad: "8903002794",
+          nombreEntidad: "Banco de Occidente S.A.",
+          numeroProducto: "2115432165",
+          saldoActual: 1000000,
+          tipoProducto: "TDC",
+          valorMinimoCompra: 950000,
+          valorMaximoCompra: 105000
         },
         {
-          banco: "Santander",
-          tipo: "CM",
-          saldo: "17500",
-          saldoMinimo: "200",
-          saldoMaximo: "8000"
+          descProducto: "TARJETA DE CREDITO Master Card",
+          nitEntidad: "8903002794",
+          nombreEntidad: "Banco de Occidente S.A.",
+          numeroProducto: "2115432165",
+          saldoActual: 1000000,
+          tipoProducto: "TDC",
+          valorMinimoCompra: 950000,
+          valorMaximoCompra: 105000
         },
         {
-          banco: "Am - Ex.",
-          tipo: "AE",
-          saldo: "3500",
-          saldoMinimo: "500",
-          saldoMaximo: "3000"
+          descProducto: "TARJETA DE CREDITO Master Card",
+          nitEntidad: "8903002794",
+          nombreEntidad: "Banco de Occidente S.A.",
+          numeroProducto: "2115432165",
+          saldoActual: 1000000,
+          tipoProducto: "TDC",
+          valorMinimoCompra: 950000,
+          valorMaximoCompra: 105000
         },
         {
-          banco: "Banamex",
-          tipo: "CM",
-          saldo: "1700",
-          saldoMinimo: "100",
-          saldoMaximo: "1000"
-=======
-    // TOKEN DEL EMU
-    // token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IkNSIiwibW9kdWxvIjoicXVlPz8_In0.2UplU6K0DBOTsikhlNbNq2IcgvkkoIIG4GEXym1ovKE',
-    // TOKEN DE PRESENTACION CLIENTE
-    token:
-        "eyJhbGciOiJSUzI1NiIsImprdSI6Imh0dHBzOi8vbWJhYXMuZGVzYS5jby5kYXZpdmllbmRhLmNvbS9hdXRoL3YxL2tleXN0b3JlLy53ZWxsLWtub3duL2p3a3MuanNvbiIsImtpZCI6IjE1Njc3MzYzNzAifQ.eyJhdWQiOiJEQVY6Q0xPVUQ6QVVUSCIsImV4cCI6MTU2ODY0OTM5NCwiaWF0IjoxNTY4NjQ4Nzk0LCJpc3MiOiJEQVY6Q0xPVUQ6QVVUSCIsInN1YiI6IjI2NmE1NzEwLWQ4OTktMTFlOS05NjFjLTQ3Nzc2MTFlOTA5NSIsInVzZSI6ImEiLCJwcm9kdWN0IjoiTU5VSU5HX1NWXzQ4IiwianRpIjoiMjkxZWExYTAtZDg5OS0xMWU5LTkzYzktMWQ1OWYzY2Q2OTczIn0.ZkeBZi1bELE7hDRIndfsRlPIPa14Hm_zxxiZ1MkT7EOqspbQucDaUIA594YAmV4f-zHDWqRRzxwrx7CB-2KaxNJaebwLrDlj3cIksnLZGaZ9n9wiQdmHmoZbuFTNhQimBQvKRZCMuemkPYMHrXkIyu967P23gQ-1U5iD-mSX-Teqg37f71nOYDX7H_FNqc8W9SRWfuoT0ZakyoF20DdjaIt8kkI3mCmrC7k5VEFYHDgj-6wDgwAE3vPjvwD2Y2QHPBnGiLnk6Nnu91LnGPweTX908uQG81tgi97uxFzl3jY1ciGf1E4pTEqmhygfZm5jMbxcbF12F0xY9rC-fhiT1w",
-    workflow: {
-        APPBOOT: "BEN001",
-        BEN001: "APPBOOT",
-        CCC001: "BEN001"
-    },
-    BEN001: {
-        status: 1,
-        payload: {
-            pais: 'CO',
-            modulo: 'TMCC',
-            canal: '37',
-            lenguaje: 'ES'
+          descProducto: "TARJETA DE CREDITO Master Card",
+          nitEntidad: "8903002794",
+          nombreEntidad: "Banco de Occidente S.A.",
+          numeroProducto: "2115432165",
+          saldoActual: 1000000,
+          tipoProducto: "TDC",
+          valorMinimoCompra: 950000,
+          valorMaximoCompra: 105000
+        },
+        {
+          descProducto: "TARJETA DE CREDITO Master Card",
+          nombreEntidad: "Banco de Occidente S.A.",
+          nitEntidad: "8903002794",
+          numeroProducto: "2115432165",
+          saldoActual: 1000000,
+          tipoProducto: "TDC",
+          valorMinimoCompra: 950000,
+          valorMaximoCompra: 105000
         }
-    },
-    CCC001: {
-        status: 1,
-        payload: {
-            cupoCartera: "18500",
-            tarjetasBancos: [
-                {
-                    banco: "BBVA",
-                    tipo: "CV",
-                    saldo: "5000.99"
-                },
-                {
-                    banco: "Santander",
-                    tipo: "CM",
-                    saldo: "17500.36"
-                },
-                {
-                    banco: "Am - Ex.",
-                    tipo: "AE",
-                    saldo: "3500.00"
-                },
-                {
-                    banco: "Banamex",
-                    tipo: "CM",
-                    saldo: "1700.96"
-                }
-            ]
->>>>>>> 5b4a4f1ee6903dbee5e1e40822cbaa8c88de310d
-        }
+      ]
     }
+  }
 };
