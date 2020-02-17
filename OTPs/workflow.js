@@ -9,7 +9,7 @@ module.exports = {
     BEN001: "EVA001",
     EVA001: "EVA002",
     EVA002: "CCC001",
-    CCC001: 'BEN001'
+    CCC001: "BEN001"
   },
   BEN001: {
     status: 1,
@@ -23,8 +23,18 @@ module.exports = {
   EVA001: {
     status: 1,
     payload: {
-      ciudad: "169:91:407",
-      direccion: "Carrera 009 #116-08"
+      idCiudad: "169:91:407",
+      direccion: "Carrera 009 #116-08",
+      formulario: {
+        ingresosMensuales: "2050000",
+        actividadLaboral: "E",
+        nombreEmpresa: "Nombre de la empresa",
+        tipoContrato: "0001",
+        actividadEconomica: "",
+        ciudad: "169:91:407",
+        codigoAsesor: "001",
+        autorizacion: false
+      }
     }
   },
   EVA002: {
@@ -36,11 +46,10 @@ module.exports = {
         cupoCartera: "18500",
         tasaMV: "1.5",
         tasaEA: "16"
-
       },
       sinCompraCartera: {
         aprobado: true,
-        cupoCartera: "12000",
+        cupoTarjeta: "12000"
       }
     }
   },
