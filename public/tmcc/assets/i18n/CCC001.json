@@ -1,0 +1,31 @@
+{
+  "pageTie": "",
+  "principalButton": "Continuar",
+  "backButton": "Atrás",
+  "backButtonWeb": "Regresar",
+  "header": {
+    "title": "Para continuar con la <strong>Compra de Cartera</strong>, tenga a mano las <strong>tarjetas</strong> de otros bancos y el <strong>saldo actual</strong> de la deuda.",
+    "subTitle": "Seleccione las obligaciones para <strong>Compra de Cartera</strong>, sin exceder <strong>{{value}}</strong>"
+  },
+  "tarjetaBanco": {
+    "saldo": "Saldo de la tarjeta:"
+  },
+  "icons": {
+    "photographic": "assets/img/layout/icon_dv_camera.svg"
+  },
+  "tooltip": {
+    "saldo": "Ingrese el saldo actual de su tarjeta de crédito, si no lo conoce ingrese el saldo reportado en su último extracto.<br /><br /> Este valor no puede ser menor a {{minValue}} ni mayor a {{maxValue}}"
+  },
+  "placeHolder": {
+    "numeroTarjeta": "Ingrese el número de la tarjeta",
+    "valorCompraCartera": "Ingrese el saldo actual de la tarjeta"
+  },
+  "modal": {
+    "valorMinimoCompra": "Para esta obligación el valor indicado es <strong>inferior</strong> al valor <strong>mínimo</strong> a comprar.</br></br>El valor mínimo es de <strong>${minValue}</strong> y el valor máximo es de <strong>${maxValue}.</strong>",
+    "valorMaximoCompra": "Para esta obligación el valor indicado es <strong>superior</strong> al valor <strong>máximo</strong> a comprar.</br></br>El valor mínimo es de <strong>${minValue}</strong> y el valor máximo es de <strong>${maxValue}.</strong>"
+  },
+  "modalCanguro": {
+    "valorTarjetaText": "Valor tarjetas seleccionadas:",
+    "cupoTarjetaText": "Cupo total de la tarjeta"
+  }
+}

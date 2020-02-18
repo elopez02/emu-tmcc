@@ -1,0 +1,60 @@
+
+// =============================================================================
+// String Replace
+// =============================================================================
+
+@function str-replace($string, $search, $replace: "") {
+	$index: str-index($string, $search);
+
+	@if $index {
+		@return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+	}
+
+	@return $string;
+}
+
+// =============================================================================
+// Font Face - mixin
+// =============================================================================
+
+@mixin font-face($name, $path, $weight: null, $style: null, $exts: eot woff2 woff ttf svg) {
+	$src: null;
+
+	$extmods: (
+		eot: "?",
+		svg: "#" + str-replace($name, " ", "_")
+	);
+
+	$formats: (
+		otf: "opentype",
+		ttf: "truetype"
+	);
+
+	@each $ext in $exts {
+		$extmod: if(map-has-key($extmods, $ext), $ext + map-get($extmods, $ext), $ext);
+		$format: if(map-has-key($formats, $ext), map-get($formats, $ext), $ext);
+		// $src: append($src, url(quote("/soat/assets/" + $path + "." + $extmod)) format(quote($format)), comma);
+		// FIXME - Change for develop
+		$src: append($src, url(quote("/tmcc/assets/" + $path + "." + $extmod)) format(quote($format)), comma);
+
+	}
+
+	@font-face {
+		font-family: quote($name);
+		font-style: $style;
+		font-weight: $weight;
+		src: $src;
+	}
+}
+
+/**
+ * Font familys - include.
+ */
+
+@include font-face("Roboto", fonts/Roboto-Light, 100, normal);
+@include font-face("Roboto", fonts/Roboto-Regular, normal, normal);
+@include font-face("Roboto", fonts/Roboto-Medium, 500, normal);
+@include font-face("Roboto", fonts/Roboto-Bold, bold, normal);
+
+@include font-face("Roboto Condensed", fonts/RobotoCondensed-Regular, normal, normal);
+@include font-face("Roboto Condensed", fonts/RobotoCondensed-Bold, bold, normal);

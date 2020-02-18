@@ -1,0 +1,62 @@
+
+/**
+* Modules - forms - Primary button
+*/
+
+.buttonContainer{
+    width: 100%;
+    margin: 0;
+    padding: em(10);
+    margin-bottom: 15%;
+    @include prefix((
+        display: flex,
+        justify-content: center,
+        align-items: center,
+    ), webkit moz o ms);
+}
+
+.button {
+    min-width: em(110);
+    outline: none !important;
+    color: white !important;
+    text-align: center;
+    width: auto;
+    border: none;
+    padding: em(5) em(15);
+    margin: 0 em(8);
+    border-radius: 6px;
+    transition: all 0.3s;
+    font-weight: bold;
+    letter-spacing: em(0.7);
+    cursor: pointer;
+    &--primary
+    {
+        background-color: $rojo;
+        &:hover, &.active {
+            background-color: darken($rojo, 3%) !important;
+        }
+    }
+    &--secondary
+    {
+        background-color: $gris-93;
+        &:hover{
+            background-color: darken($gris-93, 7%) !important;
+        }
+    }
+    &--mobileHidden
+    {
+        display: none;
+    }
+    @include media(lg){
+        &--mobileHidden
+        {
+            display: block;
+        }
+    }
+    @include media(xlg){
+        &--mobileHidden
+        {
+            display: block;
+        }
+    }
+}

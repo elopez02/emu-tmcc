@@ -1,0 +1,18 @@
+{
+  "forbidden": {
+    "pageTitle": "Acceso denegado",
+    "pageMessage": "Lo sentimos, esta página no se encuentra disponible."
+  },
+  "appBoot": {
+    "pageTitle": "Conectando",
+    "pageMessage": "Por favor espera"
+  },
+  "TEMP001": {
+    "pageTitle": "PAGINA TEMP001",
+    "principalButton": "Continuar"
+  },
+  "TEMP002": {
+    "pageTitle": "PAGINA TEMP002",
+    "principalButton": "Regresar"
+  }
+}

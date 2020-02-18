@@ -1,0 +1,142 @@
+.tooltip
+{
+	// display: inline-block;
+	@include prefix((
+		display: flex,
+		justify-content: center,
+		align-items: center,
+	), webkit moz o ms);
+	&__radio {
+		@include prefix((
+			display: contents !important
+		), webkit moz o ms);
+	}
+	&--ib
+	{
+		width: auto;
+		display: inline-block;
+	}
+	&--lateral
+	{
+		position: absolute;
+		bottom: 8px;
+		right: 10px;
+		width: 20px;
+		height: 20px;	
+		z-index: 10;
+	}
+	&__trigger
+	{
+		text-decoration: none;
+		border-radius: 50%;
+		position: relative;
+		&--text
+		{
+			width: auto;
+			display: inline-block;
+			height: auto;
+			bottom: 0;
+			text-decoration: underline;
+			cursor: pointer;
+		}
+        img
+        {
+            width: 100%;
+        }
+		@include prefix((
+			box-sizing: border-box,
+			appearance: none,
+			display: flex,
+			justify-content: center,
+			align-items: center,
+		), webkit moz o ms);
+		&:hover ~ .tooltip__message
+		{
+			@include prefix((
+				opacity: 1,
+				pointer-events: auto,
+			), webkit moz o ms);
+		}
+		&--small
+		{
+			width: em(16);
+			height: em(16);
+		}
+		&--medium
+		{
+			width: em(18);
+			height: em(18);
+			bottom: 0;
+			margin-left: em(5);
+		}
+	}
+	&__message
+	{
+        display: block;
+		width: em(340);
+		padding: em(14);
+        background-color: $gris-cc;
+        box-shadow: 1px 3px 5px rgba($color: $gris-3a, $alpha: .3);
+		position: absolute;
+		border-radius: em(13);
+		font-size: em(13.5);
+		line-height: em(17);
+		font-weight: 300;
+		z-index: 10;
+		text-align: justify;
+		color: $negro-44;
+        &--bottomMiddle
+        {
+			bottom: em(30);
+			right: 0;
+			left: 0;
+			margin: 0 auto;
+			&--bt70
+			{
+				bottom: em(70);
+			}
+			@include prefix((
+				box-sizing: border-box,
+				opacity: 0,
+				transition: ease all 0.3s,
+				pointer-events: none,
+			), webkit moz o ms);
+		}
+		&--middleLeft
+		{
+			right: em(30);
+			top: -2em;
+			font-size: em(11);
+			@include prefix((
+				box-sizing: border-box,
+				opacity: 0,
+				transition: ease all 0.3s,
+				pointer-events: none,
+			), webkit moz o ms);
+		}
+		&--topMiddle
+        {
+			top: em(30);
+			right: 0;
+			left: 0;
+			margin: 0 auto;
+			@include prefix((
+				box-sizing: border-box,
+				opacity: 0,
+				transition: ease all 0.3s,
+				pointer-events: none,
+			), webkit moz o ms);
+		}
+		&--medium
+		{
+			right: em(45);
+			width: em(300);
+		}
+		&--small
+		{
+			top: 4em;
+			width: 100%;
+			font-size: 0.8em;
+		}
+	}
+}

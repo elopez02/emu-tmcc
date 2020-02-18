@@ -1,0 +1,37 @@
+/**
+ * Modules - Modal - container
+ */
+
+.modalContainer
+{
+	background-color: rgba(black, 0.8);
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	z-index: 100;
+	@include prefix((
+ 		display: flex,
+ 		justify-content: center,
+ 		align-items: center,
+ 		flex-direction: column,
+ 		transition: ease all 0.4s,
+ 		opacity: 0,
+ 		pointer-events: none
+    ), webkit moz o ms);
+ 	&--isShow
+ 	{
+ 		@include prefix((
+ 			pointer-events: auto,
+	 		opacity: 1
+		), webkit moz o ms);
+		.canguroModal
+		{
+			@include prefix((
+				transform: translateY(0),
+			), webkit moz o ms);
+		}
+ 	}
+}

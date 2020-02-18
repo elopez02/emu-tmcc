@@ -1,0 +1,51 @@
+
+/**
+* Modules - Benefits list
+*/
+ 
+.benefitList
+{
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    margin: em(14) 0 0 0;
+    @include prefix((
+        box-sizing: border-box, 
+    ), webkit moz o ms);
+    &__item
+    {
+        padding: 0;
+        margin: 0 0 em(14) 0;
+        @include prefix((
+            box-sizing: border-box,
+            display: flex,
+            justify-content: flex-start,
+            align-items: center,
+            flex-direction: row, 
+        ), webkit moz o ms);
+        .icon
+        {
+            width: 35px;
+            height: 35px;
+            margin-right: em(12);
+            @include prefix((
+                box-sizing: border-box,
+                display: flex,
+                justify-content: center,
+                align-items: center,
+            ), webkit moz o ms);
+            img
+            {
+                width: 24px;
+            }
+        }
+        .label
+        {
+            text-align: left;
+            font-size: em(11.5);
+            @include prefix((
+                flex: 1
+            ), webkit moz o ms);
+        }
+    }
+}

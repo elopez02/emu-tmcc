@@ -1,0 +1,27 @@
+{
+  "pageTitle": "",
+  "principalButton": "Continuar",
+  "backButton": "Atrás",
+  "backButtonWeb": "Regresar",
+  "header": {
+    "icon": "assets/img/layout/icon-dv-finalcheck.svg",
+    "title": "Felicidades",
+    "subTitle": "El cupo de su tarjeta ha sido aprobado"
+  },
+  "messageSelect": "Seleccione la opción que desea adquirir:",
+  "card": {
+    "conCompraCartera": {
+      "icon": "assets/img/layout/image-option-ofer-1.jpg",
+      "headerCard": "Cupo de la tarjeta <strong>con <div class='tooltip__radio'><span class='tooltip__trigger tooltip__trigger--text'>Compra de Cartera</span><span class='tooltip__message tooltip__message--bottomMiddle'> Sujeto a la Compra de Cartera de tarjetas Visa y Mastercard que tenga con otras entidades financieras en Colombia.</span></div></strong> hasta:",
+      "tasaCartera": {
+        "textTasa": "Tasa compra de cartera:",
+        "textCupo": "Cupo para compra de cartera hasta:"
+      }
+    },
+    "sinCompraCartera": {
+      "icon": "assets/img/layout/image-option-ofer-2.jpg",
+      "headerCard": "Cupo de la tarjeta <strong>sin Compra de Cartera</strong> hasta:"
+    }
+  }
+}
+

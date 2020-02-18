@@ -20,8 +20,6 @@ module.exports = {
     EVA001: {
         status: 1,
         payload: {
-            idCiudad: "169:91:407",
-            direccion: "Carrera 009 #116-08",
             formulario: {
                 ingresosMensuales: "2050000",
                 actividadLaboral: "E",
@@ -29,6 +27,7 @@ module.exports = {
                 tipoContrato: "0001",
                 actividadEconomica: "",
                 ciudad: "169:91:407",
+                direccion: "Bogota DC 85-8",
                 codigoAsesor: "001",
                 autorizacion: false
             }

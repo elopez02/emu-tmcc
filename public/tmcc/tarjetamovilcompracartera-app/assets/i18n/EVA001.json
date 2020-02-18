@@ -1,0 +1,59 @@
+{
+    "pageTitle": "",
+    "principalButton": "Solicitar tarjeta",
+    "backButton": "Atrás",
+    "backButtonWeb": "Regresar",
+    "pageFooter": "Al dar clic en <strong>solicitar tarjeta</strong> iniciaremos el <strong>proceso de evaluación</strong> de su cupo.",
+    "ingresosMensuales": {
+      "text": "¿Cuál es el valor total de sus ingresos mensuales?",
+      "placeHolder": "Ingresos mensuales"
+    },
+    "actividadLaboral": {
+      "text": "¿Cuál es su actividad laboral actual?",
+      "placeHolder": "Seleccione una opción"
+    },
+    "nombreEmpresa": {
+      "text": "¿Cuál es el nombre de su empresa?",
+      "placeHolder": "Empresa"
+    },
+    "tipoContrato": {
+      "text": "¿Qué tipo de contrato tiene?",
+      "placeHolder": "Seleccione una opción"
+    },
+    "actividadEconomica": {
+      "text": "¿Cuál es la actividad económica de su empresa?",
+      "placeHolder": "Seleccione una opción"
+    },
+    "ciudad": {
+      "text": "¿Cuál es su ciudad de residencia?",
+      "placeHolder": "Seleccione una opción"
+    },
+    "direccion": {
+      "text": "¿Cuál es su dirección de residencia?",
+      "placeHolder": "Dirección"
+    },
+    "calle": {
+      "placeHolder": "Seleccione una opción"
+    },
+    "numeroParte1": {
+      "placeHolder": "000"
+    },
+    "numeroParte2": {
+      "placeHolder": "00A"
+    },
+    "numeroParte3": {
+      "placeHolder": "00"
+    },
+    "tipoVivienda": {
+      "text": "Torre / Piso / Apartamento / Otro:",
+      "placeHolder": "Opcional"
+    },
+    "codigoAsesor": {
+      "text": "<span>Si está recibiendo ayuda de un <strong>asesor del Banco</strong>, ingrese el código del asesor.</span>",
+      "placeHolder": "Opcional",
+      "tooltip": "Si le prestaron asesoría, ingrese el código del asesor comercial que lo está ayudando con esta solicitud; de lo contrario, no diligencie este espacio."
+    },
+    "autorizacion": {
+      "text": "Acepto las autorizaciones <a>aquí</a> descritas con relación a la consulta y reporte de mi información."
+    }
+}

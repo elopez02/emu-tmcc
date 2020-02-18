@@ -1,0 +1,270 @@
+/**
+ * Modules - Clock type loader
+*/
+// .clockLoader {
+//   border-radius: 50%;
+//   border: 8px solid #ed1c27;
+//   height: 200px;
+//   width: 200px;
+//   position: relative;
+//   margin: 0 auto em(32) auto;
+// }
+// .clockLoader--light {
+//   border-color: white;
+//   margin: 3em auto;
+// }
+// .clockLoader--light__center {
+//   background-color: #22262a !important;
+//   border: 3px solid white !important;
+// }
+// .clockLoader--light__numeral {
+//   background-color: white !important;
+// }
+// .clockLoader--light__numeral:before {
+//   background-color: white !important;
+// }
+// .clockLoader--light:after {
+//   background-color: white !important;
+// }
+// .clockLoader--light:before {
+//   background-color: white !important;
+// }
+// .clockLoader__center {
+//   background-color: white;
+//   border: 2px solid #ed1c27;
+//   position: absolute;
+//   width: 9px;
+//   height: 9px;
+//   border-radius: 50%;
+//   margin: auto auto;
+//   left: 0;
+//   right: 0;
+//   top: 0;
+//   bottom: 0;
+//   z-index: 10;
+// }
+// .clockLoader__numeral {
+//   height: 5px;
+//   width: 3px;
+//   border-radius: 3px;
+//   background-color: #ed1c27;
+//   position: absolute;
+//   top: 7px;
+//   left: 0;
+//   right: 0;
+//   margin: 0 auto;
+// }
+// .clockLoader__numeral:before {
+//   content: "";
+//   height: 5px;
+//   width: 3px;
+//   border-radius: 3px;
+//   background-color: #ed1c27;
+//   position: absolute;
+//   top: 82px;
+//   left: 0;
+//   right: 0;
+//   margin: 0 auto;
+// }
+// .clockLoader__numeral--horizontal {
+//   -webkit-transform: rotate(90deg);
+//   -moz-transform: rotate(90deg);
+//   -o-transform: rotate(90deg);
+//   -ms-transform: rotate(90deg);
+//   transform: rotate(90deg);
+//   -webkit-transform-origin: 2px 43px;
+//   -moz-transform-origin: 2px 43px;
+//   -o-transform-origin: 2px 43px;
+//   -ms-transform-origin: 2px 43px;
+//   transform-origin: 2px 43px;
+// }
+// .clockLoader__numeral--lateralRight {
+//   -webkit-transform: rotate(45deg);
+//   -moz-transform: rotate(45deg);
+//   -o-transform: rotate(45deg);
+//   -ms-transform: rotate(45deg);
+//   transform: rotate(45deg);
+//   -webkit-transform-origin: 2px 43px;
+//   -moz-transform-origin: 2px 43px;
+//   -o-transform-origin: 2px 43px;
+//   -ms-transform-origin: 2px 43px;
+//   transform-origin: 2px 43px;
+// }
+// .clockLoader__numeral--lateralLeft {
+//   -webkit-transform: rotate(-45deg);
+//   -moz-transform: rotate(-45deg);
+//   -o-transform: rotate(-45deg);
+//   -ms-transform: rotate(-45deg);
+//   transform: rotate(-45deg);
+//   -webkit-transform-origin: 2px 43px;
+//   -moz-transform-origin: 2px 43px;
+//   -o-transform-origin: 2px 43px;
+//   -ms-transform-origin: 2px 43px;
+//   transform-origin: 2px 43px;
+// }
+// .clockLoader:after {
+//   content: "";
+//   position: absolute;
+//   background-color: #ed1c27;
+//   top: 99px;
+//   left: 99px;
+//   height: 58px;
+//   width: 3px;
+//   border-radius: 6px;
+//   -webkit-transform-origin: 50% 0;
+//   -moz-transform-origin: 50% 0;
+//   -o-transform-origin: 50% 0;
+//   -ms-transform-origin: 50% 0;
+//   transform-origin: 50% 0;
+//   -webkit-animation: grdAiguille 2s linear infinite;
+//   -moz-animation: grdAiguille 2s linear infinite;
+//   -o-animation: grdAiguille 2s linear infinite;
+//   -ms-animation: grdAiguille 2s linear infinite;
+//   animation: grdAiguille 2s linear infinite;
+// }
+// .clockLoader:before {
+//   content: "";
+//   position: absolute;
+//   background-color: #ed1c27;
+//   top: 99px;
+//   left: 99px;
+//   height: 44px;
+//   width: 3px;
+//   border-radius: 6px;
+//   -webkit-transform-origin: 50% 0;
+//   -moz-transform-origin: 50% 0;
+//   -o-transform-origin: 50% 0;
+//   -ms-transform-origin: 50% 0;
+//   transform-origin: 50% 0;
+//   -webkit-animation: ptAiguille 96s linear infinite;
+//   -moz-animation: ptAiguille 96s linear infinite;
+//   -o-animation: ptAiguille 96s linear infinite;
+//   -ms-animation: ptAiguille 96s linear infinite;
+//   animation: ptAiguille 96s linear infinite;
+// }
+
+.clockLoader
+{
+    opacity: 0.8;
+    border-radius: 50%;
+    border: 8px solid #ed1c27;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    margin: 0 auto em(32) auto;
+    &:after
+    {
+        content: "";
+        position: absolute;
+        background-color:#ed1c27;
+        top: 92px;
+        left: 92px;
+        height: 59px;
+        width: 8px;
+        border-radius: 6px;
+        @include prefix((
+            transform-origin: 50% 0,
+            animation: grdAiguille 5s linear infinite
+        ), webkit moz o ms);
+    }
+    &:before
+    {
+        content: "";
+        position: absolute;
+        background-color: #ed1c27;
+        top: 92px;
+        left: 92px;
+        height: 44px;
+        width: 8px;
+        border-radius: 6px;
+        @include prefix((
+            transform-origin: 50% 0,
+            animation: ptAiguille 96s linear infinite
+        ), webkit moz o ms);
+    }
+    &__numeral
+    {
+        height: 25px;
+        width: 8px;
+        border-radius: 3px;  
+        background-color: #ed1c27;
+        position: absolute;
+        top: -5px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        &:before
+        {
+            content: '';
+            height: 25px;
+            width: 8px;
+            border-radius: 3px;  
+            background-color: #ed1c27;
+            position: absolute;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            top: 170px;
+        }
+        &--horizontal
+        {
+            top: 81px;
+            right: -170px;
+            @include prefix((
+                transform: rotate(90deg),
+            ), webkit moz o ms);
+        }
+        &--lateralLeft
+        {
+            top: 19px;
+            right: 122px;
+            @include prefix((
+                transform: rotate(-45deg),
+            ), webkit moz o ms);
+        }
+        &--lateralRight
+        {
+            top: 19px;
+            right: -122px;
+            @include prefix((
+                transform: rotate(45deg),
+            ), webkit moz o ms);
+        }
+    }
+}
+
+@-webkit-keyframes grdAiguille {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes grdAiguille {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes ptAiguille {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes ptAiguille {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

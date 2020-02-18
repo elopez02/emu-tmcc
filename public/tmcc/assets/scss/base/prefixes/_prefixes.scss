@@ -1,0 +1,29 @@
+
+// =============================================================================
+// Prefix several properties at once - Mixin
+// =============================================================================
+
+/// @param {Map} $declarations - Declarations to prefix
+/// @param {List} $prefixes (()) - List of prefixes to print
+@mixin prefix($declarations, $prefixes: ()) 
+{
+    @each $property, $value in $declarations 
+    {
+        @each $prefix in $prefixes
+        {
+            #{'-' + $prefix + '-' + $property}: $value;
+        }
+  
+        // Output standard non-prefixed declaration
+        #{$property}: $value;
+    }
+}
+
+// Usage
+
+// .class
+// {
+//       @include prefix((
+//           property: value,
+//       ), webkit moz o ms);
+// }

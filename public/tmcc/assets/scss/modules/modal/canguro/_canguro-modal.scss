@@ -1,0 +1,209 @@
+
+/**
+ * Modules - Canguro modal
+ */
+
+.canguroModal
+{
+	background-color: $gris-ed;
+	width: 90%;
+	min-height: em(30);
+	border-radius: em(5) em(5) 0 0;
+	padding: em(14);
+    position: absolute;
+	bottom: 0;
+	&__lite
+	{
+		background-color: $gris-cc;
+		width: 95%;
+		box-shadow: 1px 3px 5px rgba($color: $gris-3a, $alpha: .3);
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+		padding: em(10) 0;
+		position: fixed;
+		bottom: 0%;
+		z-index: 9999;
+		@include prefix((
+			display: flex,
+			justify-content: center,
+			align-items: space-between,
+		), webkit moz o ms);
+		.column
+		{
+			width: 100%;
+			text-align: left;
+			color: $gris-3a;
+			padding: 0 em(10);
+			&:first-child
+			{
+				border-right: 1px solid rgba($gris-93, 0.6);
+			}
+			span
+			{
+				font-size: 0.6em;
+				margin: 0;
+				padding: 0;
+				display: block;
+				line-height: 1.5em;
+			}
+			h2
+			{
+				font-weight: bold;
+				font-size: 1.4em;
+				padding: 0;
+				display: block;
+			}
+		}
+		&--isShow
+		{
+			@include prefix((
+				box-sizing: border-box,
+				transition: ease all 0.7s,
+				transform: translateY(0),
+			), webkit moz o ms);
+		}
+		&--isHide {
+			@include prefix((
+				box-sizing: border-box,
+				transition: ease all 1s,
+				transform: translateY(10px, 10px),
+			), webkit moz o ms);
+		}
+	}
+	@include prefix((
+ 		box-sizing: border-box,
+		transition: ease all 0.7s,
+		transform: translateY(30em),
+	), webkit moz o ms);
+	&__header
+	{
+		width: 100%;
+		min-height: 2em;
+		padding-bottom: em(14);
+		border-bottom: 2px solid $gris-cc;
+		@include prefix((
+			display: flex,
+			justify-content: space-between,
+			align-items: center,
+		), webkit moz o ms);
+		.icon
+		{
+			width: 70px;
+		}
+		h3
+		{
+			font-size: em(14);
+			font-weight: 500;
+			text-align: left;
+			padding: 0 em(10);
+			margin-top: em(14);
+			@include prefix((
+				flex: 1,
+			), webkit moz o ms);
+		}
+		.closeButton
+		{
+			width: 30px;
+			background-color: transparent;
+			border: none;
+		}
+	}
+	&__body
+	{
+		width: 100%;
+		margin: em(14) 0;
+		@include prefix((
+	 		box-sizing: border-box,
+		), webkit moz o ms);
+		p
+		{
+			font-size: 0.9em;
+			margin-top: em(10);
+		}
+		ul
+		{
+			padding: 0 0 0 em(14);
+			margin: em(10) 0;
+			list-style: url(/assets/img/layout/icon-dv-list-canguro.svg);
+			li
+			{
+				font-size: 0.9em;
+				padding: 0 em(21) 0 em(7) ;
+				position: relative;
+			}
+		}
+		a
+		{
+			font-weight: bold;
+			font-size: 0.9em;
+		}
+	}
+	@include media(md)
+	{
+		width: em(300);
+	}
+	@include media(lg)
+	{
+		width: em(450);
+	}
+	@include media(xlg)
+	{
+		width: em(500);
+	}
+}
+
+.valueLabel
+{
+	width: 65%;
+	color: $negro-57;
+	background-color: rgba(204, 204, 204, 0.3);
+	border-radius: em(3);
+	padding: em(7) em(10);
+	margin: em(14) auto;
+	text-decoration: none !important;
+	text-align: center;
+	position: relative;
+	@include prefix((
+		display: flex,
+		justify-content: center,
+		align-items: space-between,
+	), webkit moz o ms);
+	&__content
+	{
+		@include prefix((
+			flex: 1,
+		), webkit moz o ms);
+		.title
+		{
+			font-size: 0.7em;
+			font-weight: 100;
+			display: block;
+			margin: 0;
+			padding: em(10) 0 0 0;
+			line-height: 1em;
+		}
+		.value
+		{
+			font-size: 1.2em;
+			font-weight: bold;
+			display: block;
+			&::before
+			{
+				content: '$ ';
+			}
+		}
+	}
+	@include media(md)
+	{
+		width: em(250);
+	}
+	@include media(lg)
+	{
+		width: em(250);
+	}
+	@include media(xlg)
+	{
+		width: em(250);
+	}
+}

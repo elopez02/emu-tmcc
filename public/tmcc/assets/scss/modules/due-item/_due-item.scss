@@ -1,0 +1,30 @@
+
+/**
+* Modules - Result List
+*/
+
+.dueItem
+{
+    width: 100%;
+    color: $negro-57;
+    background-color: $gris-ed;
+    border-radius: em(5);
+    padding: em(10);
+    text-decoration: none !important;
+    position: relative;
+    margin: 0 0 em(7) 0;
+    &__row
+    {
+        text-align: left;
+        font-size: em(12);
+        &--isShow
+        {
+            margin-top: em(10);
+            display: block;
+        }
+        &--isHide
+        {
+            display: none;
+        }
+    }
+}

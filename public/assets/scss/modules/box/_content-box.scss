@@ -1,0 +1,135 @@
+
+/**
+ * Modules - inner content box
+ */
+
+ .contentBox
+ {
+    display: block;
+    padding: em(14);
+    margin: em(14) auto;
+    background-color: $blanco-f8;
+    box-shadow: 1px 3px 5px rgba($color: $gris-3a, $alpha: .3);
+    border-radius: em(10);
+    width: 100%;
+    position: relative;
+    // Anterior "no-padding" y "no-backg"
+    &--naked
+    {
+        background-color: transparent;
+        box-shadow: none;
+        padding: em(14) 0;
+        margin: 0;
+    }
+    &__userInfo
+    {
+        h2
+        {
+            font-size: 1.2em;
+        }
+        &--secondary
+        {
+            text-align: left;
+            ul
+            {
+                padding: 0;
+                margin: 0;
+                list-style: none;
+                font-size: 0.9em;
+                li
+                {
+                    strong
+                    {
+                        display: block;
+                        margin-bottom: em(5);
+                    }
+                }
+            }
+        }
+    }
+    &__userAvatar
+    {
+        width: em(100);
+        height: em(100);
+        margin: 0 auto em(14) auto;
+    }
+    &__image
+    {
+        width: em(200);
+        margin: 0 auto em(14) auto;
+    }
+    &__productLabel
+    {
+        width: 100%;
+        color: $negro-57;
+        background-color: $gris-ed;
+        border-radius: em(5);
+        padding: 0 em(14);
+        height: em(35);
+        margin-bottom: em(14);
+        text-decoration: none !important;
+        &__trigger
+        {
+            margin: 0 0 em(7) 0;
+            .show
+            {
+                display: block;
+            }
+            .hide
+            {
+                display: none;
+            }
+            span
+            {
+                font-weight: normal !important;
+            }
+            img
+            {
+                width: em(18) !important;
+            }
+        }
+        span
+        {
+            font-weight: bold;
+            font-size: 0.9em;
+            padding: 0;
+            margin: 0;
+        }
+        img
+        {
+            width: em(14);
+        }
+        @include prefix((
+            display: flex,
+            align-items: center,
+            justify-content: space-between,
+        ), webkit moz o ms);
+    }
+    &__header
+    {
+        background-color: $gris-3a;
+        position: absolute;
+        width: 100%;
+        padding: em(2) em(10);
+        border-radius: em(10) em(10) 0 0;
+        color: white;
+        left: 0;
+        top: 0;
+        text-align: left;
+        font-weight: 500;
+    }
+    @include media(lg){
+        background-color: transparent;
+        box-shadow: none;
+        padding: em(14) 0;
+        margin: 0 auto;
+        width: 70%;
+    }
+    @include media(xlg){
+        background-color: transparent;
+        box-shadow: none;
+        padding: em(14) 0;
+        margin: 0 auto;
+        width: 70%;
+    }
+}

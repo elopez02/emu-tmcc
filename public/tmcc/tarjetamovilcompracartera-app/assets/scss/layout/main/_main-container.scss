@@ -1,0 +1,46 @@
+
+/**
+ * Layout - Main container
+ */
+
+.container 
+{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 850px;
+    position: relative;
+    overflow-y: auto;
+    padding: em(14);
+    text-align: center;
+    height: 100vh;
+    // Anterior "center"
+    &__flex
+    {
+        @include prefix((
+            display: flex,
+        ), webkit moz o ms);
+        &--center
+        {
+            @include prefix((
+                justify-content: center,
+                align-items: center,
+            ), webkit moz o ms);
+        }
+    }
+    .tutorialImages
+    {
+        width: 100%;
+        margin: em(14) 0 0 0;
+        border-radius: em(7);
+    }
+    @include media(md){
+        overflow: visible;
+    }
+    @include media(lg){
+        overflow: visible;
+    }
+    @include media(xlg){
+        overflow: visible;
+    }
+}

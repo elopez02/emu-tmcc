@@ -1,0 +1,211 @@
+
+/**
+ * Modules - Card container
+ */
+
+.cardContainer
+{
+    margin: em(14) 0 0 0;
+    text-align: center;
+    @include prefix((
+        display: flex,
+        align-items: center,
+        flex-direction: column,
+    ), webkit moz o ms);
+    &__card
+    {
+        background-color: white;
+        box-shadow: 1px 3px 5px rgba($color: $gris-3a, $alpha: .3);
+        border-radius: em(5);
+        padding: em(10);
+        width: 100%;
+        z-index: 20;
+        position: relative;
+        margin-bottom: em(14);
+        &--gray
+        {
+            background-color: $blanco-f8;
+        }
+        @include prefix((
+            display: flex,
+            align-items: center,
+            justify-content: space-between,
+            flex-direction: row,
+        ), webkit moz o ms);
+        &--rounded
+        {
+            border-radius: em(13);
+        }
+        .info
+        {
+            padding: 0 em(14);
+            margin: 0;
+            text-align: left;
+            @include prefix((
+                flex: 1,
+            ), webkit moz o ms);
+            &__tooltipRow
+            {
+                @include prefix((
+                    display: flex, 
+                    justify-content: flex-start,
+                    align-items: center,
+                    flex-wrap: wrap,
+                ), webkit moz o ms);
+            }
+            em
+            {
+                text-align: left;
+                width: auto;
+                margin-right: 0.3em;
+                strong
+                {
+                    font-weight: bold;
+                    color: $negro-57 !important;
+                    a
+                    {
+                        font-weight: bold !important;
+                        color: $negro-57 !important;
+                    }
+                }
+            }
+            h2
+            {
+                font-weight: bold;
+                font-size: 1.3em;
+            }
+        }
+        .cardImage
+        {
+            width: em(60);
+            background-color: gray;
+            height: em(60);
+            overflow: hidden;
+            border-radius: em(7);
+            @include prefix((
+                display: flex,
+                align-items: center,
+                justify-content: center,
+            ), webkit moz o ms);
+            img
+            {
+                width: 100%;
+            }
+            @include media(md)
+            {
+                width: em(80);
+            }
+            @include media(lg)
+            {
+                width: em(80);
+            }
+            @include media(xlg)
+            {
+                width: em(80);
+            }
+        }
+        .floatButton
+        {
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            display: inline-block;
+            height: 20px;
+            width: 105px;
+            background-color: white;
+            box-shadow: 1px 3px 5px rgba($color: $gris-3a, $alpha: .3);
+            border-radius: 10px;
+            padding: 0 em(7);
+            border: 0;
+            text-decoration: none;
+            @include prefix((
+                display: flex,
+                align-items: center,
+                justify-content: space-between,
+            ), webkit moz o ms);
+            img
+            {
+                width: 13px;
+                padding: 0;
+                margin: 0;
+                @include prefix((
+                    transform: rotate(-90deg),
+                    // transition: ease all 0.3s,
+                ), webkit moz o ms);
+                &.up
+                {
+                    transform: rotate(90deg),
+                }
+            }
+            span
+            {
+                font-size: em(11);
+                padding: 0 em(10);
+                margin: 0;
+                line-height: 0;
+                display: inline;
+                @include prefix((
+                    flex: 1,
+                ), webkit moz o ms);
+            }
+        }
+    }
+    &__moreInfo
+    {
+        background-color: $blanco-f8;
+        box-shadow: 1px 3px 5px rgba($color: $gris-3a, $alpha: .3);
+        border-radius: 0 0 em(5) em(5);
+        padding: em(7) em(11) em(11) em(10);
+        width: 93%;
+        margin-top: em(-14);
+        z-index: 10;
+        &--isHide
+        {
+            display: none;
+        }
+        &--rounded
+        {
+            border-radius: 0 0 em(13) em(13);
+        }
+        &--light
+        {
+            background-color: #fff;
+        }
+        .infoRow
+        {
+            font-size: 0.8em;
+            margin: em(5) 0;
+            width: 100%;
+            @include prefix((
+                display: flex,
+                align-items: center,
+                justify-content: space-between,
+                flex-direction: row,
+            ), webkit moz o ms);
+            em
+            {
+                margin: 0;
+                width: 100%;
+                &:last-child
+                {
+                    text-align: right;
+                }
+            }
+        }
+        ul
+        {
+            padding: 0 0 0 em(5);
+            margin: 0;
+            list-style: none;
+			li
+			{
+				font-size: 0.75em;
+				padding: 0 ;
+                position: relative;
+                text-align: left;
+			}
+        }
+    }
+}

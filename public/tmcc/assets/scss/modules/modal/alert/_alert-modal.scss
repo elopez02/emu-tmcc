@@ -1,0 +1,41 @@
+
+/**
+ * Modules - Alerts modal
+ */
+
+.alertModal
+{
+	background-color: white;
+	width: em(300);
+	min-height: em(30);
+	border-radius: em(5);
+	overflow: hidden;
+	@include prefix((
+ 		box-sizing: border-box,
+ 		transition: ease all 0.7s,
+    ), webkit moz o ms);
+	&__body
+	{
+		width: 100%;
+		padding: em(21) em(16) em(3) em(16);
+		@include prefix((
+	 		box-sizing: border-box,
+		), webkit moz o ms);
+		p
+		{
+			line-height: 1.2em;
+		}
+	}
+	@include media(md)
+	{
+		width: em(300);
+	}
+	@include media(lg)
+	{
+		width: em(350);
+	}
+	@include media(xlg)
+	{
+		width: em(400);
+	}
+}

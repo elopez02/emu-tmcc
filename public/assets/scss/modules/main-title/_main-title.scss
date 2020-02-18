@@ -1,0 +1,102 @@
+
+/**
+ * Modules - main title
+ */
+
+.mainTitle
+{
+    width: 100%;
+    margin: em(10) 0;
+    h2
+    {
+        font-size: 1.3em;
+    }
+    h3
+    {
+        font-size: 1.1em;
+        margin: em(14) auto em(21) auto;
+        font-weight: 100;
+        color: $negro-57;
+    }
+    &__stepsCounter
+    {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        @include prefix((
+            box-sizing: border-box,
+            display: flex,
+            justify-content: center,
+            align-items: center,
+        ), webkit moz o ms);
+        &--secondary
+        {
+            margin-top: em(14);
+            .step
+            {
+                background-color: $gris-cc !important;
+                margin: 0 2px !important;
+                width: 20px !important;
+                height: em(3) !important;
+                &:before
+                {
+                    display: none;
+                }
+                @include prefix((
+                    border-radius: 0 !important,
+                ), webkit moz o ms);
+            }
+        }
+        .step {
+            background-color: $gris-93;
+            width: 30px;
+            height: 30px;
+            color: white;
+            margin-right: 33px;
+            position: relative;
+            font-size: 0.8em;
+            &:before
+            {
+                content: '';
+                top: 0;
+                bottom: 0;
+                right: 33px;
+                width: 25px;
+                height: 3px;
+                background-color: $gris-93;
+                margin: auto 0;
+                position: absolute;
+                z-index: 0;
+            }
+            &:first-child
+            {
+                &:before
+                {
+                    display: none;
+                }
+            }
+            &:last-child
+            {
+                margin-right: 0;
+            }
+            &--active
+            {
+                background-color: $rojo !important;
+                &:before
+                {
+                    background-color: $rojo;
+                }
+            }
+            @include prefix((
+                border-radius: 50%,
+                box-sizing: border-box,
+                display: flex,
+                justify-content: center,
+                align-items: center,
+            ), webkit moz o ms);
+            @include media(md){
+                font-size: 30px;
+            }
+        }
+    }
+}

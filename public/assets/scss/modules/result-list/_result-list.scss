@@ -1,0 +1,196 @@
+
+/**
+* Modules - Result List
+*/
+
+.resultList
+{
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    &--singe
+    {
+        margin: em(14) 0 0 0;
+    }
+    &__item
+    {
+        width: 100%;
+        color: $negro-57;
+        background-color: $gris-ed;
+        border-radius: em(5);
+        padding: em(14);
+        text-decoration: none !important;
+        position: relative;
+        margin: 0 0 em(7) 0;
+        @include prefix((
+            box-sizing: border-box,
+            display: flex,
+            align-items: center,
+            justify-content: space-between,
+        ), webkit moz o ms);
+        &__content
+        {
+            text-align: left;
+            font-size: em(12);
+            @include prefix((
+                flex: 1,
+            ), webkit moz o ms);
+            h3
+            {
+                font-weight: bold;
+                text-decoration: none !important;
+                font-size: 1em;
+                line-height: em(14);
+                margin: 0;
+                padding: 0;
+            }
+            .small
+            {
+                font-size: 0.8em;
+                line-height: 0.8em;
+            }
+        }
+    }
+    &--isHide
+    {
+        display: none;
+    }
+    &--isShow
+    {
+        display: block;
+    }
+}
+
+/**
+ * Modules - Result Description
+ */
+
+.resultDescription
+{
+    width: 100%;
+    list-style: none;
+    padding: em(14);
+    margin: em(28) 0 em(7) 0;
+    background-color: white;
+    border-radius: em(7);
+    @include prefix((
+ 		box-sizing: border-box,
+    ), webkit moz o ms);
+    &--noMargin
+    {
+        margin: 0;
+    }
+    &--shadow
+    {
+        box-shadow: 1px 3px 5px rgba($color: $gris-3a, $alpha: .2);
+        margin: em(14) 0;
+        padding: em(10);
+    }
+    &--quota
+    {
+        padding: 0;
+        border-radius: em(5);
+        position: relative;
+        overflow: hidden;
+        background-image: url(/assets/img/layout/image_cc_result.svg);
+        background-size: em(85) em(85);
+        background-position: center right;
+        background-repeat: no-repeat;
+        margin: 0 auto em(14) auto;
+        @include prefix((
+            box-sizing: border-box,
+        ), webkit moz o ms);
+    }
+    &__icon
+    {
+        width: em(37);
+        display: inline-block;
+        img
+        {
+            width: 100%;
+        }
+    }
+    &__content
+    {
+        padding-left: em(14);
+        text-align: left;
+        font-size: em(14);
+        display: inline-block;
+        width: 83%;
+        @include prefix((
+            box-sizing: border-box,
+        ), webkit moz o ms);
+        span
+        {
+            margin: 0;
+            font-size: 0.9em;
+        }
+        h3
+        {
+            font-weight: bold;
+            text-decoration: none !important;
+            font-size: 1em;
+            line-height: em(16);
+            margin: 0 0 em(5) 0;
+            padding: 0;
+            display: block;
+        }
+        h2
+        {
+            font-weight: bold;
+            text-decoration: none !important;
+            font-size: 1.2em;
+            line-height: em(16);
+            margin: 0 0 em(2) 0;
+            padding: 0;
+            display: inline-block;
+            &:before
+            {
+                content: '$ ';
+            }
+        }
+        p
+        {
+            font-size: 0.9em;
+            margin-bottom: 0;
+        }
+        &--gray
+        {
+            background-color: $blanco-f8;
+            padding: em(12) em(10);
+            // background-image: url(/img/layout/image_cc_result-b.svg);
+            background-image: url(/assets/img/layout/image_cc_result-b.svg);
+            background-size: em(55) em(55);
+	    	background-position: center right;
+            background-repeat: no-repeat;
+            overflow: hidden;
+            width: 100%;
+            @include prefix((
+                display: flex,
+                align-items: center,
+                justify-content: space-between,
+            ), webkit moz o ms);
+        }
+        &--full
+        {
+            width: 100%;
+            background-color: transparent;
+            padding: em(14) em(10) em(12) em(10);
+            z-index: 1;
+            h2
+            {
+                font-size: 1.7em;
+                line-height: 1em;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    }
+    em
+    {
+        width: 100%;
+        display: block;
+        font-size: 0.9em;
+    }
+}
