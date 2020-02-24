@@ -28,8 +28,10 @@ module.exports = {
         {
           idProducto: 1,
           seleccionado: true,
-          valorCompraCartera: "12000",
-          numeroTarjeta: "000512679",
+          // valorCompraCartera: "12000",
+          // numeroTarjeta: "000512679",
+          valorCompraCartera: "",
+          numeroTarjeta: "",
           descProducto: "T. Crédito Mastercard",
           nitEntidad: "",
           nombreEntidad: "BBVA",
