@@ -4,17 +4,21 @@ var datos = null;
 var flujo = '';
 
 countrie = (req, res, next) => {
-  console.clear();
+  //console.clear();
   flujo = req.body.assertion;
+  console.log(req.body.assertion);
   datos = require(`../OTPs/${req.body.assertion}`);
-  req.body = { token: datos.token}
+  req.body = { token: datos.token }
   next();
 };
 
 router.post('/workflow', (req, res) => {
-  console.clear();
+  //console.clear();
   console.log(req.body);
   var paso = req.body.stepId;
+  console.log(paso);
+  console.log('datos.workflow:');
+  console.log(datos.workflow);
   var response = {
     data: {
       status: datos[datos.workflow[paso]].status,
@@ -49,9 +53,9 @@ router.post('/workflow', (req, res) => {
 
 router.post('/auth', countrie, (req, res) => {
   res.json({
-    state:1, 
+    state: 1,
     access_token: req.body.token,
-    refresh_token:'abslslRSkskED2233ksksk82sss7jjsjjsRRksksF92DDD'
+    refresh_token: 'abslslRSkskED2233ksksk82sss7jjsjjsRRksksF92DDD'
   });
 });
 
