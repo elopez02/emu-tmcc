@@ -22,45 +22,46 @@ module.exports = {
   SEL001: {
     status: 1,
     payload: {
-      cupoTotalTarjeta: "900000000",
-      numBinTarjetaSeleccionada: '447198',
+      cupoTotalTarjeta: "15000000",
+      tarjetaSeleccionada: {
+        numBin: '',
+        textoCuotaManejo: '',
+        valorCuotaManejo: ''
+      },
+      logJuridico: {},
+      valorCuotaSeguro: '',// vacio no acpeto, valor es el costo a pagar
+      actividadEconomica: 'I',
       cupoSeleccionado: '',
       tarjetas: [
         {
+          numBinTarjeta: "517796",
+          valCodigoConvenio: "XXX",
+          valFranquicia: 'AMX'
+        },
+        {
+          numBinTarjeta: "559225",
+          valCodigoConvenio: "XXX",
+          valFranquicia: 'AMX',
+        },
+        {
+          numBinTarjeta: "222101",
+          valCodigoConvenio: "XXX",
+          valFranquicia: 'AMX'
+        },
+        {
+          numBinTarjeta: "455986",
+          valCodigoConvenio: "XXX",
+          valFranquicia: 'MNS'
+        },
+        {
+          numBinTarjeta: "472044",
+          valCodigoConvenio: "XXX",
+          valFranquicia: 'AMX'
+        },
+        {
           numBinTarjeta: "360324",
           valCodigoConvenio: "XXX",
-          valFranquicia: 'AMX',
-          valorCuotaManejo: ''
-        },
-        {
-          numBinTarjeta: "360732",
-          valCodigoConvenio: "XXX",
-          valFranquicia: 'AMX',
-          valorCuotaManejo: ''
-        },
-        {
-          numBinTarjeta: "424529",
-          valCodigoConvenio: "XXX",
-          valFranquicia: 'AMX',
-          valorCuotaManejo: ''
-        },
-        {
-          numBinTarjeta: "447198",
-          valCodigoConvenio: "XXX",
-          valFranquicia: 'MNS',
-          valorCuotaManejo: ''
-        },
-        {
-          numBinTarjeta: "455981",
-          valCodigoConvenio: "XXX",
-          valFranquicia: 'AMX',
-          valorCuotaManejo: ''
-        },
-        {
-          numBinTarjeta: "455981",
-          valCodigoConvenio: "XXX",
-          valFranquicia: 'MNS',
-          valorCuotaManejo: ''
+          valFranquicia: 'MNS'
         }
 
       ]

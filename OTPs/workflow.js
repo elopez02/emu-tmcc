@@ -12,7 +12,8 @@ module.exports = {
     CCC001: "CCC002",
     CCC002: "CCC003",
     CCC003: "SEL001",
-    SEL001: "BEN001"
+    SEL001: "CON001",
+    CON001: "APPBOOT"
   },
   BEN001: {
     status: 1,
