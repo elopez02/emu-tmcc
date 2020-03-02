@@ -6,7 +6,7 @@ module.exports = {
   workflow: {
     APPBOOT: 'BEN001',
     BEN001: 'EVA002',
-    EVA002: 'BEN001'
+    EVA002: 'SEL001'
   },
   BEN001: {
     status: 1,
