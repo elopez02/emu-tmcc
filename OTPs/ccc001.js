@@ -33,7 +33,7 @@ module.exports = {
           valorCompraCartera: "",
           numeroTarjeta: "",
           descProducto: "T. Crédito Mastercard",
-          nitEntidad: "",
+          nitEntidad: "8600345941",
           nombreEntidad: "BBVA",
           numeroProducto: "",
           saldoActual: "14000",
