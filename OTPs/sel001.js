@@ -30,7 +30,7 @@ module.exports = {
       },
       logJuridico: {},
       valorCuotaSeguro: '',// vacio no acpeto, valor es el costo a pagar
-      actividadEconomica: 'I',
+      actividadEconomica: 'E',
       cupoSeleccionado: '',
       tarjetas: [
         {
