@@ -21,10 +21,11 @@ module.exports = {
   ENT001: {
     status: 1,
     payload: {
-        formulario: {
-            ciudad: "169:91:407",
-            direccion: "Bogota DC 85-8",
-        }
+      puntoEntrega: 'O',
+      direccionPredeterminada: false,
+      codigoCiudad: '169:91:263',
+      ubicacion: '2',// direccion o idOficina
+      direccionCliente: 'Bogota DC 85-8'
     }
   }
 };
