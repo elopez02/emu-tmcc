@@ -10,11 +10,11 @@ module.exports = {
     BEN001: {
         status: 1,
         payload: {
-            message: 'catTMCC_MSG_RETOMA',
             pais: 'CO',
-            modulo: 'TMCC',
+            modulo: 'TVCC',
             canal: '37',
-            lenguaje: 'ES'
+            lenguaje: 'ES',
+            tasaBeneficios: '1.0'
         }
     }
 };
