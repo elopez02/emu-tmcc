@@ -22,13 +22,9 @@ module.exports = {
         payload: {
             formulario: {
                 ingresosMensuales: "2050000",
-                actividadLaboral: "E",
-                nombreEmpresa: "Nombre de la empresa",
-                tipoContrato: "0001",
-                actividadEconomica: "",
+                nombreEmpresa: "Empresa",
                 ciudad: "169:91:407",
                 direccion: "Bogota DC 85-8",
-                codigoAsesor: "001",
                 autorizacion: false
             }
         }
