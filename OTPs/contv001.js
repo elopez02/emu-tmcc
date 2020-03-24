@@ -15,17 +15,55 @@ module.exports = {
             pais: 'CO',
             modulo: 'TVCC',
             canal: '37',
-            lenguaje: 'ES'
+            lenguaje: 'ES',
+            tasaBeneficios: '1.1'
         }
     },
     CONTV001: {
         status: 1,
         payload: {
-            cupoAprobado: '15000000',
-            valFranquicia: 'Visa',
-            valorCuotaSeguro: '3500',
-            valorCompraCartera: '5000000',
-            textoCuotaManejo: 'Su cuota de manejo será de $12.500, o gratis si tiene un uso o saldo igual o superior a $10.000 en el mes.'
+            tarjetaSeleccionada: {
+                id: "",
+                numero: "**** 1234",
+                cupo: "100",
+                franquicia: "VI VISA",
+            },
+            valorTotalCompraCartera: "1500000",
+            cuotaSeleccionada: "300000",
+            mesSeleccionado: "6",
+            tasaMV: "1.0",
+            tasaEA: "15",
+            nuevoCupoDisponible: "1000000",
+            productos: [
+                {
+                    numeroTarjeta: "**** 2389",
+                    valorCompraCartera: "2100000",
+                    nitEntidad: "99999",
+                    nombreEntidad: "Banco de Bogotá",
+                    franquicia: "Mastercard",
+                },
+                {
+                    numeroTarjeta: "**** 9630",
+                    valorCompraCartera: "2496000",
+                    nitEntidad: "999999",
+                    nombreEntidad: "Caja Social",
+                    franquicia: "Diners",
+                },
+                {
+                    numeroTarjeta: "**** 1846",
+                    valorCompraCartera: "760000",
+                    nitEntidad: "99999",
+                    nombreEntidad: "Popular",
+                    franquicia: "Mastercard",
+                },
+                {
+                    numeroTarjeta: "**** 0279",
+                    valorCompraCartera: "2496000",
+                    nitEntidad: "9999999",
+                    nombreEntidad: "BBVA",
+                    franquicia: "Diners",
+                }
+            ]
         }
     }
 };
