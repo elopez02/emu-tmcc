@@ -23,7 +23,19 @@ module.exports = {
   AUT001: {
     status: 1,
     payload: {
+      autorizaciones: {
+        firmaPagare: true,
+        contratoTarjetaMovil: true,
+        compraCartera: true,
+        debitarAutomaticamente: false
+      },
       cuentas: [
+        {
+          nombreProducto: "Cta. Otro Banco",
+          numProducto: "",
+          codigoProducto: "001",
+          codigoSubProducto: "01",
+        },
         {
           nombreProducto: "Cta. Ahorro",
           numProducto: "3213216513216",
@@ -33,32 +45,26 @@ module.exports = {
         {
           nombreProducto: "Cta. Corriente",
           numProducto: "3213216511425",
-          codigoProducto: "136",
+          codigoProducto: "135",
           codigoSubProducto: "13",
         },
         {
           nombreProducto: "Cta. Ahorro",
           numProducto: "3213216511963",
-          codigoProducto: "136",
-          codigoSubProducto: "13",
+          codigoProducto: "145",
+          codigoSubProducto: "14",
         },
         {
           nombreProducto: "Cta. Corriente",
           numProducto: "3213216512578",
-          codigoProducto: "136",
-          codigoSubProducto: "13",
+          codigoProducto: "155",
+          codigoSubProducto: "15",
         },
         {
           nombreProducto: "Cta. Ahorro",
           numProducto: "3213216518899",
-          codigoProducto: "136",
-          codigoSubProducto: "13",
-        },
-        {
-          nombreProducto: "Cta. Otro Banco",
-          numProducto: "",
-          codigoProducto: "001",
-          codigoSubProducto: "01",
+          codigoProducto: "165",
+          codigoSubProducto: "16",
         }
       ]
     }
@@ -67,8 +73,11 @@ module.exports = {
     status: 1,
     payload: {
       formulario: {
-        correoElectronico: "nextor.ivan@gmail.com",
-        aliasCuenta: "BBVA BANCOMER MX"
+        banco:'',
+        tipoCuenta:'',
+        numeroCuenta: '',
+        correoElectronico: "nextor.ivan@gmail.com",// requerido
+        aliasCuenta: ""
       }
     }
   }
