@@ -26,7 +26,7 @@ module.exports = {
                 id: "",
                 numero: "**** 1234",
                 cupo: "100",
-                franquicia: "VI VISA",
+                franquicia: "Visa",
             },
             valorTotalCompraCartera: "1500000",
             cuotaSeleccionada: "300000",
@@ -46,21 +46,21 @@ module.exports = {
                     numeroTarjeta: "**** 9630",
                     valorCompraCartera: "2496000",
                     nitEntidad: "999999",
-                    nombreEntidad: "Caja Social",
+                    nombreEntidad: "Banco Caja Social",
                     franquicia: "Diners",
                 },
                 {
                     numeroTarjeta: "**** 1846",
                     valorCompraCartera: "760000",
                     nitEntidad: "99999",
-                    nombreEntidad: "Popular",
+                    nombreEntidad: "Banco Popular",
                     franquicia: "Mastercard",
                 },
                 {
                     numeroTarjeta: "**** 0279",
                     valorCompraCartera: "2496000",
                     nitEntidad: "9999999",
-                    nombreEntidad: "BBVA",
+                    nombreEntidad: "Banco BBVA",
                     franquicia: "Diners",
                 }
             ]

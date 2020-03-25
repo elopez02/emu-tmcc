@@ -29,7 +29,7 @@ module.exports = {
                     numero: "**** 1234"
                 },
                 {
-                    franquicia: "MC - MASTER CAR",
+                    franquicia: "MC - MASTER CARD",
                     cupo: "1000000.00",
                     numero: "**** 1234"
                 },
