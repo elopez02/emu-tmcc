@@ -1,0 +1,18 @@
+{
+  "pageTitle": "Tarjeta de crédito",
+  "principalButton": "Continuar",
+  "backButton": "Atrás",
+  "backButtonWeb": "Regresar",
+  "message":{ 
+    "header": "Seleccione el número de cuotas fijas para cada una de las opciones:",
+    "footer": "Las <strong>cuotas establecidas</strong> serán definitivas sin importar que en el momento de hacer la <strong>compra</strong> o <strong>avance</strong> se haya estipulado otra cuota."
+  },
+  "iconDav": "assets/img/icons/davivienda-icon.svg",
+  "body": {
+    "tipoTransaccion": "Tipo de transacción",
+    "cuotas": "Cuotas",
+    "avances": "Avances:",
+    "comprasNacionales": "Compras nacionales:",
+    "comprasInternacionales": "Compras internacionales:"
+  }
+}
