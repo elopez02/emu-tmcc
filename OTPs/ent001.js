@@ -7,7 +7,7 @@ module.exports = {
   workflow: {
     APPBOOT: "BEN001",
     BEN001: "ENT001",
-    ENT001: "APPBOOT"
+    ENT001: "BEN001"
   },
   BEN001: {
     status: 1,
@@ -24,7 +24,7 @@ module.exports = {
       puntoEntrega: 'D',
       direccionPredeterminada: false,
       codigoCiudad: '169:91:263',
-      ubicacion: '2',// direccion o idOficina
+      idOficina: '2',// direccion o idOficina
       direccionCliente: 'Bogota DC 85-8'
     }
   }

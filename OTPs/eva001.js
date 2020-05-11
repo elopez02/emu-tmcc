@@ -6,7 +6,8 @@ module.exports = {
     workflow: {
         APPBOOT: 'BEN001',
         BEN001: 'EVA001',
-        EVA001: 'BEN001'
+        EVA001: 'EVA002',
+        EVA002: 'BEN001'
     },
     BEN001: {
         status: 1,
@@ -27,6 +28,22 @@ module.exports = {
                 direccion: "Bogota DC 85-8",
                 autorizacion: false
             }
+        }
+    },
+    EVA002: {
+        status: 1,
+        payload: {
+        compraCartera: {
+            aprobado: true,
+            cupoTarjeta: "20000",
+            cupoCartera: "18500",
+            tasaMV: "1.5",
+            tasaEA: "16"
+        },
+        sinCompraCartera: {
+            aprobado: true,
+            cupoTarjeta: "12000"
+        }
         }
     },
 };

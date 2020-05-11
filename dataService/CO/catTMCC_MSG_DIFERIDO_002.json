@@ -1,0 +1,11 @@
+[
+  {
+    "title": "",
+    "message": "Su configuración no ha sido exitosa.",
+    "buttons": [
+      {
+        "buttonText": "Aceptar"
+      }
+    ]
+  }
+]

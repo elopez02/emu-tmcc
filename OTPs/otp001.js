@@ -7,21 +7,36 @@ module.exports = {
   workflow: {
     APPBOOT: "BEN001",
     BEN001: "OTP001",
+    OTP001: "BEN001",
+
   },
   BEN001: {
+    // status: 2,
+    // payload: {
+    //   message:'catTMCC_MSG_BENEFICIOS_001'
+    // }
     status: 1,
     payload: {
       pais: 'CO',
       modulo: 'TMCC',
       canal: '37',
       lenguaje: 'ES',
-      tasaBeneficios: '1.0'
+      tasaBeneficios: '1.0',
+      documento: {
+        tipo: '1',
+        numero: '123456'
+      }
     }
   },
   OTP001: {
-    status: 1,
+    // status: 1,
+    // payload: {
+    //   data: ''
+    // }
+    status: 3,
     payload: {
-      data: 'data'
+      message: 'catTMCC_MSG_OTP_001'
+      // message: 'catTMCC_MSG_OTP_002'
     }
   }
 };

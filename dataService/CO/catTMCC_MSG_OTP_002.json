@@ -1,0 +1,11 @@
+[
+  {
+    "title": "",
+    "message": "El código digitado por usted no es correcto, lo invitamos a actualizar los datos y realizar una nueva solicitud",
+    "buttons": [
+      {
+        "buttonText": "Continuar"
+      }
+    ]
+  }
+]

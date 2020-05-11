@@ -10,11 +10,14 @@ module.exports = {
     BEN001: {
         status: 1,
         payload: {
-            pais: 'CO',
-            modulo: 'TVCC',
-            canal: '37',
-            lenguaje: 'ES',
-            tasaBeneficios: '1.0'
+          pais: 'CO',
+          modulo: 'TVCC',
+          canal: '37',
+          lenguaje: 'ES',
+          documento: {
+            tipo: '1',
+            numero: '123456'
+          }
         }
-    }
+      }
 };
