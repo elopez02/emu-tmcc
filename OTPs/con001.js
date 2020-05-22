@@ -8,7 +8,7 @@ module.exports = {
         APPBOOT: "BEN001",
         BEN001: "EVA002",
         EVA002: "CON001",
-        CON001: "APPBOOT"
+        CON001: "BEN001"
     },
     BEN001: {
         status: 1,

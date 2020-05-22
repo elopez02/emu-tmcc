@@ -8,7 +8,7 @@ module.exports = {
     APPBOOT: 'BEN001',
     BEN001: 'DIF001',
     DIF001: 'MQPH001',
-    MQPH001:'BEN001',
+    MQPH001:'APPBOOT',
   },
   BEN001: {
     status: 1,
@@ -48,13 +48,13 @@ module.exports = {
     },
   },
   MQPH001: {
-    // status: 4,
-    // payload: {
-    //   message:'catTMCC_MSG_DIFERIDO_001'
-    // }
-    status: 3,
+    status: 4,
     payload: {
-      message:'catTMCC_MSG_DIFERIDO_002'
+      message:'catTMCC_MSG_DIFERIDO_001'
     }
+    // status: 3,
+    // payload: {
+    //   message:'catTMCC_MSG_DIFERIDO_002'
+    // }
   }
 }

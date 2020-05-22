@@ -29,14 +29,13 @@ module.exports = {
     }
   },
   OTP001: {
-    // status: 1,
-    // payload: {
-    //   data: ''
-    // }
-    status: 3,
+    status: 1,
     payload: {
-      message: 'catTMCC_MSG_OTP_001'
-      // message: 'catTMCC_MSG_OTP_002'
+      data: ''
     }
+    // status: 3,
+    // payload: {
+    //   message: 'catTMCC_MSG_OTP_001'
+    // }
   }
 };
